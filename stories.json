@@ -1,96 +1,96 @@
 {
-  "fetched_at": "2026-06-23T14:52:37.704119",
+  "fetched_at": "2026-06-23T16:19:02.698682",
   "count": 10,
   "stories": [
+    {
+      "id": 48645437,
+      "title": "Show HN: TikZ Editor \u2013 WYSIWYG editor for figures in LaTeX",
+      "url": "https://tikz.dev/editor/",
+      "score": 137,
+      "by": "DominikPeters",
+      "comments": 24,
+      "time": "2026-06-23 14:24"
+    },
     {
       "id": 48643426,
       "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
       "url": "https://github.com/baidu/Unlimited-OCR",
-      "score": 201,
+      "score": 279,
       "by": "ingve",
-      "comments": 53,
+      "comments": 77,
       "time": "2026-06-23 11:35"
-    },
-    {
-      "id": 48645386,
-      "title": "Elevated error rate across multiple models",
-      "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
-      "score": 116,
-      "by": "rob",
-      "comments": 71,
-      "time": "2026-06-23 14:19"
     },
     {
       "id": 48645173,
       "title": "Spying on kids to save kids from spying is stupid",
       "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
-      "score": 82,
+      "score": 263,
       "by": "hn_acker",
-      "comments": 20,
+      "comments": 167,
       "time": "2026-06-23 14:04"
     },
     {
-      "id": 48632884,
-      "title": "Steam Machine launches today",
-      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-      "score": 1776,
-      "by": "theschwa",
-      "comments": 1515,
-      "time": "2026-06-22 17:09"
-    },
-    {
-      "id": 48644781,
-      "title": "MSG Made Dossier on Activists Who Opposed Facial Recognition",
-      "url": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
-      "score": 79,
-      "by": "cdrnsf",
-      "comments": 2,
-      "time": "2026-06-23 13:36"
+      "id": 48645721,
+      "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
+      "url": "https://lift4d.github.io/",
+      "score": 32,
+      "by": "ilreb",
+      "comments": 1,
+      "time": "2026-06-23 14:40"
     },
     {
       "id": 48645152,
       "title": "Mistral OCR 4",
       "url": "https://mistral.ai/news/ocr-4/",
-      "score": 55,
+      "score": 173,
       "by": "meetpateltech",
-      "comments": 3,
+      "comments": 48,
       "time": "2026-06-23 14:03"
     },
     {
-      "id": 48596488,
-      "title": "Plotnine",
-      "url": "https://plotnine.org/",
-      "score": 148,
-      "by": "tosh",
-      "comments": 40,
-      "time": "2026-06-19 09:08"
-    },
-    {
-      "id": 48610475,
-      "title": "Epidurals are a miracle technology",
-      "url": "https://worksinprogress.co/issue/the-wonder-of-epidurals/",
-      "score": 56,
-      "by": "karakoram",
-      "comments": 32,
-      "time": "2026-06-20 16:24"
-    },
-    {
-      "id": 48645437,
-      "title": "Show HN: TikZ Editor \u2013 WYSIWYG editor for figures in LaTeX",
-      "url": "https://tikz.dev/editor/",
-      "score": 3,
-      "by": "DominikPeters",
+      "id": 48634187,
+      "title": "Five monitors on a Commodore 128 [video]",
+      "url": "https://www.youtube.com/watch?v=ul5hC3PY1Yg",
+      "score": 9,
+      "by": "EvanAnderson",
       "comments": 0,
-      "time": "2026-06-23 14:24"
+      "time": "2026-06-22 18:39"
+    },
+    {
+      "id": 48646276,
+      "title": "AI's Affordability Crisis",
+      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+      "score": 88,
+      "by": "ilreb",
+      "comments": 80,
+      "time": "2026-06-23 15:11"
     },
     {
       "id": 48645390,
       "title": "Show HN: Bun-sqlgen \u2013 Type-safe raw SQL for Bun, no ORM",
       "url": "https://github.com/ilbertt/bun-sqlgen",
-      "score": 11,
+      "score": 27,
       "by": "ilbert",
-      "comments": 6,
+      "comments": 13,
       "time": "2026-06-23 14:20"
+    },
+    {
+      "id": 48644781,
+      "title": "MSG Made Dossier on Activists Who Opposed Facial Recognition",
+      "url": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
+      "score": 141,
+      "by": "cdrnsf",
+      "comments": 28,
+      "time": "2026-06-23 13:36"
+    },
+    {
+      "id": 48596488,
+      "title": "Plotnine",
+      "url": "https://plotnine.org/",
+      "score": 178,
+      "by": "tosh",
+      "comments": 57,
+      "time": "2026-06-19 09:08"
     }
   ]
 }
