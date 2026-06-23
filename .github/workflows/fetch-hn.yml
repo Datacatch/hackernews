@@ -1,51 +1,42 @@
 name: 🔥 Fetch HackerNews Top Stories
 
 on:
-  # ⏰ Runs every day at 8:00 AM UTC (1:30 PM IST)
   schedule:
-    - cron: '30 2 * * *'
-
-  # ✅ Allows you to trigger it manually from GitHub UI
-  workflow_dispatch:
+    - cron: '30 3 * * *'   # Every day at 3:30 AM UTC = 9:00 AM IST
+  workflow_dispatch:         # Manual trigger from GitHub UI
 
 jobs:
-  fetch-hn-stories:
+  fetch-and-email:
     runs-on: ubuntu-latest
 
-    # Give write permission so it can commit stories.json back to repo
     permissions:
       contents: write
 
     steps:
-      # Step 1: Checkout your repo
       - name: 📥 Checkout Repository
         uses: actions/checkout@v4
 
-      # Step 2: Set up Python
       - name: 🐍 Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      # Step 3: Cache pip packages (speeds up future runs)
       - name: 📦 Cache pip dependencies
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
           key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
 
-      # Step 4: Install dependencies
       - name: 📥 Install Dependencies
         run: pip install -r requirements.txt
 
-      # Step 5: Run the HN fetcher script
-      - name: 🚀 Run HackerNews Fetcher
+      - name: 🚀 Fetch Stories & Send Email
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: python fetch_hn.py
 
-      # Step 6: Commit and push stories.json back to repo
-      - name: 💾 Commit stories to repo
+      - name: 💾 Commit stories.json to repo
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
