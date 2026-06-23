@@ -1,0 +1,24 @@
+# .github/workflows/fetch-hn.yml
+name: Fetch HN Top Stories
+
+on:
+  schedule:
+    - cron: '0 8 * * *'   # Every day at 8 AM UTC
+  workflow_dispatch:        # Also allows manual trigger
+
+jobs:
+  fetch-stories:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run HN fetcher
+        run: python fetch_hn.py
