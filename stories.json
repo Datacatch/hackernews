@@ -1,0 +1,96 @@
+{
+  "fetched_at": "2026-06-23T14:52:37.704119",
+  "count": 10,
+  "stories": [
+    {
+      "id": 48643426,
+      "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "score": 201,
+      "by": "ingve",
+      "comments": 53,
+      "time": "2026-06-23 11:35"
+    },
+    {
+      "id": 48645386,
+      "title": "Elevated error rate across multiple models",
+      "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
+      "score": 116,
+      "by": "rob",
+      "comments": 71,
+      "time": "2026-06-23 14:19"
+    },
+    {
+      "id": 48645173,
+      "title": "Spying on kids to save kids from spying is stupid",
+      "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+      "score": 82,
+      "by": "hn_acker",
+      "comments": 20,
+      "time": "2026-06-23 14:04"
+    },
+    {
+      "id": 48632884,
+      "title": "Steam Machine launches today",
+      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+      "score": 1776,
+      "by": "theschwa",
+      "comments": 1515,
+      "time": "2026-06-22 17:09"
+    },
+    {
+      "id": 48644781,
+      "title": "MSG Made Dossier on Activists Who Opposed Facial Recognition",
+      "url": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
+      "score": 79,
+      "by": "cdrnsf",
+      "comments": 2,
+      "time": "2026-06-23 13:36"
+    },
+    {
+      "id": 48645152,
+      "title": "Mistral OCR 4",
+      "url": "https://mistral.ai/news/ocr-4/",
+      "score": 55,
+      "by": "meetpateltech",
+      "comments": 3,
+      "time": "2026-06-23 14:03"
+    },
+    {
+      "id": 48596488,
+      "title": "Plotnine",
+      "url": "https://plotnine.org/",
+      "score": 148,
+      "by": "tosh",
+      "comments": 40,
+      "time": "2026-06-19 09:08"
+    },
+    {
+      "id": 48610475,
+      "title": "Epidurals are a miracle technology",
+      "url": "https://worksinprogress.co/issue/the-wonder-of-epidurals/",
+      "score": 56,
+      "by": "karakoram",
+      "comments": 32,
+      "time": "2026-06-20 16:24"
+    },
+    {
+      "id": 48645437,
+      "title": "Show HN: TikZ Editor \u2013 WYSIWYG editor for figures in LaTeX",
+      "url": "https://tikz.dev/editor/",
+      "score": 3,
+      "by": "DominikPeters",
+      "comments": 0,
+      "time": "2026-06-23 14:24"
+    },
+    {
+      "id": 48645390,
+      "title": "Show HN: Bun-sqlgen \u2013 Type-safe raw SQL for Bun, no ORM",
+      "url": "https://github.com/ilbertt/bun-sqlgen",
+      "score": 11,
+      "by": "ilbert",
+      "comments": 6,
+      "time": "2026-06-23 14:20"
+    }
+  ]
+}
