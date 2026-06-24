@@ -1,96 +1,96 @@
 {
-  "fetched_at": "2026-06-23T16:19:02.698682",
+  "fetched_at": "2026-06-24T03:47:42.979458",
   "count": 10,
   "stories": [
     {
-      "id": 48645437,
-      "title": "Show HN: TikZ Editor \u2013 WYSIWYG editor for figures in LaTeX",
-      "url": "https://tikz.dev/editor/",
-      "score": 137,
-      "by": "DominikPeters",
-      "comments": 24,
-      "time": "2026-06-23 14:24"
+      "id": 48653216,
+      "title": "Vulnerability reports are not special anymore",
+      "url": "https://words.filippo.io/vuln-reports/",
+      "score": 115,
+      "by": "goranmoomin",
+      "comments": 40,
+      "time": "2026-06-23 23:42"
     },
     {
-      "id": 48643426,
-      "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
-      "url": "https://github.com/baidu/Unlimited-OCR",
-      "score": 279,
-      "by": "ingve",
-      "comments": 77,
-      "time": "2026-06-23 11:35"
+      "id": 48649435,
+      "title": "Jerry's Map",
+      "url": "http://www.jerrysmap.com/the-map",
+      "score": 360,
+      "by": "turtleyacht",
+      "comments": 49,
+      "time": "2026-06-23 18:40"
     },
     {
-      "id": 48645173,
-      "title": "Spying on kids to save kids from spying is stupid",
-      "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
-      "score": 263,
-      "by": "hn_acker",
-      "comments": 167,
-      "time": "2026-06-23 14:04"
+      "id": 48633643,
+      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+      "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+      "score": 107,
+      "by": "mauvehaus",
+      "comments": 46,
+      "time": "2026-06-22 18:03"
     },
     {
-      "id": 48645721,
-      "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
-      "url": "https://lift4d.github.io/",
-      "score": 32,
-      "by": "ilreb",
-      "comments": 1,
-      "time": "2026-06-23 14:40"
+      "id": 48648619,
+      "title": "FUTO Swipe \u2013 A new swipe typing model",
+      "url": "https://swipe.futo.tech/",
+      "score": 337,
+      "by": "futohq",
+      "comments": 101,
+      "time": "2026-06-23 17:50"
     },
     {
-      "id": 48645152,
-      "title": "Mistral OCR 4",
-      "url": "https://mistral.ai/news/ocr-4/",
-      "score": 173,
-      "by": "meetpateltech",
-      "comments": 48,
-      "time": "2026-06-23 14:03"
+      "id": 48648959,
+      "title": "In memory of the man who put red and green squiggles under words",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+      "score": 205,
+      "by": "saikatsg",
+      "comments": 19,
+      "time": "2026-06-23 18:10"
     },
     {
-      "id": 48634187,
-      "title": "Five monitors on a Commodore 128 [video]",
-      "url": "https://www.youtube.com/watch?v=ul5hC3PY1Yg",
-      "score": 9,
-      "by": "EvanAnderson",
-      "comments": 0,
-      "time": "2026-06-22 18:39"
+      "id": 48618481,
+      "title": "Printing Gaussian Splats",
+      "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
+      "score": 210,
+      "by": "ilnmtlbnm",
+      "comments": 19,
+      "time": "2026-06-21 12:49"
     },
     {
-      "id": 48646276,
-      "title": "AI's Affordability Crisis",
-      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
-      "score": 88,
-      "by": "ilreb",
-      "comments": 80,
-      "time": "2026-06-23 15:11"
+      "id": 48585852,
+      "title": "Usbliter8: an A12/A13 SecureROM Exploit",
+      "url": "https://ps.tc/pages/blog-usbliter8.html",
+      "score": 96,
+      "by": "givinguflac",
+      "comments": 19,
+      "time": "2026-06-18 14:23"
     },
     {
-      "id": 48645390,
-      "title": "Show HN: Bun-sqlgen \u2013 Type-safe raw SQL for Bun, no ORM",
-      "url": "https://github.com/ilbertt/bun-sqlgen",
-      "score": 27,
-      "by": "ilbert",
-      "comments": 13,
-      "time": "2026-06-23 14:20"
-    },
-    {
-      "id": 48644781,
-      "title": "MSG Made Dossier on Activists Who Opposed Facial Recognition",
-      "url": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
-      "score": 141,
-      "by": "cdrnsf",
-      "comments": 28,
-      "time": "2026-06-23 13:36"
-    },
-    {
-      "id": 48596488,
-      "title": "Plotnine",
-      "url": "https://plotnine.org/",
-      "score": 178,
-      "by": "tosh",
+      "id": 48648779,
+      "title": "Swift Package Index joins Apple",
+      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+      "score": 185,
+      "by": "JDevlieghere",
       "comments": 57,
-      "time": "2026-06-19 09:08"
+      "time": "2026-06-23 18:00"
+    },
+    {
+      "id": 48633473,
+      "title": "Rhombus Language 1.0",
+      "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
+      "score": 94,
+      "by": "Decabytes",
+      "comments": 16,
+      "time": "2026-06-22 17:50"
+    },
+    {
+      "id": 48653060,
+      "title": "Extreme Heat conference cancelled due to extreme heat warning",
+      "url": "https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/",
+      "score": 208,
+      "by": "rendx",
+      "comments": 142,
+      "time": "2026-06-23 23:26"
     }
   ]
 }
