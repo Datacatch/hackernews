@@ -1,96 +1,96 @@
 {
-  "fetched_at": "2026-06-27T06:56:01.456064",
+  "fetched_at": "2026-06-28T07:53:30.188250",
   "count": 10,
   "stories": [
     {
-      "id": 48695149,
-      "title": "OpenTTD 16.0-Beta1",
-      "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
-      "score": 55,
-      "by": "untilted",
-      "comments": 5,
-      "time": "2026-06-27 04:31"
+      "id": 48703759,
+      "title": "Marfa Public Radio Puts You to Sleep",
+      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "score": 182,
+      "by": "reaperducer",
+      "comments": 41,
+      "time": "2026-06-28 02:23"
     },
     {
-      "id": 48689028,
-      "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "score": 946,
-      "by": "minimaxir",
-      "comments": 581,
-      "time": "2026-06-26 17:06"
-    },
-    {
-      "id": 48694853,
-      "title": "WordStar: A Writer's Word Processor (1996)",
-      "url": "https://www.sfwriter.com/wordstar.htm",
-      "score": 53,
-      "by": "droidjj",
-      "comments": 19,
-      "time": "2026-06-27 03:30"
-    },
-    {
-      "id": 48692946,
-      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
-      "score": 203,
-      "by": "ProxyTracer",
-      "comments": 91,
-      "time": "2026-06-26 22:43"
-    },
-    {
-      "id": 48695363,
-      "title": "IBM MCGA Gate Array Reverse Engineering",
-      "url": "https://github.com/schlae/IBM_MCGA",
-      "score": 11,
-      "by": "userbinator",
-      "comments": 3,
-      "time": "2026-06-27 05:17"
-    },
-    {
-      "id": 48692995,
-      "title": "U.S. allows Anthropic to release Mythos AI to \u2018trusted\u2019 US organizations",
-      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-      "score": 360,
-      "by": "bobrenjc93",
-      "comments": 358,
-      "time": "2026-06-26 22:48"
-    },
-    {
-      "id": 48693912,
-      "title": "Show HN: Hacker News on a train station-style flip board",
-      "url": "https://popflame.quickish.space/hn-flipboard/",
-      "score": 54,
-      "by": "PaybackTony",
-      "comments": 10,
-      "time": "2026-06-27 00:43"
-    },
-    {
-      "id": 48658148,
-      "title": "Fusion Programming Language",
-      "url": "https://fusion-lang.org/",
+      "id": 48704373,
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "url": "https://github.com/itsthelore/wayfinder-router",
       "score": 44,
-      "by": "efrecon",
-      "comments": 19,
-      "time": "2026-06-24 11:27"
-    },
-    {
-      "id": 48633839,
-      "title": "Hellishly Slow Level 13 Deflate Compression",
-      "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
-      "score": 40,
-      "by": "zX41ZdbW",
+      "by": "handfuloflight",
       "comments": 8,
-      "time": "2026-06-22 18:17"
+      "time": "2026-06-28 04:31"
     },
     {
-      "id": 48642510,
-      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
-      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
-      "score": 314,
-      "by": "justincormack",
-      "comments": 178,
-      "time": "2026-06-23 09:39"
+      "id": 48703258,
+      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "score": 115,
+      "by": "jakogut",
+      "comments": 28,
+      "time": "2026-06-28 00:46"
+    },
+    {
+      "id": 48703412,
+      "title": "Show HN: Decomp Academy \u2013 Learn to decompile GameCube games into matching C",
+      "url": "https://decomp-academy.dev",
+      "score": 109,
+      "by": "jackpriceburns",
+      "comments": 35,
+      "time": "2026-06-28 01:21"
+    },
+    {
+      "id": 48704454,
+      "title": "Bashblog \u2013 a single bash script to create blogs",
+      "url": "https://github.com/cfenollosa/bashblog",
+      "score": 19,
+      "by": "ludicrousdispla",
+      "comments": 1,
+      "time": "2026-06-28 04:48"
+    },
+    {
+      "id": 48698617,
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "url": "https://github.com/bikini/exploitarium",
+      "score": 784,
+      "by": "binyu",
+      "comments": 305,
+      "time": "2026-06-27 14:31"
+    },
+    {
+      "id": 48697560,
+      "title": "OpenRA",
+      "url": "https://www.openra.net/",
+      "score": 674,
+      "by": "tosh",
+      "comments": 131,
+      "time": "2026-06-27 12:10"
+    },
+    {
+      "id": 48702273,
+      "title": "Choosing a Public DNS Resolver",
+      "url": "https://evilbit.de/dns-resolver-guide.html",
+      "score": 138,
+      "by": "pawal",
+      "comments": 42,
+      "time": "2026-06-27 22:11"
+    },
+    {
+      "id": 48685967,
+      "title": "Engineering for Bounded Cognition",
+      "url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
+      "score": 22,
+      "by": "supermatt",
+      "comments": 3,
+      "time": "2026-06-26 12:41"
+    },
+    {
+      "id": 48703968,
+      "title": "Ford hired AI and sacked humans. It backfired badly",
+      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+      "score": 157,
+      "by": "speckx",
+      "comments": 84,
+      "time": "2026-06-28 03:09"
     }
   ]
 }
