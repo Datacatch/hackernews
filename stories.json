@@ -1,96 +1,96 @@
 {
-  "fetched_at": "2026-07-03T07:25:16.706232",
+  "fetched_at": "2026-07-04T06:50:15.199172",
   "count": 10,
   "stories": [
     {
-      "id": 48770647,
-      "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
-      "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
-      "score": 412,
-      "by": "talonx",
-      "comments": 249,
-      "time": "2026-07-03 04:16"
+      "id": 48782671,
+      "title": "Agentic coding notes from Galapagos Island",
+      "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+      "score": 53,
+      "by": "gm678",
+      "comments": 19,
+      "time": "2026-07-04 04:37"
     },
     {
-      "id": 48767347,
-      "title": "Virginia bans sale of geolocation data",
-      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-      "score": 709,
-      "by": "toomuchtodo",
-      "comments": 117,
-      "time": "2026-07-02 21:03"
+      "id": 48783020,
+      "title": "Bloomberg Terminal Is Ugly and Clunky\u2013Everyone Still Uses It",
+      "url": "https://oztalking.com/en/issues/bloomberg-terminal-lock-in",
+      "score": 9,
+      "by": "haebom",
+      "comments": 1,
+      "time": "2026-07-04 06:08"
     },
     {
-      "id": 48769397,
-      "title": "CarPlay Is Additive",
-      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-      "score": 221,
-      "by": "sprawl_",
-      "comments": 261,
-      "time": "2026-07-03 01:02"
+      "id": 48780417,
+      "title": "Performance per dollar is getting faster and cheaper",
+      "url": "https://www.wafer.ai/blog/glm52-amd",
+      "score": 202,
+      "by": "latchkey",
+      "comments": 61,
+      "time": "2026-07-03 21:49"
     },
     {
-      "id": 48768951,
-      "title": "Right to Local Intelligence",
-      "url": "https://righttointelligence.org/",
-      "score": 168,
-      "by": "thoughtpeddler",
-      "comments": 66,
-      "time": "2026-07-02 23:54"
-    },
-    {
-      "id": 48768464,
-      "title": "crustc: entirety of `rustc`, translated to C",
-      "url": "https://github.com/FractalFir/crustc",
-      "score": 239,
-      "by": "Philpax",
+      "id": 48780801,
+      "title": "Leanstral 1.5: Proof abundance for all",
+      "url": "https://mistral.ai/news/leanstral-1-5/",
+      "score": 178,
+      "by": "programLyrique",
       "comments": 42,
-      "time": "2026-07-02 22:57"
+      "time": "2026-07-03 22:33"
     },
     {
-      "id": 48769639,
-      "title": "The Safari MCP server for web developers",
-      "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
-      "score": 58,
-      "by": "coloneltcb",
-      "comments": 3,
-      "time": "2026-07-03 01:37"
+      "id": 48780870,
+      "title": "Giant trees have no trouble pumping water to top branches: new research",
+      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
+      "score": 165,
+      "by": "hhs",
+      "comments": 86,
+      "time": "2026-07-03 22:40"
     },
     {
-      "id": 48763035,
-      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "score": 446,
-      "by": "IngoBlechschmid",
-      "comments": 199,
-      "time": "2026-07-02 15:25"
+      "id": 48739018,
+      "title": "Mir Books \u2013 Books from the Soviet Era",
+      "url": "https://mirtitles.org",
+      "score": 31,
+      "by": "clmul",
+      "comments": 8,
+      "time": "2026-06-30 20:50"
     },
     {
-      "id": 48702874,
-      "title": "Reality has a surprising amount of detail (2017)",
-      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
-      "score": 227,
-      "by": "vinhnx",
-      "comments": 80,
-      "time": "2026-06-27 23:36"
+      "id": 48782219,
+      "title": "Synthesis is harder than analysis",
+      "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
+      "score": 46,
+      "by": "azhenley",
+      "comments": 10,
+      "time": "2026-07-04 02:45"
     },
     {
-      "id": 48770477,
-      "title": "14\u00d7 faster embeddings: how we rebuilt the ONNX path in Manticore",
-      "url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
-      "score": 28,
-      "by": "snikolaev",
-      "comments": 3,
-      "time": "2026-07-03 03:49"
+      "id": 48781688,
+      "title": "MSI Center \u2013 How to gain SYSTEM privileges in seconds",
+      "url": "https://mrbruh.com/msicenter/",
+      "score": 68,
+      "by": "MrBruh",
+      "comments": 14,
+      "time": "2026-07-04 00:57"
     },
     {
-      "id": 48762098,
-      "title": "Podman v6.0.0",
-      "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-      "score": 485,
-      "by": "soheilpro",
-      "comments": 197,
-      "time": "2026-07-02 14:23"
+      "id": 48780865,
+      "title": "Steam Controller Auto-Charge \u2013 pilot to magnetic charging puck using CV",
+      "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
+      "score": 116,
+      "by": "zdw",
+      "comments": 22,
+      "time": "2026-07-03 22:39"
+    },
+    {
+      "id": 48779454,
+      "title": "SearXNG: A free internet metasearch engine",
+      "url": "https://github.com/searxng/searxng",
+      "score": 189,
+      "by": "theanonymousone",
+      "comments": 49,
+      "time": "2026-07-03 20:15"
     }
   ]
 }
