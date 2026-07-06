@@ -1,96 +1,96 @@
 {
-  "fetched_at": "2026-07-05T07:31:06.975586",
+  "fetched_at": "2026-07-06T08:25:36.039362",
   "count": 10,
   "stories": [
     {
-      "id": 48791328,
-      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
-      "url": "https://ui.shadcn.com/docs/changelog",
-      "score": 83,
-      "by": "dabinat",
-      "comments": 22,
-      "time": "2026-07-05 04:46"
+      "id": 48801493,
+      "title": "When AI Costs More Than the Engineer",
+      "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+      "score": 38,
+      "by": "kiyanwang",
+      "comments": 25,
+      "time": "2026-07-06 07:05"
     },
     {
-      "id": 48788283,
-      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "score": 519,
-      "by": "asronline",
-      "comments": 214,
-      "time": "2026-07-04 19:41"
+      "id": 48799614,
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "score": 252,
+      "by": "mfiguiere",
+      "comments": 180,
+      "time": "2026-07-06 01:04"
     },
     {
-      "id": 48790689,
-      "title": "If you're a button, you have one job",
-      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-      "score": 140,
-      "by": "nozzlegear",
-      "comments": 45,
-      "time": "2026-07-05 02:01"
+      "id": 48799155,
+      "title": "Has_not_been_viewed_much",
+      "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+      "score": 251,
+      "by": "wxw",
+      "comments": 67,
+      "time": "2026-07-05 23:49"
     },
     {
-      "id": 48791380,
-      "title": "Mouse: Precision Editing Tools for AI Coding Agents",
-      "url": "https://hic-ai.com",
-      "score": 20,
-      "by": "handfuloflight",
-      "comments": 24,
-      "time": "2026-07-05 05:01"
+      "id": 48794446,
+      "title": "Organic Maps",
+      "url": "https://organicmaps.app/",
+      "score": 943,
+      "by": "tosh",
+      "comments": 285,
+      "time": "2026-07-05 14:14"
     },
     {
-      "id": 48789428,
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "url": "https://github.com/openai/codex/issues/30364",
-      "score": 239,
-      "by": "maille",
-      "comments": 85,
-      "time": "2026-07-04 21:51"
+      "id": 48801488,
+      "title": "Generate parametric, manufacturable 3D models in seconds",
+      "url": "https://kyrall.com/",
+      "score": 11,
+      "by": "OsamaAtwi",
+      "comments": 4,
+      "time": "2026-07-06 07:04"
     },
     {
-      "id": 48773079,
-      "title": "Pandoc Lua Filters",
-      "url": "https://pandoc.org/lua-filters.html",
-      "score": 41,
-      "by": "ankitg12",
-      "comments": 0,
-      "time": "2026-07-03 09:52"
+      "id": 48797916,
+      "title": "OpenPrinter",
+      "url": "https://www.opentools.studio/",
+      "score": 800,
+      "by": "bouh",
+      "comments": 195,
+      "time": "2026-07-05 21:03"
     },
     {
-      "id": 48791591,
-      "title": "Megawatts by Microwave",
-      "url": "https://computer.rip/2026-07-04-microwave-and-power.html",
-      "score": 10,
-      "by": "eternauta3k",
-      "comments": 0,
-      "time": "2026-07-05 05:56"
+      "id": 48799929,
+      "title": "Building relationships with customers through support didn't turn out as hoped",
+      "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
+      "score": 100,
+      "by": "dabluck",
+      "comments": 53,
+      "time": "2026-07-06 02:06"
     },
     {
-      "id": 48786838,
-      "title": "Google Books (or similar) all book scans \u2013 $200k bounty (2025)",
-      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-      "score": 430,
-      "by": "Cider9986",
-      "comments": 234,
-      "time": "2026-07-04 16:51"
+      "id": 48798153,
+      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+      "url": "https://homegames.io",
+      "score": 169,
+      "by": "homegamesjoseph",
+      "comments": 40,
+      "time": "2026-07-05 21:32"
     },
     {
-      "id": 48789712,
-      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
-      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
-      "score": 97,
-      "by": "hhs",
-      "comments": 19,
-      "time": "2026-07-04 22:36"
+      "id": 48794750,
+      "title": "It's not about physical vs. digital games, it's about ownership",
+      "url": "https://popcar.bearblog.dev/its-about-ownership/",
+      "score": 454,
+      "by": "popcar2",
+      "comments": 342,
+      "time": "2026-07-05 14:56"
     },
     {
-      "id": 48786781,
-      "title": "Leaking YouTube creators' private videos",
-      "url": "https://javoriuski.com/post/youtube",
-      "score": 582,
-      "by": "javxfps",
-      "comments": 318,
-      "time": "2026-07-04 16:45"
+      "id": 48798815,
+      "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
+      "url": "https://arxiv.org/abs/2605.20049",
+      "score": 109,
+      "by": "softwaredoug",
+      "comments": 55,
+      "time": "2026-07-05 23:03"
     }
   ]
 }
