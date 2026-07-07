@@ -1,96 +1,96 @@
 {
-  "fetched_at": "2026-07-06T08:25:36.039362",
+  "fetched_at": "2026-07-07T07:43:18.936286",
   "count": 10,
   "stories": [
     {
-      "id": 48801493,
-      "title": "When AI Costs More Than the Engineer",
-      "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
-      "score": 38,
-      "by": "kiyanwang",
-      "comments": 25,
-      "time": "2026-07-06 07:05"
+      "id": 48811591,
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "url": "https://github.com/MaximeRivest/Riddle",
+      "score": 388,
+      "by": "modinfo",
+      "comments": 210,
+      "time": "2026-07-06 23:00"
     },
     {
-      "id": 48799614,
-      "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-      "score": 252,
-      "by": "mfiguiere",
-      "comments": 180,
-      "time": "2026-07-06 01:04"
+      "id": 48808482,
+      "title": "OpenWrt One \u2013 Open Hardware Router",
+      "url": "https://openwrt.org/toh/openwrt/one",
+      "score": 561,
+      "by": "peter_d_sherman",
+      "comments": 221,
+      "time": "2026-07-06 18:23"
     },
     {
-      "id": 48799155,
-      "title": "Has_not_been_viewed_much",
-      "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
-      "score": 251,
-      "by": "wxw",
-      "comments": 67,
-      "time": "2026-07-05 23:49"
+      "id": 48808928,
+      "title": "CoMaps \u2013 FOSS Offline Maps",
+      "url": "https://www.comaps.app/",
+      "score": 484,
+      "by": "basilikum",
+      "comments": 95,
+      "time": "2026-07-06 18:55"
     },
     {
-      "id": 48794446,
-      "title": "Organic Maps",
-      "url": "https://organicmaps.app/",
-      "score": 943,
-      "by": "tosh",
-      "comments": 285,
-      "time": "2026-07-05 14:14"
+      "id": 48809877,
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "score": 345,
+      "by": "martinald",
+      "comments": 215,
+      "time": "2026-07-06 20:14"
     },
     {
-      "id": 48801488,
-      "title": "Generate parametric, manufacturable 3D models in seconds",
-      "url": "https://kyrall.com/",
-      "score": 11,
-      "by": "OsamaAtwi",
-      "comments": 4,
-      "time": "2026-07-06 07:04"
-    },
-    {
-      "id": 48797916,
-      "title": "OpenPrinter",
-      "url": "https://www.opentools.studio/",
-      "score": 800,
-      "by": "bouh",
-      "comments": 195,
-      "time": "2026-07-05 21:03"
-    },
-    {
-      "id": 48799929,
-      "title": "Building relationships with customers through support didn't turn out as hoped",
-      "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
-      "score": 100,
-      "by": "dabluck",
-      "comments": 53,
-      "time": "2026-07-06 02:06"
-    },
-    {
-      "id": 48798153,
-      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
-      "url": "https://homegames.io",
+      "id": 48812156,
+      "title": "How to sequence your own DNA at home",
+      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
       "score": 169,
-      "by": "homegamesjoseph",
-      "comments": 40,
-      "time": "2026-07-05 21:32"
+      "by": "bilsbie",
+      "comments": 59,
+      "time": "2026-07-07 00:14"
     },
     {
-      "id": 48794750,
-      "title": "It's not about physical vs. digital games, it's about ownership",
-      "url": "https://popcar.bearblog.dev/its-about-ownership/",
-      "score": 454,
-      "by": "popcar2",
-      "comments": 342,
-      "time": "2026-07-05 14:56"
+      "id": 48812055,
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "score": 113,
+      "by": "sscaryterry",
+      "comments": 26,
+      "time": "2026-07-06 23:59"
     },
     {
-      "id": 48798815,
-      "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
-      "url": "https://arxiv.org/abs/2605.20049",
-      "score": 109,
-      "by": "softwaredoug",
-      "comments": 55,
-      "time": "2026-07-05 23:03"
+      "id": 48814509,
+      "title": "Lago (YC S21) Is Hiring for Our GTM Team",
+      "url": "https://jobs.ashbyhq.com/lago",
+      "score": 1,
+      "by": "AnhTho_FR",
+      "comments": 0,
+      "time": "2026-07-07 07:00"
+    },
+    {
+      "id": 48811644,
+      "title": "Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
+      "url": "https://ternlight-demo.vercel.app/",
+      "score": 194,
+      "by": "soycaporal",
+      "comments": 47,
+      "time": "2026-07-06 23:06"
+    },
+    {
+      "id": 48786124,
+      "title": "Dolosse \u2013 a South African invention used over the world",
+      "url": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
+      "score": 23,
+      "by": "andsoitis",
+      "comments": 3,
+      "time": "2026-07-04 15:32"
+    },
+    {
+      "id": 48808002,
+      "title": "A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "score": 348,
+      "by": "in-silico",
+      "comments": 127,
+      "time": "2026-07-06 17:44"
     }
   ]
 }
