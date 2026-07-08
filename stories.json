@@ -1,96 +1,96 @@
 {
-  "fetched_at": "2026-07-07T07:43:18.936286",
+  "fetched_at": "2026-07-08T06:31:38.315022",
   "count": 10,
   "stories": [
     {
-      "id": 48811591,
-      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-      "url": "https://github.com/MaximeRivest/Riddle",
-      "score": 388,
-      "by": "modinfo",
-      "comments": 210,
-      "time": "2026-07-06 23:00"
+      "id": 48827325,
+      "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+      "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+      "score": 104,
+      "by": "4diii",
+      "comments": 53,
+      "time": "2026-07-08 03:59"
     },
     {
-      "id": 48808482,
-      "title": "OpenWrt One \u2013 Open Hardware Router",
-      "url": "https://openwrt.org/toh/openwrt/one",
-      "score": 561,
-      "by": "peter_d_sherman",
-      "comments": 221,
-      "time": "2026-07-06 18:23"
+      "id": 48825749,
+      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+      "url": "https://kb.cert.org/vuls/id/213560",
+      "score": 141,
+      "by": "miniBill",
+      "comments": 36,
+      "time": "2026-07-08 00:08"
     },
     {
-      "id": 48808928,
-      "title": "CoMaps \u2013 FOSS Offline Maps",
-      "url": "https://www.comaps.app/",
-      "score": 484,
-      "by": "basilikum",
-      "comments": 95,
-      "time": "2026-07-06 18:55"
+      "id": 48827092,
+      "title": "Copy That Floppy \u2013 Cambridge guide for preserving data from fragile floppy disks",
+      "url": "https://www.digipres.org/the-floppy-guide/",
+      "score": 29,
+      "by": "whiteblossom",
+      "comments": 6,
+      "time": "2026-07-08 03:22"
     },
     {
-      "id": 48809877,
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-      "score": 345,
-      "by": "martinald",
-      "comments": 215,
-      "time": "2026-07-06 20:14"
+      "id": 48824826,
+      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+      "url": "https://www.gao.gov/products/gao-26-108193",
+      "score": 180,
+      "by": "Jimmc414",
+      "comments": 74,
+      "time": "2026-07-07 22:23"
     },
     {
-      "id": 48812156,
-      "title": "How to sequence your own DNA at home",
-      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-      "score": 169,
-      "by": "bilsbie",
-      "comments": 59,
-      "time": "2026-07-07 00:14"
+      "id": 48825664,
+      "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
+      "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+      "score": 120,
+      "by": "gjvc",
+      "comments": 10,
+      "time": "2026-07-07 23:57"
     },
     {
-      "id": 48812055,
-      "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "score": 113,
-      "by": "sscaryterry",
-      "comments": 26,
-      "time": "2026-07-06 23:59"
+      "id": 48786789,
+      "title": "Canada's only watchmaking school still ticking after 80 years",
+      "url": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211",
+      "score": 109,
+      "by": "throw0101a",
+      "comments": 41,
+      "time": "2026-07-04 16:46"
     },
     {
-      "id": 48814509,
-      "title": "Lago (YC S21) Is Hiring for Our GTM Team",
-      "url": "https://jobs.ashbyhq.com/lago",
-      "score": 1,
-      "by": "AnhTho_FR",
-      "comments": 0,
-      "time": "2026-07-07 07:00"
+      "id": 48821576,
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+      "score": 368,
+      "by": "speckx",
+      "comments": 74,
+      "time": "2026-07-07 18:24"
     },
     {
-      "id": 48811644,
-      "title": "Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
-      "url": "https://ternlight-demo.vercel.app/",
-      "score": 194,
-      "by": "soycaporal",
-      "comments": 47,
-      "time": "2026-07-06 23:06"
+      "id": 48818311,
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "score": 556,
+      "by": "gasull",
+      "comments": 184,
+      "time": "2026-07-07 14:23"
     },
     {
-      "id": 48786124,
-      "title": "Dolosse \u2013 a South African invention used over the world",
-      "url": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
-      "score": 23,
-      "by": "andsoitis",
-      "comments": 3,
-      "time": "2026-07-04 15:32"
+      "id": 48827402,
+      "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+      "url": "https://twitter.com/OpenAI/status/2074704958419792299",
+      "score": 110,
+      "by": "jfrbfbreudh",
+      "comments": 39,
+      "time": "2026-07-08 04:12"
     },
     {
-      "id": 48808002,
-      "title": "A global workspace in language models",
-      "url": "https://www.anthropic.com/research/global-workspace",
-      "score": 348,
-      "by": "in-silico",
-      "comments": 127,
-      "time": "2026-07-06 17:44"
+      "id": 48794042,
+      "title": "Show HN: Neil the Seal Game",
+      "url": "https://neiltheseal.app/",
+      "score": 33,
+      "by": "dalemhurley",
+      "comments": 32,
+      "time": "2026-07-05 13:11"
     }
   ]
 }
