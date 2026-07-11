@@ -1,96 +1,96 @@
 {
-  "fetched_at": "2026-07-10T07:39:19.791741",
+  "fetched_at": "2026-07-11T06:17:28.277224",
   "count": 10,
   "stories": [
     {
-      "id": 48842459,
-      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-      "url": "https://github.com/JustVugg/colibri",
-      "score": 584,
-      "by": "vforno",
-      "comments": 139,
-      "time": "2026-07-09 08:05"
+      "id": 48866134,
+      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "score": 187,
+      "by": "hhs",
+      "comments": 63,
+      "time": "2026-07-10 22:30"
     },
     {
-      "id": 48843923,
-      "title": "EU Parliament greenlights Chat Control 1.0",
-      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "score": 1279,
-      "by": "rapnie",
-      "comments": 607,
-      "time": "2026-07-09 11:03"
+      "id": 48861717,
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "score": 525,
+      "by": "speckx",
+      "comments": 184,
+      "time": "2026-07-10 15:59"
     },
     {
-      "id": 48792383,
-      "title": "Train sim created by just one person is being called the best ever made",
-      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
-      "score": 494,
-      "by": "oumua_don17",
-      "comments": 169,
-      "time": "2026-07-05 08:40"
+      "id": 48865019,
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "score": 862,
+      "by": "stock_toaster",
+      "comments": 435,
+      "time": "2026-07-10 20:47"
     },
     {
-      "id": 48845049,
-      "title": "Show HN: 18 Words",
-      "url": "https://18words.com/",
-      "score": 956,
-      "by": "pompomsheep",
-      "comments": 314,
-      "time": "2026-07-09 12:48"
+      "id": 48817539,
+      "title": "An iroh powered smart fan",
+      "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
+      "score": 71,
+      "by": "surprisetalk",
+      "comments": 9,
+      "time": "2026-07-07 13:30"
     },
     {
-      "id": 48849066,
-      "title": "GPT-5.6",
-      "url": "https://openai.com/index/gpt-5-6/",
-      "score": 1214,
-      "by": "logickkk1",
-      "comments": 861,
-      "time": "2026-07-09 17:04"
+      "id": 48864252,
+      "title": "An update on residential proxies and the scraper situation",
+      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+      "score": 151,
+      "by": "chmaynard",
+      "comments": 143,
+      "time": "2026-07-10 19:38"
     },
     {
-      "id": 48854247,
-      "title": "Study: \"Mommy, do you love your phone more than me?\"",
-      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
-      "score": 108,
-      "by": "hbcondo714",
-      "comments": 67,
-      "time": "2026-07-10 00:20"
+      "id": 48863064,
+      "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+      "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
+      "score": 145,
+      "by": "CrankyBear",
+      "comments": 416,
+      "time": "2026-07-10 17:51"
     },
     {
-      "id": 48841676,
-      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "url": "https://github.com/malisper/pgrust",
-      "score": 601,
-      "by": "SweetSoftPillow",
-      "comments": 509,
-      "time": "2026-07-09 06:18"
+      "id": 48863490,
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "score": 414,
+      "by": "scrlk",
+      "comments": 323,
+      "time": "2026-07-10 18:29"
     },
     {
-      "id": 48849292,
-      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
-      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-      "score": 209,
-      "by": "veqq",
-      "comments": 89,
-      "time": "2026-07-09 17:17"
+      "id": 48858737,
+      "title": "Late Bronze Age Collapse",
+      "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+      "score": 350,
+      "by": "dmonay",
+      "comments": 239,
+      "time": "2026-07-10 11:59"
     },
     {
-      "id": 48847552,
-      "title": "Hy3",
-      "url": "https://hy.tencent.com/research/hy3",
-      "score": 450,
-      "by": "andai",
-      "comments": 91,
-      "time": "2026-07-09 15:27"
+      "id": 48795900,
+      "title": "Combustion engine web-based simulator",
+      "url": "https://combustionlab.net",
+      "score": 148,
+      "by": "mytuny",
+      "comments": 64,
+      "time": "2026-07-05 17:11"
     },
     {
-      "id": 48845442,
-      "title": "The glass backbone: Why the Army's logistics will break in the next war",
-      "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-      "score": 363,
-      "by": "baud147258",
-      "comments": 441,
-      "time": "2026-07-09 13:24"
+      "id": 48858121,
+      "title": "Good Tools Are Invisible",
+      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+      "score": 394,
+      "by": "theanonymousone",
+      "comments": 186,
+      "time": "2026-07-10 10:32"
     }
   ]
 }
