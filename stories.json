@@ -1,96 +1,96 @@
 {
-  "fetched_at": "2026-07-11T06:17:28.277224",
+  "fetched_at": "2026-07-12T06:37:19.686001",
   "count": 10,
   "stories": [
     {
-      "id": 48866134,
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "score": 187,
-      "by": "hhs",
-      "comments": 63,
-      "time": "2026-07-10 22:30"
+      "id": 48877668,
+      "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+      "score": 77,
+      "by": "Anon84",
+      "comments": 38,
+      "time": "2026-07-12 02:13"
     },
     {
-      "id": 48861717,
-      "title": "QuadRF can spot drones and see WiFi through my wall",
-      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "score": 525,
-      "by": "speckx",
-      "comments": 184,
-      "time": "2026-07-10 15:59"
+      "id": 48876505,
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "score": 184,
+      "by": "tionis",
+      "comments": 43,
+      "time": "2026-07-11 22:38"
     },
     {
-      "id": 48865019,
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "score": 862,
-      "by": "stock_toaster",
-      "comments": 435,
-      "time": "2026-07-10 20:47"
+      "id": 48875377,
+      "title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
+      "url": "https://antjs.org",
+      "score": 232,
+      "by": "theMackabu",
+      "comments": 101,
+      "time": "2026-07-11 20:07"
     },
     {
-      "id": 48817539,
-      "title": "An iroh powered smart fan",
-      "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
-      "score": 71,
+      "id": 48876245,
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "score": 106,
+      "by": "mariuz",
+      "comments": 17,
+      "time": "2026-07-11 21:58"
+    },
+    {
+      "id": 48846177,
+      "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
+      "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
+      "score": 43,
+      "by": "c-c-c-c-c",
+      "comments": 10,
+      "time": "2026-07-09 14:10"
+    },
+    {
+      "id": 48831384,
+      "title": "Text Art Tools",
+      "url": "https://hlnet.notion.site/text-art-tools",
+      "score": 10,
       "by": "surprisetalk",
+      "comments": 1,
+      "time": "2026-07-08 13:00"
+    },
+    {
+      "id": 48873836,
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "score": 221,
+      "by": "adletbalzhanov",
+      "comments": 73,
+      "time": "2026-07-11 17:21"
+    },
+    {
+      "id": 48823981,
+      "title": "An agent in 100 lines of Lisp",
+      "url": "https://thebeach.dev/posts/lisp-agent/",
+      "score": 103,
+      "by": "jamiebeach",
+      "comments": 6,
+      "time": "2026-07-07 21:21"
+    },
+    {
+      "id": 48878195,
+      "title": "Why Write Code in 2026",
+      "url": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
+      "score": 27,
+      "by": "zdw",
       "comments": 9,
-      "time": "2026-07-07 13:30"
+      "time": "2026-07-12 04:15"
     },
     {
-      "id": 48864252,
-      "title": "An update on residential proxies and the scraper situation",
-      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-      "score": 151,
-      "by": "chmaynard",
-      "comments": 143,
-      "time": "2026-07-10 19:38"
-    },
-    {
-      "id": 48863064,
-      "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
-      "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
-      "score": 145,
-      "by": "CrankyBear",
-      "comments": 416,
-      "time": "2026-07-10 17:51"
-    },
-    {
-      "id": 48863490,
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "score": 414,
-      "by": "scrlk",
-      "comments": 323,
-      "time": "2026-07-10 18:29"
-    },
-    {
-      "id": 48858737,
-      "title": "Late Bronze Age Collapse",
-      "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-      "score": 350,
-      "by": "dmonay",
-      "comments": 239,
-      "time": "2026-07-10 11:59"
-    },
-    {
-      "id": 48795900,
-      "title": "Combustion engine web-based simulator",
-      "url": "https://combustionlab.net",
-      "score": 148,
-      "by": "mytuny",
-      "comments": 64,
-      "time": "2026-07-05 17:11"
-    },
-    {
-      "id": 48858121,
-      "title": "Good Tools Are Invisible",
-      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-      "score": 394,
-      "by": "theanonymousone",
-      "comments": 186,
-      "time": "2026-07-10 10:32"
+      "id": 48785102,
+      "title": "EF Core 11 makes your split queries faster",
+      "url": "https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea",
+      "score": 15,
+      "by": "rellem",
+      "comments": 1,
+      "time": "2026-07-04 12:57"
     }
   ]
 }
