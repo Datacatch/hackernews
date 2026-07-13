@@ -1,96 +1,96 @@
 {
-  "fetched_at": "2026-07-12T06:37:19.686001",
+  "fetched_at": "2026-07-13T07:24:28.713199",
   "count": 10,
   "stories": [
     {
-      "id": 48877668,
-      "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
-      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
-      "score": 77,
-      "by": "Anon84",
-      "comments": 38,
-      "time": "2026-07-12 02:13"
-    },
-    {
-      "id": 48876505,
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "url": "https://www.iroh.computer/blog/mesh-llm",
-      "score": 184,
-      "by": "tionis",
-      "comments": 43,
-      "time": "2026-07-11 22:38"
-    },
-    {
-      "id": 48875377,
-      "title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
-      "url": "https://antjs.org",
-      "score": 232,
-      "by": "theMackabu",
-      "comments": 101,
-      "time": "2026-07-11 20:07"
-    },
-    {
-      "id": 48876245,
-      "title": "RISCBoy is an open-source portable games console, designed from scratch",
-      "url": "https://github.com/Wren6991/RISCBoy",
-      "score": 106,
+      "id": 48888193,
+      "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
+      "url": "https://github.com/schlae/BeavisUltrasound",
+      "score": 42,
       "by": "mariuz",
-      "comments": 17,
-      "time": "2026-07-11 21:58"
+      "comments": 12,
+      "time": "2026-07-13 05:15"
     },
     {
-      "id": 48846177,
-      "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
-      "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
-      "score": 43,
-      "by": "c-c-c-c-c",
-      "comments": 10,
-      "time": "2026-07-09 14:10"
+      "id": 48834309,
+      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+      "url": "https://nebusec.ai/research/ionstack-part-2/",
+      "score": 231,
+      "by": "ranger_danger",
+      "comments": 83,
+      "time": "2026-07-08 16:53"
     },
     {
-      "id": 48831384,
-      "title": "Text Art Tools",
-      "url": "https://hlnet.notion.site/text-art-tools",
-      "score": 10,
-      "by": "surprisetalk",
-      "comments": 1,
-      "time": "2026-07-08 13:00"
-    },
-    {
-      "id": 48873836,
-      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "score": 221,
-      "by": "adletbalzhanov",
-      "comments": 73,
-      "time": "2026-07-11 17:21"
-    },
-    {
-      "id": 48823981,
-      "title": "An agent in 100 lines of Lisp",
-      "url": "https://thebeach.dev/posts/lisp-agent/",
-      "score": 103,
-      "by": "jamiebeach",
-      "comments": 6,
-      "time": "2026-07-07 21:21"
-    },
-    {
-      "id": 48878195,
-      "title": "Why Write Code in 2026",
-      "url": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
-      "score": 27,
+      "id": 48885643,
+      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "url": "https://shellzine.net/cyberpunk-comics/",
+      "score": 162,
       "by": "zdw",
-      "comments": 9,
-      "time": "2026-07-12 04:15"
+      "comments": 44,
+      "time": "2026-07-12 22:45"
     },
     {
-      "id": 48785102,
-      "title": "EF Core 11 makes your split queries faster",
-      "url": "https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea",
-      "score": 15,
-      "by": "rellem",
-      "comments": 1,
-      "time": "2026-07-04 12:57"
+      "id": 48884395,
+      "title": "Tiny Emulators",
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "score": 222,
+      "by": "naves",
+      "comments": 13,
+      "time": "2026-07-12 20:23"
+    },
+    {
+      "id": 48827126,
+      "title": "So you want to learn physics (second edition, 2021)",
+      "url": "https://www.susanrigetti.com/physics",
+      "score": 185,
+      "by": "azhenley",
+      "comments": 30,
+      "time": "2026-07-08 03:28"
+    },
+    {
+      "id": 48886741,
+      "title": "Ask HN: Add flag for AI-generated articles",
+      "url": "#",
+      "score": 513,
+      "by": "levkk",
+      "comments": 258,
+      "time": "2026-07-13 01:24"
+    },
+    {
+      "id": 48885728,
+      "title": "Designing and assembling my first PCB",
+      "url": "https://vilkeliskis.com/b/2026/0711.html",
+      "score": 95,
+      "by": "tadasv",
+      "comments": 34,
+      "time": "2026-07-12 22:56"
+    },
+    {
+      "id": 48859526,
+      "title": "Guy took Jupiter photo with Game Boy Camera, giant telescope, publishes tutorial",
+      "url": "https://www.engadget.com/2211886/guy-who-took-photo-of-jupiter-with-a-game-boy-camera-and-giant-telescope-publishes-diy-tutorial/",
+      "score": 29,
+      "by": "thunderbong",
+      "comments": 11,
+      "time": "2026-07-10 13:17"
+    },
+    {
+      "id": 48849983,
+      "title": "Are you telling me a readonly property is wrecking my performance?",
+      "url": "https://shub.club/writings/2026/july/check-your-scrollheight/",
+      "score": 22,
+      "by": "forthwall",
+      "comments": 13,
+      "time": "2026-07-09 17:59"
+    },
+    {
+      "id": 48882056,
+      "title": "How to read more books",
+      "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+      "score": 312,
+      "by": "silcoon",
+      "comments": 169,
+      "time": "2026-07-12 15:47"
     }
   ]
 }
