@@ -1,96 +1,96 @@
 {
-  "fetched_at": "2026-07-13T07:24:28.713199",
+  "fetched_at": "2026-07-14T06:14:18.120395",
   "count": 10,
   "stories": [
     {
-      "id": 48888193,
-      "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
-      "url": "https://github.com/schlae/BeavisUltrasound",
-      "score": 42,
-      "by": "mariuz",
-      "comments": 12,
-      "time": "2026-07-13 05:15"
+      "id": 48901569,
+      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+      "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+      "score": 238,
+      "by": "donohoe",
+      "comments": 61,
+      "time": "2026-07-14 02:27"
     },
     {
-      "id": 48834309,
-      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
-      "url": "https://nebusec.ai/research/ionstack-part-2/",
-      "score": 231,
-      "by": "ranger_danger",
-      "comments": 83,
-      "time": "2026-07-08 16:53"
+      "id": 48902026,
+      "title": "YouTrackDB is a general-use object-oriented graph database",
+      "url": "https://github.com/JetBrains/youtrackdb",
+      "score": 64,
+      "by": "gjvc",
+      "comments": 9,
+      "time": "2026-07-14 03:39"
     },
     {
-      "id": 48885643,
-      "title": "Cyberpunk Comics, Manga and Graphic Novels",
-      "url": "https://shellzine.net/cyberpunk-comics/",
-      "score": 162,
-      "by": "zdw",
-      "comments": 44,
-      "time": "2026-07-12 22:45"
+      "id": 48901010,
+      "title": "The Git history command deserves more attention",
+      "url": "https://lalitm.com/post/git-history/",
+      "score": 190,
+      "by": "turbocon",
+      "comments": 111,
+      "time": "2026-07-14 00:57"
     },
     {
-      "id": 48884395,
-      "title": "Tiny Emulators",
-      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
-      "score": 222,
-      "by": "naves",
-      "comments": 13,
-      "time": "2026-07-12 20:23"
+      "id": 48901454,
+      "title": "Fundamentals of Wireless Communication (2005)",
+      "url": "https://web.stanford.edu/~dntse/wireless_book.html",
+      "score": 97,
+      "by": "teleforce",
+      "comments": 3,
+      "time": "2026-07-14 02:10"
     },
     {
-      "id": 48827126,
-      "title": "So you want to learn physics (second edition, 2021)",
-      "url": "https://www.susanrigetti.com/physics",
-      "score": 185,
-      "by": "azhenley",
-      "comments": 30,
-      "time": "2026-07-08 03:28"
-    },
-    {
-      "id": 48886741,
-      "title": "Ask HN: Add flag for AI-generated articles",
-      "url": "#",
-      "score": 513,
-      "by": "levkk",
-      "comments": 258,
-      "time": "2026-07-13 01:24"
-    },
-    {
-      "id": 48885728,
-      "title": "Designing and assembling my first PCB",
-      "url": "https://vilkeliskis.com/b/2026/0711.html",
-      "score": 95,
-      "by": "tadasv",
-      "comments": 34,
-      "time": "2026-07-12 22:56"
-    },
-    {
-      "id": 48859526,
-      "title": "Guy took Jupiter photo with Game Boy Camera, giant telescope, publishes tutorial",
-      "url": "https://www.engadget.com/2211886/guy-who-took-photo-of-jupiter-with-a-game-boy-camera-and-giant-telescope-publishes-diy-tutorial/",
+      "id": 48902320,
+      "title": "Australia is offering free daytime electricity",
+      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
       "score": 29,
-      "by": "thunderbong",
+      "by": "i2oc",
+      "comments": 23,
+      "time": "2026-07-14 04:31"
+    },
+    {
+      "id": 48896665,
+      "title": "Building and shipping Mac and iOS apps without opening Xcode",
+      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+      "score": 401,
+      "by": "speckx",
+      "comments": 179,
+      "time": "2026-07-13 18:22"
+    },
+    {
+      "id": 48872833,
+      "title": "How to build a circular LCD clock",
+      "url": "https://blinry.org/lcd-clock/",
+      "score": 38,
+      "by": "birdculture",
+      "comments": 9,
+      "time": "2026-07-11 15:23"
+    },
+    {
+      "id": 48901224,
+      "title": "The Economics of Recursive Self-Improvement [pdf]",
+      "url": "https://elasticity.institute/rsi-paper.pdf",
+      "score": 62,
+      "by": "apsec112",
       "comments": 11,
-      "time": "2026-07-10 13:17"
+      "time": "2026-07-14 01:35"
     },
     {
-      "id": 48849983,
-      "title": "Are you telling me a readonly property is wrecking my performance?",
-      "url": "https://shub.club/writings/2026/july/check-your-scrollheight/",
-      "score": 22,
-      "by": "forthwall",
-      "comments": 13,
-      "time": "2026-07-09 17:59"
+      "id": 48894752,
+      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+      "score": 512,
+      "by": "get-inscribe",
+      "comments": 200,
+      "time": "2026-07-13 16:06"
     },
     {
-      "id": 48882056,
-      "title": "How to read more books",
-      "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-      "score": 312,
-      "by": "silcoon",
-      "comments": 169,
-      "time": "2026-07-12 15:47"
+      "id": 48901235,
+      "title": "Is x86 ready to ACE it?",
+      "url": "https://chipsandcheese.com/p/is-x86-ready-to-ace-it",
+      "score": 48,
+      "by": "mfiguiere",
+      "comments": 6,
+      "time": "2026-07-14 01:36"
     }
   ]
 }
