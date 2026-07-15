@@ -1,96 +1,96 @@
 {
-  "fetched_at": "2026-07-14T06:14:18.120395",
+  "fetched_at": "2026-07-15T06:18:25.991674",
   "count": 10,
   "stories": [
     {
-      "id": 48901569,
-      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
-      "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
-      "score": 238,
-      "by": "donohoe",
-      "comments": 61,
-      "time": "2026-07-14 02:27"
+      "id": 48915709,
+      "title": "Jurassic Park computers in excruciating detail",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "score": 229,
+      "by": "vinhnx",
+      "comments": 50,
+      "time": "2026-07-15 02:57"
     },
     {
-      "id": 48902026,
-      "title": "YouTrackDB is a general-use object-oriented graph database",
-      "url": "https://github.com/JetBrains/youtrackdb",
-      "score": 64,
-      "by": "gjvc",
-      "comments": 9,
-      "time": "2026-07-14 03:39"
+      "id": 48914644,
+      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+      "url": "https://vpd.ca/",
+      "score": 217,
+      "by": "LookAtThatBacon",
+      "comments": 80,
+      "time": "2026-07-15 00:15"
     },
     {
-      "id": 48901010,
-      "title": "The Git history command deserves more attention",
-      "url": "https://lalitm.com/post/git-history/",
-      "score": 190,
-      "by": "turbocon",
-      "comments": 111,
-      "time": "2026-07-14 00:57"
+      "id": 48915004,
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "url": "https://tailscale.com/security-bulletins",
+      "score": 108,
+      "by": "jervant",
+      "comments": 46,
+      "time": "2026-07-15 01:08"
     },
     {
-      "id": 48901454,
-      "title": "Fundamentals of Wireless Communication (2005)",
-      "url": "https://web.stanford.edu/~dntse/wireless_book.html",
-      "score": 97,
-      "by": "teleforce",
-      "comments": 3,
-      "time": "2026-07-14 02:10"
+      "id": 48910545,
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "score": 528,
+      "by": "xenova",
+      "comments": 187,
+      "time": "2026-07-14 17:50"
     },
     {
-      "id": 48902320,
-      "title": "Australia is offering free daytime electricity",
-      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-      "score": 29,
-      "by": "i2oc",
-      "comments": 23,
-      "time": "2026-07-14 04:31"
+      "id": 48875188,
+      "title": "Andon (manufacturing)",
+      "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
+      "score": 21,
+      "by": "tony",
+      "comments": 0,
+      "time": "2026-07-11 19:49"
     },
     {
-      "id": 48896665,
-      "title": "Building and shipping Mac and iOS apps without opening Xcode",
-      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-      "score": 401,
-      "by": "speckx",
-      "comments": 179,
-      "time": "2026-07-13 18:22"
+      "id": 48913050,
+      "title": "Dependabot version updates introduce default package cooldown",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "score": 149,
+      "by": "woodruffw",
+      "comments": 86,
+      "time": "2026-07-14 21:15"
     },
     {
-      "id": 48872833,
-      "title": "How to build a circular LCD clock",
-      "url": "https://blinry.org/lcd-clock/",
-      "score": 38,
-      "by": "birdculture",
-      "comments": 9,
-      "time": "2026-07-11 15:23"
+      "id": 48909785,
+      "title": "The Tower Keeps Rising",
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "score": 425,
+      "by": "cdrnsf",
+      "comments": 195,
+      "time": "2026-07-14 16:57"
     },
     {
-      "id": 48901224,
-      "title": "The Economics of Recursive Self-Improvement [pdf]",
-      "url": "https://elasticity.institute/rsi-paper.pdf",
-      "score": 62,
-      "by": "apsec112",
-      "comments": 11,
-      "time": "2026-07-14 01:35"
+      "id": 48910676,
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "score": 315,
+      "by": "Synthetic7346",
+      "comments": 152,
+      "time": "2026-07-14 17:58"
     },
     {
-      "id": 48894752,
-      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-      "score": 512,
-      "by": "get-inscribe",
-      "comments": 200,
-      "time": "2026-07-13 16:06"
+      "id": 48913443,
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "url": "https://www.bis.org/publ/bisbull120.pdf",
+      "score": 139,
+      "by": "1vuio0pswjnm7",
+      "comments": 78,
+      "time": "2026-07-14 21:58"
     },
     {
-      "id": 48901235,
-      "title": "Is x86 ready to ACE it?",
-      "url": "https://chipsandcheese.com/p/is-x86-ready-to-ace-it",
-      "score": 48,
-      "by": "mfiguiere",
-      "comments": 6,
-      "time": "2026-07-14 01:36"
+      "id": 48914646,
+      "title": "Solving 20 Erd\u0151s Problems with 20 Codex Accounts Running in Parallel",
+      "url": "https://www.starfleetmath.com/",
+      "score": 102,
+      "by": "colin7snyder",
+      "comments": 43,
+      "time": "2026-07-15 00:15"
     }
   ]
 }
