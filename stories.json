@@ -1,96 +1,96 @@
 {
-  "fetched_at": "2026-07-15T06:18:25.991674",
+  "fetched_at": "2026-07-16T06:22:10.978087",
   "count": 10,
   "stories": [
     {
-      "id": 48915709,
-      "title": "Jurassic Park computers in excruciating detail",
-      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-      "score": 229,
-      "by": "vinhnx",
-      "comments": 50,
-      "time": "2026-07-15 02:57"
+      "id": 48930454,
+      "title": "The lost joy of music piracy",
+      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+      "score": 77,
+      "by": "mcgin",
+      "comments": 17,
+      "time": "2026-07-16 04:46"
     },
     {
-      "id": 48914644,
-      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
-      "url": "https://vpd.ca/",
-      "score": 217,
-      "by": "LookAtThatBacon",
-      "comments": 80,
-      "time": "2026-07-15 00:15"
+      "id": 48930136,
+      "title": "If you want to create a button from scratch, you must first create the universe",
+      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+      "score": 58,
+      "by": "treve",
+      "comments": 17,
+      "time": "2026-07-16 03:48"
     },
     {
-      "id": 48915004,
-      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-      "url": "https://tailscale.com/security-bulletins",
-      "score": 108,
-      "by": "jervant",
-      "comments": 46,
-      "time": "2026-07-15 01:08"
+      "id": 48924912,
+      "title": "Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "score": 864,
+      "by": "vimarsh6739",
+      "comments": 215,
+      "time": "2026-07-15 18:12"
     },
     {
-      "id": 48910545,
-      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "url": "https://prismml.com/news/bonsai-27b",
-      "score": 528,
-      "by": "xenova",
-      "comments": 187,
-      "time": "2026-07-14 17:50"
+      "id": 48928135,
+      "title": "SQLite should have (Rust-style) editions",
+      "url": "https://mort.coffee/home/sqlite-editions/",
+      "score": 202,
+      "by": "gnyeki",
+      "comments": 77,
+      "time": "2026-07-15 22:42"
     },
     {
-      "id": 48875188,
-      "title": "Andon (manufacturing)",
-      "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
-      "score": 21,
-      "by": "tony",
-      "comments": 0,
-      "time": "2026-07-11 19:49"
+      "id": 48930075,
+      "title": "Making 768 servers look like 1",
+      "url": "https://planetscale.com/blog/making-768-servers-look-like-1",
+      "score": 41,
+      "by": "hisamafahri",
+      "comments": 7,
+      "time": "2026-07-16 03:36"
     },
     {
-      "id": 48913050,
-      "title": "Dependabot version updates introduce default package cooldown",
-      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "id": 48929351,
+      "title": "Bluesky Trademarks ATProto",
+      "url": "https://atproto.com/blog/at-protocol-trademark",
+      "score": 65,
+      "by": "chaosharmonic",
+      "comments": 24,
+      "time": "2026-07-16 01:21"
+    },
+    {
+      "id": 48926590,
+      "title": "Grok Build is open source",
+      "url": "https://github.com/xai-org/grok-build",
+      "score": 373,
+      "by": "skp1995",
+      "comments": 401,
+      "time": "2026-07-15 20:24"
+    },
+    {
+      "id": 48927095,
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
       "score": 149,
-      "by": "woodruffw",
-      "comments": 86,
-      "time": "2026-07-14 21:15"
+      "by": "bilsbie",
+      "comments": 54,
+      "time": "2026-07-15 21:16"
     },
     {
-      "id": 48909785,
-      "title": "The Tower Keeps Rising",
-      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "score": 425,
-      "by": "cdrnsf",
-      "comments": 195,
-      "time": "2026-07-14 16:57"
+      "id": 48929945,
+      "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+      "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+      "score": 32,
+      "by": "gslin",
+      "comments": 2,
+      "time": "2026-07-16 03:12"
     },
     {
-      "id": 48910676,
-      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "score": 315,
-      "by": "Synthetic7346",
-      "comments": 152,
-      "time": "2026-07-14 17:58"
-    },
-    {
-      "id": 48913443,
-      "title": "Financing the AI boom: from cash flows to debt [pdf]",
-      "url": "https://www.bis.org/publ/bisbull120.pdf",
-      "score": 139,
-      "by": "1vuio0pswjnm7",
-      "comments": 78,
-      "time": "2026-07-14 21:58"
-    },
-    {
-      "id": 48914646,
-      "title": "Solving 20 Erd\u0151s Problems with 20 Codex Accounts Running in Parallel",
-      "url": "https://www.starfleetmath.com/",
-      "score": 102,
-      "by": "colin7snyder",
-      "comments": 43,
-      "time": "2026-07-15 00:15"
+      "id": 48915953,
+      "title": "Stripe and Advent have made a joint offer to acquire PayPal \u2013 sources",
+      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+      "score": 412,
+      "by": "rvz",
+      "comments": 224,
+      "time": "2026-07-15 03:32"
     }
   ]
 }
