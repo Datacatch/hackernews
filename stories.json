@@ -1,96 +1,96 @@
 {
-  "fetched_at": "2026-07-17T06:20:44.480834",
+  "fetched_at": "2026-07-18T06:08:04.844931",
   "count": 10,
   "stories": [
     {
-      "id": 48943142,
-      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
-      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
-      "score": 66,
-      "by": "divbzero",
-      "comments": 32,
-      "time": "2026-07-17 03:48"
+      "id": 48952880,
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "score": 439,
+      "by": "gnabgib",
+      "comments": 287,
+      "time": "2026-07-17 22:26"
     },
     {
-      "id": 48935342,
-      "title": "Kimi K3: Open Frontier Intelligence",
-      "url": "https://www.kimi.com/blog/kimi-k3",
-      "score": 1445,
-      "by": "vincent_s",
-      "comments": 872,
-      "time": "2026-07-16 14:46"
+      "id": 48945241,
+      "title": "AWS: Inaccurate Estimated Billing Data \u2013 $1.7 billion",
+      "url": "#",
+      "score": 1124,
+      "by": "nprateem",
+      "comments": 664,
+      "time": "2026-07-17 09:42"
     },
     {
-      "id": 48943174,
-      "title": "Pebble Mega Update \u2013 July 2026",
-      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
-      "score": 34,
-      "by": "crazysaem",
-      "comments": 1,
-      "time": "2026-07-17 03:53"
+      "id": 48907063,
+      "title": "Reviving a 15-year-old netbook with Arch Linux",
+      "url": "https://parksb.github.io/en/article/41.html",
+      "score": 46,
+      "by": "parksb",
+      "comments": 24,
+      "time": "2026-07-14 14:02"
     },
     {
-      "id": 48862165,
-      "title": "An Engineer's Guide to USB Typ\u0435-\u0421 (2024)",
-      "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
-      "score": 99,
-      "by": "gregsadetsky",
-      "comments": 1,
-      "time": "2026-07-10 16:31"
+      "id": 48949551,
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "url": "#",
+      "score": 489,
+      "by": "nicholasjbs",
+      "comments": 49,
+      "time": "2026-07-17 16:57"
     },
     {
-      "id": 48942454,
-      "title": "GrapheneOS recommended for domestic abuse victims",
-      "url": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
-      "score": 72,
-      "by": "aussieguy1234",
-      "comments": 45,
-      "time": "2026-07-17 01:36"
+      "id": 48954851,
+      "title": "Regressive JPEGs",
+      "url": "https://maurycyz.com/projects/bad_jpeg/",
+      "score": 28,
+      "by": "vitaut",
+      "comments": 0,
+      "time": "2026-07-18 03:14"
     },
     {
-      "id": 48936426,
-      "title": "Microsoft Comic Chat is now open source",
-      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "score": 619,
-      "by": "jervant",
-      "comments": 139,
-      "time": "2026-07-16 16:06"
+      "id": 48947560,
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "score": 416,
+      "by": "neversaydie",
+      "comments": 251,
+      "time": "2026-07-17 14:06"
     },
     {
-      "id": 48936584,
-      "title": "Decoy Font",
-      "url": "https://www.mixfont.com/experiments/decoy-font",
-      "score": 487,
-      "by": "ray__",
-      "comments": 115,
-      "time": "2026-07-16 16:18"
+      "id": 48951461,
+      "title": "The Zilog Z80 has turned 50",
+      "url": "https://goliath32.com/blog/z80.html",
+      "score": 196,
+      "by": "st_goliath",
+      "comments": 62,
+      "time": "2026-07-17 19:41"
     },
     {
-      "id": 48939662,
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "score": 208,
-      "by": "minimaxir",
-      "comments": 73,
-      "time": "2026-07-16 20:18"
+      "id": 48954175,
+      "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+      "url": "https://moonstone.sh/",
+      "score": 36,
+      "by": "ksymph",
+      "comments": 9,
+      "time": "2026-07-18 01:18"
     },
     {
-      "id": 48939524,
-      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-      "score": 212,
-      "by": "hershyb_",
-      "comments": 244,
-      "time": "2026-07-16 20:03"
+      "id": 48952565,
+      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+      "score": 80,
+      "by": "BadChemical",
+      "comments": 18,
+      "time": "2026-07-17 21:42"
     },
     {
-      "id": 48941104,
-      "title": "The Little Book of Reinforcement Learning",
-      "url": "https://github.com/alxndrTL/little-book-rl/",
-      "score": 97,
-      "by": "mustaphah",
-      "comments": 11,
-      "time": "2026-07-16 22:27"
+      "id": 48954149,
+      "title": "I Started a \"Dirt Notebook\"",
+      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+      "score": 40,
+      "by": "herbertl",
+      "comments": 30,
+      "time": "2026-07-18 01:12"
     }
   ]
 }
