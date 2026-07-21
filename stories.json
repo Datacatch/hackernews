@@ -1,96 +1,96 @@
 {
-  "fetched_at": "2026-07-20T06:51:02.566116",
+  "fetched_at": "2026-07-21T06:32:15.828436",
   "count": 10,
   "stories": [
     {
-      "id": 48974325,
-      "title": "LoRA Speedrun \u2013 a public wall-clock leaderboard for fine-tuning techniques",
-      "url": "https://github.com/Saivineeth147/lora-speedrun",
-      "score": 30,
-      "by": "Vineeth147",
-      "comments": 0,
-      "time": "2026-07-20 04:24"
-    },
-    {
-      "id": 48968606,
-      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-      "url": "#",
-      "score": 2048,
-      "by": "section33",
-      "comments": 217,
-      "time": "2026-07-19 14:41"
-    },
-    {
-      "id": 48974454,
-      "title": "Xiaomi-Robotics-1",
-      "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-      "score": 28,
-      "by": "ilreb",
-      "comments": 5,
-      "time": "2026-07-20 04:45"
-    },
-    {
-      "id": 48972970,
-      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-      "url": "https://github.com/hgaiser/moonshine",
-      "score": 106,
-      "by": "wertyk",
-      "comments": 50,
-      "time": "2026-07-20 00:16"
-    },
-    {
-      "id": 48966569,
-      "title": "Claude Code uses Bun written in Rust now",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "score": 476,
-      "by": "tosh",
-      "comments": 633,
-      "time": "2026-07-19 10:03"
-    },
-    {
-      "id": 48907564,
-      "title": "Korg PS-3300 is back",
-      "url": "https://www.korg.co.uk/blogs/updates/ps3300",
-      "score": 27,
-      "by": "Lio",
-      "comments": 28,
-      "time": "2026-07-14 14:33"
-    },
-    {
-      "id": 48970894,
-      "title": "Orion Browser by Kagi",
-      "url": "https://orionbrowser.com/",
-      "score": 157,
-      "by": "sebjones",
-      "comments": 101,
-      "time": "2026-07-19 19:13"
-    },
-    {
-      "id": 48974292,
-      "title": "Power companies are using eminent domain to seize land for data centers",
-      "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
-      "score": 70,
-      "by": "1vuio0pswjnm7",
-      "comments": 21,
-      "time": "2026-07-20 04:19"
-    },
-    {
-      "id": 48966713,
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "score": 462,
-      "by": "chipweinberger",
-      "comments": 211,
-      "time": "2026-07-19 10:34"
-    },
-    {
-      "id": 48907390,
-      "title": "The Zen of Parallel Programming",
-      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
-      "score": 150,
-      "by": "edgar_ortega",
+      "id": 48987822,
+      "title": "Incremental \u2013 A library for incremental computations",
+      "url": "https://github.com/janestreet/incremental",
+      "score": 94,
+      "by": "handfuloflight",
       "comments": 17,
-      "time": "2026-07-14 14:23"
+      "time": "2026-07-21 03:50"
+    },
+    {
+      "id": 48977128,
+      "title": "Who's afraid of Chinese models?",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "score": 507,
+      "by": "mfiguiere",
+      "comments": 346,
+      "time": "2026-07-20 11:05"
+    },
+    {
+      "id": 48987846,
+      "title": "Running Doom on Our Custom CPU and Going Viral",
+      "url": "https://www.armaangomes.com/blogs/doom/",
+      "score": 36,
+      "by": "arghunter",
+      "comments": 3,
+      "time": "2026-07-21 03:54"
+    },
+    {
+      "id": 48987831,
+      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+      "score": 22,
+      "by": "sudo_cowsay",
+      "comments": 13,
+      "time": "2026-07-21 03:52"
+    },
+    {
+      "id": 48987863,
+      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "score": 163,
+      "by": "NordStreamYacht",
+      "comments": 45,
+      "time": "2026-07-21 03:56"
+    },
+    {
+      "id": 48988158,
+      "title": "Show HN: Ex Situ \u2013 Open-source spatial index of displaced cultural artifacts",
+      "url": "https://exsitu.app/map",
+      "score": 15,
+      "by": "hbyel",
+      "comments": 2,
+      "time": "2026-07-21 04:48"
+    },
+    {
+      "id": 48981703,
+      "title": "Kimi Work",
+      "url": "https://www.kimi.com/products/kimi-work",
+      "score": 491,
+      "by": "ms7892",
+      "comments": 210,
+      "time": "2026-07-20 17:13"
+    },
+    {
+      "id": 48981620,
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "url": "https://jelly-ui.com/",
+      "score": 426,
+      "by": "baldvinmar",
+      "comments": 145,
+      "time": "2026-07-20 17:07"
+    },
+    {
+      "id": 48983382,
+      "title": "Human mathematicians are being outcounterexampled",
+      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+      "score": 300,
+      "by": "artninja1988",
+      "comments": 107,
+      "time": "2026-07-20 19:03"
+    },
+    {
+      "id": 48982681,
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "url": "https://blaizzy.github.io/nativ/",
+      "score": 243,
+      "by": "aratahikaru5",
+      "comments": 85,
+      "time": "2026-07-20 18:16"
     }
   ]
 }
