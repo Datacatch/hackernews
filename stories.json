@@ -1,96 +1,96 @@
 {
-  "fetched_at": "2026-07-23T06:33:05.642603",
+  "fetched_at": "2026-07-24T06:28:58.176001",
   "count": 10,
   "stories": [
     {
-      "id": 48991882,
-      "title": "git's \u2013end-of-options Flag",
-      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
-      "score": 82,
-      "by": "Erenay09",
-      "comments": 31,
-      "time": "2026-07-21 13:13"
+      "id": 49022152,
+      "title": "Writing by hand is good for your brain",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "score": 1186,
+      "by": "dwwoelfel",
+      "comments": 548,
+      "time": "2026-07-23 14:24"
     },
     {
-      "id": 49010345,
-      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "score": 768,
-      "by": "gmays",
-      "comments": 455,
-      "time": "2026-07-22 17:30"
+      "id": 49026810,
+      "title": "Show HN: Echo \u2013 Fable-level results at 1/3 the cost using open-weight models",
+      "url": "#",
+      "score": 327,
+      "by": "adam_rida",
+      "comments": 162,
+      "time": "2026-07-23 19:26"
     },
     {
-      "id": 49007247,
-      "title": "Quality non-fiction books are the antithesis of AI slop",
-      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-      "score": 283,
-      "by": "benbreen",
-      "comments": 99,
-      "time": "2026-07-22 14:18"
+      "id": 49007221,
+      "title": "The Beam Engine",
+      "url": "https://glinscott.github.io/beam-engine/",
+      "score": 267,
+      "by": "glinscott",
+      "comments": 70,
+      "time": "2026-07-22 14:16"
     },
     {
-      "id": 49010167,
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "url": "https://github.com/marcelroed/gigatoken/",
-      "score": 451,
-      "by": "syrusakbary",
-      "comments": 96,
-      "time": "2026-07-22 17:20"
+      "id": 49023016,
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "score": 854,
+      "by": "theanonymousone",
+      "comments": 724,
+      "time": "2026-07-23 15:18"
     },
     {
-      "id": 49008211,
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "url": "https://bento.page/slides/",
-      "score": 753,
-      "by": "starfallg",
-      "comments": 168,
-      "time": "2026-07-22 15:19"
+      "id": 49024691,
+      "title": "What happened to TheNumbers.com",
+      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "score": 341,
+      "by": "nickthegreek",
+      "comments": 149,
+      "time": "2026-07-23 16:53"
     },
     {
-      "id": 49010648,
-      "title": "Everyone should know SIMD",
-      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
-      "score": 354,
-      "by": "WadeGrimridge",
-      "comments": 115,
-      "time": "2026-07-22 17:48"
+      "id": 48959008,
+      "title": "What else do people draw on gradient.horse?",
+      "url": "https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/",
+      "score": 95,
+      "by": "spython",
+      "comments": 12,
+      "time": "2026-07-18 15:28"
     },
     {
-      "id": 49010129,
-      "title": "Are AI labs pelicanmaxxing?",
-      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "score": 468,
-      "by": "dcastm",
-      "comments": 182,
-      "time": "2026-07-22 17:17"
+      "id": 49023019,
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "score": 260,
+      "by": "dhorthy",
+      "comments": 191,
+      "time": "2026-07-23 15:18"
     },
     {
-      "id": 48984534,
-      "title": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
-      "url": "https://github.com/exlee/ascdraw",
-      "score": 30,
-      "by": "xlii",
-      "comments": 4,
-      "time": "2026-07-20 20:34"
+      "id": 49028927,
+      "title": "98.css",
+      "url": "https://jdan.github.io/98.css/#status-bar",
+      "score": 404,
+      "by": "lopespm",
+      "comments": 95,
+      "time": "2026-07-23 22:30"
     },
     {
-      "id": 49016099,
-      "title": "Restructuring GitHub's bug bounty program",
-      "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-      "score": 33,
-      "by": "soheilpro",
-      "comments": 14,
-      "time": "2026-07-23 02:28"
+      "id": 49022634,
+      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "url": "https://learnopengl.com/",
+      "score": 215,
+      "by": "ibobev",
+      "comments": 109,
+      "time": "2026-07-23 14:53"
     },
     {
-      "id": 49010782,
-      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
-      "url": "https://github.com/cactus-compute/cactus-hybrid",
-      "score": 110,
-      "by": "HenryNdubuaku",
-      "comments": 15,
-      "time": "2026-07-22 17:56"
+      "id": 49022038,
+      "title": "Software rendering in 500 lines of bare C++",
+      "url": "https://haqr.eu/tinyrenderer/",
+      "score": 271,
+      "by": "mpweiher",
+      "comments": 52,
+      "time": "2026-07-23 14:17"
     }
   ]
 }
