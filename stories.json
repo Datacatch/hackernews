@@ -1,96 +1,96 @@
 {
-  "fetched_at": "2026-07-26T06:39:55.779682",
+  "fetched_at": "2026-07-27T07:36:46.544032",
   "count": 10,
   "stories": [
     {
-      "id": 49047453,
-      "title": "A shell colon does nothing. Use it anyway",
-      "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-      "score": 57,
-      "by": "olexsmir",
-      "comments": 16,
-      "time": "2026-07-25 13:33"
-    },
-    {
-      "id": 49054107,
-      "title": "An ESP32 based plane radar for my desk",
-      "url": "https://blog.ktz.me/esp32-plane-radar/",
-      "score": 91,
-      "by": "alexktz",
-      "comments": 16,
-      "time": "2026-07-26 02:35"
-    },
-    {
-      "id": 49054224,
-      "title": "JetZero",
-      "url": "https://www.jetzero.aero",
-      "score": 154,
-      "by": "lisper",
-      "comments": 107,
-      "time": "2026-07-26 02:55"
-    },
-    {
-      "id": 49054010,
-      "title": "Show HN: I mapped every US golf course",
-      "url": "https://golfcoursebrowser.com/",
-      "score": 98,
-      "by": "rickmf",
-      "comments": 43,
-      "time": "2026-07-26 02:22"
-    },
-    {
-      "id": 49051361,
-      "title": "The new rules of context engineering for Claude 5 generation models",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "score": 267,
-      "by": "mellosouls",
-      "comments": 168,
-      "time": "2026-07-25 20:42"
-    },
-    {
-      "id": 49053375,
-      "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-      "score": 82,
+      "id": 49065752,
+      "title": "Kimi-K3 Releases on HuggingFace 6/27",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "score": 54,
       "by": "nateb2022",
-      "comments": 6,
-      "time": "2026-07-26 00:36"
+      "comments": 8,
+      "time": "2026-07-27 06:18"
     },
     {
-      "id": 49024980,
-      "title": "Rethinking Legal Education in the AI Era",
-      "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
-      "score": 56,
-      "by": "jjwiseman",
-      "comments": 16,
-      "time": "2026-07-23 17:12"
+      "id": 49063754,
+      "title": "PGSimCity - How PostgreSQL Works",
+      "url": "https://nikolays.github.io/PGSimCity/",
+      "score": 489,
+      "by": "jonbaer",
+      "comments": 51,
+      "time": "2026-07-27 00:19"
     },
     {
-      "id": 49052628,
-      "title": "Clinical failure rates over the decades: yikes",
-      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
-      "score": 86,
-      "by": "EA-3167",
-      "comments": 49,
-      "time": "2026-07-25 22:57"
+      "id": 49021270,
+      "title": "Show HN: Physically accurate black hole you can put in your room",
+      "url": "https://blackhole.plav.in",
+      "score": 263,
+      "by": "aplavin",
+      "comments": 75,
+      "time": "2026-07-23 13:29"
     },
     {
-      "id": 49053708,
-      "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
-      "url": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
-      "score": 39,
-      "by": "spzx",
-      "comments": 9,
-      "time": "2026-07-26 01:35"
+      "id": 49063175,
+      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "score": 132,
+      "by": "maxloh",
+      "comments": 59,
+      "time": "2026-07-26 22:46"
     },
     {
-      "id": 49034777,
-      "title": "Stinkpot: SQLite-backed shell history",
-      "url": "https://tangled.org/oppi.li/stinkpot",
-      "score": 17,
-      "by": "nerdypepper",
-      "comments": 1,
-      "time": "2026-07-24 12:44"
+      "id": 49060856,
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "url": "https://beyondloom.com/decker/",
+      "score": 292,
+      "by": "tosh",
+      "comments": 72,
+      "time": "2026-07-26 18:23"
+    },
+    {
+      "id": 49060495,
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+      "score": 321,
+      "by": "saaaaaam",
+      "comments": 201,
+      "time": "2026-07-26 17:49"
+    },
+    {
+      "id": 49063022,
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "score": 615,
+      "by": "eecc",
+      "comments": 420,
+      "time": "2026-07-26 22:21"
+    },
+    {
+      "id": 49062291,
+      "title": "We have proof automation now",
+      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+      "score": 154,
+      "by": "zdw",
+      "comments": 35,
+      "time": "2026-07-26 20:53"
+    },
+    {
+      "id": 49012339,
+      "title": "Why care about programming languages",
+      "url": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
+      "score": 23,
+      "by": "b-man",
+      "comments": 21,
+      "time": "2026-07-22 19:42"
+    },
+    {
+      "id": 49020219,
+      "title": "I wanted a clock that never needed setting. Things escalated",
+      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
+      "score": 88,
+      "by": "lee_ars",
+      "comments": 83,
+      "time": "2026-07-23 12:01"
     }
   ]
 }
