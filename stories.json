@@ -1,96 +1,96 @@
 {
-  "fetched_at": "2026-07-27T07:36:46.544032",
+  "fetched_at": "2026-07-28T06:30:15.338483",
   "count": 10,
   "stories": [
     {
-      "id": 49065752,
-      "title": "Kimi-K3 Releases on HuggingFace 6/27",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3",
-      "score": 54,
-      "by": "nateb2022",
-      "comments": 8,
-      "time": "2026-07-27 06:18"
+      "id": 49076057,
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "score": 730,
+      "by": "surprisetalk",
+      "comments": 1025,
+      "time": "2026-07-27 22:03"
     },
     {
-      "id": 49063754,
-      "title": "PGSimCity - How PostgreSQL Works",
-      "url": "https://nikolays.github.io/PGSimCity/",
-      "score": 489,
-      "by": "jonbaer",
-      "comments": 51,
-      "time": "2026-07-27 00:19"
+      "id": 49078583,
+      "title": "Using an open model feels surprisingly good",
+      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+      "score": 210,
+      "by": "msaltz",
+      "comments": 66,
+      "time": "2026-07-28 02:37"
     },
     {
-      "id": 49021270,
-      "title": "Show HN: Physically accurate black hole you can put in your room",
-      "url": "https://blackhole.plav.in",
-      "score": 263,
-      "by": "aplavin",
-      "comments": 75,
-      "time": "2026-07-23 13:29"
+      "id": 49079727,
+      "title": "Ars Astronomica \u2013 English translations of rare Hebrew and Latin astronomy texts",
+      "url": "https://arsastronomica.com/",
+      "score": 18,
+      "by": "sweisman",
+      "comments": 0,
+      "time": "2026-07-28 05:25"
     },
     {
-      "id": 49063175,
-      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-      "url": "https://github.com/vercel-labs/scriptc",
-      "score": 132,
-      "by": "maxloh",
-      "comments": 59,
-      "time": "2026-07-26 22:46"
+      "id": 49078454,
+      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "url": "https://fermisense.com/when-machines-take-the-wheel/",
+      "score": 117,
+      "by": "ilreb",
+      "comments": 34,
+      "time": "2026-07-28 02:18"
     },
     {
-      "id": 49060856,
-      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-      "url": "https://beyondloom.com/decker/",
-      "score": 292,
-      "by": "tosh",
-      "comments": 72,
-      "time": "2026-07-26 18:23"
+      "id": 49079490,
+      "title": "Neutrino-1 8B",
+      "url": "https://www.fermionresearch.com/models/neutrino-8b/",
+      "score": 30,
+      "by": "handfuloflight",
+      "comments": 4,
+      "time": "2026-07-28 04:49"
     },
     {
-      "id": 49060495,
-      "title": "French firefighters face 'pyrocumulonimbus' for first time",
-      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-      "score": 321,
-      "by": "saaaaaam",
-      "comments": 201,
-      "time": "2026-07-26 17:49"
+      "id": 49079175,
+      "title": "Why do we think we understand the world more than we actually do?",
+      "url": "https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth",
+      "score": 35,
+      "by": "rramadass",
+      "comments": 26,
+      "time": "2026-07-28 04:00"
     },
     {
-      "id": 49063022,
-      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-      "score": 615,
-      "by": "eecc",
-      "comments": 420,
-      "time": "2026-07-26 22:21"
+      "id": 49076391,
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "score": 225,
+      "by": "dhorthy",
+      "comments": 52,
+      "time": "2026-07-27 22:37"
     },
     {
-      "id": 49062291,
-      "title": "We have proof automation now",
-      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-      "score": 154,
-      "by": "zdw",
-      "comments": 35,
-      "time": "2026-07-26 20:53"
+      "id": 49079454,
+      "title": "PyTorch: A Reference Language",
+      "url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
+      "score": 14,
+      "by": "matt_d",
+      "comments": 0,
+      "time": "2026-07-28 04:46"
     },
     {
-      "id": 49012339,
-      "title": "Why care about programming languages",
-      "url": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
-      "score": 23,
-      "by": "b-man",
+      "id": 49041256,
+      "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
+      "url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
+      "score": 78,
+      "by": "wslh",
+      "comments": 44,
+      "time": "2026-07-24 20:35"
+    },
+    {
+      "id": 49078463,
+      "title": "EYG: A Programming Language for Humans",
+      "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
+      "score": 53,
+      "by": "crowdhailer",
       "comments": 21,
-      "time": "2026-07-22 19:42"
-    },
-    {
-      "id": 49020219,
-      "title": "I wanted a clock that never needed setting. Things escalated",
-      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
-      "score": 88,
-      "by": "lee_ars",
-      "comments": 83,
-      "time": "2026-07-23 12:01"
+      "time": "2026-07-28 02:21"
     }
   ]
 }
