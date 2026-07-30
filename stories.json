@@ -1,96 +1,96 @@
 {
-  "fetched_at": "2026-07-29T06:34:47.463686",
+  "fetched_at": "2026-07-30T06:31:12.044216",
   "count": 10,
   "stories": [
     {
-      "id": 49093569,
-      "title": "More Tailscale tricks for your jailbroken Kindle",
-      "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-      "score": 71,
-      "by": "Error6571",
-      "comments": 8,
-      "time": "2026-07-29 04:58"
+      "id": 49103285,
+      "title": "AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "score": 346,
+      "by": "YeGoblynQueenne",
+      "comments": 193,
+      "time": "2026-07-29 21:25"
     },
     {
-      "id": 49093434,
-      "title": "User Interfaces of the Demo Scene",
-      "url": "https://www.datagubbe.se/scenegui/",
+      "id": 49102774,
+      "title": "The coolest use for the Vision Pro",
+      "url": "https://christianselig.com/2026/07/vision-pro-house/",
+      "score": 545,
+      "by": "robbiet480",
+      "comments": 228,
+      "time": "2026-07-29 20:39"
+    },
+    {
+      "id": 49098510,
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "url": "https://github.com/drumih/turbo-fieldfare",
+      "score": 730,
+      "by": "gitpusher42",
+      "comments": 256,
+      "time": "2026-07-29 15:05"
+    },
+    {
+      "id": 49098965,
+      "title": "Superlogical",
+      "url": "https://www.superlogical.com/",
+      "score": 622,
+      "by": "yan",
+      "comments": 386,
+      "time": "2026-07-29 15:41"
+    },
+    {
+      "id": 49104117,
+      "title": "LLM Honeypot",
+      "url": "https://llm2human.pages.dev/",
+      "score": 157,
+      "by": "8thom",
+      "comments": 48,
+      "time": "2026-07-29 22:51"
+    },
+    {
+      "id": 49106384,
+      "title": "1,741 \"informed\" consents with one click? GDPR complaint filed",
+      "url": "https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed",
+      "score": 42,
+      "by": "dotcoma",
+      "comments": 7,
+      "time": "2026-07-30 05:33"
+    },
+    {
+      "id": 49104335,
+      "title": "The Productivity Mirage",
+      "url": "https://frantic.im/mirage/",
+      "score": 160,
+      "by": "msephton",
+      "comments": 51,
+      "time": "2026-07-29 23:18"
+    },
+    {
+      "id": 49099715,
+      "title": "Keychron announces first open-source firmware for gaming mice",
+      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+      "score": 342,
+      "by": "JLO64",
+      "comments": 140,
+      "time": "2026-07-29 16:36"
+    },
+    {
+      "id": 49104937,
+      "title": "Logic for Programmers",
+      "url": "https://logicforprogrammers.com/",
       "score": 66,
-      "by": "zdw",
-      "comments": 8,
-      "time": "2026-07-29 04:30"
+      "by": "_doctor_love",
+      "comments": 4,
+      "time": "2026-07-30 00:51"
     },
     {
-      "id": 49089755,
-      "title": "Codex Security",
-      "url": "https://github.com/openai/codex-security",
-      "score": 453,
-      "by": "bakigul",
-      "comments": 141,
-      "time": "2026-07-28 20:52"
-    },
-    {
-      "id": 49092499,
-      "title": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences",
-      "url": "https://learnvector.ai/",
-      "score": 144,
-      "by": "ajhai",
-      "comments": 72,
-      "time": "2026-07-29 01:49"
-    },
-    {
-      "id": 49093435,
-      "title": "Cracking Windows Open: Porting RADV to Win32",
-      "url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
-      "score": 25,
-      "by": "zdw",
-      "comments": 1,
-      "time": "2026-07-29 04:30"
-    },
-    {
-      "id": 49093232,
-      "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
-      "url": "https://transformer-transformer.github.io/",
-      "score": 35,
-      "by": "ilreb",
-      "comments": 0,
-      "time": "2026-07-29 03:52"
-    },
-    {
-      "id": 49090607,
-      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-      "url": "https://github.com/twalichiewicz/HNewhere",
-      "score": 242,
-      "by": "twalichiewicz",
+      "id": 49103089,
+      "title": "The Cold Email",
+      "url": "https://zachholman.com/posts/cold-email",
+      "score": 162,
+      "by": "holman",
       "comments": 64,
-      "time": "2026-07-28 22:09"
-    },
-    {
-      "id": 49086788,
-      "title": "Substack writers, you need a website",
-      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "score": 491,
-      "by": "speckx",
-      "comments": 233,
-      "time": "2026-07-28 16:58"
-    },
-    {
-      "id": 49089814,
-      "title": "Half-Life ported to Mac OS 9",
-      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-      "score": 207,
-      "by": "freediver",
-      "comments": 99,
-      "time": "2026-07-28 20:58"
-    },
-    {
-      "id": 49092112,
-      "title": "Multiple Mouse Cursors in Wayland",
-      "url": "https://blinry.org/multi-seat-wayland/",
-      "score": 88,
-      "by": "marvinborner",
-      "comments": 52,
-      "time": "2026-07-29 00:59"
+      "time": "2026-07-29 21:06"
     }
   ]
 }
