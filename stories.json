@@ -1,96 +1,96 @@
 {
-  "fetched_at": "2026-07-30T06:31:12.044216",
+  "fetched_at": "2026-07-31T06:48:00.505617",
   "count": 10,
   "stories": [
     {
-      "id": 49103285,
-      "title": "AI's top startups are barely publishing their research",
-      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "score": 346,
-      "by": "YeGoblynQueenne",
-      "comments": 193,
-      "time": "2026-07-29 21:25"
+      "id": 49118781,
+      "title": "The session you cannot take with you",
+      "url": "https://earendil.com/posts/session-portability/",
+      "score": 97,
+      "by": "apitman",
+      "comments": 10,
+      "time": "2026-07-31 03:47"
     },
     {
-      "id": 49102774,
-      "title": "The coolest use for the Vision Pro",
-      "url": "https://christianselig.com/2026/07/vision-pro-house/",
-      "score": 545,
-      "by": "robbiet480",
-      "comments": 228,
-      "time": "2026-07-29 20:39"
-    },
-    {
-      "id": 49098510,
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "score": 730,
-      "by": "gitpusher42",
-      "comments": 256,
-      "time": "2026-07-29 15:05"
-    },
-    {
-      "id": 49098965,
-      "title": "Superlogical",
-      "url": "https://www.superlogical.com/",
-      "score": 622,
-      "by": "yan",
-      "comments": 386,
-      "time": "2026-07-29 15:41"
-    },
-    {
-      "id": 49104117,
-      "title": "LLM Honeypot",
-      "url": "https://llm2human.pages.dev/",
-      "score": 157,
-      "by": "8thom",
-      "comments": 48,
-      "time": "2026-07-29 22:51"
-    },
-    {
-      "id": 49106384,
-      "title": "1,741 \"informed\" consents with one click? GDPR complaint filed",
-      "url": "https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed",
-      "score": 42,
-      "by": "dotcoma",
-      "comments": 7,
-      "time": "2026-07-30 05:33"
-    },
-    {
-      "id": 49104335,
-      "title": "The Productivity Mirage",
-      "url": "https://frantic.im/mirage/",
-      "score": 160,
-      "by": "msephton",
-      "comments": 51,
-      "time": "2026-07-29 23:18"
-    },
-    {
-      "id": 49099715,
-      "title": "Keychron announces first open-source firmware for gaming mice",
-      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-      "score": 342,
-      "by": "JLO64",
-      "comments": 140,
-      "time": "2026-07-29 16:36"
-    },
-    {
-      "id": 49104937,
-      "title": "Logic for Programmers",
-      "url": "https://logicforprogrammers.com/",
-      "score": 66,
-      "by": "_doctor_love",
+      "id": 49119063,
+      "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+      "url": "https://github.com/openjdk/jdk/pull/31120",
+      "score": 25,
+      "by": "mfiguiere",
       "comments": 4,
-      "time": "2026-07-30 00:51"
+      "time": "2026-07-31 04:38"
     },
     {
-      "id": 49103089,
-      "title": "The Cold Email",
-      "url": "https://zachholman.com/posts/cold-email",
-      "score": 162,
-      "by": "holman",
+      "id": 49112232,
+      "title": "Stacked PRs are now live on GitHub",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "score": 586,
+      "by": "tomzorz",
+      "comments": 195,
+      "time": "2026-07-30 16:26"
+    },
+    {
+      "id": 49114639,
+      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+      "url": "https://github.com/AminBlg/SimpleEnglish",
+      "score": 284,
+      "by": "navs",
+      "comments": 102,
+      "time": "2026-07-30 19:34"
+    },
+    {
+      "id": 49111237,
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "score": 534,
+      "by": "ai2027",
+      "comments": 423,
+      "time": "2026-07-30 15:15"
+    },
+    {
+      "id": 49116721,
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+      "score": 154,
+      "by": "volumes94",
       "comments": 64,
-      "time": "2026-07-29 21:06"
+      "time": "2026-07-30 22:33"
+    },
+    {
+      "id": 49077372,
+      "title": "Where USB Memory Sticks are Born (2013)",
+      "url": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
+      "score": 27,
+      "by": "jacquesm",
+      "comments": 2,
+      "time": "2026-07-27 23:59"
+    },
+    {
+      "id": 49119274,
+      "title": "Show HN: What should the GUI for AI agents look like?",
+      "url": "https://marbleos.com/demo",
+      "score": 9,
+      "by": "akbabu",
+      "comments": 0,
+      "time": "2026-07-31 05:17"
+    },
+    {
+      "id": 49112744,
+      "title": "Read this before you buy that TV streaming stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "score": 673,
+      "by": "speckx",
+      "comments": 384,
+      "time": "2026-07-30 17:04"
+    },
+    {
+      "id": 49117284,
+      "title": "The Religion of Speed",
+      "url": "https://graybeard.ing/the-religion-of-speed/",
+      "score": 92,
+      "by": "MobiusHorizons",
+      "comments": 29,
+      "time": "2026-07-30 23:43"
     }
   ]
 }
