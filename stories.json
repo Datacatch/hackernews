@@ -1,96 +1,96 @@
 {
-  "fetched_at": "2026-07-31T06:48:00.505617",
+  "fetched_at": "2026-08-01T06:32:39.603400",
   "count": 10,
   "stories": [
     {
-      "id": 49118781,
-      "title": "The session you cannot take with you",
-      "url": "https://earendil.com/posts/session-portability/",
-      "score": 97,
-      "by": "apitman",
-      "comments": 10,
-      "time": "2026-07-31 03:47"
+      "id": 49124218,
+      "title": "Elevators",
+      "url": "https://john.fun/elevators",
+      "score": 1142,
+      "by": "Jrh0203",
+      "comments": 270,
+      "time": "2026-07-31 15:17"
     },
     {
-      "id": 49119063,
-      "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
-      "url": "https://github.com/openjdk/jdk/pull/31120",
-      "score": 25,
-      "by": "mfiguiere",
-      "comments": 4,
-      "time": "2026-07-31 04:38"
+      "id": 49130604,
+      "title": "Flint: A Visualization Language for the AI Era",
+      "url": "https://microsoft.github.io/flint-chart/",
+      "score": 66,
+      "by": "vinhnx",
+      "comments": 19,
+      "time": "2026-08-01 02:45"
     },
     {
-      "id": 49112232,
-      "title": "Stacked PRs are now live on GitHub",
-      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "score": 586,
-      "by": "tomzorz",
-      "comments": 195,
-      "time": "2026-07-30 16:26"
+      "id": 49129990,
+      "title": "How to Exist",
+      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+      "score": 122,
+      "by": "walterbell",
+      "comments": 66,
+      "time": "2026-08-01 00:25"
     },
     {
-      "id": 49114639,
-      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-      "url": "https://github.com/AminBlg/SimpleEnglish",
-      "score": 284,
-      "by": "navs",
-      "comments": 102,
-      "time": "2026-07-30 19:34"
+      "id": 49126604,
+      "title": "qm \u2013 Multiplayer agent harness for work",
+      "url": "https://github.com/yc-software/qm",
+      "score": 527,
+      "by": "tosh",
+      "comments": 110,
+      "time": "2026-07-31 18:04"
     },
     {
-      "id": 49111237,
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "score": 534,
-      "by": "ai2027",
-      "comments": 423,
-      "time": "2026-07-30 15:15"
+      "id": 49130726,
+      "title": "The development pipeline is a production system",
+      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+      "score": 53,
+      "by": "firefoxd",
+      "comments": 18,
+      "time": "2026-08-01 03:16"
     },
     {
-      "id": 49116721,
-      "title": "I flagged two research papers for fake authors and both were accepted as orals",
-      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
-      "score": 154,
-      "by": "volumes94",
-      "comments": 64,
-      "time": "2026-07-30 22:33"
-    },
-    {
-      "id": 49077372,
-      "title": "Where USB Memory Sticks are Born (2013)",
-      "url": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
-      "score": 27,
-      "by": "jacquesm",
+      "id": 49131367,
+      "title": "Ten Ways NAS Is Getting Enshitified",
+      "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+      "score": 10,
+      "by": "giuliomagnifico",
       "comments": 2,
-      "time": "2026-07-27 23:59"
+      "time": "2026-08-01 05:38"
     },
     {
-      "id": 49119274,
-      "title": "Show HN: What should the GUI for AI agents look like?",
-      "url": "https://marbleos.com/demo",
-      "score": 9,
-      "by": "akbabu",
-      "comments": 0,
-      "time": "2026-07-31 05:17"
+      "id": 49131034,
+      "title": "What Liberal Arts Education Is for (2024)",
+      "url": "https://innig.net/teaching/liberal-arts-manifesto",
+      "score": 25,
+      "by": "mr_wiglaf",
+      "comments": 17,
+      "time": "2026-08-01 04:28"
     },
     {
-      "id": 49112744,
-      "title": "Read this before you buy that TV streaming stick",
-      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "score": 673,
-      "by": "speckx",
-      "comments": 384,
-      "time": "2026-07-30 17:04"
+      "id": 49096605,
+      "title": "Software for One",
+      "url": "https://www.ajwaxman.com/writing/software-for-one",
+      "score": 74,
+      "by": "awaxman11",
+      "comments": 51,
+      "time": "2026-07-29 12:29"
     },
     {
-      "id": 49117284,
-      "title": "The Religion of Speed",
-      "url": "https://graybeard.ing/the-religion-of-speed/",
-      "score": 92,
-      "by": "MobiusHorizons",
-      "comments": 29,
-      "time": "2026-07-30 23:43"
+      "id": 49130295,
+      "title": "A Week in Matrix",
+      "url": "https://piegames.de/dumps/a-week-in-matrix/",
+      "score": 33,
+      "by": "Kesseki",
+      "comments": 21,
+      "time": "2026-08-01 01:35"
+    },
+    {
+      "id": 49121196,
+      "title": "Progressive Web Components",
+      "url": "https://arielsalminen.com/2026/progressive-web-components/",
+      "score": 134,
+      "by": "hosteur",
+      "comments": 20,
+      "time": "2026-07-31 10:04"
     }
   ]
 }
