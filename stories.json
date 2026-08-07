@@ -1,96 +1,96 @@
 {
-  "fetched_at": "2026-08-06T06:34:37.559476",
+  "fetched_at": "2026-08-07T05:42:49.490878",
   "count": 10,
   "stories": [
     {
-      "id": 49184960,
-      "title": "Discovery Loop",
-      "url": "https://www.discoveryloop.com/",
-      "score": 690,
-      "by": "xtreak29",
-      "comments": 425,
-      "time": "2026-08-05 16:19"
+      "id": 49201970,
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "score": 511,
+      "by": "itvision",
+      "comments": 393,
+      "time": "2026-08-06 20:23"
     },
     {
-      "id": 49191624,
-      "title": "Nashville uses eminent domain to block data center near zoo",
-      "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
-      "score": 195,
-      "by": "mapping365",
-      "comments": 213,
-      "time": "2026-08-06 02:15"
+      "id": 49195231,
+      "title": "Mario Meets Pareto",
+      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+      "score": 959,
+      "by": "theanonymousone",
+      "comments": 152,
+      "time": "2026-08-06 11:24"
     },
     {
-      "id": 49184755,
-      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "score": 595,
-      "by": "colesantiago",
-      "comments": 655,
-      "time": "2026-08-05 16:05"
+      "id": 49184355,
+      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+      "score": 189,
+      "by": "neversaydie",
+      "comments": 39,
+      "time": "2026-08-05 15:33"
     },
     {
-      "id": 49187256,
-      "title": "Zed DeltaDB",
-      "url": "https://zed.dev/deltadb",
-      "score": 367,
-      "by": "ahamez",
-      "comments": 199,
-      "time": "2026-08-05 18:52"
+      "id": 49199346,
+      "title": "Taste Is All That's Left",
+      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "score": 308,
+      "by": "tsak",
+      "comments": 237,
+      "time": "2026-08-06 17:01"
     },
     {
-      "id": 49151991,
-      "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
-      "url": "https://www.greyblake.com/blog/branchless-rust/",
-      "score": 115,
-      "by": "greyblake",
-      "comments": 27,
-      "time": "2026-08-03 06:37"
+      "id": 49129015,
+      "title": "Atomic Clocks",
+      "url": "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work",
+      "score": 12,
+      "by": "teleforce",
+      "comments": 1,
+      "time": "2026-07-31 21:58"
     },
     {
-      "id": 49192566,
-      "title": "Crime Pays but Botany Doesn't",
-      "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
-      "score": 13,
-      "by": "DarkContinent",
-      "comments": 0,
-      "time": "2026-08-06 04:46"
+      "id": 49202716,
+      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+      "score": 85,
+      "by": "Audiophilip",
+      "comments": 14,
+      "time": "2026-08-06 21:18"
     },
     {
-      "id": 49189287,
-      "title": "The title cards in Blade Runner are amazing",
-      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-      "score": 220,
-      "by": "ExMachina73",
-      "comments": 99,
-      "time": "2026-08-05 21:29"
+      "id": 49203105,
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "score": 118,
+      "by": "gnabgib",
+      "comments": 19,
+      "time": "2026-08-06 21:52"
     },
     {
-      "id": 49187575,
-      "title": "Muse Code and Muse Spark 1.2",
-      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-      "score": 228,
-      "by": "paulkrush",
-      "comments": 134,
-      "time": "2026-08-05 19:15"
+      "id": 49199357,
+      "title": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "score": 197,
+      "by": "tedsanders",
+      "comments": 146,
+      "time": "2026-08-06 17:02"
     },
     {
-      "id": 49112348,
-      "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
-      "url": "https://quantego.org/",
-      "score": 14,
-      "by": "rbanffy",
-      "comments": 2,
-      "time": "2026-07-30 16:35"
+      "id": 49198302,
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+      "score": 368,
+      "by": "Footkerchief",
+      "comments": 297,
+      "time": "2026-08-06 15:49"
     },
     {
-      "id": 49186762,
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "score": 280,
-      "by": "moonikakiss",
-      "comments": 70,
-      "time": "2026-08-05 18:18"
+      "id": 49198069,
+      "title": "Almost no skill required to cook a steak",
+      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+      "score": 314,
+      "by": "yusyd",
+      "comments": 353,
+      "time": "2026-08-06 15:30"
     }
   ]
 }
