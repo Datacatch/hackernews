@@ -1,96 +1,96 @@
 {
-  "fetched_at": "2026-08-07T05:42:49.490878",
+  "fetched_at": "2026-08-08T05:00:22.393997",
   "count": 10,
   "stories": [
     {
-      "id": 49201970,
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "score": 511,
-      "by": "itvision",
-      "comments": 393,
-      "time": "2026-08-06 20:23"
+      "id": 49218179,
+      "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "score": 120,
+      "by": "wglb",
+      "comments": 15,
+      "time": "2026-08-08 01:49"
     },
     {
-      "id": 49195231,
-      "title": "Mario Meets Pareto",
-      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-      "score": 959,
-      "by": "theanonymousone",
-      "comments": 152,
-      "time": "2026-08-06 11:24"
+      "id": 49217993,
+      "title": "The Nixpkgs core team has disbanded",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "score": 188,
+      "by": "Meleagris",
+      "comments": 85,
+      "time": "2026-08-08 01:12"
     },
     {
-      "id": 49184355,
-      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
-      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-      "score": 189,
-      "by": "neversaydie",
-      "comments": 39,
-      "time": "2026-08-05 15:33"
+      "id": 49214008,
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "score": 534,
+      "by": "tosh",
+      "comments": 315,
+      "time": "2026-08-07 17:56"
     },
     {
-      "id": 49199346,
-      "title": "Taste Is All That's Left",
-      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "score": 308,
-      "by": "tsak",
-      "comments": 237,
-      "time": "2026-08-06 17:01"
+      "id": 49216946,
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "url": "https://genesisopenmodels.anl.gov/",
+      "score": 166,
+      "by": "moelf",
+      "comments": 58,
+      "time": "2026-08-07 22:24"
     },
     {
-      "id": 49129015,
-      "title": "Atomic Clocks",
-      "url": "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work",
-      "score": 12,
-      "by": "teleforce",
-      "comments": 1,
-      "time": "2026-07-31 21:58"
+      "id": 49189457,
+      "title": "Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night",
+      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+      "score": 48,
+      "by": "aanet",
+      "comments": 6,
+      "time": "2026-08-05 21:44"
     },
     {
-      "id": 49202716,
-      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-      "score": 85,
-      "by": "Audiophilip",
-      "comments": 14,
-      "time": "2026-08-06 21:18"
+      "id": 49214098,
+      "title": "Assembly Hall of Shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "score": 287,
+      "by": "piotrgrabowski",
+      "comments": 69,
+      "time": "2026-08-07 18:01"
     },
     {
-      "id": 49203105,
-      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-      "score": 118,
-      "by": "gnabgib",
-      "comments": 19,
-      "time": "2026-08-06 21:52"
+      "id": 49135261,
+      "title": "SupererDuperer",
+      "url": "https://www.shirtpocket.com/blog/supererduperer",
+      "score": 67,
+      "by": "zdw",
+      "comments": 5,
+      "time": "2026-08-01 15:26"
     },
     {
-      "id": 49199357,
-      "title": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "score": 197,
-      "by": "tedsanders",
-      "comments": 146,
-      "time": "2026-08-06 17:02"
+      "id": 49209539,
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "score": 510,
+      "by": "RickJWagner",
+      "comments": 595,
+      "time": "2026-08-07 12:42"
     },
     {
-      "id": 49198302,
-      "title": "GitHub Actions and Pages are experiencing degraded availability",
-      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-      "score": 368,
-      "by": "Footkerchief",
-      "comments": 297,
-      "time": "2026-08-06 15:49"
+      "id": 49214770,
+      "title": "Ancient Library \u2013 1,060 Greek/Latin texts, click any word to parse it",
+      "url": "https://ancientlibrary.net/",
+      "score": 175,
+      "by": "aagha",
+      "comments": 56,
+      "time": "2026-08-07 18:51"
     },
     {
-      "id": 49198069,
-      "title": "Almost no skill required to cook a steak",
-      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
-      "score": 314,
-      "by": "yusyd",
-      "comments": 353,
-      "time": "2026-08-06 15:30"
+      "id": 49214468,
+      "title": "Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "score": 196,
+      "by": "moonikakiss",
+      "comments": 187,
+      "time": "2026-08-07 18:25"
     }
   ]
 }
