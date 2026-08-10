@@ -10,7 +10,7 @@ BASE_URL = "https://hacker-news.firebaseio.com/v0"
 TO_EMAIL = "24pradeep@gmail.com"
 
 
-def get_top_stories(limit=20):
+def get_top_stories(limit=30):
     """Fetch top N stories from HackerNews"""
     print(f"\n🔍 Fetching top {limit} HackerNews stories...")
     print(f"⏰ Run time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
@@ -124,7 +124,7 @@ def send_email(stories):
         raise ValueError("Missing GMAIL_ADDRESS or GMAIL_APP_PASSWORD")
 
     today = datetime.now().strftime("%d %B %Y")
-    subject = f"🔥 HackerNews Top 20 Stories — {today}"
+    subject = f"🔥 HackerNews Top 30 Stories — {today}"
 
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
@@ -156,7 +156,7 @@ def print_stories(stories):
 
 
 if __name__ == "__main__":
-    stories = get_top_stories(limit=20)
+    stories = get_top_stories(limit=30)
     print_stories(stories)
     save_to_json(stories)
     send_email(stories)
