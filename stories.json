@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-08-10T05:46:50.436937",
+  "fetched_at": "2026-08-10T05:47:23.456526",
   "count": 20,
   "stories": [
     {
       "id": 49239021,
       "title": "Auto mode is now the default in Claude Code",
       "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "score": 87,
+      "score": 88,
       "by": "sbehere",
       "comments": 48,
       "time": "2026-08-10 03:50"
@@ -24,10 +24,19 @@
       "id": 49238851,
       "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
       "url": "https://www.whodunnitai.com/",
-      "score": 39,
+      "score": 40,
       "by": "MrRowTheBoat",
       "comments": 2,
       "time": "2026-08-10 03:18"
+    },
+    {
+      "id": 49234675,
+      "title": "How I use LLMs to learn complex topics",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "score": 552,
+      "by": "laurentiurad",
+      "comments": 312,
+      "time": "2026-08-09 19:16"
     },
     {
       "id": 49239095,
@@ -37,15 +46,6 @@
       "by": "ryzvonusef",
       "comments": 12,
       "time": "2026-08-10 04:06"
-    },
-    {
-      "id": 49234675,
-      "title": "How I use LLMs to learn complex topics",
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "score": 551,
-      "by": "laurentiurad",
-      "comments": 312,
-      "time": "2026-08-09 19:16"
     },
     {
       "id": 49238818,
@@ -161,7 +161,7 @@
       "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
       "score": 96,
       "by": "berghoffer",
-      "comments": 60,
+      "comments": 61,
       "time": "2026-08-09 20:42"
     },
     {
@@ -177,7 +177,7 @@
       "id": 49230477,
       "title": "Everything you do is being recorded",
       "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
-      "score": 255,
+      "score": 256,
       "by": "ike_usawa",
       "comments": 203,
       "time": "2026-08-09 11:30"
