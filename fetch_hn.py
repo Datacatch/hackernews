@@ -10,7 +10,7 @@ BASE_URL = "https://hacker-news.firebaseio.com/v0"
 TO_EMAIL = "24pradeep@gmail.com"
 
 
-def get_top_stories(limit=10):
+def get_top_stories(limit=20):
     """Fetch top N stories from HackerNews"""
     print(f"\n🔍 Fetching top {limit} HackerNews stories...")
     print(f"⏰ Run time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
