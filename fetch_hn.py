@@ -124,7 +124,7 @@ def send_email(stories):
         raise ValueError("Missing GMAIL_ADDRESS or GMAIL_APP_PASSWORD")
 
     today = datetime.now().strftime("%d %B %Y")
-    subject = f"🔥 HackerNews Top 10 Stories — {today}"
+    subject = f"🔥 HackerNews Top 20 Stories — {today}"
 
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
@@ -156,7 +156,7 @@ def print_stories(stories):
 
 
 if __name__ == "__main__":
-    stories = get_top_stories(limit=10)
+    stories = get_top_stories(limit=20)
     print_stories(stories)
     save_to_json(stories)
     send_email(stories)
