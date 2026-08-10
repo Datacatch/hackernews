@@ -1,21 +1,21 @@
 {
-  "fetched_at": "2026-08-10T05:36:34.719142",
-  "count": 10,
+  "fetched_at": "2026-08-10T05:46:50.436937",
+  "count": 20,
   "stories": [
     {
       "id": 49239021,
       "title": "Auto mode is now the default in Claude Code",
       "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "score": 77,
+      "score": 87,
       "by": "sbehere",
-      "comments": 34,
+      "comments": 48,
       "time": "2026-08-10 03:50"
     },
     {
       "id": 49238561,
       "title": "What Happened to HackerOne?",
       "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-      "score": 139,
+      "score": 143,
       "by": "hipparchus",
       "comments": 40,
       "time": "2026-08-10 02:23"
@@ -24,73 +24,163 @@
       "id": 49238851,
       "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
       "url": "https://www.whodunnitai.com/",
-      "score": 33,
+      "score": 39,
       "by": "MrRowTheBoat",
-      "comments": 1,
+      "comments": 2,
       "time": "2026-08-10 03:18"
-    },
-    {
-      "id": 49234675,
-      "title": "How I use LLMs to learn complex topics",
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "score": 542,
-      "by": "laurentiurad",
-      "comments": 311,
-      "time": "2026-08-09 19:16"
     },
     {
       "id": 49239095,
       "title": "Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)",
       "url": "https://www.nber.org/papers/w35560",
-      "score": 39,
+      "score": 44,
       "by": "ryzvonusef",
-      "comments": 11,
+      "comments": 12,
       "time": "2026-08-10 04:06"
     },
     {
-      "id": 49238735,
-      "title": "Turn satellite imagery into a paper globe you fold yourself",
-      "url": "https://foldingglobes.com/",
-      "score": 24,
-      "by": "dango2506",
-      "comments": 5,
-      "time": "2026-08-10 02:57"
+      "id": 49234675,
+      "title": "How I use LLMs to learn complex topics",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "score": 551,
+      "by": "laurentiurad",
+      "comments": 312,
+      "time": "2026-08-09 19:16"
     },
     {
       "id": 49238818,
       "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
       "url": "https://github.com/shinyquagsire23/Klepton",
-      "score": 22,
+      "score": 24,
       "by": "LorenDB",
       "comments": 0,
       "time": "2026-08-10 03:12"
     },
     {
+      "id": 49238735,
+      "title": "Turn satellite imagery into a paper globe you fold yourself",
+      "url": "https://foldingglobes.com/",
+      "score": 25,
+      "by": "dango2506",
+      "comments": 5,
+      "time": "2026-08-10 02:57"
+    },
+    {
       "id": 49238050,
       "title": "How We Pushed CDC into Postgres",
       "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-      "score": 65,
+      "score": 66,
       "by": "craigkerstiens",
       "comments": 6,
       "time": "2026-08-10 01:01"
     },
     {
+      "id": 49206028,
+      "title": "Slap ROM Patcher",
+      "url": "https://nyuu.page/projects/slap/",
+      "score": 5,
+      "by": "apsec112",
+      "comments": 0,
+      "time": "2026-08-07 04:54"
+    },
+    {
       "id": 49232253,
       "title": "Taxi drivers rarely die of Alzheimer's",
       "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-      "score": 236,
+      "score": 241,
       "by": "jader201",
-      "comments": 175,
+      "comments": 177,
       "time": "2026-08-09 15:21"
     },
     {
       "id": 49233423,
       "title": "Ask HN: What are you working on? (August 2026)",
       "url": "#",
-      "score": 214,
+      "score": 216,
       "by": "david927",
-      "comments": 751,
+      "comments": 756,
       "time": "2026-08-09 17:23"
+    },
+    {
+      "id": 49235011,
+      "title": "The tragedy of the commons, AI edition",
+      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+      "score": 102,
+      "by": "simonpure",
+      "comments": 56,
+      "time": "2026-08-09 19:43"
+    },
+    {
+      "id": 49174017,
+      "title": "Nearest Pint",
+      "url": "https://knowwhereconsulting.co.uk/maps/pubs/",
+      "score": 12,
+      "by": "bookofjoe",
+      "comments": 1,
+      "time": "2026-08-04 19:47"
+    },
+    {
+      "id": 49202912,
+      "title": "ATProto for Distributed Systems Engineers",
+      "url": "https://atproto.com/articles/atproto-for-distsys-engineers",
+      "score": 42,
+      "by": "LelouBil",
+      "comments": 7,
+      "time": "2026-08-06 21:35"
+    },
+    {
+      "id": 49182148,
+      "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
+      "url": "https://gitlab.com/Kazade/picophysics",
+      "score": 39,
+      "by": "klaussilveira",
+      "comments": 10,
+      "time": "2026-08-05 12:52"
+    },
+    {
+      "id": 49231809,
+      "title": "Cool URIs Don't Change (1998)",
+      "url": "https://www.w3.org/Provider/Style/URI",
+      "score": 215,
+      "by": "Klaster_1",
+      "comments": 53,
+      "time": "2026-08-09 14:32"
+    },
+    {
+      "id": 49235697,
+      "title": "Tuxedo No. 2 \u2013 Cocktail recipes",
+      "url": "https://tuxedono2.com",
+      "score": 73,
+      "by": "smartmic",
+      "comments": 19,
+      "time": "2026-08-09 20:48"
+    },
+    {
+      "id": 49235641,
+      "title": "New Zealand lost its music media, and what we're building to replace it",
+      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+      "score": 96,
+      "by": "berghoffer",
+      "comments": 60,
+      "time": "2026-08-09 20:42"
+    },
+    {
+      "id": 49205793,
+      "title": "\"The Persian M\u00e2R-N\u00e2meh Or, the Book for Taking Omens from Snakes\" (1892)",
+      "url": "https://publicdomainreview.org/collection/marnameh/",
+      "score": 47,
+      "by": "Thevet",
+      "comments": 5,
+      "time": "2026-08-07 04:04"
+    },
+    {
+      "id": 49230477,
+      "title": "Everything you do is being recorded",
+      "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+      "score": 255,
+      "by": "ike_usawa",
+      "comments": 203,
+      "time": "2026-08-09 11:30"
     }
   ]
 }
