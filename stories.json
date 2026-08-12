@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-08-11T05:13:05.500740",
+  "fetched_at": "2026-08-12T05:39:57.147722",
   "count": 30,
   "stories": [
     {
-      "id": 49252179,
-      "title": "H3-metal \u2013 Native MiniMax-H3 inference for Apple Silicon",
-      "url": "https://github.com/antirez/h3.c",
-      "score": 132,
-      "by": "swyx",
-      "comments": 15,
-      "time": "2026-08-11 01:22"
+      "id": 49263497,
+      "title": "Compression is prediction",
+      "url": "https://ngrok.com/blog/compression-is-prediction",
+      "score": 410,
+      "by": "nikolay",
+      "comments": 164,
+      "time": "2026-08-11 19:49"
     },
     {
-      "id": 49251702,
-      "title": "Chicken Scheme 6.0",
-      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-      "score": 112,
-      "by": "eatonphil",
-      "comments": 13,
-      "time": "2026-08-11 00:24"
-    },
-    {
-      "id": 49251179,
-      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
-      "url": "https://everycube.alen.is/",
-      "score": 130,
-      "by": "Alen123",
-      "comments": 31,
-      "time": "2026-08-10 23:16"
-    },
-    {
-      "id": 49252462,
-      "title": "Recycle \u2013 Floppydisks",
-      "url": "https://www.floppydisk.com/recycle",
-      "score": 36,
-      "by": "calvinmorrison",
-      "comments": 9,
-      "time": "2026-08-11 02:01"
-    },
-    {
-      "id": 49184220,
-      "title": "The \u201cmechanical miracle\u201d that ruined Mark Twain\u2019s life",
-      "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-      "score": 90,
-      "by": "benbreen",
-      "comments": 38,
-      "time": "2026-08-05 15:22"
-    },
-    {
-      "id": 49246804,
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "url": "https://cactuscompute.com/needle",
-      "score": 246,
-      "by": "HenryNdubuaku",
-      "comments": 97,
-      "time": "2026-08-10 17:22"
-    },
-    {
-      "id": 49252493,
-      "title": "Hyperspace",
-      "url": "https://hypercritical.co/hyperspace/",
-      "score": 33,
-      "by": "swyx",
-      "comments": 21,
-      "time": "2026-08-11 02:04"
-    },
-    {
-      "id": 49243880,
-      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-      "score": 436,
-      "by": "root-parent",
-      "comments": 419,
-      "time": "2026-08-10 14:06"
-    },
-    {
-      "id": 49173107,
-      "title": "LFM2.5 2.6B model competitive with 4x larger models",
-      "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-      "score": 8,
-      "by": "nateb2022",
-      "comments": 1,
-      "time": "2026-08-04 18:47"
-    },
-    {
-      "id": 49247477,
-      "title": "Rust SIMD on the GPU",
-      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
-      "score": 159,
-      "by": "sagacity",
-      "comments": 72,
-      "time": "2026-08-10 18:12"
-    },
-    {
-      "id": 49209918,
-      "title": "Stowaway \u2013 Take the window seat on any plane or satellite overhead",
-      "url": "https://stowaway.live/",
-      "score": 192,
-      "by": "thunderbong",
-      "comments": 18,
-      "time": "2026-08-07 13:15"
-    },
-    {
-      "id": 49250894,
-      "title": "World Train Map \u2013 1247 train routes around the world",
-      "url": "https://worldtrainmap.com/",
-      "score": 85,
-      "by": "Flightmussy",
-      "comments": 27,
-      "time": "2026-08-10 22:42"
-    },
-    {
-      "id": 49208296,
-      "title": "Sonic Pi v5",
-      "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-      "score": 338,
-      "by": "samaaron",
-      "comments": 83,
-      "time": "2026-08-07 10:26"
-    },
-    {
-      "id": 49212449,
-      "title": "Publishing Schematics Before \u201cOpen Source\u201d Was a Word",
-      "url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
-      "score": 79,
-      "by": "extralongdivisi",
-      "comments": 18,
-      "time": "2026-08-07 15:59"
-    },
-    {
-      "id": 49249555,
-      "title": "Confessions of a Long-Distance Sailor",
-      "url": "https://arachnoid.com/lutusp/sailbook.html",
-      "score": 82,
-      "by": "AntiRush",
-      "comments": 20,
-      "time": "2026-08-10 20:52"
-    },
-    {
-      "id": 49241679,
-      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "score": 1076,
-      "by": "riordan",
-      "comments": 592,
-      "time": "2026-08-10 10:10"
-    },
-    {
-      "id": 49242653,
-      "title": "Squeak 6.1",
-      "url": "https://squeak.org/release_notes/6.1/",
-      "score": 243,
-      "by": "fniephaus",
-      "comments": 122,
-      "time": "2026-08-10 12:15"
-    },
-    {
-      "id": 49253329,
-      "title": "Microsoft Responds to Outcry After Quiet Enterprise Install of Beta 'Photos' App",
-      "url": "https://www.neowin.net/news/windows-11-admins-unhappy-as-microsoft-found-installing-unexpected-new-onedrive-photos-app/",
-      "score": 14,
-      "by": "m463",
-      "comments": 2,
-      "time": "2026-08-11 04:18"
-    },
-    {
-      "id": 49243474,
-      "title": "Humanising LLM Outputs Is Dumb",
-      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-      "score": 185,
-      "by": "kuberwastaken",
-      "comments": 114,
-      "time": "2026-08-10 13:35"
-    },
-    {
-      "id": 49215111,
-      "title": "Choral: Choreographic Programming for Java",
-      "url": "https://www.choral-lang.org/",
+      "id": 49267818,
+      "title": "Dropbox, loved by the masses, a shareholder dead end",
+      "url": "https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/",
       "score": 13,
-      "by": "dplyukhin",
-      "comments": 1,
-      "time": "2026-08-07 19:21"
+      "by": "Taikhoom10",
+      "comments": 6,
+      "time": "2026-08-12 04:30"
     },
     {
-      "id": 49245936,
-      "title": "What's the best programming language for coding agents?",
-      "url": "http://danluu.com/pl-tokens/",
-      "score": 106,
-      "by": "chaychoong",
-      "comments": 73,
-      "time": "2026-08-10 16:28"
+      "id": 49201953,
+      "title": "The hardest working font in Manhattan (2025)",
+      "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+      "score": 89,
+      "by": "dcminter",
+      "comments": 14,
+      "time": "2026-08-06 20:22"
     },
     {
-      "id": 49245491,
-      "title": "Exploiting System Management Mode with a very long interrupt",
-      "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
-      "score": 147,
-      "by": "WhiteDawn",
+      "id": 49266921,
+      "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
+      "url": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
+      "score": 49,
+      "by": "andsoitis",
+      "comments": 12,
+      "time": "2026-08-12 01:45"
+    },
+    {
+      "id": 49267928,
+      "title": "llama.cpp",
+      "url": "https://llama.app",
+      "score": 7,
+      "by": "kristianpaul",
+      "comments": 0,
+      "time": "2026-08-12 04:51"
+    },
+    {
+      "id": 49265051,
+      "title": "WorldClaw Agentic 3D open-world generation at scale",
+      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "score": 179,
+      "by": "EwanG",
       "comments": 54,
-      "time": "2026-08-10 16:03"
+      "time": "2026-08-11 21:56"
     },
     {
-      "id": 49178868,
-      "title": "The Story of Mac: A Just-So Story",
-      "url": "https://gigamonkeys.com/book/macros-defining-your-own",
-      "score": 22,
-      "by": "kscarlet",
+      "id": 49263340,
+      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "score": 206,
+      "by": "droidjj",
+      "comments": 110,
+      "time": "2026-08-11 19:35"
+    },
+    {
+      "id": 49257876,
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://stolen-thoughts.com/",
+      "score": 568,
+      "by": "quantumgarbage",
+      "comments": 249,
+      "time": "2026-08-11 13:22"
+    },
+    {
+      "id": 49261128,
+      "title": "Mojo 1.0",
+      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+      "score": 345,
+      "by": "dayanruben",
+      "comments": 162,
+      "time": "2026-08-11 16:56"
+    },
+    {
+      "id": 49267108,
+      "title": "The Human Is the Loop",
+      "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+      "score": 39,
+      "by": "burnto",
+      "comments": 14,
+      "time": "2026-08-12 02:15"
+    },
+    {
+      "id": 49257160,
+      "title": "OpenAI\u2019s head of ethics leaves less than a year after joining",
+      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+      "score": 359,
+      "by": "ilamont",
+      "comments": 373,
+      "time": "2026-08-11 12:23"
+    },
+    {
+      "id": 49267057,
+      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+      "score": 109,
+      "by": "Anon84",
+      "comments": 22,
+      "time": "2026-08-12 02:05"
+    },
+    {
+      "id": 49266899,
+      "title": "New Bedford police officer accused of using Flock cameras to track ex-partner",
+      "url": "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/",
+      "score": 127,
+      "by": "newsomix9xl",
+      "comments": 65,
+      "time": "2026-08-12 01:42"
+    },
+    {
+      "id": 49261514,
+      "title": "Grok Bot",
+      "url": "https://x.ai/bot",
+      "score": 220,
+      "by": "rvz",
+      "comments": 176,
+      "time": "2026-08-11 17:23"
+    },
+    {
+      "id": 49257853,
+      "title": "Neutrinos from Deep Inside Earth Provide a New Picture of the Mantle",
+      "url": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
+      "score": 24,
+      "by": "rbanffy",
       "comments": 2,
-      "time": "2026-08-05 05:24"
+      "time": "2026-08-11 13:20"
     },
     {
-      "id": 49253250,
-      "title": "Updated GPG Key for Signing Firefox and Thunderbird Releases",
-      "url": "https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/",
-      "score": 14,
-      "by": "csmantle",
-      "comments": 3,
-      "time": "2026-08-11 04:04"
+      "id": 49243270,
+      "title": "Flatworms, Ion Channels, and Burning Mouths",
+      "url": "https://www.science.org/content/blog-post/flatworms-ion-channels-and-burning-mouths",
+      "score": 16,
+      "by": "surprisetalk",
+      "comments": 1,
+      "time": "2026-08-10 13:20"
     },
     {
-      "id": 49253176,
-      "title": "Why My Father Is Wrong: A Defense of Guitar Hero",
-      "url": "https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/",
-      "score": 20,
-      "by": "Tomte",
+      "id": 49226623,
+      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+      "url": "https://photosynthesis.camera",
+      "score": 245,
+      "by": "sajomes",
+      "comments": 237,
+      "time": "2026-08-08 22:47"
+    },
+    {
+      "id": 49262811,
+      "title": "Making holograms with a pen plotter",
+      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+      "score": 137,
+      "by": "DemiGuru",
+      "comments": 14,
+      "time": "2026-08-11 18:51"
+    },
+    {
+      "id": 49196657,
+      "title": "Show HN: Line9 \u2013 A Mermaid rendering engine with its own layout",
+      "url": "https://line9.ai/diagram",
+      "score": 53,
+      "by": "jumpalongjim",
+      "comments": 13,
+      "time": "2026-08-06 13:47"
+    },
+    {
+      "id": 49210199,
+      "title": "Show HN: Tamron Lens Utility Alternative on Linux",
+      "url": "https://github.com/yikerman/tamron-lens-control",
+      "score": 47,
+      "by": "xiaoyu2006",
+      "comments": 0,
+      "time": "2026-08-07 13:36"
+    },
+    {
+      "id": 49261133,
+      "title": "Go is an ideal language for AI-assisted software engineering",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "score": 324,
+      "by": "0xedb",
+      "comments": 377,
+      "time": "2026-08-11 16:57"
+    },
+    {
+      "id": 49223965,
+      "title": "Jolt: Clojure compiler implemented with Chez Scheme",
+      "url": "https://jolt-lang.github.io",
+      "score": 174,
+      "by": "mark_l_watson",
+      "comments": 61,
+      "time": "2026-08-08 17:38"
+    },
+    {
+      "id": 49199502,
+      "title": "Show HN: Find stale, orphaned, deleted-but-retrievable RAG vectors",
+      "url": "https://github.com/rimironenko/rag-staleness-check",
+      "score": 4,
+      "by": "rimironenko",
+      "comments": 0,
+      "time": "2026-08-06 17:13"
+    },
+    {
+      "id": 49257377,
+      "title": "England set to be one of the first countries to eliminate hepatitis C",
+      "url": "https://www.bbc.com/news/articles/c75gk620r22o",
+      "score": 508,
+      "by": "stevekemp",
+      "comments": 374,
+      "time": "2026-08-11 12:41"
+    },
+    {
+      "id": 49255496,
+      "title": "London Underground begins scanning passengers' faces",
+      "url": "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/",
+      "score": 275,
+      "by": "BlueBerry2001",
+      "comments": 276,
+      "time": "2026-08-11 09:40"
+    },
+    {
+      "id": 49262211,
+      "title": "How we used to get jobs: A newspaper classifieds story",
+      "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+      "score": 128,
+      "by": "speckx",
+      "comments": 99,
+      "time": "2026-08-11 18:09"
+    },
+    {
+      "id": 49255710,
+      "title": "Nvidia's Risky Business",
+      "url": "https://stratechery.com/2026/nvidias-risky-business/",
+      "score": 321,
+      "by": "jonbaer",
+      "comments": 153,
+      "time": "2026-08-11 10:02"
+    },
+    {
+      "id": 49265031,
+      "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
+      "score": 48,
+      "by": "saisrirampur",
       "comments": 4,
-      "time": "2026-08-11 03:52"
+      "time": "2026-08-11 21:54"
     },
     {
-      "id": 49246057,
-      "title": "Launch HN: Stoa Markets (YC S26) \u2013 A Marketplace for GPUs and AI Servers",
-      "url": "https://www.stoaexchange.com",
-      "score": 71,
-      "by": "erenberke",
-      "comments": 45,
-      "time": "2026-08-10 16:35"
+      "id": 49261417,
+      "title": "CSS properties you should know for better text designs",
+      "url": "https://master.dev/blog/typographic-css-tricks/",
+      "score": 98,
+      "by": "ibobev",
+      "comments": 11,
+      "time": "2026-08-11 17:16"
     },
     {
-      "id": 49241846,
-      "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
-      "url": "https://ethw.org/Milestones:Parametron,_1954",
-      "score": 208,
-      "by": "xeonmc",
-      "comments": 50,
-      "time": "2026-08-10 10:29"
-    },
-    {
-      "id": 49244308,
-      "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
-      "score": 104,
-      "by": "hackerBanana",
-      "comments": 189,
-      "time": "2026-08-10 14:38"
-    },
-    {
-      "id": 49243029,
-      "title": "50k Boat Names",
-      "url": "https://www.beautifulpublicdata.com/boat-names/",
-      "score": 172,
-      "by": "jonathanmkeegan",
-      "comments": 106,
-      "time": "2026-08-10 12:58"
-    },
-    {
-      "id": 49213660,
-      "title": "Ask HN: In your experience, what are sound conventions for e-ink UI development?",
-      "url": "#",
-      "score": 168,
-      "by": "BoxOfRain",
-      "comments": 55,
-      "time": "2026-08-07 17:29"
+      "id": 49258764,
+      "title": "Manus will return to operating as an independent company",
+      "url": "https://manus.im/blog/a-note-to-our-users",
+      "score": 146,
+      "by": "thm",
+      "comments": 70,
+      "time": "2026-08-11 14:14"
     }
   ]
 }
