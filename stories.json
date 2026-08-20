@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-08-19T04:40:33.756996",
+  "fetched_at": "2026-08-20T04:40:18.302266",
   "count": 30,
   "stories": [
     {
-      "id": 49355142,
-      "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
-      "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
-      "score": 325,
-      "by": "jplusequalt",
-      "comments": 166,
-      "time": "2026-08-19 00:53"
+      "id": 49364559,
+      "title": "OpenRouter is joining Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "score": 731,
+      "by": "rvz",
+      "comments": 369,
+      "time": "2026-08-19 17:32"
     },
     {
-      "id": 49355825,
-      "title": "Meta's blockbuster trial draws parallels to big tobacco",
-      "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
-      "score": 91,
-      "by": "newsomix9xl",
-      "comments": 65,
-      "time": "2026-08-19 02:24"
+      "id": 49365405,
+      "title": "Go 1.27",
+      "url": "https://go.dev/blog/go1.27",
+      "score": 514,
+      "by": "database64128",
+      "comments": 135,
+      "time": "2026-08-19 18:33"
     },
     {
-      "id": 49355606,
-      "title": "OpenLogi",
-      "url": "https://openlogi.org/en",
-      "score": 127,
-      "by": "amatheus",
-      "comments": 30,
-      "time": "2026-08-19 01:58"
+      "id": 49369408,
+      "title": "Turns are Better than Radians (2022)",
+      "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+      "score": 64,
+      "by": "mayoff",
+      "comments": 36,
+      "time": "2026-08-20 01:29"
     },
     {
-      "id": 49355968,
-      "title": "Palomar: A registry of Lean verified mathematics",
-      "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
-      "score": 29,
-      "by": "matt_d",
-      "comments": 3,
-      "time": "2026-08-19 02:41"
+      "id": 49323795,
+      "title": "A faster way to calculate the day of the week",
+      "url": "https://www.benjoffe.com/fast-day-of-week",
+      "score": 51,
+      "by": "gavide",
+      "comments": 6,
+      "time": "2026-08-16 21:20"
     },
     {
-      "id": 49353221,
-      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-      "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "score": 204,
-      "by": "phoenix120",
-      "comments": 58,
-      "time": "2026-08-18 21:50"
-    },
-    {
-      "id": 49354949,
-      "title": "Cerebras CS-4",
-      "url": "https://www.cerebras.ai/cs4",
-      "score": 145,
-      "by": "sunils34",
-      "comments": 99,
-      "time": "2026-08-19 00:28"
-    },
-    {
-      "id": 49345263,
-      "title": "The Amazon tax",
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 1040,
-      "by": "herbertl",
-      "comments": 602,
-      "time": "2026-08-18 13:22"
-    },
-    {
-      "id": 49355105,
-      "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
-      "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
-      "score": 79,
-      "by": "dabinat",
-      "comments": 47,
-      "time": "2026-08-19 00:48"
-    },
-    {
-      "id": 49354613,
-      "title": "Solo \u2013 a .so loader for static Linux binaries",
-      "url": "https://github.com/pg83/solo",
-      "score": 78,
-      "by": "zX41ZdbW",
-      "comments": 77,
-      "time": "2026-08-18 23:51"
-    },
-    {
-      "id": 49349984,
-      "title": "How does IKEA come up with names for its products?",
-      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-      "score": 268,
-      "by": "NaOH",
-      "comments": 155,
-      "time": "2026-08-18 18:11"
-    },
-    {
-      "id": 49286291,
-      "title": "CUDA Shared Memory Swizzling",
-      "url": "https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/",
-      "score": 18,
-      "by": "jxmorris12",
-      "comments": 0,
-      "time": "2026-08-13 14:13"
-    },
-    {
-      "id": 49353432,
-      "title": "AI usage patterns in software teams",
-      "url": "https://linear.app/data",
-      "score": 82,
-      "by": "giuliomagnifico",
-      "comments": 41,
-      "time": "2026-08-18 22:08"
-    },
-    {
-      "id": 49354664,
-      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
-      "url": "https://modelmap.cc",
-      "score": 57,
-      "by": "lizhaoliu",
-      "comments": 7,
-      "time": "2026-08-18 23:57"
-    },
-    {
-      "id": 49334209,
-      "title": "Cursor launches Origin, GitHub alternative",
-      "url": "https://cursor.com/changelog/origin-code-hosting",
-      "score": 520,
-      "by": "tomasreimers",
-      "comments": 387,
-      "time": "2026-08-17 17:02"
-    },
-    {
-      "id": 49349898,
-      "title": "Turbovec \u2013 Google's TurboQuant for vector search in Rust",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "score": 219,
-      "by": "fittingopposite",
-      "comments": 30,
-      "time": "2026-08-18 18:07"
-    },
-    {
-      "id": 49348912,
-      "title": "And then the men with guns tell you to do it anyway",
-      "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
-      "score": 224,
-      "by": "_djo_",
-      "comments": 136,
-      "time": "2026-08-18 17:11"
-    },
-    {
-      "id": 49311814,
-      "title": "A 25-year-old video patent just expired, ending a legal headache for Linux",
-      "url": "https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/",
-      "score": 126,
-      "by": "theanonymousone",
-      "comments": 43,
-      "time": "2026-08-15 16:17"
-    },
-    {
-      "id": 49345220,
-      "title": "Fixing a bricked Framework laptop",
-      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "score": 391,
-      "by": "jp_sc",
-      "comments": 263,
-      "time": "2026-08-18 13:18"
-    },
-    {
-      "id": 49334960,
-      "title": "Memory prices climb 500% in 12 months",
-      "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
-      "score": 534,
-      "by": "haunter",
-      "comments": 443,
-      "time": "2026-08-17 17:52"
-    },
-    {
-      "id": 49306207,
-      "title": "Supersonic Trebuchet [video]",
-      "url": "https://www.youtube.com/watch?v=Co57SfcT-h0",
-      "score": 6,
-      "by": "CharlesW",
-      "comments": 0,
-      "time": "2026-08-15 00:18"
-    },
-    {
-      "id": 49355232,
-      "title": "Tiny satellite will use the dark side of the Moon as a shield",
-      "url": "https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe",
-      "score": 19,
-      "by": "NordStreamYacht",
-      "comments": 1,
-      "time": "2026-08-19 01:06"
-    },
-    {
-      "id": 49355360,
-      "title": "That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis",
-      "url": "https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/",
-      "score": 17,
-      "by": "pseudolus",
-      "comments": 3,
-      "time": "2026-08-19 01:22"
-    },
-    {
-      "id": 49321298,
-      "title": "Being ambitious and being a dad",
-      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-      "score": 363,
-      "by": "nichochar",
-      "comments": 222,
-      "time": "2026-08-16 16:08"
-    },
-    {
-      "id": 49332981,
-      "title": "Universal health coverage could save $1T and 114k lives a year: study",
-      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-      "score": 783,
-      "by": "karakoram",
-      "comments": 842,
-      "time": "2026-08-17 15:49"
-    },
-    {
-      "id": 49351324,
-      "title": "Beware Management Consultants",
-      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-      "score": 477,
-      "by": "KolmogorovComp",
-      "comments": 125,
-      "time": "2026-08-18 19:29"
-    },
-    {
-      "id": 49295369,
-      "title": "How a giant battery is transforming a town centre in Cannington, Ontario",
-      "url": "https://betakit.com/how-a-giant-battery-is-transforming-a-town-centre-in-cannington-ontario/",
-      "score": 37,
-      "by": "builtbystef",
+      "id": 49294441,
+      "title": "Error by AI scribe during medical appointment leaves patient devastated",
+      "url": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
+      "score": 31,
+      "by": "ahonhn",
       "comments": 12,
-      "time": "2026-08-14 06:36"
+      "time": "2026-08-14 03:24"
     },
     {
-      "id": 49353854,
-      "title": "The 90-year history of the binoculars bolted to scenic overlooks",
-      "url": "https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/",
+      "id": 49362001,
+      "title": "Manabu Kosaka's Handmade Paper Sculptures",
+      "url": "https://coca11272000.wixsite.com/manabukosaka",
+      "score": 74,
+      "by": "surprisetalk",
+      "comments": 8,
+      "time": "2026-08-19 14:20"
+    },
+    {
+      "id": 49364745,
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "score": 367,
+      "by": "Animux",
+      "comments": 158,
+      "time": "2026-08-19 17:47"
+    },
+    {
+      "id": 49365841,
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "score": 163,
+      "by": "1e1a",
+      "comments": 39,
+      "time": "2026-08-19 19:06"
+    },
+    {
+      "id": 49365443,
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "score": 208,
+      "by": "jonesy827",
+      "comments": 80,
+      "time": "2026-08-19 18:36"
+    },
+    {
+      "id": 49360015,
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "score": 805,
+      "by": "kareiva",
+      "comments": 126,
+      "time": "2026-08-19 11:21"
+    },
+    {
+      "id": 49362887,
+      "title": "Casio F-B100W-1A",
+      "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+      "score": 306,
+      "by": "__fst__",
+      "comments": 247,
+      "time": "2026-08-19 15:28"
+    },
+    {
+      "id": 49348189,
+      "title": "Sol Loves to Cheat",
+      "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
+      "score": 99,
+      "by": "jumploops",
+      "comments": 63,
+      "time": "2026-08-18 16:29"
+    },
+    {
+      "id": 49360545,
+      "title": "Geolocating a random island using geometry and CUDA programming",
+      "url": "https://yassa9.github.io/osint/gralhix-004/",
+      "score": 431,
+      "by": "yassa9",
+      "comments": 77,
+      "time": "2026-08-19 12:19"
+    },
+    {
+      "id": 49367256,
+      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+      "url": "https://os8088.com/spotlight/",
+      "score": 60,
+      "by": "jggonz",
+      "comments": 32,
+      "time": "2026-08-19 21:11"
+    },
+    {
+      "id": 49361279,
+      "title": "PostgreSQL for Everything",
+      "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+      "score": 323,
+      "by": "karlmush",
+      "comments": 202,
+      "time": "2026-08-19 13:21"
+    },
+    {
+      "id": 49314109,
+      "title": "The little-known winstart.bat batch file",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605",
+      "score": 92,
+      "by": "ingve",
+      "comments": 23,
+      "time": "2026-08-15 20:37"
+    },
+    {
+      "id": 49366264,
+      "title": "Pixel 11 Pro Fold feels like the end of an era",
+      "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+      "score": 38,
+      "by": "animalcule",
+      "comments": 73,
+      "time": "2026-08-19 19:43"
+    },
+    {
+      "id": 49367350,
+      "title": "Feature Request: Support AGENTS.md",
+      "url": "https://github.com/anthropics/claude-code/issues/6235",
+      "score": 166,
+      "by": "fg137",
+      "comments": 95,
+      "time": "2026-08-19 21:19"
+    },
+    {
+      "id": 49353339,
+      "title": "fx :Tiny, open, native coding agent.",
+      "url": "https://fx.sh",
+      "score": 204,
+      "by": "handfuloflight",
+      "comments": 94,
+      "time": "2026-08-18 22:00"
+    },
+    {
+      "id": 49273010,
+      "title": "Simulacra and Simulation",
+      "url": "https://en.wikipedia.org/wiki/Simulacra_and_Simulation",
       "score": 41,
-      "by": "sohkamyung",
-      "comments": 7,
-      "time": "2026-08-18 22:43"
+      "by": "soupspaces",
+      "comments": 12,
+      "time": "2026-08-12 14:33"
     },
     {
-      "id": 49348055,
-      "title": "Apple announces changes for apps in the European Union",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "score": 135,
-      "by": "newusertoday",
-      "comments": 194,
-      "time": "2026-08-18 16:21"
+      "id": 49363710,
+      "title": "Launch HN: OneCLI (YC S26) \u2013 OSS sandboxed agent harness for teams",
+      "url": "https://github.com/onecli/onecli",
+      "score": 62,
+      "by": "guyb3",
+      "comments": 17,
+      "time": "2026-08-19 16:29"
     },
     {
-      "id": 49353407,
-      "title": "GLM-5.3 Artificial Analysis Benchmarks",
-      "url": "https://artificialanalysis.ai/models/glm-5-3",
-      "score": 108,
-      "by": "apitman",
-      "comments": 44,
-      "time": "2026-08-18 22:06"
+      "id": 49362728,
+      "title": "Mathematics in the age of AI",
+      "url": "https://arxiv.org/abs/2608.16753",
+      "score": 136,
+      "by": "jonbaer",
+      "comments": 171,
+      "time": "2026-08-19 15:14"
     },
     {
-      "id": 49355607,
-      "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
-      "url": "https://github.com/katiahayati/lucasartsifier/",
-      "score": 9,
-      "by": "wkfauna",
-      "comments": 3,
-      "time": "2026-08-19 01:58"
+      "id": 49310128,
+      "title": "Xorshift Generators",
+      "url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
+      "score": 59,
+      "by": "tobr",
+      "comments": 36,
+      "time": "2026-08-15 12:47"
+    },
+    {
+      "id": 49366792,
+      "title": "DFlash 2: Keep Drafting Parallel",
+      "url": "https://inco.ai/blog/dflash2/",
+      "score": 79,
+      "by": "mike-the-brain",
+      "comments": 10,
+      "time": "2026-08-19 20:28"
+    },
+    {
+      "id": 49362401,
+      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+      "url": "https://ornith.ai/ornith_1_5.html",
+      "score": 179,
+      "by": "CommonGuy",
+      "comments": 60,
+      "time": "2026-08-19 14:48"
+    },
+    {
+      "id": 49368828,
+      "title": "Universality of Gradient Descent Neural Network Training",
+      "url": "https://arxiv.org/abs/2007.13664",
+      "score": 16,
+      "by": "E-Reverance",
+      "comments": 2,
+      "time": "2026-08-20 00:05"
+    },
+    {
+      "id": 49359425,
+      "title": "Air Theremin \u2013 A browser theremin you play by waving at your webcam",
+      "url": "https://theremin.bizibah.com/",
+      "score": 264,
+      "by": "gurov",
+      "comments": 87,
+      "time": "2026-08-19 10:15"
+    },
+    {
+      "id": 49366597,
+      "title": "Pressed Penny Machine Map",
+      "url": "https://pennypresses.net/home/map.php",
+      "score": 56,
+      "by": "willmeyers",
+      "comments": 48,
+      "time": "2026-08-19 20:13"
+    },
+    {
+      "id": 49363668,
+      "title": "Extensible Software in the age of LLMs",
+      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+      "score": 125,
+      "by": "coloneltcb",
+      "comments": 50,
+      "time": "2026-08-19 16:26"
+    },
+    {
+      "id": 49350031,
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+      "score": 138,
+      "by": "j4mie",
+      "comments": 188,
+      "time": "2026-08-18 18:14"
     }
   ]
 }
