@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-08-20T04:40:18.302266",
+  "fetched_at": "2026-08-21T04:41:40.109418",
   "count": 30,
   "stories": [
     {
-      "id": 49364559,
-      "title": "OpenRouter is joining Stripe",
-      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "score": 731,
-      "by": "rvz",
-      "comments": 369,
-      "time": "2026-08-19 17:32"
-    },
-    {
-      "id": 49365405,
-      "title": "Go 1.27",
-      "url": "https://go.dev/blog/go1.27",
-      "score": 514,
-      "by": "database64128",
-      "comments": 135,
-      "time": "2026-08-19 18:33"
-    },
-    {
-      "id": 49369408,
-      "title": "Turns are Better than Radians (2022)",
-      "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-      "score": 64,
-      "by": "mayoff",
-      "comments": 36,
-      "time": "2026-08-20 01:29"
-    },
-    {
-      "id": 49323795,
-      "title": "A faster way to calculate the day of the week",
-      "url": "https://www.benjoffe.com/fast-day-of-week",
-      "score": 51,
-      "by": "gavide",
-      "comments": 6,
-      "time": "2026-08-16 21:20"
-    },
-    {
-      "id": 49294441,
-      "title": "Error by AI scribe during medical appointment leaves patient devastated",
-      "url": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
-      "score": 31,
-      "by": "ahonhn",
-      "comments": 12,
-      "time": "2026-08-14 03:24"
-    },
-    {
-      "id": 49362001,
-      "title": "Manabu Kosaka's Handmade Paper Sculptures",
-      "url": "https://coca11272000.wixsite.com/manabukosaka",
-      "score": 74,
-      "by": "surprisetalk",
+      "id": 49383326,
+      "title": "Codex on AWS bedrock bug causing 10x charges",
+      "url": "https://github.com/openai/codex/issues/37674",
+      "score": 29,
+      "by": "TheP1000",
       "comments": 8,
-      "time": "2026-08-19 14:20"
+      "time": "2026-08-21 03:17"
     },
     {
-      "id": 49364745,
-      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
-      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "score": 367,
-      "by": "Animux",
-      "comments": 158,
-      "time": "2026-08-19 17:47"
+      "id": 49378957,
+      "title": "The August 17 outage",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "score": 401,
+      "by": "0xedb",
+      "comments": 441,
+      "time": "2026-08-20 19:22"
     },
     {
-      "id": 49365841,
-      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-      "score": 163,
-      "by": "1e1a",
-      "comments": 39,
-      "time": "2026-08-19 19:06"
+      "id": 49347543,
+      "title": "I like 'em thick: an apology to my English teachers",
+      "url": "https://www.experimental-history.com/p/i-like-em-thick",
+      "score": 627,
+      "by": "Ariarule",
+      "comments": 270,
+      "time": "2026-08-18 15:50"
     },
     {
-      "id": 49365443,
-      "title": "Unsloth Dynamic 3.0 GGUFs",
-      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-      "score": 208,
-      "by": "jonesy827",
-      "comments": 80,
-      "time": "2026-08-19 18:36"
+      "id": 49362689,
+      "title": "HTML Can Do That",
+      "url": "https://chrisburnell.com/html-can-do-that/",
+      "score": 640,
+      "by": "encyclopedism",
+      "comments": 170,
+      "time": "2026-08-19 15:11"
     },
     {
-      "id": 49360015,
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "score": 805,
-      "by": "kareiva",
-      "comments": 126,
-      "time": "2026-08-19 11:21"
+      "id": 49374269,
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "score": 425,
+      "by": "abhisek",
+      "comments": 377,
+      "time": "2026-08-20 13:23"
     },
     {
-      "id": 49362887,
-      "title": "Casio F-B100W-1A",
-      "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
-      "score": 306,
-      "by": "__fst__",
-      "comments": 247,
-      "time": "2026-08-19 15:28"
+      "id": 49377853,
+      "title": "I should have loved biology (2020)",
+      "url": "https://jsomers.net/i-should-have-loved-biology/",
+      "score": 218,
+      "by": "tyre",
+      "comments": 82,
+      "time": "2026-08-20 17:50"
     },
     {
-      "id": 49348189,
-      "title": "Sol Loves to Cheat",
-      "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
-      "score": 99,
-      "by": "jumploops",
-      "comments": 63,
-      "time": "2026-08-18 16:29"
+      "id": 49329919,
+      "title": "Captain Zilog",
+      "url": "https://www.zilog.com/captain_zilog/",
+      "score": 21,
+      "by": "rbanffy",
+      "comments": 3,
+      "time": "2026-08-17 12:42"
     },
     {
-      "id": 49360545,
-      "title": "Geolocating a random island using geometry and CUDA programming",
-      "url": "https://yassa9.github.io/osint/gralhix-004/",
-      "score": 431,
-      "by": "yassa9",
-      "comments": 77,
-      "time": "2026-08-19 12:19"
+      "id": 49381896,
+      "title": "Ox Alpha",
+      "url": "https://openrouter.ai/stealth/ox-alpha",
+      "score": 63,
+      "by": "mtokmak06",
+      "comments": 49,
+      "time": "2026-08-20 23:56"
     },
     {
-      "id": 49367256,
-      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
-      "url": "https://os8088.com/spotlight/",
-      "score": 60,
-      "by": "jggonz",
-      "comments": 32,
-      "time": "2026-08-19 21:11"
+      "id": 49383026,
+      "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "score": 153,
+      "by": "Cider9986",
+      "comments": 99,
+      "time": "2026-08-21 02:37"
     },
     {
-      "id": 49361279,
-      "title": "PostgreSQL for Everything",
-      "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
-      "score": 323,
-      "by": "karlmush",
-      "comments": 202,
-      "time": "2026-08-19 13:21"
+      "id": 49304409,
+      "title": "Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K",
+      "url": "https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh",
+      "score": 20,
+      "by": "supermagnet",
+      "comments": 5,
+      "time": "2026-08-14 20:49"
     },
     {
-      "id": 49314109,
-      "title": "The little-known winstart.bat batch file",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605",
-      "score": 92,
-      "by": "ingve",
-      "comments": 23,
-      "time": "2026-08-15 20:37"
+      "id": 49378446,
+      "title": "Why aren't smart people happier? (2022)",
+      "url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
+      "score": 122,
+      "by": "rafaelc",
+      "comments": 169,
+      "time": "2026-08-20 18:38"
     },
     {
-      "id": 49366264,
-      "title": "Pixel 11 Pro Fold feels like the end of an era",
-      "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
-      "score": 38,
-      "by": "animalcule",
+      "id": 49368886,
+      "title": "CIA funding helped keep NeXT afloat in the 80s",
+      "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+      "score": 371,
+      "by": "EwanG",
+      "comments": 225,
+      "time": "2026-08-20 00:15"
+    },
+    {
+      "id": 49378768,
+      "title": "Show HN: Huzzah \u2013 a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "score": 245,
+      "by": "danielvaughn",
+      "comments": 138,
+      "time": "2026-08-20 19:05"
+    },
+    {
+      "id": 49382152,
+      "title": "There's no such thing as a small software team anymore",
+      "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
+      "score": 46,
+      "by": "mooreslaw",
+      "comments": 88,
+      "time": "2026-08-21 00:28"
+    },
+    {
+      "id": 49375996,
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "url": "https://github.com/zachahn/vomit",
+      "score": 211,
+      "by": "Bluestein",
+      "comments": 222,
+      "time": "2026-08-20 15:26"
+    },
+    {
+      "id": 49376265,
+      "title": "Linux 7.2",
+      "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+      "score": 214,
+      "by": "mariuz",
       "comments": 73,
-      "time": "2026-08-19 19:43"
+      "time": "2026-08-20 15:46"
     },
     {
-      "id": 49367350,
-      "title": "Feature Request: Support AGENTS.md",
-      "url": "https://github.com/anthropics/claude-code/issues/6235",
-      "score": 166,
-      "by": "fg137",
-      "comments": 95,
-      "time": "2026-08-19 21:19"
+      "id": 49348079,
+      "title": "Mojo is now open source",
+      "url": "https://www.modular.com/blog/mojo-open-source",
+      "score": 369,
+      "by": "visheshdembla",
+      "comments": 85,
+      "time": "2026-08-18 16:23"
     },
     {
-      "id": 49353339,
-      "title": "fx :Tiny, open, native coding agent.",
-      "url": "https://fx.sh",
-      "score": 204,
-      "by": "handfuloflight",
-      "comments": 94,
-      "time": "2026-08-18 22:00"
+      "id": 49372583,
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "score": 928,
+      "by": "emctech",
+      "comments": 295,
+      "time": "2026-08-20 10:08"
     },
     {
-      "id": 49273010,
-      "title": "Simulacra and Simulation",
-      "url": "https://en.wikipedia.org/wiki/Simulacra_and_Simulation",
-      "score": 41,
-      "by": "soupspaces",
-      "comments": 12,
-      "time": "2026-08-12 14:33"
+      "id": 49378933,
+      "title": "SpacetimeDB: A Short Technical Review",
+      "url": "https://strn.cat/posts/spacetime/",
+      "score": 69,
+      "by": "hurrrr",
+      "comments": 15,
+      "time": "2026-08-20 19:19"
     },
     {
-      "id": 49363710,
-      "title": "Launch HN: OneCLI (YC S26) \u2013 OSS sandboxed agent harness for teams",
-      "url": "https://github.com/onecli/onecli",
-      "score": 62,
-      "by": "guyb3",
-      "comments": 17,
-      "time": "2026-08-19 16:29"
+      "id": 49377739,
+      "title": "Project Cybersyn (2022)",
+      "url": "https://bactra.org/notebooks/cybersyn.html",
+      "score": 54,
+      "by": "cassepipe",
+      "comments": 41,
+      "time": "2026-08-20 17:40"
     },
     {
-      "id": 49362728,
-      "title": "Mathematics in the age of AI",
-      "url": "https://arxiv.org/abs/2608.16753",
-      "score": 136,
-      "by": "jonbaer",
-      "comments": 171,
-      "time": "2026-08-19 15:14"
+      "id": 49375719,
+      "title": "Anti-AI fonts are useless and harmful",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "score": 133,
+      "by": "speckx",
+      "comments": 88,
+      "time": "2026-08-20 15:06"
     },
     {
-      "id": 49310128,
-      "title": "Xorshift Generators",
-      "url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
-      "score": 59,
-      "by": "tobr",
-      "comments": 36,
-      "time": "2026-08-15 12:47"
+      "id": 49378243,
+      "title": "Consumer Rights Wiki",
+      "url": "https://consumerrights.wiki/w/Main_Page",
+      "score": 256,
+      "by": "gregsadetsky",
+      "comments": 42,
+      "time": "2026-08-20 18:19"
     },
     {
-      "id": 49366792,
-      "title": "DFlash 2: Keep Drafting Parallel",
-      "url": "https://inco.ai/blog/dflash2/",
-      "score": 79,
-      "by": "mike-the-brain",
-      "comments": 10,
-      "time": "2026-08-19 20:28"
+      "id": 49376332,
+      "title": "How to compromise your system with a job interview",
+      "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
+      "score": 133,
+      "by": "codedge",
+      "comments": 116,
+      "time": "2026-08-20 15:50"
     },
     {
-      "id": 49362401,
-      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
-      "url": "https://ornith.ai/ornith_1_5.html",
-      "score": 179,
-      "by": "CommonGuy",
-      "comments": 60,
-      "time": "2026-08-19 14:48"
+      "id": 49348141,
+      "title": "Git at any scale",
+      "url": "https://cursor.com/blog/git-at-any-scale",
+      "score": 298,
+      "by": "meetpateltech",
+      "comments": 99,
+      "time": "2026-08-18 16:26"
     },
     {
-      "id": 49368828,
-      "title": "Universality of Gradient Descent Neural Network Training",
-      "url": "https://arxiv.org/abs/2007.13664",
-      "score": 16,
-      "by": "E-Reverance",
-      "comments": 2,
-      "time": "2026-08-20 00:05"
+      "id": 49295112,
+      "title": "Speeding Up (Small) Ruby Hashes",
+      "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
+      "score": 32,
+      "by": "arto",
+      "comments": 0,
+      "time": "2026-08-14 05:45"
     },
     {
-      "id": 49359425,
-      "title": "Air Theremin \u2013 A browser theremin you play by waving at your webcam",
-      "url": "https://theremin.bizibah.com/",
-      "score": 264,
-      "by": "gurov",
-      "comments": 87,
-      "time": "2026-08-19 10:15"
+      "id": 49330622,
+      "title": "Hard Problems and Heuristic Answers",
+      "url": "https://stochastic.blog/hard-problems-and-heuristic-answers/",
+      "score": 4,
+      "by": "Anon84",
+      "comments": 0,
+      "time": "2026-08-17 13:36"
     },
     {
-      "id": 49366597,
-      "title": "Pressed Penny Machine Map",
-      "url": "https://pennypresses.net/home/map.php",
-      "score": 56,
-      "by": "willmeyers",
-      "comments": 48,
-      "time": "2026-08-19 20:13"
+      "id": 49379550,
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "score": 1211,
+      "by": "speckx",
+      "comments": 272,
+      "time": "2026-08-20 20:07"
     },
     {
-      "id": 49363668,
-      "title": "Extensible Software in the age of LLMs",
-      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-      "score": 125,
-      "by": "coloneltcb",
-      "comments": 50,
-      "time": "2026-08-19 16:26"
+      "id": 49360140,
+      "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
+      "url": "https://arxiv.org/abs/2504.09762",
+      "score": 203,
+      "by": "nunodonato",
+      "comments": 122,
+      "time": "2026-08-19 11:35"
     },
     {
-      "id": 49350031,
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-      "score": 138,
-      "by": "j4mie",
-      "comments": 188,
-      "time": "2026-08-18 18:14"
+      "id": 49374287,
+      "title": "DiffusionGemma Technical Report",
+      "url": "https://arxiv.org/abs/2608.00146",
+      "score": 142,
+      "by": "gmays",
+      "comments": 34,
+      "time": "2026-08-20 13:24"
+    },
+    {
+      "id": 49377248,
+      "title": "Sixtyfour (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
+      "score": 1,
+      "by": "HPMOR",
+      "comments": 0,
+      "time": "2026-08-20 17:01"
     }
   ]
 }
