@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-08-22T04:36:14.338619",
+  "fetched_at": "2026-08-23T04:40:42.138152",
   "count": 30,
   "stories": [
     {
-      "id": 49395628,
-      "title": "There's no reason for software to be slow anymore",
-      "url": "https://danluu.com/perf-opt/",
-      "score": 171,
-      "by": "Jach",
-      "comments": 139,
-      "time": "2026-08-22 01:06"
+      "id": 49405816,
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "url": "https://martypc.net/",
+      "score": 15,
+      "by": "boilerupnc",
+      "comments": 0,
+      "time": "2026-08-23 03:13"
     },
     {
-      "id": 49389430,
-      "title": "Felony Bench",
-      "url": "https://www.felonybench.com/",
-      "score": 585,
-      "by": "colinprince",
-      "comments": 244,
-      "time": "2026-08-21 15:17"
+      "id": 49402189,
+      "title": "Scrap (2006)",
+      "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "score": 346,
+      "by": "tosh",
+      "comments": 188,
+      "time": "2026-08-22 18:08"
     },
     {
-      "id": 49393052,
-      "title": "Rust Glancer: Rust LSP using 100x less RAM",
-      "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "score": 79,
-      "by": "matklad",
-      "comments": 24,
+      "id": 49402232,
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "score": 237,
+      "by": "felineflock",
+      "comments": 82,
+      "time": "2026-08-22 18:14"
+    },
+    {
+      "id": 49404380,
+      "title": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "score": 68,
+      "by": "stared",
+      "comments": 19,
+      "time": "2026-08-22 22:14"
+    },
+    {
+      "id": 49400408,
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "url": "https://quantumi.sh/public/labs.html",
+      "score": 342,
+      "by": "jemoka",
+      "comments": 108,
+      "time": "2026-08-22 14:54"
+    },
+    {
+      "id": 49351802,
+      "title": "Hister \u2013 A private, full content search index that you control",
+      "url": "https://hister.org/",
+      "score": 278,
+      "by": "auraham",
+      "comments": 73,
+      "time": "2026-08-18 20:00"
+    },
+    {
+      "id": 49405682,
+      "title": "I Dream of Quieter Computing",
+      "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+      "score": 8,
+      "by": "Sir_Twist",
+      "comments": 0,
+      "time": "2026-08-23 02:33"
+    },
+    {
+      "id": 49405331,
+      "title": "The Art and Beauty of Blade Runner",
+      "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+      "score": 19,
+      "by": "cocacola1",
+      "comments": 5,
+      "time": "2026-08-23 00:56"
+    },
+    {
+      "id": 49346854,
+      "title": "typ.ing",
+      "url": "https://typ.ing/",
+      "score": 216,
+      "by": "bookofjoe",
+      "comments": 63,
+      "time": "2026-08-18 15:12"
+    },
+    {
+      "id": 49355659,
+      "title": "RF Cafe",
+      "url": "https://www.rfcafe.com/",
+      "score": 172,
+      "by": "gregsadetsky",
+      "comments": 28,
+      "time": "2026-08-19 02:05"
+    },
+    {
+      "id": 49402107,
+      "title": "Reading Maps \u2013 Journeys from fiction drawn on the real world",
+      "url": "https://readingmaps.com/",
+      "score": 16,
+      "by": "hakkikonu",
+      "comments": 2,
+      "time": "2026-08-22 17:59"
+    },
+    {
+      "id": 49399898,
+      "title": "A Friendly Introduction to Racket",
+      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+      "score": 210,
+      "by": "signa11",
+      "comments": 108,
+      "time": "2026-08-22 14:08"
+    },
+    {
+      "id": 49387959,
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "score": 132,
+      "by": "olalonde",
+      "comments": 45,
+      "time": "2026-08-21 13:43"
+    },
+    {
+      "id": 49402202,
+      "title": "Thinking in Python",
+      "url": "https://thinkinginpython.com/",
+      "score": 100,
+      "by": "pjacotg",
+      "comments": 22,
+      "time": "2026-08-22 18:10"
+    },
+    {
+      "id": 49379732,
+      "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
+      "url": "https://atproto.com/blog/atproto-spaces-alpha",
+      "score": 127,
+      "by": "grappler",
+      "comments": 18,
+      "time": "2026-08-20 20:22"
+    },
+    {
+      "id": 49402781,
+      "title": "NetBSD and my life (2005)",
+      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "score": 105,
+      "by": "gnyeki",
+      "comments": 28,
+      "time": "2026-08-22 19:07"
+    },
+    {
+      "id": 49397074,
+      "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+      "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+      "score": 552,
+      "by": "tartoran",
+      "comments": 1331,
+      "time": "2026-08-22 06:16"
+    },
+    {
+      "id": 49398152,
+      "title": "Munder Difflin \u2013 Agent harness to run an office of your clones",
+      "url": "https://munderdiffl.in/",
+      "score": 264,
+      "by": "simonpure",
+      "comments": 117,
+      "time": "2026-08-22 09:49"
+    },
+    {
+      "id": 49393051,
+      "title": "A week of using Codex more than Claude",
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "score": 160,
+      "by": "speckx",
+      "comments": 177,
       "time": "2026-08-21 19:51"
     },
     {
-      "id": 49390427,
-      "title": "Kobo can run apps now",
-      "url": "https://bandarlabs.github.io/Cobalt/",
-      "score": 467,
-      "by": "thepoet",
-      "comments": 164,
-      "time": "2026-08-21 16:25"
+      "id": 49402181,
+      "title": "I set a trap for a book-marketing scammer (2025)",
+      "url": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
+      "score": 19,
+      "by": "rznicolet",
+      "comments": 16,
+      "time": "2026-08-22 18:08"
     },
     {
-      "id": 49395605,
-      "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
-      "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
-      "score": 40,
-      "by": "Cider9986",
-      "comments": 14,
-      "time": "2026-08-22 01:02"
+      "id": 49389846,
+      "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
+      "url": "https://www.pianoify.net/",
+      "score": 23,
+      "by": "jardy",
+      "comments": 7,
+      "time": "2026-08-21 15:44"
     },
     {
-      "id": 49396086,
-      "title": "Early Humans Likely Ate Carbs and Sugary Foods",
-      "url": "https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs",
-      "score": 16,
-      "by": "gmays",
-      "comments": 24,
-      "time": "2026-08-22 02:37"
-    },
-    {
-      "id": 49394496,
-      "title": "Three important steps in my maturation process",
-      "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-      "score": 90,
-      "by": "tdullien",
-      "comments": 26,
-      "time": "2026-08-21 22:29"
-    },
-    {
-      "id": 49392200,
-      "title": "Scientists release biggest 2D map of the universe",
-      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "score": 165,
-      "by": "NKosmatos",
-      "comments": 52,
-      "time": "2026-08-21 18:36"
-    },
-    {
-      "id": 49388154,
-      "title": "Kagi added a setting for removing paywalled links from search results",
-      "url": "https://kagi.com/changelog#11296",
-      "score": 1045,
+      "id": 49402213,
+      "title": "Figmimic \u2013 A bookmarklet to copy any webpage into Figma as editable layers",
+      "url": "https://marcua.net/minitools/figmimic/",
+      "score": 72,
       "by": "speckx",
-      "comments": 349,
-      "time": "2026-08-21 13:56"
-    },
-    {
-      "id": 49386895,
-      "title": "Felony charges for citizen deleting phone data at US Border",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "score": 637,
-      "by": "floathub",
-      "comments": 794,
-      "time": "2026-08-21 12:10"
-    },
-    {
-      "id": 49391553,
-      "title": "OTel isn't going well (and I made a spreadsheet about it)",
-      "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-      "score": 61,
-      "by": "hn_acker",
-      "comments": 21,
-      "time": "2026-08-21 17:45"
-    },
-    {
-      "id": 49387570,
-      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-      "url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "score": 478,
-      "by": "gavide",
-      "comments": 53,
-      "time": "2026-08-21 13:11"
-    },
-    {
-      "id": 49394827,
-      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-      "url": "https://ozbrain.com",
-      "score": 52,
-      "by": "dariusmonsef",
-      "comments": 21,
-      "time": "2026-08-21 23:09"
-    },
-    {
-      "id": 49381542,
-      "title": "Ozone: The fault is not in our trees, but in ourselves",
-      "url": "https://www.science.org/content/blog-post/fault-not-our-trees-ourselves",
-      "score": 12,
-      "by": "gumby",
-      "comments": 1,
-      "time": "2026-08-20 23:11"
-    },
-    {
-      "id": 49357530,
-      "title": "AI boosted homework scores, then exam scores dropped: study",
-      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-      "score": 260,
-      "by": "dash2",
-      "comments": 301,
-      "time": "2026-08-19 06:13"
-    },
-    {
-      "id": 49327408,
-      "title": "People of ACM \u2013 Russ Cox",
-      "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
-      "score": 112,
-      "by": "signa11",
-      "comments": 12,
-      "time": "2026-08-17 07:12"
-    },
-    {
-      "id": 49379183,
-      "title": "How orchids inspired the work of Charles Darwin",
-      "url": "https://lithub.com/how-orchids-inspired-the-groundbreaking-work-of-charles-darwin/",
-      "score": 12,
-      "by": "prismatic",
-      "comments": 0,
-      "time": "2026-08-20 19:41"
-    },
-    {
-      "id": 49388752,
-      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-      "score": 225,
-      "by": "aakil",
-      "comments": 159,
-      "time": "2026-08-21 14:31"
-    },
-    {
-      "id": 49389952,
-      "title": "How we made a text-to-speech model respond in sub-50 ms",
-      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-      "score": 121,
-      "by": "toebee",
-      "comments": 30,
-      "time": "2026-08-21 15:51"
-    },
-    {
-      "id": 49380303,
-      "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
-      "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
-      "score": 63,
-      "by": "gmays",
-      "comments": 20,
-      "time": "2026-08-20 21:08"
-    },
-    {
-      "id": 49393733,
-      "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
-      "url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
-      "score": 1,
-      "by": "maciejSz",
-      "comments": 0,
-      "time": "2026-08-21 21:00"
-    },
-    {
-      "id": 49387525,
-      "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
-      "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-      "score": 217,
-      "by": "speckx",
-      "comments": 160,
-      "time": "2026-08-21 13:07"
-    },
-    {
-      "id": 49395171,
-      "title": "HN: The Good Parts (2016)",
-      "url": "https://danluu.com/hn-comments/",
-      "score": 29,
-      "by": "adletbalzhanov",
       "comments": 8,
-      "time": "2026-08-21 23:53"
+      "time": "2026-08-22 18:11"
     },
     {
-      "id": 49374853,
-      "title": "A look under our trunk: what's in our compute",
-      "url": "https://waymo.com/blog/2026/08/look-under-our-trunk/",
-      "score": 107,
-      "by": "ra7",
-      "comments": 62,
-      "time": "2026-08-20 14:13"
-    },
-    {
-      "id": 49386699,
-      "title": "I'm becoming AI-blind",
-      "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "score": 307,
-      "by": "rcymerys",
-      "comments": 318,
-      "time": "2026-08-21 11:48"
-    },
-    {
-      "id": 49376769,
-      "title": "Everyone says assembly is untyped\u2014everyone is wrong",
-      "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
-      "score": 55,
-      "by": "adamrezich",
-      "comments": 18,
-      "time": "2026-08-20 16:22"
-    },
-    {
-      "id": 49392465,
-      "title": "Tumble Forth \u2013 from assembly to OS with C compiler (2023)",
-      "url": "https://tumbleforth.hardcoded.net/",
-      "score": 66,
-      "by": "vicek22",
-      "comments": 8,
-      "time": "2026-08-21 18:59"
-    },
-    {
-      "id": 49379026,
-      "title": "GitHub, autoscaling, and the component substitution fallacy",
-      "url": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
-      "score": 41,
-      "by": "jonemi",
-      "comments": 0,
-      "time": "2026-08-20 19:28"
+      "id": 49402741,
+      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+      "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+      "score": 174,
+      "by": "zdw",
+      "comments": 72,
+      "time": "2026-08-22 19:04"
     },
     {
       "id": 49376197,
       "title": "Autolith: A programming agent with a live runtime",
       "url": "https://www.lambda-symbolics.com/autolith",
-      "score": 49,
+      "score": 118,
       "by": "vismit2000",
-      "comments": 12,
+      "comments": 46,
       "time": "2026-08-20 15:40"
     },
     {
-      "id": 49326852,
-      "title": "Show HN: Rex, a parallel functional language for scientific workflows",
-      "url": "https://github.com/peterkelly/rex",
-      "score": 17,
-      "by": "peterkelly",
-      "comments": 2,
-      "time": "2026-08-17 05:28"
+      "id": 49360643,
+      "title": "What's in a PowerPoint File?",
+      "url": "https://editide.com/blog/what-is-a-pptx-file/",
+      "score": 72,
+      "by": "danielochoa0620",
+      "comments": 37,
+      "time": "2026-08-19 12:28"
+    },
+    {
+      "id": 49373822,
+      "title": "Conway's Game of Life in real life",
+      "url": "https://blog.coredump.cx/p/conways-game-of-life-in-real-life",
+      "score": 48,
+      "by": "surprisetalk",
+      "comments": 12,
+      "time": "2026-08-20 12:40"
+    },
+    {
+      "id": 49392536,
+      "title": "One night in Uzbekistan: Why was this one data point so influential?",
+      "url": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/",
+      "score": 87,
+      "by": "paulpauper",
+      "comments": 16,
+      "time": "2026-08-21 19:05"
+    },
+    {
+      "id": 49398158,
+      "title": "Z80 \u2013 The 1970s Microprocessor Still Alive (2021)",
+      "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+      "score": 127,
+      "by": "asdefghyk",
+      "comments": 58,
+      "time": "2026-08-22 09:49"
+    },
+    {
+      "id": 49399591,
+      "title": "New MCP Roadmap",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "score": 185,
+      "by": "pentagrama",
+      "comments": 128,
+      "time": "2026-08-22 13:31"
+    },
+    {
+      "id": 49394827,
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "url": "https://ozbrain.com",
+      "score": 82,
+      "by": "dariusmonsef",
+      "comments": 48,
+      "time": "2026-08-21 23:09"
     }
   ]
 }
