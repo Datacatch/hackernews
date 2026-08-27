@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-08-26T04:43:18.409800",
+  "fetched_at": "2026-08-27T15:03:41.441074",
   "count": 30,
   "stories": [
     {
-      "id": 49433292,
-      "title": "Apple introduces M6 and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "score": 1027,
-      "by": "interpol_p",
-      "comments": 948,
-      "time": "2026-08-25 13:01"
+      "id": 49464970,
+      "title": "Harness Engineering",
+      "url": "https://Habitat-Thinking.github.io/ai-literacy-superpowers/plugins/ai-literacy-superpowers/explanation/harness-engineering/",
+      "score": 60,
+      "by": "tomrod",
+      "comments": 24,
+      "time": "2026-08-27 13:54"
     },
     {
-      "id": 49439017,
-      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "score": 323,
-      "by": "sunnynagra",
-      "comments": 158,
-      "time": "2026-08-25 19:07"
+      "id": 49462763,
+      "title": "Pollen Robotics (Hugging Face) Microduck",
+      "url": "https://pollen-robotics.com/microduck/",
+      "score": 215,
+      "by": "robotswantdata",
+      "comments": 74,
+      "time": "2026-08-27 10:57"
     },
     {
-      "id": 49434378,
-      "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "score": 386,
-      "by": "bmulholland",
-      "comments": 257,
-      "time": "2026-08-25 14:06"
+      "id": 49464543,
+      "title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
+      "url": "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31",
+      "score": 49,
+      "by": "RahulMJ",
+      "comments": 12,
+      "time": "2026-08-27 13:22"
     },
     {
-      "id": 49433316,
-      "title": "New Mac Studio with M5 Max and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "score": 725,
-      "by": "interpol_p",
-      "comments": 481,
-      "time": "2026-08-25 13:03"
+      "id": 49458161,
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "score": 1574,
+      "by": "mfiguiere",
+      "comments": 712,
+      "time": "2026-08-27 01:12"
     },
     {
-      "id": 49442589,
-      "title": "Queryable Executables",
-      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-      "score": 53,
-      "by": "rguiscard",
-      "comments": 7,
-      "time": "2026-08-26 00:20"
-    },
-    {
-      "id": 49437210,
-      "title": "Black hole singularity is a surface not a point",
-      "url": "https://arxiv.org/abs/2608.21590",
-      "score": 213,
-      "by": "raattgift",
-      "comments": 152,
-      "time": "2026-08-25 17:02"
-    },
-    {
-      "id": 49441666,
-      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-      "url": "https://github.com/runetes/maiao",
-      "score": 48,
-      "by": "zdw",
-      "comments": 19,
-      "time": "2026-08-25 22:40"
-    },
-    {
-      "id": 49433450,
-      "title": "New Mac mini, featuring M6 and M5 Pro",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "score": 457,
-      "by": "runako",
-      "comments": 281,
-      "time": "2026-08-25 13:13"
-    },
-    {
-      "id": 49440410,
-      "title": "When str.lower() is a security vulnerability in Python \u2013 Seth Larson",
-      "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-      "score": 89,
-      "by": "rbanffy",
-      "comments": 38,
-      "time": "2026-08-25 20:49"
-    },
-    {
-      "id": 49439499,
-      "title": "C2PA Cameras Do Not Survive Contact with Reality",
-      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "score": 106,
-      "by": "Retr0id",
-      "comments": 56,
-      "time": "2026-08-25 19:38"
-    },
-    {
-      "id": 49443523,
-      "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
-      "url": "https://arxiv.org/abs/2607.21503",
-      "score": 9,
-      "by": "gdad",
-      "comments": 3,
-      "time": "2026-08-26 02:35"
-    },
-    {
-      "id": 49437283,
-      "title": "Nitter and XCancel receive cease and desist notices",
-      "url": "https://github.com/zedeus/nitter/issues/1442",
-      "score": 725,
-      "by": "Banditoz",
-      "comments": 620,
-      "time": "2026-08-25 17:08"
-    },
-    {
-      "id": 49441375,
-      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-      "url": "https://github.com/swimmingbrain/texbrain",
-      "score": 70,
-      "by": "swimmingbrain",
-      "comments": 11,
-      "time": "2026-08-25 22:08"
-    },
-    {
-      "id": 49437483,
-      "title": "Run OpenBSD on DigitalOcean for $4/month",
-      "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-      "score": 138,
-      "by": "speckx",
-      "comments": 65,
-      "time": "2026-08-25 17:23"
-    },
-    {
-      "id": 49434645,
-      "title": "Building a backyard office, the build and cost breakdown",
-      "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-      "score": 296,
-      "by": "surprisetalk",
-      "comments": 202,
-      "time": "2026-08-25 14:20"
-    },
-    {
-      "id": 49434820,
-      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-      "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "score": 289,
-      "by": "speckx",
-      "comments": 147,
-      "time": "2026-08-25 14:29"
-    },
-    {
-      "id": 49443820,
-      "title": "Ask HN: What is one simple thing LLMs are insanely bad at?",
-      "url": "#",
-      "score": 22,
-      "by": "davidest",
-      "comments": 38,
-      "time": "2026-08-26 03:17"
-    },
-    {
-      "id": 49436786,
-      "title": "Tooltips need a delay, and then they need to skip it",
-      "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-      "score": 133,
-      "by": "ibobev",
-      "comments": 34,
-      "time": "2026-08-25 16:35"
-    },
-    {
-      "id": 49437049,
-      "title": "Show HN: LatticeDB \u2013 Like SQLite but for graph databases",
-      "url": "https://github.com/jeffhajewski/latticedb",
-      "score": 128,
-      "by": "smiths1999",
-      "comments": 36,
-      "time": "2026-08-25 16:52"
-    },
-    {
-      "id": 49432319,
-      "title": "Don't Wordle",
-      "url": "https://dontwordle.com/",
-      "score": 324,
-      "by": "Hbruz0",
-      "comments": 117,
-      "time": "2026-08-25 11:49"
-    },
-    {
-      "id": 49438052,
-      "title": "Dolly Parton has died",
-      "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-      "score": 1328,
-      "by": "helsinkiandrew",
-      "comments": 201,
-      "time": "2026-08-25 18:02"
-    },
-    {
-      "id": 49435675,
-      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-      "url": "https://github.com/ThinkOffApp/CarWatch",
-      "score": 117,
-      "by": "petruspennanen",
-      "comments": 30,
-      "time": "2026-08-25 15:20"
-    },
-    {
-      "id": 49437069,
-      "title": "My Friend Aaron",
-      "url": "https://rorz.io/writing/my-friend-aaron",
-      "score": 489,
-      "by": "sarreph",
-      "comments": 133,
-      "time": "2026-08-25 16:53"
-    },
-    {
-      "id": 49439296,
-      "title": "A brief history of federal lift ticket regulation",
-      "url": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
-      "score": 50,
-      "by": "CGMthrowaway",
-      "comments": 6,
-      "time": "2026-08-25 19:25"
-    },
-    {
-      "id": 49437946,
-      "title": "Firefox 157 will include JPEG XL by default on all platforms",
-      "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-      "score": 313,
-      "by": "yboris",
-      "comments": 86,
-      "time": "2026-08-25 17:55"
-    },
-    {
-      "id": 49423878,
-      "title": "Visualizing Binary Files",
-      "url": "https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html",
-      "score": 92,
-      "by": "zdw",
-      "comments": 17,
-      "time": "2026-08-24 18:21"
-    },
-    {
-      "id": 49423045,
-      "title": "Tracking Costco gas prices",
-      "url": "https://www.jack.bio/blog/costco-gas-tracking",
-      "score": 96,
-      "by": "lafond",
-      "comments": 98,
-      "time": "2026-08-24 17:21"
-    },
-    {
-      "id": 49437566,
-      "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
-      "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
-      "score": 1,
-      "by": "gfavvas",
+      "id": 49465169,
+      "title": "507 Mechanical Movements",
+      "url": "https://507movements.com/",
+      "score": 21,
+      "by": "helloplanets",
       "comments": 0,
-      "time": "2026-08-25 17:28"
+      "time": "2026-08-27 14:08"
     },
     {
-      "id": 49430259,
-      "title": "Show HN: I built self-hosted deployment automation tool for Windows and IIS",
-      "url": "https://fdeploy.com/",
+      "id": 49464637,
+      "title": "CoMaps integration with the wider FLOSS ecosystem \u2013 CoMaps",
+      "url": "https://www.comaps.app/news/2026-08-23/comaps-integration-with-the-wider-floss-ecosystem/",
+      "score": 49,
+      "by": "janandonly",
+      "comments": 5,
+      "time": "2026-08-27 13:29"
+    },
+    {
+      "id": 49464314,
+      "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+      "url": "https://aiandeducation.mit.edu/report/",
       "score": 27,
-      "by": "dt3ft",
-      "comments": 13,
-      "time": "2026-08-25 07:32"
+      "by": "pbui",
+      "comments": 7,
+      "time": "2026-08-27 13:07"
     },
     {
-      "id": 49442743,
-      "title": "The brain may be about to have its Ozempic moment",
-      "url": "https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
-      "score": 64,
-      "by": "Anon84",
-      "comments": 47,
-      "time": "2026-08-26 00:40"
+      "id": 49464896,
+      "title": "Trade (and Tariffs)",
+      "url": "https://xkcd.com/3290/",
+      "score": 104,
+      "by": "throw0101d",
+      "comments": 13,
+      "time": "2026-08-27 13:49"
+    },
+    {
+      "id": 49465119,
+      "title": "Six Months of Writing Code Exclusively with Agents",
+      "url": "https://blog.exe.dev/engineering-with-ai",
+      "score": 10,
+      "by": "bryanmikaelian",
+      "comments": 0,
+      "time": "2026-08-27 14:05"
+    },
+    {
+      "id": 49464310,
+      "title": "Confdiff \u2013 semantic diff for config files (JSON/YAML/TOML) that redacts secrets",
+      "url": "https://github.com/esperanza-volkov/confdiff",
+      "score": 12,
+      "by": "esperanzavolkov",
+      "comments": 3,
+      "time": "2026-08-27 13:07"
+    },
+    {
+      "id": 49464459,
+      "title": "Show HN: RealDiff \u2013 runtime behavior diffing for pull requests (six languages)",
+      "url": "https://github.com/issacnitin/RealDiff",
+      "score": 18,
+      "by": "issacnitin",
+      "comments": 1,
+      "time": "2026-08-27 13:17"
+    },
+    {
+      "id": 49463361,
+      "title": "Adentris (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python",
+      "score": 1,
+      "by": "SergeyYudovskiy",
+      "comments": 0,
+      "time": "2026-08-27 12:00"
+    },
+    {
+      "id": 49465291,
+      "title": "Show HN: Restoredrill \u2013 proves your Postgres backups restore",
+      "url": "https://github.com/ahmadpiran/restoredrill",
+      "score": 7,
+      "by": "ahmadpiran",
+      "comments": 3,
+      "time": "2026-08-27 14:16"
+    },
+    {
+      "id": 49457545,
+      "title": "Mechanical Turk shutting down September 30",
+      "url": "https://www.mturk.com/",
+      "score": 473,
+      "by": "tmp10423288442",
+      "comments": 146,
+      "time": "2026-08-26 23:55"
+    },
+    {
+      "id": 49452709,
+      "title": "U.S. State Department pauses immigrant visa applications",
+      "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
+      "score": 736,
+      "by": "sss111",
+      "comments": 1086,
+      "time": "2026-08-26 17:22"
+    },
+    {
+      "id": 49465464,
+      "title": "French CII's Mitra-15 in SIMH. Work in Progress",
+      "url": "https://github.com/JPLeRouzic/Mitra-15-for-SIMH",
+      "score": 3,
+      "by": "JPLeRouzic",
+      "comments": 1,
+      "time": "2026-08-27 14:27"
+    },
+    {
+      "id": 49464391,
+      "title": "US Government Designates Host of Noblogs.org a \"Global Terrorist\"",
+      "url": "https://crimethinc.com/2026/08/27/us-government-designates-host-of-noblogsorg-a-global-terrorist",
+      "score": 63,
+      "by": "robtherobber",
+      "comments": 13,
+      "time": "2026-08-27 13:12"
+    },
+    {
+      "id": 49462253,
+      "title": "Tell HN: PayPal Blocks GrapheneOS",
+      "url": "#",
+      "score": 291,
+      "by": "leumon",
+      "comments": 164,
+      "time": "2026-08-27 09:56"
+    },
+    {
+      "id": 49456851,
+      "title": "Asahi Linux Progress Report: Linux 7.2",
+      "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+      "score": 359,
+      "by": "pizzaiolo",
+      "comments": 183,
+      "time": "2026-08-26 22:35"
+    },
+    {
+      "id": 49452990,
+      "title": "Tailcat \u2013 Like netcat, but over Tailscale\u2019s data plane",
+      "url": "https://github.com/tailscale/tailcat",
+      "score": 634,
+      "by": "nderjung",
+      "comments": 114,
+      "time": "2026-08-26 17:42"
+    },
+    {
+      "id": 49452980,
+      "title": "An ongoing 3D-printer AGPL violation",
+      "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
+      "score": 462,
+      "by": "Velocifyer",
+      "comments": 200,
+      "time": "2026-08-26 17:41"
+    },
+    {
+      "id": 49458418,
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "score": 831,
+      "by": "GrumpySciGuy",
+      "comments": 559,
+      "time": "2026-08-27 01:46"
+    },
+    {
+      "id": 49455956,
+      "title": "Stripe acquires Clerky",
+      "url": "https://www.clerky.com/blog/clerky-is-joining-stripe",
+      "score": 226,
+      "by": "zakshay",
+      "comments": 53,
+      "time": "2026-08-26 21:09"
+    },
+    {
+      "id": 49456929,
+      "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+      "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
+      "score": 248,
+      "by": "totetsu",
+      "comments": 172,
+      "time": "2026-08-26 22:44"
+    },
+    {
+      "id": 49464678,
+      "title": "Did Meta's Big Settlement Actually Help It?",
+      "url": "https://www.nytimes.com/2026/08/27/business/dealbook/meta-settlement-teens.html",
+      "score": 24,
+      "by": "thm",
+      "comments": 8,
+      "time": "2026-08-27 13:32"
+    },
+    {
+      "id": 49454314,
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+      "score": 307,
+      "by": "amrrs",
+      "comments": 397,
+      "time": "2026-08-26 19:15"
+    },
+    {
+      "id": 49452346,
+      "title": "The Harness Is the Thing",
+      "url": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing/",
+      "score": 177,
+      "by": "sfryxell",
+      "comments": 93,
+      "time": "2026-08-26 16:59"
+    },
+    {
+      "id": 49461817,
+      "title": "Show HN: The load-bearing vocabulary of Claude",
+      "url": "https://louisabraham.github.io/load-bearing/",
+      "score": 28,
+      "by": "Labo333",
+      "comments": 0,
+      "time": "2026-08-27 08:59"
+    },
+    {
+      "id": 49457512,
+      "title": "Zohran and the Short Link",
+      "url": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
+      "score": 258,
+      "by": "wxw",
+      "comments": 142,
+      "time": "2026-08-26 23:50"
+    },
+    {
+      "id": 49455471,
+      "title": "IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE",
+      "url": "https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone",
+      "score": 166,
+      "by": "porridgeraisin",
+      "comments": 115,
+      "time": "2026-08-26 20:32"
     }
   ]
 }
