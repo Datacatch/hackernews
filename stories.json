@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-08-28T16:26:35.551196",
+  "fetched_at": "2026-08-29T10:55:20.709195",
   "count": 30,
   "stories": [
     {
-      "id": 49478340,
-      "title": "Get your Windows license refund",
-      "url": "https://en.refund4freedom.org/",
-      "score": 251,
-      "by": "smartmic",
-      "comments": 85,
-      "time": "2026-08-28 13:42"
+      "id": 49487341,
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "score": 107,
+      "by": "ingve",
+      "comments": 30,
+      "time": "2026-08-29 06:06"
     },
     {
-      "id": 49477564,
-      "title": "Inception-style curved map for turn-by-turn directions",
-      "url": "https://www.orbify.eu/demo/",
-      "score": 187,
-      "by": "smoser",
-      "comments": 63,
-      "time": "2026-08-28 12:29"
-    },
-    {
-      "id": 49480466,
-      "title": "Just the rumour of a bug is enough to find an exploit these days",
-      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-      "score": 15,
-      "by": "avsm",
-      "comments": 3,
-      "time": "2026-08-28 15:58"
-    },
-    {
-      "id": 49477854,
-      "title": "U.S. Sanctions Against the a/I Collective",
-      "url": "https://www.inventati.org/",
-      "score": 147,
-      "by": "exiguus",
-      "comments": 141,
-      "time": "2026-08-28 12:58"
-    },
-    {
-      "id": 49479878,
-      "title": "GLM-5.3 is now open-weight",
-      "url": "https://twitter.com/Zai_org/status/2093354097122455713",
-      "score": 132,
-      "by": "jeudesprits",
-      "comments": 39,
-      "time": "2026-08-28 15:20"
-    },
-    {
-      "id": 49478401,
-      "title": "OpenStreetMap State of the Map 2026",
-      "url": "https://2026.stateofthemap.org/",
-      "score": 63,
-      "by": "lode",
-      "comments": 18,
-      "time": "2026-08-28 13:46"
-    },
-    {
-      "id": 49479951,
-      "title": "Run Qwen3.8 27B locally: real numbers from my Mac Studio",
-      "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally/",
-      "score": 15,
-      "by": "speckx",
-      "comments": 4,
-      "time": "2026-08-28 15:24"
-    },
-    {
-      "id": 49479122,
-      "title": "Autistici/Inventati's main .org domain goes dark after US terrorism designation",
-      "url": "https://mastodon.bida.im/@cavallette/117172989300228024",
-      "score": 116,
-      "by": "subvol",
-      "comments": 42,
-      "time": "2026-08-28 14:33"
-    },
-    {
-      "id": 49478178,
-      "title": "Htmx 4.0.0 has been released",
-      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-      "score": 59,
-      "by": "rmsaksida",
-      "comments": 12,
-      "time": "2026-08-28 13:28"
-    },
-    {
-      "id": 49477212,
-      "title": "OpenAI: Migrating to HTTPX2",
-      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-      "score": 135,
-      "by": "tosh",
-      "comments": 56,
-      "time": "2026-08-28 11:51"
-    },
-    {
-      "id": 49479302,
-      "title": "Africa's Wild Dogs Are the Most Hated Carnivores on the Continent",
-      "url": "https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-why-conservationists-saving-them-anyway-180989287/",
-      "score": 16,
-      "by": "speckx",
-      "comments": 4,
-      "time": "2026-08-28 14:44"
-    },
-    {
-      "id": 49476143,
-      "title": "Hilariously Fast Volume Computation with the Divergence Theorem",
-      "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
-      "score": 190,
-      "by": "luu",
-      "comments": 47,
-      "time": "2026-08-28 09:00"
-    },
-    {
-      "id": 49480220,
-      "title": "How Dactyl Works",
-      "url": "https://dactyl.dev/blog/how-dactyl-works/",
-      "score": 14,
-      "by": "anorak27",
-      "comments": 0,
-      "time": "2026-08-28 15:42"
-    },
-    {
-      "id": 49472216,
-      "title": "The Twelve-Factor App",
-      "url": "https://12factor.net/",
-      "score": 64,
-      "by": "jxmorris12",
-      "comments": 31,
-      "time": "2026-08-27 22:41"
-    },
-    {
-      "id": 49477600,
-      "title": "\u201cIt works better in the app\u201d",
-      "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
-      "score": 505,
-      "by": "blenderob",
-      "comments": 304,
-      "time": "2026-08-28 12:32"
+      "id": 49456819,
+      "title": "Europe's last regular standard-gauge steam passenger service",
+      "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
+      "score": 50,
+      "by": "GungulSurm",
+      "comments": 15,
+      "time": "2026-08-26 22:32"
     },
     {
       "id": 49479837,
       "title": "GUIs should be fully keyboard-driven",
       "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-      "score": 15,
+      "score": 823,
       "by": "ckardaris",
-      "comments": 11,
+      "comments": 414,
       "time": "2026-08-28 15:17"
     },
     {
-      "id": 49475079,
-      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
-      "score": 244,
-      "by": "miniBill",
-      "comments": 74,
-      "time": "2026-08-28 06:33"
+      "id": 49485267,
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "score": 277,
+      "by": "hentrep",
+      "comments": 78,
+      "time": "2026-08-28 23:02"
     },
     {
-      "id": 49477559,
-      "title": "Smaller reactors bring nuclear power closer to fulfilling its promise",
-      "url": "https://www.nature.com/articles/d41586-026-02506-4",
-      "score": 40,
-      "by": "sohkamyung",
-      "comments": 65,
-      "time": "2026-08-28 12:28"
+      "id": 49450782,
+      "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
+      "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+      "score": 23,
+      "by": "birdculture",
+      "comments": 2,
+      "time": "2026-08-26 15:22"
     },
     {
-      "id": 49477813,
-      "title": "Are Crows Our Friends?",
-      "url": "https://www.audubon.org/magazine/are-crows-really-our-friends",
-      "score": 37,
-      "by": "speckx",
-      "comments": 24,
-      "time": "2026-08-28 12:53"
+      "id": 49486334,
+      "title": "TurboKV: Insanely fast Rust key-value store",
+      "url": "https://github.com/kingroryg/turbokv",
+      "score": 107,
+      "by": "rgbimbochamp",
+      "comments": 43,
+      "time": "2026-08-29 02:23"
+    },
+    {
+      "id": 49478178,
+      "title": "Htmx 4.0",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "score": 671,
+      "by": "rmsaksida",
+      "comments": 167,
+      "time": "2026-08-28 13:28"
+    },
+    {
+      "id": 49477854,
+      "title": "U.S. sanctions against the A/I Collective",
+      "url": "https://www.inventati.org/",
+      "score": 610,
+      "by": "exiguus",
+      "comments": 595,
+      "time": "2026-08-28 12:58"
+    },
+    {
+      "id": 49485416,
+      "title": "I accidentally turned LLM memory into program analysis",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "score": 162,
+      "by": "matt_d",
+      "comments": 35,
+      "time": "2026-08-28 23:27"
+    },
+    {
+      "id": 49486081,
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "score": 106,
+      "by": "thclpr",
+      "comments": 23,
+      "time": "2026-08-29 01:24"
+    },
+    {
+      "id": 49480466,
+      "title": "Just the rumour of a bug is enough to find an exploit these days",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "score": 330,
+      "by": "avsm",
+      "comments": 113,
+      "time": "2026-08-28 15:58"
+    },
+    {
+      "id": 49477564,
+      "title": "Inception-style curved map for turn-by-turn directions",
+      "url": "https://www.orbify.eu/demo/",
+      "score": 510,
+      "by": "smoser",
+      "comments": 174,
+      "time": "2026-08-28 12:29"
+    },
+    {
+      "id": 49485532,
+      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+      "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+      "score": 101,
+      "by": "dev_l1x_be",
+      "comments": 47,
+      "time": "2026-08-28 23:46"
+    },
+    {
+      "id": 49486172,
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "score": 544,
+      "by": "meetpateltech",
+      "comments": 301,
+      "time": "2026-08-29 01:47"
+    },
+    {
+      "id": 49487786,
+      "title": "Autistici/inventati: Manifesto \u2013 who we are and what do we want (2002)",
+      "url": "https://www.inventati.org/who/manifesto",
+      "score": 66,
+      "by": "wise_blood",
+      "comments": 39,
+      "time": "2026-08-29 07:38"
+    },
+    {
+      "id": 49417298,
+      "title": "Monzo Stand-In",
+      "url": "https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in",
+      "score": 86,
+      "by": "coffeefuel",
+      "comments": 23,
+      "time": "2026-08-24 09:30"
+    },
+    {
+      "id": 49422397,
+      "title": "Queen Caroline turned King Arthur into an 18C royal PR strategy",
+      "url": "https://theconversation.com/how-queen-caroline-turned-king-arthur-into-an-18th-century-royal-pr-strategy-288244",
+      "score": 19,
+      "by": "samizdis",
+      "comments": 1,
+      "time": "2026-08-24 16:41"
+    },
+    {
+      "id": 49419409,
+      "title": "Experiments with Plotter Art",
+      "url": "https://sometimes.digital/posts/experiments-with-plotter-art/",
+      "score": 57,
+      "by": "surprisetalk",
+      "comments": 2,
+      "time": "2026-08-24 13:21"
+    },
+    {
+      "id": 49485452,
+      "title": "9th Circuit sides with states in Kalshi gambling fight",
+      "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+      "score": 132,
+      "by": "hungryhobbit",
+      "comments": 110,
+      "time": "2026-08-28 23:32"
+    },
+    {
+      "id": 49486176,
+      "title": "Kumander Linux \u2013 A Linux Distro with a Windows 7 Desktop",
+      "url": "https://www.kumander.org/",
+      "score": 58,
+      "by": "linuxkernal",
+      "comments": 30,
+      "time": "2026-08-29 01:48"
+    },
+    {
+      "id": 49428343,
+      "title": "Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?",
+      "url": "https://www.smithsonianmag.com/history/this-box-of-300-love-letters-showed-up-out-of-the-blue-who-was-the-whimsical-world-war-ii-soldier-who-wrote-them-180989300/",
+      "score": 21,
+      "by": "gmays",
+      "comments": 6,
+      "time": "2026-08-25 02:17"
+    },
+    {
+      "id": 49422743,
+      "title": "Curvature Beziers: Improving on a timeless recipe",
+      "url": "https://acko.net/blog/curvature-beziers/",
+      "score": 122,
+      "by": "leephillips",
+      "comments": 14,
+      "time": "2026-08-24 17:03"
+    },
+    {
+      "id": 49435595,
+      "title": "Time complexity of operations on Python's built-in types",
+      "url": "https://docs.python.org/3.16/library/time-complexity.html",
+      "score": 11,
+      "by": "theanonymousone",
+      "comments": 1,
+      "time": "2026-08-25 15:15"
+    },
+    {
+      "id": 49472216,
+      "title": "The Twelve-Factor App (2025)",
+      "url": "https://12factor.net/",
+      "score": 271,
+      "by": "jxmorris12",
+      "comments": 152,
+      "time": "2026-08-27 22:41"
+    },
+    {
+      "id": 49479924,
+      "title": "EasyEffects can improve laptop speaker sound quality",
+      "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
+      "score": 157,
+      "by": "birdculture",
+      "comments": 62,
+      "time": "2026-08-28 15:23"
+    },
+    {
+      "id": 49479878,
+      "title": "GLM-5.3 is now open-weight",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "score": 706,
+      "by": "jeudesprits",
+      "comments": 235,
+      "time": "2026-08-28 15:20"
     },
     {
       "id": 49479072,
       "title": "Verschlimmbesserung: The Word Your Software Updates Need",
       "url": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
-      "score": 11,
+      "score": 141,
       "by": "speckx",
-      "comments": 2,
+      "comments": 96,
       "time": "2026-08-28 14:30"
     },
     {
-      "id": 49478348,
-      "title": "Autistici/Inventati case sets a new counterterrorism precedent, Irdi says",
-      "url": "https://decode39.com/16319/autistici-inventati-case-sets-a-new-counterterrorism-precedent-irdi-says/",
-      "score": 18,
-      "by": "iamnothere",
-      "comments": 3,
-      "time": "2026-08-28 13:43"
+      "id": 49443783,
+      "title": "Visual Analysis of Binary Files",
+      "url": "https://binvis.io/#/",
+      "score": 86,
+      "by": "vismit2000",
+      "comments": 22,
+      "time": "2026-08-26 03:11"
     },
     {
-      "id": 49477055,
-      "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-      "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
-      "score": 309,
-      "by": "softwaredoug",
-      "comments": 105,
-      "time": "2026-08-28 11:25"
+      "id": 49488282,
+      "title": "You Know GDPR Is Good Based on Who Hates It",
+      "url": "https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/",
+      "score": 75,
+      "by": "latexr",
+      "comments": 82,
+      "time": "2026-08-29 09:19"
     },
     {
-      "id": 49478489,
-      "title": "\"Weird\" is a weird word",
-      "url": "https://www.deadlanguagesociety.com/p/weird-is-a-weird-word",
-      "score": 24,
-      "by": "pseudolus",
-      "comments": 4,
-      "time": "2026-08-28 13:51"
-    },
-    {
-      "id": 49477925,
-      "title": "Interactive pattern discovery in binaries (FF-16-TUI)",
-      "url": "https://github.com/HexLasso/FF-16-TUI",
-      "score": 24,
-      "by": "HexLasso",
-      "comments": 2,
-      "time": "2026-08-28 13:05"
-    },
-    {
-      "id": 49478091,
-      "title": "I used AWS cognito for a startup. I wouldn't do it again",
-      "url": "https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/",
-      "score": 110,
-      "by": "speckx",
-      "comments": 83,
-      "time": "2026-08-28 13:21"
-    },
-    {
-      "id": 49477157,
-      "title": "httpx2",
-      "url": "https://github.com/pydantic/httpx2",
-      "score": 57,
-      "by": "tosh",
-      "comments": 20,
-      "time": "2026-08-28 11:41"
-    },
-    {
-      "id": 49479898,
-      "title": "Lake formed after ice-rock avalanche remains at a high level and is overflowing",
-      "url": "https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns",
-      "score": 6,
-      "by": "r721",
-      "comments": 0,
-      "time": "2026-08-28 15:21"
-    },
-    {
-      "id": 49475979,
-      "title": "Interactive Warhammer 40k Galaxy Map \u2013 Cartographia Imperialis",
-      "url": "https://cartographia40k.com/",
-      "score": 98,
-      "by": "gbxyz",
-      "comments": 25,
-      "time": "2026-08-28 08:35"
-    },
-    {
-      "id": 49479826,
-      "title": "Don't use musl if you care about performance",
-      "url": "https://blog.brokk.ai/dont-use-musl-if-you-care-about-performance/",
-      "score": 10,
-      "by": "jbellis",
-      "comments": 1,
-      "time": "2026-08-28 15:16"
-    },
-    {
-      "id": 49477292,
-      "title": "Bhartrhari's Paradox",
-      "url": "https://www.futilitycloset.com/2026/08/18/bhartrharis-paradox/",
-      "score": 27,
-      "by": "surprisetalk",
-      "comments": 27,
-      "time": "2026-08-28 12:01"
+      "id": 49481455,
+      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+      "url": "https://arxiv.org/abs/2608.23691",
+      "score": 108,
+      "by": "stephenchung",
+      "comments": 30,
+      "time": "2026-08-28 17:01"
     }
   ]
 }
