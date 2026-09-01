@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-08-31T10:40:56.945318",
+  "fetched_at": "2026-09-01T09:16:52.379992",
   "count": 30,
   "stories": [
     {
-      "id": 49507822,
-      "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
-      "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
-      "score": 38,
-      "by": "metrofun",
-      "comments": 9,
-      "time": "2026-08-31 09:59"
+      "id": 49517584,
+      "title": "GPU World",
+      "url": "https://www.gpuworld.org/",
+      "score": 212,
+      "by": "simonpure",
+      "comments": 99,
+      "time": "2026-09-01 03:16"
     },
     {
-      "id": 49507976,
-      "title": "The ISBN was invented in 1970. Your books don't care",
-      "url": "https://www.shelvd.org/blog/isbn-invented-1970",
-      "score": 8,
-      "by": "bvanbranden",
-      "comments": 2,
-      "time": "2026-08-31 10:22"
+      "id": 49517448,
+      "title": "Fastpotify",
+      "url": "https://fastpotify.rocks/",
+      "score": 359,
+      "by": "nreece",
+      "comments": 179,
+      "time": "2026-09-01 02:52"
     },
     {
-      "id": 49503601,
-      "title": "\u201cI just chose words carefully\u201d",
-      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-      "score": 827,
-      "by": "zdw",
-      "comments": 212,
-      "time": "2026-08-30 22:49"
-    },
-    {
-      "id": 49506819,
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
-      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-      "score": 53,
-      "by": "Recursing",
-      "comments": 5,
-      "time": "2026-08-31 07:49"
-    },
-    {
-      "id": 49505219,
-      "title": "P99 0 ms* autocomplete for 240M domain names",
-      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
-      "score": 131,
-      "by": "dbalatero",
-      "comments": 56,
-      "time": "2026-08-31 03:20"
-    },
-    {
-      "id": 49491791,
-      "title": "Creepy Crawlies",
-      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-      "score": 1181,
-      "by": "zdw",
-      "comments": 591,
-      "time": "2026-08-29 17:49"
-    },
-    {
-      "id": 49506142,
-      "title": "uv: Deduplicate all files in the wheel cache",
-      "url": "https://github.com/astral-sh/uv/pull/21327",
-      "score": 41,
-      "by": "tosh",
-      "comments": 1,
-      "time": "2026-08-31 06:03"
-    },
-    {
-      "id": 49481141,
-      "title": "My hobby of building miniatures and taking pretty pictures",
-      "url": "https://sandyuraz.com/blogs/tiny-cafe/",
-      "score": 147,
-      "by": "thecsw",
-      "comments": 24,
-      "time": "2026-08-28 16:43"
-    },
-    {
-      "id": 49485020,
-      "title": "Highlighting My Code Based on How Much I Care",
-      "url": "https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/",
-      "score": 63,
-      "by": "hankbond",
-      "comments": 30,
-      "time": "2026-08-28 22:29"
-    },
-    {
-      "id": 49506182,
-      "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
-      "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
-      "score": 150,
-      "by": "WithinReason",
-      "comments": 22,
-      "time": "2026-08-31 06:10"
-    },
-    {
-      "id": 49503934,
-      "title": "Matrox: Graphics for Professionals",
-      "url": "https://www.abortretry.fail/p/matrox",
-      "score": 124,
-      "by": "BirAdam",
-      "comments": 36,
-      "time": "2026-08-30 23:39"
-    },
-    {
-      "id": 49504625,
-      "title": "Understanding ChatGPT Work",
-      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-      "score": 196,
-      "by": "gmays",
-      "comments": 96,
-      "time": "2026-08-31 01:28"
-    },
-    {
-      "id": 49467053,
-      "title": "Formalization of the Solution to the Hopf Problem",
-      "url": "https://github.com/plby/HopfProblem",
-      "score": 11,
-      "by": "robinhouston",
-      "comments": 2,
-      "time": "2026-08-27 16:04"
-    },
-    {
-      "id": 49499867,
-      "title": "Haiku R1/beta6 has been released",
-      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-      "score": 326,
-      "by": "metrofun",
-      "comments": 92,
-      "time": "2026-08-30 16:01"
-    },
-    {
-      "id": 49503956,
-      "title": "How to build a diffusion language model",
-      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
-      "score": 101,
-      "by": "volodia",
-      "comments": 9,
-      "time": "2026-08-30 23:41"
-    },
-    {
-      "id": 49463231,
-      "title": "What 2000 Buried Underpants Revealed About Where Soil Is Most Alive",
-      "url": "https://studyfinds.com/what-2000-buried-underpants-revealed-about-where-soil-is-most-alive/",
-      "score": 30,
-      "by": "mdp2021",
-      "comments": 5,
-      "time": "2026-08-27 11:47"
-    },
-    {
-      "id": 49478426,
-      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
-      "url": "https://wilsonharper.net/projects/businesscard/",
-      "score": 174,
-      "by": "WilsonHarper",
+      "id": 49516059,
+      "title": "Tmp.0ut Volume 5",
+      "url": "https://tmpout.sh/5/",
+      "score": 55,
+      "by": "ghuntley",
       "comments": 19,
-      "time": "2026-08-28 13:48"
+      "time": "2026-08-31 23:26"
     },
     {
-      "id": 49502214,
-      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
-      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
-      "score": 112,
-      "by": "pwg",
-      "comments": 18,
-      "time": "2026-08-30 20:00"
+      "id": 49517624,
+      "title": "Restroom Archive",
+      "url": "https://restroomarchive.com",
+      "score": 116,
+      "by": "jcalx",
+      "comments": 34,
+      "time": "2026-09-01 03:23"
     },
     {
-      "id": 49480091,
-      "title": "It takes 5 cloud services to hear my doorbell",
-      "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
-      "score": 167,
-      "by": "vghaisas",
-      "comments": 155,
-      "time": "2026-08-28 15:34"
+      "id": 49510514,
+      "title": "Playa Phone",
+      "url": "https://playaphone.com/",
+      "score": 623,
+      "by": "cutoff",
+      "comments": 210,
+      "time": "2026-08-31 14:52"
     },
     {
-      "id": 49497810,
-      "title": "Hacking IKEA Furniture",
-      "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
-      "score": 323,
-      "by": "greenlightning",
-      "comments": 236,
-      "time": "2026-08-30 11:39"
-    },
-    {
-      "id": 49507121,
-      "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
-      "url": "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/",
-      "score": 3,
-      "by": "giuliomagnifico",
-      "comments": 1,
-      "time": "2026-08-31 08:33"
-    },
-    {
-      "id": 49505217,
-      "title": "Transfer files over an Ethernet patch cable",
-      "url": "https://maurycyz.com/misc/etherfiles/",
-      "score": 102,
-      "by": "jllyhill",
-      "comments": 92,
-      "time": "2026-08-31 03:19"
-    },
-    {
-      "id": 49505310,
-      "title": "OpenClaw 2.0, Accidentally",
-      "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-      "score": 105,
-      "by": "doppp",
-      "comments": 103,
-      "time": "2026-08-31 03:38"
-    },
-    {
-      "id": 49435285,
-      "title": "Sort branches by last commit date",
-      "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
-      "score": 125,
+      "id": 49511856,
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "score": 495,
       "by": "speckx",
-      "comments": 44,
-      "time": "2026-08-25 14:57"
+      "comments": 118,
+      "time": "2026-08-31 16:47"
     },
     {
-      "id": 49501611,
-      "title": "Why open source rocks \u2013 a new SM750 (Silicon Motion GPU) HDMI Driver",
-      "url": "https://github.com/KodeMunkie/sm750hdmifb",
-      "score": 111,
-      "by": "SillyUsername",
+      "id": 49512975,
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "score": 326,
+      "by": "keithcarolus",
       "comments": 38,
-      "time": "2026-08-30 18:49"
+      "time": "2026-08-31 18:21"
     },
     {
-      "id": 49446705,
-      "title": "Relm4 makes developing beautiful cross-platform applications idiomatic",
-      "url": "https://relm4.org/",
-      "score": 45,
-      "by": "Bluestein",
-      "comments": 21,
-      "time": "2026-08-26 10:38"
+      "id": 49503521,
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "score": 413,
+      "by": "matthewsinclair",
+      "comments": 60,
+      "time": "2026-08-30 22:37"
     },
     {
-      "id": 49502611,
-      "title": "Continuous Diffusion Language Models (CDLM's)",
-      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-      "score": 111,
-      "by": "peter_d_sherman",
-      "comments": 36,
-      "time": "2026-08-30 20:46"
+      "id": 49441609,
+      "title": "Polishing Cloth Updated",
+      "url": "https://512pixels.net/2026/08/polishing-cloth-updated/",
+      "score": 14,
+      "by": "zdw",
+      "comments": 5,
+      "time": "2026-08-25 22:34"
     },
     {
-      "id": 49499891,
-      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
-      "url": "https://komoroske.com/slime-mold/",
-      "score": 163,
-      "by": "rzk",
-      "comments": 46,
-      "time": "2026-08-30 16:03"
+      "id": 49518877,
+      "title": "CollectWise (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
+      "score": 1,
+      "by": "OBrien_1107",
+      "comments": 0,
+      "time": "2026-09-01 07:01"
     },
     {
-      "id": 49506655,
-      "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
-      "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+      "id": 49493468,
+      "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+      "score": 12,
+      "by": "NaOH",
+      "comments": 3,
+      "time": "2026-08-29 21:25"
+    },
+    {
+      "id": 49467636,
+      "title": "Dwarf Fortress is getting the mother of all magic updates",
+      "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
+      "score": 409,
+      "by": "Tomte",
+      "comments": 168,
+      "time": "2026-08-27 16:45"
+    },
+    {
+      "id": 49517297,
+      "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
+      "url": "https://github.com/fregacmols/RotaryCell",
+      "score": 57,
+      "by": "jombib",
+      "comments": 8,
+      "time": "2026-09-01 02:29"
+    },
+    {
+      "id": 49516199,
+      "title": "Evidence of Fraud in an Influential Study About Procrastination",
+      "url": "https://datacolada.org/138",
+      "score": 232,
+      "by": "Anon84",
+      "comments": 159,
+      "time": "2026-08-31 23:45"
+    },
+    {
+      "id": 49508982,
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "score": 404,
+      "by": "thm",
+      "comments": 449,
+      "time": "2026-08-31 12:41"
+    },
+    {
+      "id": 49484004,
+      "title": "Borges Labyrinth in Venice reopens to the public",
+      "url": "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening",
+      "score": 68,
+      "by": "gone35",
+      "comments": 26,
+      "time": "2026-08-28 20:41"
+    },
+    {
+      "id": 49489376,
+      "title": "Show HN: Laser Graffiti",
+      "url": "https://laser.consti.de",
+      "score": 190,
+      "by": "con",
+      "comments": 40,
+      "time": "2026-08-29 12:28"
+    },
+    {
+      "id": 49516699,
+      "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up",
+      "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
+      "score": 110,
+      "by": "fagnerbrack",
+      "comments": 57,
+      "time": "2026-09-01 01:01"
+    },
+    {
+      "id": 49505584,
+      "title": "Roget's Thesaurus",
+      "url": "https://artflsrv04.uchicago.edu/roget-thesaurus/",
+      "score": 14,
+      "by": "gregsadetsky",
+      "comments": 1,
+      "time": "2026-08-31 04:29"
+    },
+    {
+      "id": 49460419,
+      "title": "Flat vs. segmented memory \u2013 it's recursive",
+      "url": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
+      "score": 21,
+      "by": "signa11",
+      "comments": 0,
+      "time": "2026-08-27 06:02"
+    },
+    {
+      "id": 49508506,
+      "title": "I think the military commissary's freezers were hacked",
+      "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+      "score": 340,
+      "by": "jcurbo",
+      "comments": 195,
+      "time": "2026-08-31 11:45"
+    },
+    {
+      "id": 49500504,
+      "title": "Cheap GPS jammers are filling the world with navigation dead zones",
+      "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
+      "score": 138,
+      "by": "vinnyglennon",
+      "comments": 133,
+      "time": "2026-08-30 17:05"
+    },
+    {
+      "id": 49496292,
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+      "score": 211,
+      "by": "geox",
+      "comments": 61,
+      "time": "2026-08-30 06:52"
+    },
+    {
+      "id": 49516848,
+      "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
+      "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
       "score": 41,
-      "by": "Bluestein",
-      "comments": 25,
-      "time": "2026-08-31 07:23"
+      "by": "lbw1215",
+      "comments": 26,
+      "time": "2026-09-01 01:25"
     },
     {
-      "id": 49468126,
-      "title": "Dad\u2019s Custom Atari Peripherals",
-      "url": "https://www.goto10retro.com/p/dads-custom-atari-peripherals",
-      "score": 133,
-      "by": "rbanffy",
-      "comments": 16,
-      "time": "2026-08-27 17:20"
+      "id": 49494181,
+      "title": "Lion-man",
+      "url": "https://en.wikipedia.org/wiki/Lion-man",
+      "score": 108,
+      "by": "gurjeet",
+      "comments": 54,
+      "time": "2026-08-29 23:17"
+    },
+    {
+      "id": 49467700,
+      "title": "Reverse engineering my ADHD test",
+      "url": "https://nullpt.rs/reverse-engineering-adhd-test",
+      "score": 217,
+      "by": "hazebooth",
+      "comments": 127,
+      "time": "2026-08-27 16:49"
+    },
+    {
+      "id": 49511534,
+      "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "url": "https://ravynos.com/",
+      "score": 199,
+      "by": "Bluestein",
+      "comments": 114,
+      "time": "2026-08-31 16:19"
+    },
+    {
+      "id": 49477925,
+      "title": "Interactive pattern discovery in binaries (FF-16-TUI)",
+      "url": "https://github.com/HexLasso/FF-16-TUI",
+      "score": 32,
+      "by": "HexLasso",
+      "comments": 3,
+      "time": "2026-08-28 13:05"
+    },
+    {
+      "id": 49518121,
+      "title": "Vermell \u2013 Minimal, dependency-free C++ web framework using epoll",
+      "url": "https://github.com/vermellcc/vermell",
+      "score": 19,
+      "by": "standar-donkey",
+      "comments": 9,
+      "time": "2026-09-01 04:56"
+    },
+    {
+      "id": 49510000,
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "score": 216,
+      "by": "ijidak",
+      "comments": 52,
+      "time": "2026-08-31 14:07"
     }
   ]
 }
