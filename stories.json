@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-09-01T09:16:52.379992",
+  "fetched_at": "2026-09-02T08:35:56.981601",
   "count": 30,
   "stories": [
     {
-      "id": 49517584,
-      "title": "GPU World",
-      "url": "https://www.gpuworld.org/",
-      "score": 212,
-      "by": "simonpure",
-      "comments": 99,
-      "time": "2026-09-01 03:16"
+      "id": 49525378,
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "score": 1204,
+      "by": "denysvitali",
+      "comments": 1126,
+      "time": "2026-09-01 17:53"
     },
     {
-      "id": 49517448,
-      "title": "Fastpotify",
-      "url": "https://fastpotify.rocks/",
-      "score": 359,
-      "by": "nreece",
-      "comments": 179,
-      "time": "2026-09-01 02:52"
+      "id": 49531651,
+      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "url": "https://arxiv.org/abs/2608.29530",
+      "score": 111,
+      "by": "schmuhblaster",
+      "comments": 35,
+      "time": "2026-09-02 04:15"
     },
     {
-      "id": 49516059,
-      "title": "Tmp.0ut Volume 5",
-      "url": "https://tmpout.sh/5/",
-      "score": 55,
-      "by": "ghuntley",
-      "comments": 19,
-      "time": "2026-08-31 23:26"
+      "id": 49526069,
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "score": 668,
+      "by": "jatins",
+      "comments": 731,
+      "time": "2026-09-01 18:35"
     },
     {
-      "id": 49517624,
-      "title": "Restroom Archive",
-      "url": "https://restroomarchive.com",
-      "score": 116,
-      "by": "jcalx",
-      "comments": 34,
-      "time": "2026-09-01 03:23"
+      "id": 49524863,
+      "title": "Fine, I'll build my own text editor",
+      "url": "https://dbushell.com/2026/09/01/text-editor/",
+      "score": 82,
+      "by": "Alephinitesimal",
+      "comments": 75,
+      "time": "2026-09-01 17:12"
     },
     {
-      "id": 49510514,
-      "title": "Playa Phone",
-      "url": "https://playaphone.com/",
-      "score": 623,
-      "by": "cutoff",
-      "comments": 210,
-      "time": "2026-08-31 14:52"
-    },
-    {
-      "id": 49511856,
-      "title": "I turned my security cameras into an automatic bird identification system",
-      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "score": 495,
-      "by": "speckx",
-      "comments": 118,
-      "time": "2026-08-31 16:47"
-    },
-    {
-      "id": 49512975,
-      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-      "score": 326,
-      "by": "keithcarolus",
-      "comments": 38,
-      "time": "2026-08-31 18:21"
-    },
-    {
-      "id": 49503521,
-      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-      "score": 413,
-      "by": "matthewsinclair",
-      "comments": 60,
-      "time": "2026-08-30 22:37"
-    },
-    {
-      "id": 49441609,
-      "title": "Polishing Cloth Updated",
-      "url": "https://512pixels.net/2026/08/polishing-cloth-updated/",
-      "score": 14,
-      "by": "zdw",
-      "comments": 5,
-      "time": "2026-08-25 22:34"
-    },
-    {
-      "id": 49518877,
-      "title": "CollectWise (YC F24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
-      "score": 1,
-      "by": "OBrien_1107",
-      "comments": 0,
-      "time": "2026-09-01 07:01"
-    },
-    {
-      "id": 49493468,
-      "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
-      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
-      "score": 12,
-      "by": "NaOH",
-      "comments": 3,
-      "time": "2026-08-29 21:25"
-    },
-    {
-      "id": 49467636,
-      "title": "Dwarf Fortress is getting the mother of all magic updates",
-      "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
-      "score": 409,
-      "by": "Tomte",
-      "comments": 168,
-      "time": "2026-08-27 16:45"
-    },
-    {
-      "id": 49517297,
-      "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
-      "url": "https://github.com/fregacmols/RotaryCell",
-      "score": 57,
-      "by": "jombib",
-      "comments": 8,
-      "time": "2026-09-01 02:29"
-    },
-    {
-      "id": 49516199,
-      "title": "Evidence of Fraud in an Influential Study About Procrastination",
-      "url": "https://datacolada.org/138",
-      "score": 232,
-      "by": "Anon84",
-      "comments": 159,
-      "time": "2026-08-31 23:45"
-    },
-    {
-      "id": 49508982,
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "score": 404,
-      "by": "thm",
-      "comments": 449,
-      "time": "2026-08-31 12:41"
-    },
-    {
-      "id": 49484004,
-      "title": "Borges Labyrinth in Venice reopens to the public",
-      "url": "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening",
-      "score": 68,
-      "by": "gone35",
-      "comments": 26,
-      "time": "2026-08-28 20:41"
-    },
-    {
-      "id": 49489376,
-      "title": "Show HN: Laser Graffiti",
-      "url": "https://laser.consti.de",
-      "score": 190,
-      "by": "con",
-      "comments": 40,
-      "time": "2026-08-29 12:28"
-    },
-    {
-      "id": 49516699,
-      "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up",
-      "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
-      "score": 110,
-      "by": "fagnerbrack",
-      "comments": 57,
-      "time": "2026-09-01 01:01"
-    },
-    {
-      "id": 49505584,
-      "title": "Roget's Thesaurus",
-      "url": "https://artflsrv04.uchicago.edu/roget-thesaurus/",
-      "score": 14,
-      "by": "gregsadetsky",
-      "comments": 1,
-      "time": "2026-08-31 04:29"
-    },
-    {
-      "id": 49460419,
-      "title": "Flat vs. segmented memory \u2013 it's recursive",
-      "url": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
-      "score": 21,
-      "by": "signa11",
-      "comments": 0,
-      "time": "2026-08-27 06:02"
-    },
-    {
-      "id": 49508506,
-      "title": "I think the military commissary's freezers were hacked",
-      "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
-      "score": 340,
-      "by": "jcurbo",
-      "comments": 195,
-      "time": "2026-08-31 11:45"
-    },
-    {
-      "id": 49500504,
-      "title": "Cheap GPS jammers are filling the world with navigation dead zones",
-      "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
-      "score": 138,
-      "by": "vinnyglennon",
-      "comments": 133,
-      "time": "2026-08-30 17:05"
-    },
-    {
-      "id": 49496292,
-      "title": "Smartphone LED detects hidden cameras with AI",
-      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-      "score": 211,
-      "by": "geox",
-      "comments": 61,
-      "time": "2026-08-30 06:52"
-    },
-    {
-      "id": 49516848,
-      "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
-      "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
-      "score": 41,
-      "by": "lbw1215",
-      "comments": 26,
-      "time": "2026-09-01 01:25"
-    },
-    {
-      "id": 49494181,
-      "title": "Lion-man",
-      "url": "https://en.wikipedia.org/wiki/Lion-man",
-      "score": 108,
+      "id": 49531525,
+      "title": "WebFPGA",
+      "url": "https://webfpga.io/",
+      "score": 60,
       "by": "gurjeet",
-      "comments": 54,
-      "time": "2026-08-29 23:17"
+      "comments": 28,
+      "time": "2026-09-02 03:54"
     },
     {
-      "id": 49467700,
-      "title": "Reverse engineering my ADHD test",
-      "url": "https://nullpt.rs/reverse-engineering-adhd-test",
-      "score": 217,
-      "by": "hazebooth",
-      "comments": 127,
-      "time": "2026-08-27 16:49"
+      "id": 49529621,
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "score": 192,
+      "by": "tatersolid",
+      "comments": 72,
+      "time": "2026-09-01 23:17"
     },
     {
-      "id": 49511534,
-      "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
-      "url": "https://ravynos.com/",
-      "score": 199,
+      "id": 49521973,
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+      "score": 444,
+      "by": "HieronymusBosch",
+      "comments": 143,
+      "time": "2026-09-01 13:46"
+    },
+    {
+      "id": 49528895,
+      "title": "Show HN: Weedout \u2013 Safari extension that hides YouTube AI-labeled videos",
+      "url": "https://masteranza.github.io/weedout/",
+      "score": 132,
+      "by": "masteranza",
+      "comments": 59,
+      "time": "2026-09-01 22:06"
+    },
+    {
+      "id": 49482099,
+      "title": "Sonic Pi",
+      "url": "https://sonic-pi.net/",
+      "score": 140,
       "by": "Bluestein",
-      "comments": 114,
-      "time": "2026-08-31 16:19"
+      "comments": 22,
+      "time": "2026-08-28 17:51"
     },
     {
-      "id": 49477925,
-      "title": "Interactive pattern discovery in binaries (FF-16-TUI)",
-      "url": "https://github.com/HexLasso/FF-16-TUI",
-      "score": 32,
-      "by": "HexLasso",
+      "id": 49529132,
+      "title": "My local model setup on an M4 Pro Mac Mini",
+      "url": "https://lws.io/blog/my-local-model-setup/",
+      "score": 181,
+      "by": "raybb",
+      "comments": 100,
+      "time": "2026-09-01 22:30"
+    },
+    {
+      "id": 49529898,
+      "title": "The efficient frontier of LLM inference",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "score": 112,
+      "by": "philipkiely",
+      "comments": 28,
+      "time": "2026-09-01 23:48"
+    },
+    {
+      "id": 49530989,
+      "title": "True Rate of Unemployment",
+      "url": "https://www.lisep.org/tru",
+      "score": 204,
+      "by": "ptrhvns",
+      "comments": 163,
+      "time": "2026-09-02 02:21"
+    },
+    {
+      "id": 49525153,
+      "title": "Launch HN: Nori Robotics (YC S26) \u2013 A low-cost humanoid robot for development",
+      "url": "https://www.norirobotics.com/",
+      "score": 159,
+      "by": "AntonioLi",
+      "comments": 48,
+      "time": "2026-09-01 17:35"
+    },
+    {
+      "id": 49523387,
+      "title": "Ambient CSS v3 \u2013 Blender meets CSS",
+      "url": "https://ambientcss.vercel.app/",
+      "score": 259,
+      "by": "kikkupico",
+      "comments": 80,
+      "time": "2026-09-01 15:35"
+    },
+    {
+      "id": 49524320,
+      "title": "Movie Scene Map \u2013 13,312 films, series, games, anime and manga",
+      "url": "https://moviescenemap.com/",
+      "score": 238,
+      "by": "Flightmussy",
+      "comments": 37,
+      "time": "2026-09-01 16:34"
+    },
+    {
+      "id": 49527396,
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "score": 389,
+      "by": "timpera",
+      "comments": 180,
+      "time": "2026-09-01 20:07"
+    },
+    {
+      "id": 49527595,
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra/",
+      "score": 147,
+      "by": "jithinraj",
+      "comments": 62,
+      "time": "2026-09-01 20:20"
+    },
+    {
+      "id": 49525297,
+      "title": "The creator of Jujutsu has joined ERSC",
+      "url": "https://ersc.io/blog/martin-joins-ersc",
+      "score": 230,
+      "by": "steveklabnik",
+      "comments": 173,
+      "time": "2026-09-01 17:46"
+    },
+    {
+      "id": 49527232,
+      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+      "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+      "score": 120,
+      "by": "jwise0",
+      "comments": 55,
+      "time": "2026-09-01 19:55"
+    },
+    {
+      "id": 49528057,
+      "title": "Show HN: HN Match Maker \u2013 Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+      "url": "https://hnmatchmaker.com/",
+      "score": 83,
+      "by": "all2",
+      "comments": 35,
+      "time": "2026-09-01 20:53"
+    },
+    {
+      "id": 49488224,
+      "title": "How bicycle coaster brakes work (2018)",
+      "url": "https://www.dougbarnesauthor.com/2018/06/how-bicycle-coaster-brakes-work.html",
+      "score": 59,
+      "by": "Vedor",
+      "comments": 46,
+      "time": "2026-08-29 09:05"
+    },
+    {
+      "id": 49484796,
+      "title": "Forgotten History of Small Nuclear Reactors (2015)",
+      "url": "https://spectrum.ieee.org/the-forgotten-history-of-small-nuclear-reactors",
+      "score": 37,
+      "by": "derriz",
+      "comments": 15,
+      "time": "2026-08-28 22:05"
+    },
+    {
+      "id": 49522897,
+      "title": "Ask HN: Who is hiring? (September 2026)",
+      "url": "#",
+      "score": 214,
+      "by": "whoishiring",
+      "comments": 237,
+      "time": "2026-09-01 15:01"
+    },
+    {
+      "id": 49524447,
+      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+      "url": "https://github.com/carloslfu/slotstream",
+      "score": 202,
+      "by": "carloslfu",
+      "comments": 95,
+      "time": "2026-09-01 16:42"
+    },
+    {
+      "id": 49479909,
+      "title": "Building an interactive instrument for a one-of-a-kind festival",
+      "url": "https://benholmen.com/blog/halfmoon-chimes/",
+      "score": 46,
+      "by": "tjwds",
+      "comments": 5,
+      "time": "2026-08-28 15:21"
+    },
+    {
+      "id": 49525160,
+      "title": "Atlas: A World Model for Spatial Intelligence",
+      "url": "https://www.worldlabs.ai/blog/atlas",
+      "score": 212,
+      "by": "johnsutor",
+      "comments": 50,
+      "time": "2026-09-01 17:36"
+    },
+    {
+      "id": 49489098,
+      "title": "Building Autonomous Goal Loops That Deliver",
+      "url": "https://jx0.ca/building-autonomous-goal-loops-that-deliver/",
+      "score": 39,
+      "by": "jarredkenny",
+      "comments": 7,
+      "time": "2026-08-29 11:49"
+    },
+    {
+      "id": 49506867,
+      "title": "The Starfish and the Spider [pdf]",
+      "url": "https://earthprayer.net/library/Starfish-and-Spider-Ori-Brafman-Summary.pdf",
+      "score": 3,
+      "by": "rzk",
+      "comments": 1,
+      "time": "2026-08-31 07:57"
+    },
+    {
+      "id": 49516117,
+      "title": "Top Web Design Styles of 1993",
+      "url": "https://contemporary-home-computing.org/prof-dr-style/",
+      "score": 37,
+      "by": "luu",
       "comments": 3,
-      "time": "2026-08-28 13:05"
+      "time": "2026-08-31 23:35"
     },
     {
-      "id": 49518121,
-      "title": "Vermell \u2013 Minimal, dependency-free C++ web framework using epoll",
-      "url": "https://github.com/vermellcc/vermell",
-      "score": 19,
-      "by": "standar-donkey",
-      "comments": 9,
-      "time": "2026-09-01 04:56"
-    },
-    {
-      "id": 49510000,
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
-      "score": 216,
-      "by": "ijidak",
-      "comments": 52,
-      "time": "2026-08-31 14:07"
+      "id": 49508619,
+      "title": "Solving the Flat Cube",
+      "url": "https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/",
+      "score": 33,
+      "by": "surprisetalk",
+      "comments": 5,
+      "time": "2026-08-31 12:02"
     }
   ]
 }
