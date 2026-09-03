@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-09-02T08:35:56.981601",
+  "fetched_at": "2026-09-03T08:44:19.210902",
   "count": 30,
   "stories": [
     {
-      "id": 49525378,
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "score": 1204,
-      "by": "denysvitali",
-      "comments": 1126,
-      "time": "2026-09-01 17:53"
-    },
-    {
-      "id": 49531651,
-      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "url": "https://arxiv.org/abs/2608.29530",
-      "score": 111,
-      "by": "schmuhblaster",
-      "comments": 35,
-      "time": "2026-09-02 04:15"
-    },
-    {
-      "id": 49526069,
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "url": "https://danluu.com/zitron/",
-      "score": 668,
-      "by": "jatins",
-      "comments": 731,
-      "time": "2026-09-01 18:35"
-    },
-    {
-      "id": 49524863,
-      "title": "Fine, I'll build my own text editor",
-      "url": "https://dbushell.com/2026/09/01/text-editor/",
-      "score": 82,
-      "by": "Alephinitesimal",
-      "comments": 75,
-      "time": "2026-09-01 17:12"
-    },
-    {
-      "id": 49531525,
-      "title": "WebFPGA",
-      "url": "https://webfpga.io/",
-      "score": 60,
-      "by": "gurjeet",
-      "comments": 28,
-      "time": "2026-09-02 03:54"
-    },
-    {
-      "id": 49529621,
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "score": 192,
-      "by": "tatersolid",
-      "comments": 72,
-      "time": "2026-09-01 23:17"
-    },
-    {
-      "id": 49521973,
-      "title": "Introducing Ad Blocker for Firefox on iOS",
-      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
-      "score": 444,
-      "by": "HieronymusBosch",
-      "comments": 143,
-      "time": "2026-09-01 13:46"
-    },
-    {
-      "id": 49528895,
-      "title": "Show HN: Weedout \u2013 Safari extension that hides YouTube AI-labeled videos",
-      "url": "https://masteranza.github.io/weedout/",
-      "score": 132,
-      "by": "masteranza",
-      "comments": 59,
-      "time": "2026-09-01 22:06"
-    },
-    {
-      "id": 49482099,
-      "title": "Sonic Pi",
-      "url": "https://sonic-pi.net/",
-      "score": 140,
-      "by": "Bluestein",
-      "comments": 22,
-      "time": "2026-08-28 17:51"
-    },
-    {
-      "id": 49529132,
-      "title": "My local model setup on an M4 Pro Mac Mini",
-      "url": "https://lws.io/blog/my-local-model-setup/",
-      "score": 181,
-      "by": "raybb",
-      "comments": 100,
-      "time": "2026-09-01 22:30"
-    },
-    {
-      "id": 49529898,
-      "title": "The efficient frontier of LLM inference",
-      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-      "score": 112,
-      "by": "philipkiely",
-      "comments": 28,
-      "time": "2026-09-01 23:48"
-    },
-    {
-      "id": 49530989,
-      "title": "True Rate of Unemployment",
-      "url": "https://www.lisep.org/tru",
-      "score": 204,
-      "by": "ptrhvns",
-      "comments": 163,
-      "time": "2026-09-02 02:21"
-    },
-    {
-      "id": 49525153,
-      "title": "Launch HN: Nori Robotics (YC S26) \u2013 A low-cost humanoid robot for development",
-      "url": "https://www.norirobotics.com/",
-      "score": 159,
-      "by": "AntonioLi",
-      "comments": 48,
-      "time": "2026-09-01 17:35"
-    },
-    {
-      "id": 49523387,
-      "title": "Ambient CSS v3 \u2013 Blender meets CSS",
-      "url": "https://ambientcss.vercel.app/",
-      "score": 259,
-      "by": "kikkupico",
-      "comments": 80,
-      "time": "2026-09-01 15:35"
-    },
-    {
-      "id": 49524320,
-      "title": "Movie Scene Map \u2013 13,312 films, series, games, anime and manga",
-      "url": "https://moviescenemap.com/",
-      "score": 238,
-      "by": "Flightmussy",
-      "comments": 37,
-      "time": "2026-09-01 16:34"
-    },
-    {
-      "id": 49527396,
-      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-      "score": 389,
-      "by": "timpera",
-      "comments": 180,
-      "time": "2026-09-01 20:07"
-    },
-    {
-      "id": 49527595,
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "url": "https://openai.com/index/path-to-astra/",
-      "score": 147,
-      "by": "jithinraj",
-      "comments": 62,
-      "time": "2026-09-01 20:20"
-    },
-    {
-      "id": 49525297,
-      "title": "The creator of Jujutsu has joined ERSC",
-      "url": "https://ersc.io/blog/martin-joins-ersc",
-      "score": 230,
-      "by": "steveklabnik",
-      "comments": 173,
-      "time": "2026-09-01 17:46"
-    },
-    {
-      "id": 49527232,
-      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
-      "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
-      "score": 120,
-      "by": "jwise0",
-      "comments": 55,
-      "time": "2026-09-01 19:55"
-    },
-    {
-      "id": 49528057,
-      "title": "Show HN: HN Match Maker \u2013 Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
-      "url": "https://hnmatchmaker.com/",
-      "score": 83,
-      "by": "all2",
-      "comments": 35,
-      "time": "2026-09-01 20:53"
-    },
-    {
-      "id": 49488224,
-      "title": "How bicycle coaster brakes work (2018)",
-      "url": "https://www.dougbarnesauthor.com/2018/06/how-bicycle-coaster-brakes-work.html",
-      "score": 59,
-      "by": "Vedor",
-      "comments": 46,
-      "time": "2026-08-29 09:05"
-    },
-    {
-      "id": 49484796,
-      "title": "Forgotten History of Small Nuclear Reactors (2015)",
-      "url": "https://spectrum.ieee.org/the-forgotten-history-of-small-nuclear-reactors",
-      "score": 37,
-      "by": "derriz",
-      "comments": 15,
-      "time": "2026-08-28 22:05"
-    },
-    {
-      "id": 49522897,
-      "title": "Ask HN: Who is hiring? (September 2026)",
-      "url": "#",
-      "score": 214,
-      "by": "whoishiring",
-      "comments": 237,
-      "time": "2026-09-01 15:01"
-    },
-    {
-      "id": 49524447,
-      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-      "url": "https://github.com/carloslfu/slotstream",
-      "score": 202,
-      "by": "carloslfu",
-      "comments": 95,
-      "time": "2026-09-01 16:42"
-    },
-    {
-      "id": 49479909,
-      "title": "Building an interactive instrument for a one-of-a-kind festival",
-      "url": "https://benholmen.com/blog/halfmoon-chimes/",
-      "score": 46,
-      "by": "tjwds",
-      "comments": 5,
-      "time": "2026-08-28 15:21"
-    },
-    {
-      "id": 49525160,
-      "title": "Atlas: A World Model for Spatial Intelligence",
-      "url": "https://www.worldlabs.ai/blog/atlas",
-      "score": 212,
-      "by": "johnsutor",
-      "comments": 50,
-      "time": "2026-09-01 17:36"
-    },
-    {
-      "id": 49489098,
-      "title": "Building Autonomous Goal Loops That Deliver",
-      "url": "https://jx0.ca/building-autonomous-goal-loops-that-deliver/",
-      "score": 39,
-      "by": "jarredkenny",
-      "comments": 7,
-      "time": "2026-08-29 11:49"
-    },
-    {
-      "id": 49506867,
-      "title": "The Starfish and the Spider [pdf]",
-      "url": "https://earthprayer.net/library/Starfish-and-Spider-Ori-Brafman-Summary.pdf",
-      "score": 3,
-      "by": "rzk",
-      "comments": 1,
-      "time": "2026-08-31 07:57"
-    },
-    {
-      "id": 49516117,
-      "title": "Top Web Design Styles of 1993",
-      "url": "https://contemporary-home-computing.org/prof-dr-style/",
-      "score": 37,
-      "by": "luu",
+      "id": 49546753,
+      "title": "Pre-Release of Polars 2.0",
+      "url": "https://pola.rs/posts/announcing-polars-2/",
+      "score": 66,
+      "by": "komape",
       "comments": 3,
-      "time": "2026-08-31 23:35"
+      "time": "2026-09-03 06:59"
     },
     {
-      "id": 49508619,
-      "title": "Solving the Flat Cube",
-      "url": "https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/",
-      "score": 33,
-      "by": "surprisetalk",
+      "id": 49541256,
+      "title": "Muse Spark 1.3",
+      "url": "https://developer.meta.com/ai/models/muse-spark/",
+      "score": 557,
+      "by": "bvaldivielso",
+      "comments": 379,
+      "time": "2026-09-02 19:35"
+    },
+    {
+      "id": 49537553,
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "score": 998,
+      "by": "bratao",
+      "comments": 567,
+      "time": "2026-09-02 15:12"
+    },
+    {
+      "id": 49546800,
+      "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
+      "url": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
+      "score": 15,
+      "by": "DamonHD",
       "comments": 5,
-      "time": "2026-08-31 12:02"
+      "time": "2026-09-03 07:04"
+    },
+    {
+      "id": 49530169,
+      "title": "LLMs and Self-Referentiality",
+      "url": "https://scottaaronson.blog/?p=10046",
+      "score": 31,
+      "by": "mavdol04",
+      "comments": 15,
+      "time": "2026-09-02 00:20"
+    },
+    {
+      "id": 49511493,
+      "title": "The Computer Museum of America reclamation project",
+      "url": "https://computer-museum.org/wp/",
+      "score": 37,
+      "by": "rbanffy",
+      "comments": 11,
+      "time": "2026-08-31 16:15"
+    },
+    {
+      "id": 49508405,
+      "title": "Holden's Lightning Flight",
+      "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
+      "score": 148,
+      "by": "ColinWright",
+      "comments": 28,
+      "time": "2026-08-31 11:29"
+    },
+    {
+      "id": 49522137,
+      "title": "The Browser's Main Thread Is Expensive",
+      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+      "score": 4,
+      "by": "kciter",
+      "comments": 0,
+      "time": "2026-09-01 14:00"
+    },
+    {
+      "id": 49536375,
+      "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "score": 402,
+      "by": "jakobgreenfeld",
+      "comments": 194,
+      "time": "2026-09-02 13:59"
+    },
+    {
+      "id": 49537131,
+      "title": "Google avoids a breakup of its ad tech business",
+      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "score": 368,
+      "by": "donohoe",
+      "comments": 275,
+      "time": "2026-09-02 14:46"
+    },
+    {
+      "id": 49535284,
+      "title": "Can I opt out of my input or output data being used for training?",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "score": 435,
+      "by": "teekert",
+      "comments": 194,
+      "time": "2026-09-02 12:30"
+    },
+    {
+      "id": 49519792,
+      "title": "Higher Multipoles of the Cow",
+      "url": "https://arxiv.org/abs/2504.00506",
+      "score": 63,
+      "by": "MrOrelliOReilly",
+      "comments": 20,
+      "time": "2026-09-01 09:27"
+    },
+    {
+      "id": 49508608,
+      "title": "Reverse Engineering Unknown File Formats with ImHex",
+      "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
+      "score": 193,
+      "by": "carlos-menezes",
+      "comments": 34,
+      "time": "2026-08-31 12:01"
+    },
+    {
+      "id": 49541458,
+      "title": "Fable 5.1 World Modeling",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "score": 235,
+      "by": "surreal_",
+      "comments": 69,
+      "time": "2026-09-02 19:49"
+    },
+    {
+      "id": 49543530,
+      "title": "Launch HN: RonanRX (YC S26) \u2013 Personalized Peptides and GLP-1s",
+      "url": "#",
+      "score": 57,
+      "by": "lloydarmbrust",
+      "comments": 65,
+      "time": "2026-09-02 22:36"
+    },
+    {
+      "id": 49528506,
+      "title": "Show HN: OwnTime \u2013 a chess clock for your day's priorities",
+      "url": "https://owntime.app/",
+      "score": 71,
+      "by": "fmos",
+      "comments": 37,
+      "time": "2026-09-01 21:29"
+    },
+    {
+      "id": 49536079,
+      "title": "Biggest dark matter detector spots a single weird particle",
+      "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+      "score": 287,
+      "by": "randycupertino",
+      "comments": 99,
+      "time": "2026-09-02 13:40"
+    },
+    {
+      "id": 49517018,
+      "title": "Wendell Berry has died",
+      "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
+      "score": 183,
+      "by": "Curiositry",
+      "comments": 96,
+      "time": "2026-09-01 01:49"
+    },
+    {
+      "id": 49535548,
+      "title": "Aging brains blend memories together instead of just forgetting them",
+      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+      "score": 271,
+      "by": "mdp2021",
+      "comments": 116,
+      "time": "2026-09-02 12:59"
+    },
+    {
+      "id": 49540565,
+      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+      "score": 127,
+      "by": "gumby",
+      "comments": 78,
+      "time": "2026-09-02 18:42"
+    },
+    {
+      "id": 49521031,
+      "title": "Engineering of the fastest WebAssembly interpreters",
+      "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
+      "score": 88,
+      "by": "herobird",
+      "comments": 8,
+      "time": "2026-09-01 12:25"
+    },
+    {
+      "id": 49536606,
+      "title": "Exit the Cave",
+      "url": "https://turtlespace.blog/p/exit-the-cave",
+      "score": 252,
+      "by": "akkartik",
+      "comments": 91,
+      "time": "2026-09-02 14:16"
+    },
+    {
+      "id": 49540415,
+      "title": "Async Rust vs RTOS showdown (2022)",
+      "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
+      "score": 85,
+      "by": "kooi",
+      "comments": 43,
+      "time": "2026-09-02 18:32"
+    },
+    {
+      "id": 49541754,
+      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
+      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+      "score": 57,
+      "by": "Eridanus2",
+      "comments": 33,
+      "time": "2026-09-02 20:08"
+    },
+    {
+      "id": 49513856,
+      "title": "A Selection of Los Alamos Rolodex Business Cards",
+      "url": "https://clui.org/collections/los-alamos-business-cards/selection-cards",
+      "score": 165,
+      "by": "1970-01-01",
+      "comments": 42,
+      "time": "2026-08-31 19:25"
+    },
+    {
+      "id": 49521909,
+      "title": "We could save petabytes of cache storage with Zstandard and Pingora",
+      "url": "https://blog.cloudflare.com/cache-transcoding/",
+      "score": 109,
+      "by": "torutofu",
+      "comments": 44,
+      "time": "2026-09-01 13:41"
+    },
+    {
+      "id": 49542486,
+      "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
+      "url": "https://nango.dev/careers",
+      "score": 1,
+      "by": "bastienbeurier",
+      "comments": 0,
+      "time": "2026-09-02 21:00"
+    },
+    {
+      "id": 49536177,
+      "title": "Poisson Disk Sampling",
+      "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
+      "score": 158,
+      "by": "vismit2000",
+      "comments": 19,
+      "time": "2026-09-02 13:47"
+    },
+    {
+      "id": 49543191,
+      "title": "Reasons robotics is hard",
+      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+      "score": 90,
+      "by": "ddp26",
+      "comments": 50,
+      "time": "2026-09-02 22:02"
+    },
+    {
+      "id": 49497996,
+      "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
+      "url": "https://www.nature.com/articles/s41562-026-02550-0",
+      "score": 139,
+      "by": "Anon84",
+      "comments": 128,
+      "time": "2026-08-30 12:12"
     }
   ]
 }
