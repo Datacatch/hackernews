@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-09-03T08:44:19.210902",
+  "fetched_at": "2026-09-04T08:39:49.525950",
   "count": 30,
   "stories": [
     {
-      "id": 49546753,
-      "title": "Pre-Release of Polars 2.0",
-      "url": "https://pola.rs/posts/announcing-polars-2/",
-      "score": 66,
-      "by": "komape",
-      "comments": 3,
-      "time": "2026-09-03 06:59"
+      "id": 49554643,
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "score": 1738,
+      "by": "kibae",
+      "comments": 1532,
+      "time": "2026-09-03 18:41"
     },
     {
-      "id": 49541256,
-      "title": "Muse Spark 1.3",
-      "url": "https://developer.meta.com/ai/models/muse-spark/",
-      "score": 557,
-      "by": "bvaldivielso",
-      "comments": 379,
-      "time": "2026-09-02 19:35"
+      "id": 49550772,
+      "title": ".name Termination",
+      "url": "https://neil.fraser.name/news/2026/09/03/",
+      "score": 1760,
+      "by": "pavel_lishin",
+      "comments": 438,
+      "time": "2026-09-03 14:54"
     },
     {
-      "id": 49537553,
-      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "score": 998,
-      "by": "bratao",
-      "comments": 567,
-      "time": "2026-09-02 15:12"
+      "id": 49554520,
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "score": 543,
+      "by": "altertable",
+      "comments": 172,
+      "time": "2026-09-03 18:32"
     },
     {
-      "id": 49546800,
-      "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
-      "url": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
+      "id": 49522367,
+      "title": "Authorization terminology is a mess: Let's fix it",
+      "url": "https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/",
       "score": 15,
-      "by": "DamonHD",
-      "comments": 5,
-      "time": "2026-09-03 07:04"
+      "by": "andychiare",
+      "comments": 2,
+      "time": "2026-09-01 14:18"
     },
     {
-      "id": 49530169,
-      "title": "LLMs and Self-Referentiality",
-      "url": "https://scottaaronson.blog/?p=10046",
-      "score": 31,
-      "by": "mavdol04",
-      "comments": 15,
-      "time": "2026-09-02 00:20"
+      "id": 49526453,
+      "title": "The largest electric aircraft just flew [video]",
+      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "score": 304,
+      "by": "feb",
+      "comments": 219,
+      "time": "2026-09-01 19:02"
     },
     {
-      "id": 49511493,
-      "title": "The Computer Museum of America reclamation project",
-      "url": "https://computer-museum.org/wp/",
-      "score": 37,
-      "by": "rbanffy",
-      "comments": 11,
-      "time": "2026-08-31 16:15"
-    },
-    {
-      "id": 49508405,
-      "title": "Holden's Lightning Flight",
-      "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
-      "score": 148,
-      "by": "ColinWright",
-      "comments": 28,
-      "time": "2026-08-31 11:29"
-    },
-    {
-      "id": 49522137,
-      "title": "The Browser's Main Thread Is Expensive",
-      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-      "score": 4,
-      "by": "kciter",
-      "comments": 0,
-      "time": "2026-09-01 14:00"
-    },
-    {
-      "id": 49536375,
-      "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "score": 402,
-      "by": "jakobgreenfeld",
-      "comments": 194,
-      "time": "2026-09-02 13:59"
-    },
-    {
-      "id": 49537131,
-      "title": "Google avoids a breakup of its ad tech business",
-      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-      "score": 368,
-      "by": "donohoe",
-      "comments": 275,
-      "time": "2026-09-02 14:46"
-    },
-    {
-      "id": 49535284,
-      "title": "Can I opt out of my input or output data being used for training?",
-      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "score": 435,
-      "by": "teekert",
-      "comments": 194,
-      "time": "2026-09-02 12:30"
-    },
-    {
-      "id": 49519792,
-      "title": "Higher Multipoles of the Cow",
-      "url": "https://arxiv.org/abs/2504.00506",
-      "score": 63,
-      "by": "MrOrelliOReilly",
+      "id": 49561320,
+      "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
+      "url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
+      "score": 70,
+      "by": "beardyw",
       "comments": 20,
-      "time": "2026-09-01 09:27"
+      "time": "2026-09-04 06:47"
     },
     {
-      "id": 49508608,
-      "title": "Reverse Engineering Unknown File Formats with ImHex",
-      "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
-      "score": 193,
-      "by": "carlos-menezes",
-      "comments": 34,
-      "time": "2026-08-31 12:01"
+      "id": 49552572,
+      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+      "score": 246,
+      "by": "speckx",
+      "comments": 76,
+      "time": "2026-09-03 16:21"
     },
     {
-      "id": 49541458,
-      "title": "Fable 5.1 World Modeling",
-      "url": "https://github.com/PhiloLabs/fable51-worlds",
-      "score": 235,
-      "by": "surreal_",
-      "comments": 69,
-      "time": "2026-09-02 19:49"
+      "id": 49507072,
+      "title": "How an MIT research project became the Julia programming language",
+      "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
+      "score": 87,
+      "by": "theanonymousone",
+      "comments": 25,
+      "time": "2026-08-31 08:26"
     },
     {
-      "id": 49543530,
-      "title": "Launch HN: RonanRX (YC S26) \u2013 Personalized Peptides and GLP-1s",
-      "url": "#",
-      "score": 57,
-      "by": "lloydarmbrust",
-      "comments": 65,
-      "time": "2026-09-02 22:36"
+      "id": 49559522,
+      "title": "Project Xanadu: Even More Hindsight (2025)",
+      "url": "https://gwern.net/xanadu",
+      "score": 75,
+      "by": "andsoitis",
+      "comments": 11,
+      "time": "2026-09-04 01:45"
     },
     {
-      "id": 49528506,
-      "title": "Show HN: OwnTime \u2013 a chess clock for your day's priorities",
-      "url": "https://owntime.app/",
-      "score": 71,
-      "by": "fmos",
-      "comments": 37,
-      "time": "2026-09-01 21:29"
+      "id": 49550375,
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "score": 286,
+      "by": "rabahs",
+      "comments": 87,
+      "time": "2026-09-03 14:28"
     },
     {
-      "id": 49536079,
-      "title": "Biggest dark matter detector spots a single weird particle",
-      "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
-      "score": 287,
-      "by": "randycupertino",
-      "comments": 99,
-      "time": "2026-09-02 13:40"
-    },
-    {
-      "id": 49517018,
-      "title": "Wendell Berry has died",
-      "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
-      "score": 183,
-      "by": "Curiositry",
-      "comments": 96,
-      "time": "2026-09-01 01:49"
-    },
-    {
-      "id": 49535548,
-      "title": "Aging brains blend memories together instead of just forgetting them",
-      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
-      "score": 271,
-      "by": "mdp2021",
-      "comments": 116,
-      "time": "2026-09-02 12:59"
-    },
-    {
-      "id": 49540565,
-      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
-      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
-      "score": 127,
-      "by": "gumby",
-      "comments": 78,
-      "time": "2026-09-02 18:42"
-    },
-    {
-      "id": 49521031,
-      "title": "Engineering of the fastest WebAssembly interpreters",
-      "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
-      "score": 88,
-      "by": "herobird",
-      "comments": 8,
-      "time": "2026-09-01 12:25"
-    },
-    {
-      "id": 49536606,
-      "title": "Exit the Cave",
-      "url": "https://turtlespace.blog/p/exit-the-cave",
-      "score": 252,
-      "by": "akkartik",
-      "comments": 91,
-      "time": "2026-09-02 14:16"
-    },
-    {
-      "id": 49540415,
-      "title": "Async Rust vs RTOS showdown (2022)",
-      "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
-      "score": 85,
-      "by": "kooi",
-      "comments": 43,
-      "time": "2026-09-02 18:32"
-    },
-    {
-      "id": 49541754,
-      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
-      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
-      "score": 57,
-      "by": "Eridanus2",
-      "comments": 33,
-      "time": "2026-09-02 20:08"
-    },
-    {
-      "id": 49513856,
-      "title": "A Selection of Los Alamos Rolodex Business Cards",
-      "url": "https://clui.org/collections/los-alamos-business-cards/selection-cards",
-      "score": 165,
-      "by": "1970-01-01",
-      "comments": 42,
-      "time": "2026-08-31 19:25"
-    },
-    {
-      "id": 49521909,
-      "title": "We could save petabytes of cache storage with Zstandard and Pingora",
-      "url": "https://blog.cloudflare.com/cache-transcoding/",
-      "score": 109,
-      "by": "torutofu",
-      "comments": 44,
-      "time": "2026-09-01 13:41"
-    },
-    {
-      "id": 49542486,
-      "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
-      "url": "https://nango.dev/careers",
-      "score": 1,
-      "by": "bastienbeurier",
-      "comments": 0,
-      "time": "2026-09-02 21:00"
-    },
-    {
-      "id": 49536177,
-      "title": "Poisson Disk Sampling",
-      "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
-      "score": 158,
-      "by": "vismit2000",
-      "comments": 19,
-      "time": "2026-09-02 13:47"
-    },
-    {
-      "id": 49543191,
-      "title": "Reasons robotics is hard",
-      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
-      "score": 90,
-      "by": "ddp26",
+      "id": 49521590,
+      "title": "Move in C++ without a std:move",
+      "url": "https://andreasfertig.com/blog/2026/09/move-in-cpp-without-a-stdmove/",
+      "score": 42,
+      "by": "dalvrosa",
       "comments": 50,
-      "time": "2026-09-02 22:02"
+      "time": "2026-09-01 13:17"
     },
     {
-      "id": 49497996,
-      "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
-      "url": "https://www.nature.com/articles/s41562-026-02550-0",
-      "score": 139,
-      "by": "Anon84",
-      "comments": 128,
-      "time": "2026-08-30 12:12"
+      "id": 49544762,
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+      "score": 290,
+      "by": "gmays",
+      "comments": 97,
+      "time": "2026-09-03 01:11"
+    },
+    {
+      "id": 49551760,
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "url": "https://ifm.ai/blog/k2/",
+      "score": 293,
+      "by": "karimf",
+      "comments": 97,
+      "time": "2026-09-03 15:36"
+    },
+    {
+      "id": 49557206,
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "score": 205,
+      "by": "screm",
+      "comments": 94,
+      "time": "2026-09-03 21:20"
+    },
+    {
+      "id": 49544618,
+      "title": "GPS glitched across the US by as much as 33 feet",
+      "url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
+      "score": 174,
+      "by": "thread_id",
+      "comments": 101,
+      "time": "2026-09-03 00:49"
+    },
+    {
+      "id": 49548600,
+      "title": "Ask HN: Who is using MCP in production?",
+      "url": "#",
+      "score": 60,
+      "by": "sukit",
+      "comments": 81,
+      "time": "2026-09-03 11:21"
+    },
+    {
+      "id": 49559901,
+      "title": "From Hookswitch to Grave",
+      "url": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
+      "score": 24,
+      "by": "Sniffnoy",
+      "comments": 2,
+      "time": "2026-09-04 02:40"
+    },
+    {
+      "id": 49526298,
+      "title": "Xanadu was waiting for agents",
+      "url": "https://zed.dev/blog/agentic-xanadu",
+      "score": 118,
+      "by": "nsm",
+      "comments": 49,
+      "time": "2026-09-01 18:50"
+    },
+    {
+      "id": 49520978,
+      "title": "In defense of two-state theme toggles",
+      "url": "https://joshcollinsworth.com/blog/in-defense-of-two-state-theme-toggles",
+      "score": 7,
+      "by": "surprisetalk",
+      "comments": 9,
+      "time": "2026-09-01 12:20"
+    },
+    {
+      "id": 49522611,
+      "title": "Virtual Threads for a scripting language in Java 8 without Loom",
+      "url": "https://jactl.io/blog/2026/08/28/jactl-virtual-threads",
+      "score": 30,
+      "by": "jaccomo",
+      "comments": 3,
+      "time": "2026-09-01 14:36"
+    },
+    {
+      "id": 49549148,
+      "title": "Show HN: Reactor Atlas",
+      "url": "https://reactoratlas.com",
+      "score": 22,
+      "by": "fedecaccia",
+      "comments": 12,
+      "time": "2026-09-03 12:33"
+    },
+    {
+      "id": 49550698,
+      "title": "Any Human Ever \u2013 One life, drawn at random from all who have ever lived",
+      "url": "https://anyhumanever.com/",
+      "score": 571,
+      "by": "thinkingemote",
+      "comments": 270,
+      "time": "2026-09-03 14:51"
+    },
+    {
+      "id": 49560260,
+      "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+      "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
+      "score": 70,
+      "by": "kaonashi-tyc-01",
+      "comments": 48,
+      "time": "2026-09-04 03:40"
+    },
+    {
+      "id": 49527967,
+      "title": "A PCB business card with a batteryless LED, powered by the phone that taps it",
+      "url": "https://www.kevin.md/the-business-card-that-lights-up.md/",
+      "score": 80,
+      "by": "thekevintang",
+      "comments": 22,
+      "time": "2026-09-01 20:46"
+    },
+    {
+      "id": 49538069,
+      "title": "Unusual Suspects",
+      "url": "https://neal.fun/unusual-suspects/",
+      "score": 153,
+      "by": "beeperboy95",
+      "comments": 27,
+      "time": "2026-09-02 15:48"
+    },
+    {
+      "id": 49555233,
+      "title": "The asteroid currently hitting front end web development",
+      "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+      "score": 151,
+      "by": "codechicago277",
+      "comments": 172,
+      "time": "2026-09-03 19:17"
+    },
+    {
+      "id": 49556922,
+      "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+      "url": "https://tasklet.ai/careers/customer-success-engineer",
+      "score": 1,
+      "by": "mayop100",
+      "comments": 0,
+      "time": "2026-09-03 21:01"
+    },
+    {
+      "id": 49559992,
+      "title": "A mysterious kidney disease has arrived in Texas",
+      "url": "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/",
+      "score": 76,
+      "by": "johntfella",
+      "comments": 56,
+      "time": "2026-09-04 02:54"
+    },
+    {
+      "id": 49558086,
+      "title": "GLP-1s are being linked to fewer serious infections, including TB",
+      "url": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
+      "score": 107,
+      "by": "gumby",
+      "comments": 57,
+      "time": "2026-09-03 22:37"
+    },
+    {
+      "id": 49530807,
+      "title": "New type of dice guarantees no tie when deciding who goes first",
+      "url": "https://www.cbc.ca/lite/story/9.7328614",
+      "score": 106,
+      "by": "colinprince",
+      "comments": 86,
+      "time": "2026-09-02 01:50"
     }
   ]
 }
