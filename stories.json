@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-09-10T08:49:18.765873",
+  "fetched_at": "2026-09-11T08:45:47.388380",
   "count": 30,
   "stories": [
     {
-      "id": 49639090,
-      "title": "DeepSeek v4.1 Flash",
-      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-      "score": 230,
-      "by": "Liwink",
-      "comments": 83,
-      "time": "2026-09-10 06:11"
+      "id": 49643982,
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "url": "https://shopify.engineering/back-to-native",
+      "score": 1029,
+      "by": "fnthawar2",
+      "comments": 709,
+      "time": "2026-09-10 14:09"
     },
     {
-      "id": 49630931,
-      "title": "iPhone Duo",
-      "url": "https://www.apple.com/iphone-duo/",
-      "score": 1181,
-      "by": "thecosmicfrog",
-      "comments": 2075,
-      "time": "2026-09-09 18:15"
+      "id": 49645393,
+      "title": "Don't let anyone take away your big box of cables",
+      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "score": 497,
+      "by": "Brajeshwar",
+      "comments": 330,
+      "time": "2026-09-10 15:27"
     },
     {
-      "id": 49637385,
-      "title": "Show HN: What if the speed of light was 5 km/h?",
-      "url": "https://rivendell.dmitrybrant.com/relativity/",
-      "score": 280,
-      "by": "dmitrybrant",
-      "comments": 121,
-      "time": "2026-09-10 01:58"
+      "id": 49606281,
+      "title": "Working with Git Worktrees in Magit",
+      "url": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
+      "score": 36,
+      "by": "srijan4",
+      "comments": 6,
+      "time": "2026-09-08 06:31"
     },
     {
-      "id": 49621018,
-      "title": "Larger Pacific Striped Octopus",
-      "url": "https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus",
-      "score": 47,
-      "by": "olalonde",
-      "comments": 22,
-      "time": "2026-09-09 04:32"
+      "id": 49649213,
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "score": 248,
+      "by": "aquir",
+      "comments": 140,
+      "time": "2026-09-10 19:43"
     },
     {
-      "id": 49626190,
-      "title": "Shopify acquires Tailwind",
-      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "score": 1017,
-      "by": "EdwinHoksberg",
-      "comments": 390,
-      "time": "2026-09-09 13:27"
+      "id": 49649124,
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "url": "https://auberon.xyz/blog/posts/deathray/",
+      "score": 168,
+      "by": "auberonedu",
+      "comments": 107,
+      "time": "2026-09-10 19:34"
     },
     {
-      "id": 49614280,
-      "title": "What do Visa and Mastercard do? An intro to card networks",
-      "url": "https://tautology.town/2026/06/01/card-networks.html",
-      "score": 512,
-      "by": "evakhoury",
-      "comments": 292,
-      "time": "2026-09-08 18:11"
+      "id": 49651221,
+      "title": "Nine coding harnesses vs. your laptop",
+      "url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+      "score": 86,
+      "by": "nasutton12",
+      "comments": 20,
+      "time": "2026-09-10 22:54"
     },
     {
-      "id": 49638280,
-      "title": "All grown-ups were once children, but only few of them remember it",
-      "url": "https://mathstodon.xyz/@tao/117244102901892965",
-      "score": 148,
-      "by": "yurivish",
-      "comments": 94,
-      "time": "2026-09-10 04:04"
+      "id": 49653699,
+      "title": "The Gemini app is now available for Windows",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+      "score": 41,
+      "by": "quysala12",
+      "comments": 29,
+      "time": "2026-09-11 04:52"
     },
     {
-      "id": 49629886,
-      "title": "Growing proof that autonomous cars save lives",
-      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "score": 334,
-      "by": "bookofjoe",
-      "comments": 584,
-      "time": "2026-09-09 17:14"
+      "id": 49645437,
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+      "score": 328,
+      "by": "gumby",
+      "comments": 54,
+      "time": "2026-09-10 15:29"
     },
     {
-      "id": 49628493,
-      "title": "No Man's Sky Cosmos",
-      "url": "https://www.nomanssky.com/cosmos-update/",
-      "score": 375,
-      "by": "Limb",
-      "comments": 386,
-      "time": "2026-09-09 15:47"
-    },
-    {
-      "id": 49627370,
-      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "score": 413,
-      "by": "ModelForge",
-      "comments": 134,
-      "time": "2026-09-09 14:37"
-    },
-    {
-      "id": 49630253,
-      "title": "AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "score": 446,
-      "by": "awad",
-      "comments": 366,
-      "time": "2026-09-09 17:39"
-    },
-    {
-      "id": 49630151,
-      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-      "score": 354,
-      "by": "meetpateltech",
-      "comments": 386,
-      "time": "2026-09-09 17:33"
-    },
-    {
-      "id": 49623398,
-      "title": "Show HN: Compute polynomials twice as fast",
-      "url": "https://thomasahle.com/fast-polynomials/",
-      "score": 81,
-      "by": "thomasahle",
-      "comments": 27,
-      "time": "2026-09-09 08:53"
-    },
-    {
-      "id": 49637435,
-      "title": "Training a 3.8B LLM to 0.384 CORE for $998",
-      "url": "https://hugovergnes.github.io/little-lm-3-8b/",
-      "score": 68,
-      "by": "Anon84",
-      "comments": 13,
-      "time": "2026-09-10 02:04"
-    },
-    {
-      "id": 49612223,
-      "title": "Open Source Durable Objects for Postgres",
-      "url": "https://solidobjects.dev/blog/introducing-solidobjects",
-      "score": 5,
-      "by": "cardmagic",
-      "comments": 1,
-      "time": "2026-09-08 15:59"
-    },
-    {
-      "id": 49636283,
-      "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
-      "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-      "score": 247,
-      "by": "LeoPanthera",
-      "comments": 177,
-      "time": "2026-09-09 23:49"
-    },
-    {
-      "id": 49603265,
-      "title": "Version control second coming",
-      "url": "https://psantosl.github.io/posts/version-control-second-coming/",
-      "score": 80,
-      "by": "bananaboy",
-      "comments": 51,
-      "time": "2026-09-07 21:42"
-    },
-    {
-      "id": 49592799,
-      "title": "Aardman (Wallace and Gromit) Is Selling Its Original Movie Puppets",
-      "url": "https://gizmodo.com/aardman-is-selling-its-original-movie-puppets-this-month-2000807968",
-      "score": 43,
-      "by": "Gaishan",
-      "comments": 9,
-      "time": "2026-09-07 01:35"
-    },
-    {
-      "id": 49633534,
-      "title": "Factoring RSA 260",
-      "url": "https://cognition.com/blog/factoring-rsa-260",
-      "score": 89,
-      "by": "samyok",
-      "comments": 11,
-      "time": "2026-09-09 20:16"
-    },
-    {
-      "id": 49630026,
-      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-      "score": 211,
-      "by": "wsxiaoys",
-      "comments": 82,
-      "time": "2026-09-09 17:24"
-    },
-    {
-      "id": 49624823,
-      "title": "Desert Ant Labs: local, fast models that run on device",
-      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-      "score": 440,
-      "by": "willwhitedc",
-      "comments": 96,
-      "time": "2026-09-09 11:39"
-    },
-    {
-      "id": 49587465,
-      "title": "ESP32 Bit Pirate Hardware Hacking Kit with Web Tools That Speaks Every Protocol",
-      "url": "https://geo-tp.github.io/ESP32-Bit-Pirate/",
-      "score": 91,
-      "by": "geotp",
-      "comments": 17,
-      "time": "2026-09-06 15:28"
-    },
-    {
-      "id": 49630566,
-      "title": "Apple Watch Series 12",
-      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-      "score": 252,
-      "by": "Lealen",
-      "comments": 308,
-      "time": "2026-09-09 17:56"
-    },
-    {
-      "id": 49624856,
-      "title": "How I advertise malicious software on Google Ads",
-      "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
-      "score": 398,
-      "by": "xlii",
-      "comments": 242,
-      "time": "2026-09-09 11:43"
-    },
-    {
-      "id": 49629209,
-      "title": "The UN challenges five centuries of cartography",
-      "url": "https://www.not-ship.com/united-nations-map/",
-      "score": 89,
-      "by": "speckx",
-      "comments": 167,
-      "time": "2026-09-09 16:33"
-    },
-    {
-      "id": 49615245,
-      "title": "Rivian's gambit for full autonomy",
-      "url": "https://spectrum.ieee.org/rivian-self-driving",
-      "score": 74,
-      "by": "1970-01-01",
-      "comments": 88,
-      "time": "2026-09-08 19:09"
-    },
-    {
-      "id": 49593896,
-      "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
-      "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
-      "score": 8,
-      "by": "peter_d_sherman",
-      "comments": 2,
-      "time": "2026-09-07 04:27"
-    },
-    {
-      "id": 49628576,
-      "title": "GNU Radio in the browser",
-      "url": "https://gnuradioworld.com/",
-      "score": 200,
-      "by": "kristianpaul",
-      "comments": 27,
-      "time": "2026-09-09 15:53"
-    },
-    {
-      "id": 49628429,
-      "title": "Planet Labs' open satellite feed",
-      "url": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
-      "score": 176,
-      "by": "marklit",
-      "comments": 30,
-      "time": "2026-09-09 15:44"
-    },
-    {
-      "id": 49628614,
-      "title": "Understanding the recent DDoS attack against Read the Docs",
-      "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+      "id": 49652237,
+      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+      "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
       "score": 187,
-      "by": "davidfischer",
-      "comments": 59,
-      "time": "2026-09-09 15:55"
+      "by": "rguiscard",
+      "comments": 69,
+      "time": "2026-09-11 01:00"
+    },
+    {
+      "id": 49650418,
+      "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
+      "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
+      "score": 99,
+      "by": "mckn1ght",
+      "comments": 170,
+      "time": "2026-09-10 21:30"
+    },
+    {
+      "id": 49618087,
+      "title": "Stop making swap partitions\u2013use swap files instead",
+      "url": "https://gist.github.com/joshenders/c4960cec9c63a7b7d68ffa9543356c43",
+      "score": 17,
+      "by": "jenders",
+      "comments": 12,
+      "time": "2026-09-08 22:33"
+    },
+    {
+      "id": 49651372,
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "url": "https://system76.com/workstations/thelio-mira-ai",
+      "score": 95,
+      "by": "jonifico",
+      "comments": 74,
+      "time": "2026-09-10 23:10"
+    },
+    {
+      "id": 49645443,
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "score": 407,
+      "by": "seelos",
+      "comments": 172,
+      "time": "2026-09-10 15:29"
+    },
+    {
+      "id": 49654229,
+      "title": "Astra for Coding: Why Are We Doing This Again?",
+      "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+      "score": 285,
+      "by": "manojbajaj95",
+      "comments": 200,
+      "time": "2026-09-11 06:23"
+    },
+    {
+      "id": 49653882,
+      "title": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
+      "url": "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/",
+      "score": 34,
+      "by": "rzk",
+      "comments": 14,
+      "time": "2026-09-11 05:26"
+    },
+    {
+      "id": 49639408,
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "score": 797,
+      "by": "pred_",
+      "comments": 735,
+      "time": "2026-09-10 06:49"
+    },
+    {
+      "id": 49647134,
+      "title": "Music Theory for the 21st-Century Classroom",
+      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "score": 219,
+      "by": "aanet",
+      "comments": 89,
+      "time": "2026-09-10 17:14"
+    },
+    {
+      "id": 49645907,
+      "title": "Forgejo <=16.0.3 Critical RCE",
+      "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+      "score": 179,
+      "by": "weierstass",
+      "comments": 66,
+      "time": "2026-09-10 15:57"
+    },
+    {
+      "id": 49645686,
+      "title": "Neki \u2013 Sharded Postgres",
+      "url": "https://planetscale.com/blog/introducing-neki",
+      "score": 239,
+      "by": "simon_weber",
+      "comments": 131,
+      "time": "2026-09-10 15:43"
+    },
+    {
+      "id": 49649222,
+      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+      "url": "https://merybenavente.me/blog/proof-of-capture",
+      "score": 103,
+      "by": "merybenavente",
+      "comments": 56,
+      "time": "2026-09-10 19:44"
+    },
+    {
+      "id": 49652985,
+      "title": "What Comes After Git",
+      "url": "https://ersc.io/blog/what-comes-after-git",
+      "score": 45,
+      "by": "tangled",
+      "comments": 11,
+      "time": "2026-09-11 02:49"
+    },
+    {
+      "id": 49643546,
+      "title": "Rust is tier-1 language at Microsoft",
+      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+      "score": 667,
+      "by": "mmastrac",
+      "comments": 405,
+      "time": "2026-09-10 13:39"
+    },
+    {
+      "id": 49627634,
+      "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+      "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+      "score": 309,
+      "by": "thelastgallon",
+      "comments": 260,
+      "time": "2026-09-09 14:54"
+    },
+    {
+      "id": 49647300,
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "score": 125,
+      "by": "garo-pro",
+      "comments": 191,
+      "time": "2026-09-10 17:23"
+    },
+    {
+      "id": 49652028,
+      "title": "YuE2 \u00b7 Frontier Music with Symbolic Planning",
+      "url": "https://map-yue2.github.io/",
+      "score": 89,
+      "by": "sexy_seedbox",
+      "comments": 76,
+      "time": "2026-09-11 00:33"
+    },
+    {
+      "id": 49620760,
+      "title": "Testing race conditions with mem access tracing and stack-based delay injection",
+      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+      "score": 6,
+      "by": "mfrw",
+      "comments": 0,
+      "time": "2026-09-09 04:01"
+    },
+    {
+      "id": 49653328,
+      "title": "Exercise intensity is associated with cardiometabolic health",
+      "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
+      "score": 88,
+      "by": "qclibre22",
+      "comments": 41,
+      "time": "2026-09-11 03:48"
+    },
+    {
+      "id": 49587121,
+      "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
+      "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
+      "score": 172,
+      "by": "tosh",
+      "comments": 79,
+      "time": "2026-09-06 14:59"
+    },
+    {
+      "id": 49653985,
+      "title": "GPT\u2011Live\u20111 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+      "score": 4,
+      "by": "arittr",
+      "comments": 2,
+      "time": "2026-09-11 05:45"
+    },
+    {
+      "id": 49647404,
+      "title": "JEP 544: Ahead-of-Time Code Compilation",
+      "url": "https://openjdk.org/jeps/544",
+      "score": 92,
+      "by": "Skinney",
+      "comments": 34,
+      "time": "2026-09-10 17:30"
     }
   ]
 }
