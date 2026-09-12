@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-09-11T08:45:47.388380",
+  "fetched_at": "2026-09-12T08:30:15.720746",
   "count": 30,
   "stories": [
     {
-      "id": 49643982,
-      "title": "Shopify is moving from React Native back to Swift and Kotlin",
-      "url": "https://shopify.engineering/back-to-native",
-      "score": 1029,
-      "by": "fnthawar2",
-      "comments": 709,
-      "time": "2026-09-10 14:09"
-    },
-    {
-      "id": 49645393,
-      "title": "Don't let anyone take away your big box of cables",
-      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-      "score": 497,
-      "by": "Brajeshwar",
-      "comments": 330,
-      "time": "2026-09-10 15:27"
-    },
-    {
-      "id": 49606281,
-      "title": "Working with Git Worktrees in Magit",
-      "url": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
-      "score": 36,
-      "by": "srijan4",
-      "comments": 6,
-      "time": "2026-09-08 06:31"
-    },
-    {
-      "id": 49649213,
-      "title": "OpenAI Agents API",
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "score": 248,
-      "by": "aquir",
-      "comments": 140,
-      "time": "2026-09-10 19:43"
-    },
-    {
-      "id": 49649124,
-      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
-      "url": "https://auberon.xyz/blog/posts/deathray/",
-      "score": 168,
-      "by": "auberonedu",
-      "comments": 107,
-      "time": "2026-09-10 19:34"
-    },
-    {
-      "id": 49651221,
-      "title": "Nine coding harnesses vs. your laptop",
-      "url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
-      "score": 86,
-      "by": "nasutton12",
-      "comments": 20,
-      "time": "2026-09-10 22:54"
-    },
-    {
-      "id": 49653699,
-      "title": "The Gemini app is now available for Windows",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
-      "score": 41,
-      "by": "quysala12",
-      "comments": 29,
-      "time": "2026-09-11 04:52"
-    },
-    {
-      "id": 49645437,
-      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
-      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
-      "score": 328,
-      "by": "gumby",
-      "comments": 54,
-      "time": "2026-09-10 15:29"
-    },
-    {
-      "id": 49652237,
-      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
-      "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
-      "score": 187,
-      "by": "rguiscard",
-      "comments": 69,
-      "time": "2026-09-11 01:00"
-    },
-    {
-      "id": 49650418,
-      "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
-      "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
-      "score": 99,
-      "by": "mckn1ght",
-      "comments": 170,
-      "time": "2026-09-10 21:30"
-    },
-    {
-      "id": 49618087,
-      "title": "Stop making swap partitions\u2013use swap files instead",
-      "url": "https://gist.github.com/joshenders/c4960cec9c63a7b7d68ffa9543356c43",
-      "score": 17,
-      "by": "jenders",
-      "comments": 12,
-      "time": "2026-09-08 22:33"
-    },
-    {
-      "id": 49651372,
-      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "url": "https://system76.com/workstations/thelio-mira-ai",
-      "score": 95,
-      "by": "jonifico",
-      "comments": 74,
-      "time": "2026-09-10 23:10"
-    },
-    {
-      "id": 49645443,
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "url": "https://cognition.com/blog/swe-2",
-      "score": 407,
-      "by": "seelos",
-      "comments": 172,
-      "time": "2026-09-10 15:29"
-    },
-    {
-      "id": 49654229,
-      "title": "Astra for Coding: Why Are We Doing This Again?",
-      "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
-      "score": 285,
-      "by": "manojbajaj95",
-      "comments": 200,
-      "time": "2026-09-11 06:23"
-    },
-    {
-      "id": 49653882,
-      "title": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
-      "url": "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/",
-      "score": 34,
-      "by": "rzk",
-      "comments": 14,
-      "time": "2026-09-11 05:26"
-    },
-    {
-      "id": 49639408,
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "score": 797,
-      "by": "pred_",
-      "comments": 735,
-      "time": "2026-09-10 06:49"
-    },
-    {
-      "id": 49647134,
-      "title": "Music Theory for the 21st-Century Classroom",
-      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-      "score": 219,
-      "by": "aanet",
-      "comments": 89,
-      "time": "2026-09-10 17:14"
-    },
-    {
-      "id": 49645907,
-      "title": "Forgejo <=16.0.3 Critical RCE",
-      "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
-      "score": 179,
-      "by": "weierstass",
-      "comments": 66,
-      "time": "2026-09-10 15:57"
-    },
-    {
-      "id": 49645686,
-      "title": "Neki \u2013 Sharded Postgres",
-      "url": "https://planetscale.com/blog/introducing-neki",
-      "score": 239,
-      "by": "simon_weber",
-      "comments": 131,
-      "time": "2026-09-10 15:43"
-    },
-    {
-      "id": 49649222,
-      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
-      "url": "https://merybenavente.me/blog/proof-of-capture",
-      "score": 103,
-      "by": "merybenavente",
-      "comments": 56,
-      "time": "2026-09-10 19:44"
-    },
-    {
-      "id": 49652985,
-      "title": "What Comes After Git",
-      "url": "https://ersc.io/blog/what-comes-after-git",
-      "score": 45,
-      "by": "tangled",
-      "comments": 11,
-      "time": "2026-09-11 02:49"
-    },
-    {
-      "id": 49643546,
-      "title": "Rust is tier-1 language at Microsoft",
-      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-      "score": 667,
-      "by": "mmastrac",
-      "comments": 405,
-      "time": "2026-09-10 13:39"
-    },
-    {
-      "id": 49627634,
-      "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-      "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
-      "score": 309,
-      "by": "thelastgallon",
-      "comments": 260,
-      "time": "2026-09-09 14:54"
-    },
-    {
-      "id": 49647300,
-      "title": "Detecting and countering misuse of AI: September 2026",
-      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "score": 125,
-      "by": "garo-pro",
-      "comments": 191,
-      "time": "2026-09-10 17:23"
-    },
-    {
-      "id": 49652028,
-      "title": "YuE2 \u00b7 Frontier Music with Symbolic Planning",
-      "url": "https://map-yue2.github.io/",
-      "score": 89,
-      "by": "sexy_seedbox",
-      "comments": 76,
-      "time": "2026-09-11 00:33"
-    },
-    {
-      "id": 49620760,
-      "title": "Testing race conditions with mem access tracing and stack-based delay injection",
-      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
-      "score": 6,
-      "by": "mfrw",
+      "id": 49670032,
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "url": "https://eiln.github.io/posts/ane.html",
+      "score": 22,
+      "by": "zdw",
       "comments": 0,
-      "time": "2026-09-09 04:01"
+      "time": "2026-09-12 07:54"
     },
     {
-      "id": 49653328,
-      "title": "Exercise intensity is associated with cardiometabolic health",
-      "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
-      "score": 88,
-      "by": "qclibre22",
-      "comments": 41,
-      "time": "2026-09-11 03:48"
+      "id": 49662371,
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "score": 869,
+      "by": "meredydd",
+      "comments": 848,
+      "time": "2026-09-11 17:45"
     },
     {
-      "id": 49587121,
-      "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
-      "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
-      "score": 172,
-      "by": "tosh",
-      "comments": 79,
-      "time": "2026-09-06 14:59"
+      "id": 49668386,
+      "title": "google.com/goto: Google's anti-scraping update",
+      "url": "https://www.autom.dev/blog/google-search-goto-links",
+      "score": 381,
+      "by": "1e1a",
+      "comments": 266,
+      "time": "2026-09-12 03:14"
     },
     {
-      "id": 49653985,
-      "title": "GPT\u2011Live\u20111 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
-      "score": 4,
-      "by": "arittr",
+      "id": 49668777,
+      "title": "Usenet rewind archive search engine",
+      "url": "https://www.usenet-rewind.com/",
+      "score": 53,
+      "by": "cstadler1869",
+      "comments": 9,
+      "time": "2026-09-12 04:19"
+    },
+    {
+      "id": 49662990,
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "score": 494,
+      "by": "nickabe",
+      "comments": 258,
+      "time": "2026-09-11 18:24"
+    },
+    {
+      "id": 49668706,
+      "title": "Navier-Stokes Announcement",
+      "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+      "score": 129,
+      "by": "rvz",
+      "comments": 82,
+      "time": "2026-09-12 04:09"
+    },
+    {
+      "id": 49626718,
+      "title": "A Design Space Exploration of Async/Await",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "score": 267,
+      "by": "wcrichton",
+      "comments": 65,
+      "time": "2026-09-09 13:59"
+    },
+    {
+      "id": 49624456,
+      "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
+      "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
+      "score": 56,
+      "by": "bookofjoe",
+      "comments": 3,
+      "time": "2026-09-09 11:01"
+    },
+    {
+      "id": 49595505,
+      "title": "Inverse Kinematics and Foot Locking",
+      "url": "https://theorangeduck.com/page/inverse-kinematics-foot-locking",
+      "score": 21,
+      "by": "airhangerf15",
+      "comments": 0,
+      "time": "2026-09-07 08:21"
+    },
+    {
+      "id": 49649789,
+      "title": "Show HN: Bodily Oddities",
+      "url": "https://vester.si/bodily-oddities/",
+      "score": 227,
+      "by": "vesterde",
+      "comments": 157,
+      "time": "2026-09-10 20:33"
+    },
+    {
+      "id": 49643011,
+      "title": "Designing for Dual Screen and Foldable Devices with CSS (2023)",
+      "url": "https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/",
+      "score": 27,
+      "by": "mooreds",
+      "comments": 5,
+      "time": "2026-09-10 12:59"
+    },
+    {
+      "id": 49622406,
+      "title": "Logo Programming",
+      "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+      "score": 273,
+      "by": "azhenley",
+      "comments": 112,
+      "time": "2026-09-09 07:07"
+    },
+    {
+      "id": 49666735,
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "score": 659,
+      "by": "chao-",
+      "comments": 375,
+      "time": "2026-09-11 23:17"
+    },
+    {
+      "id": 49669276,
+      "title": "WeWorm: Zero-Click WeChat Worm",
+      "url": "https://calif.io/research/weworm",
+      "score": 14,
+      "by": "BlackEarth",
+      "comments": 1,
+      "time": "2026-09-12 05:49"
+    },
+    {
+      "id": 49666146,
+      "title": "Project Blinkenlights",
+      "url": "https://blinkenlights.de/en/",
+      "score": 86,
+      "by": "doener",
+      "comments": 30,
+      "time": "2026-09-11 22:15"
+    },
+    {
+      "id": 49662020,
+      "title": "Mind-altering drugs played key role in rise of Andean civilization",
+      "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+      "score": 153,
+      "by": "geneticdrifts",
+      "comments": 101,
+      "time": "2026-09-11 17:25"
+    },
+    {
+      "id": 49662767,
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "url": "https://github.com/kennethwolters/litelm",
+      "score": 130,
+      "by": "kennethwolters",
+      "comments": 42,
+      "time": "2026-09-11 18:10"
+    },
+    {
+      "id": 49601138,
+      "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
+      "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
+      "score": 209,
+      "by": "adastral",
+      "comments": 78,
+      "time": "2026-09-07 18:05"
+    },
+    {
+      "id": 49663373,
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "score": 270,
+      "by": "microtonal",
+      "comments": 194,
+      "time": "2026-09-11 18:50"
+    },
+    {
+      "id": 49665864,
+      "title": "Show HN: ResolveHQ \u2013 A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+      "url": "https://github.com/mirza-rizvi/ResolveHQ",
+      "score": 57,
+      "by": "mirza_rizvi",
+      "comments": 18,
+      "time": "2026-09-11 21:48"
+    },
+    {
+      "id": 49639647,
+      "title": "IKEA made a mod for Skyrim [video]",
+      "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+      "score": 11,
+      "by": "kegenaar",
       "comments": 2,
-      "time": "2026-09-11 05:45"
+      "time": "2026-09-10 07:20"
     },
     {
-      "id": 49647404,
-      "title": "JEP 544: Ahead-of-Time Code Compilation",
-      "url": "https://openjdk.org/jeps/544",
-      "score": 92,
-      "by": "Skinney",
-      "comments": 34,
-      "time": "2026-09-10 17:30"
+      "id": 49662214,
+      "title": "\u039b Snap \u2013 An inviting programming language for kids and adults for CS study",
+      "url": "https://snap.berkeley.edu/",
+      "score": 139,
+      "by": "dr_kiszonka",
+      "comments": 77,
+      "time": "2026-09-11 17:36"
+    },
+    {
+      "id": 49660149,
+      "title": "Rune is now open source",
+      "url": "https://rune.build/blog/rune-is-now-open-source",
+      "score": 179,
+      "by": "ernestrc",
+      "comments": 57,
+      "time": "2026-09-11 15:31"
+    },
+    {
+      "id": 49624717,
+      "title": "AlphaGenome maps 9B DNA variants",
+      "url": "https://spectrum.ieee.org/alphagenome-atlas",
+      "score": 83,
+      "by": "ltononro",
+      "comments": 7,
+      "time": "2026-09-09 11:30"
+    },
+    {
+      "id": 49634928,
+      "title": "Testing Race Conditions",
+      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+      "score": 45,
+      "by": "alpaylan",
+      "comments": 0,
+      "time": "2026-09-09 21:51"
+    },
+    {
+      "id": 49662672,
+      "title": "The EPA is planning to scrap public review rules for data center pollution",
+      "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+      "score": 451,
+      "by": "doener",
+      "comments": 317,
+      "time": "2026-09-11 18:05"
+    },
+    {
+      "id": 49652105,
+      "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+      "score": 349,
+      "by": "lukaspetersson",
+      "comments": 315,
+      "time": "2026-09-11 00:42"
+    },
+    {
+      "id": 49656225,
+      "title": "Claude is only available to people over 18 years",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "score": 637,
+      "by": "Muhammad523",
+      "comments": 626,
+      "time": "2026-09-11 10:48"
+    },
+    {
+      "id": 49635043,
+      "title": "How we rebuilt complex permissions without migrating to Zanzibar",
+      "url": "https://infisical.com/blog/folder-based-rbac",
+      "score": 56,
+      "by": "FinnLobsien",
+      "comments": 13,
+      "time": "2026-09-09 21:59"
+    },
+    {
+      "id": 49656471,
+      "title": "RTK reports token savings, but our cost benchmarks disagree",
+      "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+      "score": 160,
+      "by": "michalwarda",
+      "comments": 79,
+      "time": "2026-09-11 11:15"
     }
   ]
 }
