@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-09-14T09:41:47.775984",
+  "fetched_at": "2026-09-15T09:17:43.259938",
   "count": 30,
   "stories": [
     {
-      "id": 49688695,
-      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "score": 930,
-      "by": "u1hcw9nx",
-      "comments": 391,
-      "time": "2026-09-13 21:06"
+      "id": 49708431,
+      "title": "I can't stop thinking about Papua New Guinea",
+      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+      "score": 80,
+      "by": "networked",
+      "comments": 18,
+      "time": "2026-09-15 06:16"
     },
     {
-      "id": 49693610,
-      "title": "EuroBirdPortal \u2013 Live bird movements across Europe",
-      "url": "https://www.eurobirdportal.org/ebp/en/",
-      "score": 10,
-      "by": "NKosmatos",
-      "comments": 4,
-      "time": "2026-09-14 08:25"
+      "id": 49701004,
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "score": 591,
+      "by": "throw0101d",
+      "comments": 672,
+      "time": "2026-09-14 17:50"
     },
     {
-      "id": 49693613,
-      "title": "A 386 PC for Your RP2350",
-      "url": "https://github.com/rh1tech/frank-386",
-      "score": 13,
-      "by": "SamuraiLion",
-      "comments": 2,
-      "time": "2026-09-14 08:25"
+      "id": 49684289,
+      "title": "OpenArm: An open-source 7DOF humanoid arm",
+      "url": "https://github.com/enactic/OpenArm",
+      "score": 84,
+      "by": "Lwrless",
+      "comments": 16,
+      "time": "2026-09-13 14:17"
     },
     {
-      "id": 49638510,
-      "title": "Spaceships (Reverse Asteroid)",
-      "url": "https://spaceships.treybastian.com/",
-      "score": 235,
-      "by": "zdw",
+      "id": 49707627,
+      "title": "Linux from Scratch",
+      "url": "https://www.linuxfromscratch.org/",
+      "score": 165,
+      "by": "sippingabonedry",
+      "comments": 57,
+      "time": "2026-09-15 04:15"
+    },
+    {
+      "id": 49675817,
+      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+      "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+      "score": 128,
+      "by": "arunbahl",
       "comments": 40,
-      "time": "2026-09-10 04:44"
+      "time": "2026-09-12 18:51"
     },
     {
-      "id": 49689048,
-      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "score": 258,
-      "by": "Cider9986",
-      "comments": 123,
-      "time": "2026-09-13 21:47"
+      "id": 49700477,
+      "title": "Pion, an agent designed to run any company autonomously",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "score": 397,
+      "by": "lukaspetersson",
+      "comments": 497,
+      "time": "2026-09-14 17:16"
     },
     {
-      "id": 49693226,
-      "title": "Show HN: 1080p is 920px tall \u2013 1k real browser viewports",
-      "url": "https://screensize.net/reports/viewport-stats",
-      "score": 12,
-      "by": "zenpe",
-      "comments": 10,
-      "time": "2026-09-14 07:35"
+      "id": 49704246,
+      "title": "Charts built for Chat",
+      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "score": 222,
+      "by": "thingsilearned",
+      "comments": 68,
+      "time": "2026-09-14 21:22"
     },
     {
-      "id": 49690174,
-      "title": "Apple's Dimensional Drawings",
-      "url": "https://developer.apple.com/accessories/dimensional-drawings/",
-      "score": 191,
-      "by": "herbertl",
-      "comments": 74,
-      "time": "2026-09-14 00:11"
+      "id": 49694296,
+      "title": "XCancel service is suspended until further notice",
+      "url": "https://xcancel.com/#",
+      "score": 624,
+      "by": "gaganyaan",
+      "comments": 928,
+      "time": "2026-09-14 09:51"
     },
     {
-      "id": 49690554,
-      "title": "The case against JPEG XL",
-      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
-      "score": 157,
-      "by": "contact9879",
-      "comments": 218,
-      "time": "2026-09-14 01:02"
+      "id": 49676425,
+      "title": "Show HN: Redis City \u2013 Explore how Redis works in an interactive 3D model",
+      "url": "https://poltora.dev/redis",
+      "score": 79,
+      "by": "poltora",
+      "comments": 12,
+      "time": "2026-09-12 19:43"
     },
     {
-      "id": 49662246,
-      "title": "Rope, twine and thread: Invisible technologies of the Stone Age",
-      "url": "https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads",
-      "score": 68,
-      "by": "knowablemag",
-      "comments": 17,
-      "time": "2026-09-11 17:38"
-    },
-    {
-      "id": 49688259,
-      "title": "Mullenweg has returned as CEO after attempted board ouster",
-      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-      "score": 154,
-      "by": "ilamont",
-      "comments": 205,
-      "time": "2026-09-13 20:19"
-    },
-    {
-      "id": 49692765,
-      "title": "Of Gods and Languages: On \"When God Spoke Greek\" (2013)",
-      "url": "https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/",
-      "score": 28,
-      "by": "bryanrasmussen",
+      "id": 49697477,
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "score": 108,
+      "by": "nathannaveen",
       "comments": 26,
-      "time": "2026-09-14 06:34"
+      "time": "2026-09-14 14:29"
+    },
+    {
+      "id": 49708774,
+      "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+      "url": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+      "score": 1,
+      "by": "maxpr",
+      "comments": 0,
+      "time": "2026-09-15 07:00"
+    },
+    {
+      "id": 49695876,
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "score": 454,
+      "by": "gregnavis",
+      "comments": 364,
+      "time": "2026-09-14 12:40"
+    },
+    {
+      "id": 49699158,
+      "title": "Distributed Systems Classics (2017)",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "score": 296,
+      "by": "grep_it",
+      "comments": 65,
+      "time": "2026-09-14 16:02"
+    },
+    {
+      "id": 49698699,
+      "title": "A beginning for mathematics",
+      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "score": 218,
+      "by": "robinhouston",
+      "comments": 117,
+      "time": "2026-09-14 15:33"
+    },
+    {
+      "id": 49673689,
+      "title": "Compressing a flag to 11 bits",
+      "url": "https://read.vantezzen.io/miniflags",
+      "score": 138,
+      "by": "bennett_dev",
+      "comments": 58,
+      "time": "2026-09-12 15:57"
+    },
+    {
+      "id": 49695331,
+      "title": "High-performance garbage collection for C++",
+      "url": "https://v8.dev/blog/high-performance-cpp-gc",
+      "score": 32,
+      "by": "motownphilly",
+      "comments": 3,
+      "time": "2026-09-14 11:55"
+    },
+    {
+      "id": 49665549,
+      "title": "Forgotten Woodlands",
+      "url": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
+      "score": 53,
+      "by": "NaOH",
+      "comments": 19,
+      "time": "2026-09-11 21:21"
+    },
+    {
+      "id": 49705442,
+      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+      "url": "https://github.com/JamesRyanATX/fcbnerd",
+      "score": 64,
+      "by": "fretlessjazz",
+      "comments": 16,
+      "time": "2026-09-14 23:01"
+    },
+    {
+      "id": 49698607,
+      "title": "Principles for Fast Tokio Applications",
+      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "score": 208,
+      "by": "carllerche",
+      "comments": 51,
+      "time": "2026-09-14 15:27"
+    },
+    {
+      "id": 49696697,
+      "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+      "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+      "score": 179,
+      "by": "theanonymousone",
+      "comments": 180,
+      "time": "2026-09-14 13:38"
+    },
+    {
+      "id": 49661104,
+      "title": "Synthesizing Loop-Free Programs with Rust and Z3 (2020)",
+      "url": "https://fitzgen.com/2020/01/13/synthesizing-loop-free-programs.html",
+      "score": 13,
+      "by": "karelpeeters",
+      "comments": 0,
+      "time": "2026-09-11 16:27"
     },
     {
       "id": 49686380,
       "title": "Ask HN: What are you working on? (September 2026)",
       "url": "#",
-      "score": 167,
+      "score": 334,
       "by": "david927",
-      "comments": 527,
+      "comments": 1016,
       "time": "2026-09-13 17:31"
     },
     {
-      "id": 49691152,
-      "title": "OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others",
-      "url": "https://calif.io/research/oempocalypse",
-      "score": 58,
-      "by": "negura",
-      "comments": 26,
-      "time": "2026-09-14 02:25"
+      "id": 49696453,
+      "title": "People who can't picture anything are rewriting the science of imagination",
+      "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
+      "score": 163,
+      "by": "giuliomagnifico",
+      "comments": 236,
+      "time": "2026-09-14 13:23"
     },
     {
-      "id": 49642645,
-      "title": "Julia 1.13 highlights",
-      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
-      "score": 232,
-      "by": "eigenspace",
-      "comments": 21,
-      "time": "2026-09-10 12:27"
-    },
-    {
-      "id": 49686445,
-      "title": "Why is Google still serving dodgy ads?",
-      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "score": 813,
-      "by": "iamflimflam1",
-      "comments": 357,
-      "time": "2026-09-13 17:37"
-    },
-    {
-      "id": 49649164,
-      "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
-      "url": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
-      "score": 80,
-      "by": "NaOH",
-      "comments": 33,
-      "time": "2026-09-10 19:39"
-    },
-    {
-      "id": 49645654,
-      "title": "Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",
-      "url": "https://eterdb.com/",
-      "score": 32,
-      "by": "fdeth",
-      "comments": 12,
-      "time": "2026-09-10 15:41"
-    },
-    {
-      "id": 49688391,
-      "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
-      "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-      "score": 84,
-      "by": "walrus01",
-      "comments": 10,
-      "time": "2026-09-13 20:33"
-    },
-    {
-      "id": 49690260,
-      "title": "Open-source AI and open models reading list",
-      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "score": 109,
-      "by": "simonpure",
-      "comments": 19,
-      "time": "2026-09-14 00:22"
-    },
-    {
-      "id": 49677353,
-      "title": "'Coltrane' Review: Sound and Spirit",
-      "url": "https://www.wsj.com/arts-culture/books/coltrane-review-sound-and-spirit-b2417282",
-      "score": 10,
-      "by": "Thevet",
+      "id": 49707473,
+      "title": "US confirms for first time it has deployed space weapons",
+      "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
+      "score": 21,
+      "by": "harporoeder",
       "comments": 1,
-      "time": "2026-09-12 21:23"
+      "time": "2026-09-15 03:47"
     },
     {
-      "id": 49660631,
-      "title": "Five Words from Vanishing Fleece",
-      "url": "https://blog.wordnik.com/five-words-from-vanishing-fleece",
-      "score": 9,
-      "by": "dan353hehe",
-      "comments": 0,
-      "time": "2026-09-11 16:00"
+      "id": 49700661,
+      "title": "Steam Frame starts at $1059",
+      "url": "https://store.steampowered.com/hardware/steamframe",
+      "score": 665,
+      "by": "bsimpson",
+      "comments": 506,
+      "time": "2026-09-14 17:27"
     },
     {
-      "id": 49655621,
-      "title": "Bad benchmarks and evals: Senior SWE-Bench, napkin math, and winter tires",
-      "url": "https://danluu.com/exercise-7/",
-      "score": 26,
-      "by": "luu",
-      "comments": 6,
-      "time": "2026-09-11 09:31"
-    },
-    {
-      "id": 49684356,
-      "title": "CUDA for AMD on Windows",
-      "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-      "score": 167,
-      "by": "chiassedu80",
-      "comments": 87,
-      "time": "2026-09-13 14:25"
-    },
-    {
-      "id": 49691343,
-      "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
-      "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
-      "score": 124,
-      "by": "andsoitis",
-      "comments": 171,
-      "time": "2026-09-14 02:50"
-    },
-    {
-      "id": 49667198,
-      "title": "The Nature of Dance",
-      "url": "https://vester.si/blog/nature-of-dance/",
-      "score": 4,
-      "by": "wonger_",
-      "comments": 1,
-      "time": "2026-09-12 00:17"
-    },
-    {
-      "id": 49690678,
-      "title": "The Malicious Use of Artificial Intelligence",
-      "url": "https://arxiv.org/abs/1802.07228",
-      "score": 65,
-      "by": "rasengan0",
-      "comments": 14,
-      "time": "2026-09-14 01:22"
-    },
-    {
-      "id": 49684393,
-      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "score": 438,
-      "by": "Levitating",
-      "comments": 205,
-      "time": "2026-09-13 14:28"
-    },
-    {
-      "id": 49653311,
-      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
-      "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+      "id": 49701182,
+      "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
+      "url": "https://pub.sakana.ai/pc-alm/",
       "score": 93,
-      "by": "rzk",
-      "comments": 20,
-      "time": "2026-09-11 03:45"
+      "by": "guld",
+      "comments": 30,
+      "time": "2026-09-14 18:03"
     },
     {
-      "id": 49690411,
-      "title": "AI Robots \u2013 When will they be in our homes",
-      "url": "https://spectrum.ieee.org/ai-robots",
-      "score": 33,
-      "by": "andsoitis",
-      "comments": 29,
-      "time": "2026-09-14 00:44"
+      "id": 49699489,
+      "title": "How my e-reader lost its stripes",
+      "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
+      "score": 207,
+      "by": "simonmic",
+      "comments": 38,
+      "time": "2026-09-14 16:23"
     },
     {
-      "id": 49683953,
-      "title": "Data collected by cars and sold to third parties",
-      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-      "score": 427,
-      "by": "bookofjoe",
-      "comments": 215,
-      "time": "2026-09-13 13:45"
+      "id": 49700255,
+      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+      "score": 111,
+      "by": "iamsyr",
+      "comments": 30,
+      "time": "2026-09-14 17:02"
+    },
+    {
+      "id": 49697893,
+      "title": "Dario, Please",
+      "url": "https://pop.rdi.sh/dario-please/",
+      "score": 521,
+      "by": "0x5FC3",
+      "comments": 252,
+      "time": "2026-09-14 14:50"
+    },
+    {
+      "id": 49670699,
+      "title": "Optimizing a Spin-Lock",
+      "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
+      "score": 67,
+      "by": "signa11",
+      "comments": 32,
+      "time": "2026-09-12 09:43"
     }
   ]
 }
