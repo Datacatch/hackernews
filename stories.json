@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-09-15T09:17:43.259938",
+  "fetched_at": "2026-09-16T09:10:32.715094",
   "count": 30,
   "stories": [
     {
-      "id": 49708431,
-      "title": "I can't stop thinking about Papua New Guinea",
-      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-      "score": 80,
-      "by": "networked",
-      "comments": 18,
-      "time": "2026-09-15 06:16"
+      "id": 49717558,
+      "title": "Introducing System One Models and Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "score": 1351,
+      "by": "albelfio",
+      "comments": 388,
+      "time": "2026-09-15 19:25"
     },
     {
-      "id": 49701004,
-      "title": "iOS 27, iPadOS 27, and macOS 27",
-      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "score": 591,
-      "by": "throw0101d",
-      "comments": 672,
-      "time": "2026-09-14 17:50"
+      "id": 49721322,
+      "title": "Apple Reference Image: A New Approach for Verified Photography",
+      "url": "https://security.apple.com/blog/apple-reference-image/",
+      "score": 237,
+      "by": "imwally",
+      "comments": 150,
+      "time": "2026-09-16 02:07"
     },
     {
-      "id": 49684289,
-      "title": "OpenArm: An open-source 7DOF humanoid arm",
-      "url": "https://github.com/enactic/OpenArm",
-      "score": 84,
-      "by": "Lwrless",
-      "comments": 16,
-      "time": "2026-09-13 14:17"
+      "id": 49711544,
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "score": 1628,
+      "by": "arnemunthekaas",
+      "comments": 203,
+      "time": "2026-09-15 12:31"
     },
     {
-      "id": 49707627,
-      "title": "Linux from Scratch",
-      "url": "https://www.linuxfromscratch.org/",
-      "score": 165,
-      "by": "sippingabonedry",
-      "comments": 57,
-      "time": "2026-09-15 04:15"
+      "id": 49693971,
+      "title": "Show HN: I made a flight simulator, except you're just a passenger",
+      "url": "https://inflightsimulator.com",
+      "score": 177,
+      "by": "rkotcher",
+      "comments": 79,
+      "time": "2026-09-14 09:08"
     },
     {
-      "id": 49675817,
-      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
-      "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
-      "score": 128,
-      "by": "arunbahl",
-      "comments": 40,
-      "time": "2026-09-12 18:51"
+      "id": 49716176,
+      "title": "An update on Wayback Machine access",
+      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+      "score": 525,
+      "by": "ChrisArchitect",
+      "comments": 265,
+      "time": "2026-09-15 17:52"
     },
     {
-      "id": 49700477,
-      "title": "Pion, an agent designed to run any company autonomously",
-      "url": "https://andonlabs.com/blog/why-we-built-pion",
-      "score": 397,
-      "by": "lukaspetersson",
-      "comments": 497,
-      "time": "2026-09-14 17:16"
+      "id": 49705944,
+      "title": "Doing Everyone Else's Job",
+      "url": "https://yosefk.com/blog/doing-everyone-elses-job.html",
+      "score": 60,
+      "by": "luu",
+      "comments": 25,
+      "time": "2026-09-15 00:01"
     },
     {
-      "id": 49704246,
-      "title": "Charts built for Chat",
-      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
-      "score": 222,
-      "by": "thingsilearned",
-      "comments": 68,
-      "time": "2026-09-14 21:22"
+      "id": 49715947,
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "score": 404,
+      "by": "leumon",
+      "comments": 264,
+      "time": "2026-09-15 17:38"
     },
     {
-      "id": 49694296,
-      "title": "XCancel service is suspended until further notice",
-      "url": "https://xcancel.com/#",
-      "score": 624,
-      "by": "gaganyaan",
-      "comments": 928,
-      "time": "2026-09-14 09:51"
-    },
-    {
-      "id": 49676425,
-      "title": "Show HN: Redis City \u2013 Explore how Redis works in an interactive 3D model",
-      "url": "https://poltora.dev/redis",
+      "id": 49721548,
+      "title": "Negativland, Culture Jamming, and the Art of Making Something New",
+      "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
       "score": 79,
-      "by": "poltora",
-      "comments": 12,
-      "time": "2026-09-12 19:43"
-    },
-    {
-      "id": 49697477,
-      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-      "score": 108,
-      "by": "nathannaveen",
-      "comments": 26,
-      "time": "2026-09-14 14:29"
-    },
-    {
-      "id": 49708774,
-      "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
-      "url": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
-      "score": 1,
-      "by": "maxpr",
-      "comments": 0,
-      "time": "2026-09-15 07:00"
-    },
-    {
-      "id": 49695876,
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "score": 454,
-      "by": "gregnavis",
-      "comments": 364,
-      "time": "2026-09-14 12:40"
-    },
-    {
-      "id": 49699158,
-      "title": "Distributed Systems Classics (2017)",
-      "url": "https://nvartolomei.com/dist-sys-classics/",
-      "score": 296,
-      "by": "grep_it",
-      "comments": 65,
-      "time": "2026-09-14 16:02"
-    },
-    {
-      "id": 49698699,
-      "title": "A beginning for mathematics",
-      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-      "score": 218,
-      "by": "robinhouston",
-      "comments": 117,
-      "time": "2026-09-14 15:33"
-    },
-    {
-      "id": 49673689,
-      "title": "Compressing a flag to 11 bits",
-      "url": "https://read.vantezzen.io/miniflags",
-      "score": 138,
-      "by": "bennett_dev",
-      "comments": 58,
-      "time": "2026-09-12 15:57"
-    },
-    {
-      "id": 49695331,
-      "title": "High-performance garbage collection for C++",
-      "url": "https://v8.dev/blog/high-performance-cpp-gc",
-      "score": 32,
-      "by": "motownphilly",
-      "comments": 3,
-      "time": "2026-09-14 11:55"
-    },
-    {
-      "id": 49665549,
-      "title": "Forgotten Woodlands",
-      "url": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
-      "score": 53,
-      "by": "NaOH",
+      "by": "bananaboy",
       "comments": 19,
-      "time": "2026-09-11 21:21"
+      "time": "2026-09-16 02:46"
     },
     {
-      "id": 49705442,
-      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-      "url": "https://github.com/JamesRyanATX/fcbnerd",
-      "score": 64,
-      "by": "fretlessjazz",
-      "comments": 16,
-      "time": "2026-09-14 23:01"
+      "id": 49722276,
+      "title": "Datamimic \u2013 don't let your coding agent invent its own test world",
+      "url": "https://github.com/rapiddweller/datamimic",
+      "score": 36,
+      "by": "ake2l",
+      "comments": 5,
+      "time": "2026-09-16 04:58"
     },
     {
-      "id": 49698607,
-      "title": "Principles for Fast Tokio Applications",
-      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-      "score": 208,
-      "by": "carllerche",
-      "comments": 51,
-      "time": "2026-09-14 15:27"
-    },
-    {
-      "id": 49696697,
-      "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
-      "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
-      "score": 179,
-      "by": "theanonymousone",
+      "id": 49717638,
+      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+      "url": "https://codyho.dev/blog/gpu-driver/",
+      "score": 313,
+      "by": "ADevWithAnIdea",
       "comments": 180,
-      "time": "2026-09-14 13:38"
+      "time": "2026-09-15 19:30"
     },
     {
-      "id": 49661104,
-      "title": "Synthesizing Loop-Free Programs with Rust and Z3 (2020)",
-      "url": "https://fitzgen.com/2020/01/13/synthesizing-loop-free-programs.html",
-      "score": 13,
-      "by": "karelpeeters",
-      "comments": 0,
-      "time": "2026-09-11 16:27"
+      "id": 49719938,
+      "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+      "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+      "score": 123,
+      "by": "zdw",
+      "comments": 31,
+      "time": "2026-09-15 22:50"
     },
     {
-      "id": 49686380,
-      "title": "Ask HN: What are you working on? (September 2026)",
-      "url": "#",
-      "score": 334,
-      "by": "david927",
-      "comments": 1016,
-      "time": "2026-09-13 17:31"
+      "id": 49718928,
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+      "score": 215,
+      "by": "summarity",
+      "comments": 76,
+      "time": "2026-09-15 21:07"
     },
     {
-      "id": 49696453,
-      "title": "People who can't picture anything are rewriting the science of imagination",
-      "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
-      "score": 163,
-      "by": "giuliomagnifico",
-      "comments": 236,
-      "time": "2026-09-14 13:23"
+      "id": 49715927,
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "score": 220,
+      "by": "jaykru",
+      "comments": 235,
+      "time": "2026-09-15 17:37"
     },
     {
-      "id": 49707473,
-      "title": "US confirms for first time it has deployed space weapons",
-      "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
+      "id": 49722521,
+      "title": "A software thing I built: GPS on a 25MHz 486-SX",
+      "url": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
       "score": 21,
-      "by": "harporoeder",
-      "comments": 1,
-      "time": "2026-09-15 03:47"
+      "by": "JPLeRouzic",
+      "comments": 6,
+      "time": "2026-09-16 05:43"
     },
     {
-      "id": 49700661,
-      "title": "Steam Frame starts at $1059",
-      "url": "https://store.steampowered.com/hardware/steamframe",
-      "score": 665,
-      "by": "bsimpson",
-      "comments": 506,
-      "time": "2026-09-14 17:27"
+      "id": 49694035,
+      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+      "url": "https://arxiv.org/abs/2511.07885",
+      "score": 34,
+      "by": "pythonic_hell",
+      "comments": 2,
+      "time": "2026-09-14 09:16"
     },
     {
-      "id": 49701182,
-      "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
-      "url": "https://pub.sakana.ai/pc-alm/",
+      "id": 49716476,
+      "title": "We got admin access to Baseten's production GitHub",
+      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+      "score": 272,
+      "by": "bearsyankees",
+      "comments": 153,
+      "time": "2026-09-15 18:11"
+    },
+    {
+      "id": 49720164,
+      "title": "Saving Jet Fuel",
+      "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
       "score": 93,
-      "by": "guld",
-      "comments": 30,
-      "time": "2026-09-14 18:03"
+      "by": "marklit",
+      "comments": 42,
+      "time": "2026-09-15 23:17"
     },
     {
-      "id": 49699489,
-      "title": "How my e-reader lost its stripes",
-      "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
-      "score": 207,
-      "by": "simonmic",
-      "comments": 38,
-      "time": "2026-09-14 16:23"
+      "id": 49710307,
+      "title": "ZTE B860H: Getting Armbian into It",
+      "url": "https://pen.waltuh.cyou/yonle/zte-b860h-getting-armbian-into-it",
+      "score": 3,
+      "by": "airhangerf15",
+      "comments": 0,
+      "time": "2026-09-15 10:29"
     },
     {
-      "id": 49700255,
-      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
-      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-      "score": 111,
-      "by": "iamsyr",
-      "comments": 30,
-      "time": "2026-09-14 17:02"
+      "id": 49712278,
+      "title": "Show HN: Capsule \u2013 Single-file web apps that save their data into SQLite",
+      "url": "https://withcapsule.app/",
+      "score": 325,
+      "by": "bashtian",
+      "comments": 136,
+      "time": "2026-09-15 13:31"
     },
     {
-      "id": 49697893,
-      "title": "Dario, Please",
-      "url": "https://pop.rdi.sh/dario-please/",
-      "score": 521,
-      "by": "0x5FC3",
-      "comments": 252,
-      "time": "2026-09-14 14:50"
+      "id": 49722591,
+      "title": "MartyPC \u2013 A Cycle-Accurate IBM PC/XT Emulator",
+      "url": "https://github.com/dbalsom/martypc",
+      "score": 10,
+      "by": "yitchelle",
+      "comments": 1,
+      "time": "2026-09-16 05:56"
     },
     {
-      "id": 49670699,
-      "title": "Optimizing a Spin-Lock",
-      "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
+      "id": 49717280,
+      "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+      "url": "https://mnoukhov.github.io/posts/ngu/",
+      "score": 90,
+      "by": "natolambert",
+      "comments": 4,
+      "time": "2026-09-15 19:07"
+    },
+    {
+      "id": 49684197,
+      "title": "An interactive world map of the stories cultures have told",
+      "url": "https://originmap.sunnyguha.com/",
+      "score": 47,
+      "by": "momentmaker",
+      "comments": 5,
+      "time": "2026-09-13 14:09"
+    },
+    {
+      "id": 49710109,
+      "title": "Let's make quality the norm again",
+      "url": "https://www.forbrukerradet.no/short-life/",
+      "score": 382,
+      "by": "ingve",
+      "comments": 390,
+      "time": "2026-09-15 10:00"
+    },
+    {
+      "id": 49716953,
+      "title": "Chopping up books when they're physically too big",
+      "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
+      "score": 170,
+      "by": "matt_kirkland",
+      "comments": 156,
+      "time": "2026-09-15 18:45"
+    },
+    {
+      "id": 49718822,
+      "title": "Jean-Pierre Serre turns 100",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+      "score": 134,
+      "by": "jzox",
+      "comments": 24,
+      "time": "2026-09-15 20:57"
+    },
+    {
+      "id": 49710253,
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+      "score": 484,
+      "by": "choult",
+      "comments": 426,
+      "time": "2026-09-15 10:22"
+    },
+    {
+      "id": 49717605,
+      "title": "WangNet \u2013 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+      "url": "https://github.com/GraafHenk/numberwang",
+      "score": 158,
+      "by": "Liogra123",
+      "comments": 56,
+      "time": "2026-09-15 19:27"
+    },
+    {
+      "id": 49692510,
+      "title": "The Beauty of Roundabouts",
+      "url": "https://gruhn.me/blog/2026-09-14/",
+      "score": 49,
+      "by": "ngruhn",
+      "comments": 75,
+      "time": "2026-09-14 05:53"
+    },
+    {
+      "id": 49721435,
+      "title": "Stay discoverable in search while disallowing AI training",
+      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
       "score": 67,
-      "by": "signa11",
-      "comments": 32,
-      "time": "2026-09-12 09:43"
+      "by": "djfergus",
+      "comments": 40,
+      "time": "2026-09-16 02:25"
+    },
+    {
+      "id": 49680916,
+      "title": "Sierra digital cameras on the Apple II",
+      "url": "https://www.colino.net/wordpress/archives/2026/09/11/sierra-digital-cameras-on-the-apple-ii/",
+      "score": 36,
+      "by": "ibobev",
+      "comments": 5,
+      "time": "2026-09-13 07:11"
     }
   ]
 }
