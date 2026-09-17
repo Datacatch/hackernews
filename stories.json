@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-09-16T09:10:32.715094",
+  "fetched_at": "2026-09-17T09:18:48.601561",
   "count": 30,
   "stories": [
     {
-      "id": 49717558,
-      "title": "Introducing System One Models and Jev",
-      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "score": 1351,
-      "by": "albelfio",
-      "comments": 388,
-      "time": "2026-09-15 19:25"
+      "id": 49737849,
+      "title": "One Year of Sponsored Servo Development",
+      "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+      "score": 37,
+      "by": "AshleysBrain",
+      "comments": 8,
+      "time": "2026-09-17 08:13"
     },
     {
-      "id": 49721322,
-      "title": "Apple Reference Image: A New Approach for Verified Photography",
-      "url": "https://security.apple.com/blog/apple-reference-image/",
-      "score": 237,
-      "by": "imwally",
-      "comments": 150,
-      "time": "2026-09-16 02:07"
+      "id": 49724881,
+      "title": "Nvidia announces native GPU programming in Rust",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "score": 672,
+      "by": "nonmaskable",
+      "comments": 259,
+      "time": "2026-09-16 11:15"
+    },
+    {
+      "id": 49735930,
+      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+      "url": "https://ryan.science/blog/keys-not-included",
+      "score": 164,
+      "by": "Ryan5453",
+      "comments": 59,
+      "time": "2026-09-17 03:03"
+    },
+    {
+      "id": 49685835,
+      "title": "The Relation Between Mathematics and Physics by Paul Dirac",
+      "url": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html",
+      "score": 40,
+      "by": "rramadass",
+      "comments": 10,
+      "time": "2026-09-13 16:38"
+    },
+    {
+      "id": 49718773,
+      "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+      "url": "https://jakeasmith.com/blog/http-build-url/",
+      "score": 93,
+      "by": "jakeasmith",
+      "comments": 14,
+      "time": "2026-09-15 20:53"
+    },
+    {
+      "id": 49731285,
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "score": 545,
+      "by": "polyphilz",
+      "comments": 115,
+      "time": "2026-09-16 18:50"
+    },
+    {
+      "id": 49719751,
+      "title": "Lucasart's Afterlife",
+      "url": "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/",
+      "score": 12,
+      "by": "Bondi_Blue",
+      "comments": 7,
+      "time": "2026-09-15 22:30"
+    },
+    {
+      "id": 49732270,
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "url": "https://mimo.xiaomi.com/rl/",
+      "score": 424,
+      "by": "krackers",
+      "comments": 109,
+      "time": "2026-09-16 20:09"
+    },
+    {
+      "id": 49715318,
+      "title": "Comparison of Malloc() Algorithms",
+      "url": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html",
+      "score": 70,
+      "by": "egberts1",
+      "comments": 9,
+      "time": "2026-09-15 16:52"
+    },
+    {
+      "id": 49738091,
+      "title": "I didn't sign the Fields medallists' letter",
+      "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
+      "score": 4,
+      "by": "simianwords",
+      "comments": 1,
+      "time": "2026-09-17 08:51"
+    },
+    {
+      "id": 49732513,
+      "title": "Backups Aren't Simple",
+      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+      "score": 229,
+      "by": "afilipovski",
+      "comments": 139,
+      "time": "2026-09-16 20:27"
+    },
+    {
+      "id": 49729000,
+      "title": "Small programming tricks",
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "score": 517,
+      "by": "signa11",
+      "comments": 230,
+      "time": "2026-09-16 15:56"
+    },
+    {
+      "id": 49736466,
+      "title": "Cloudflare/Security-Audit-Skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "score": 50,
+      "by": "donk8r",
+      "comments": 8,
+      "time": "2026-09-17 04:36"
+    },
+    {
+      "id": 49732931,
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "score": 203,
+      "by": "matt_d",
+      "comments": 31,
+      "time": "2026-09-16 20:59"
+    },
+    {
+      "id": 49700153,
+      "title": "Developing provably correct Rust code with Verus",
+      "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+      "score": 110,
+      "by": "Betelbuddy",
+      "comments": 17,
+      "time": "2026-09-14 16:57"
+    },
+    {
+      "id": 49719596,
+      "title": "The engineering behind the US Strategic Petroleum Reserve",
+      "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+      "score": 200,
+      "by": "johnjwang",
+      "comments": 77,
+      "time": "2026-09-15 22:15"
+    },
+    {
+      "id": 49721291,
+      "title": "A 32-year-old bug walks into a Telnet server",
+      "url": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
+      "score": 55,
+      "by": "paimapi",
+      "comments": 23,
+      "time": "2026-09-16 02:01"
+    },
+    {
+      "id": 49734929,
+      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+      "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+      "score": 90,
+      "by": "gumby",
+      "comments": 54,
+      "time": "2026-09-17 00:28"
+    },
+    {
+      "id": 49695689,
+      "title": "PCB is brought to you by Fable 5",
+      "url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
+      "score": 101,
+      "by": "jasonpeacock",
+      "comments": 49,
+      "time": "2026-09-14 12:25"
+    },
+    {
+      "id": 49719249,
+      "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
+      "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+      "score": 393,
+      "by": "berkeleyjunk",
+      "comments": 330,
+      "time": "2026-09-15 21:41"
+    },
+    {
+      "id": 49734264,
+      "title": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev/",
+      "score": 137,
+      "by": "etoxin",
+      "comments": 60,
+      "time": "2026-09-16 23:06"
     },
     {
       "id": 49711544,
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
-      "score": 1628,
+      "score": 2155,
       "by": "arnemunthekaas",
-      "comments": 203,
+      "comments": 243,
       "time": "2026-09-15 12:31"
     },
     {
-      "id": 49693971,
-      "title": "Show HN: I made a flight simulator, except you're just a passenger",
-      "url": "https://inflightsimulator.com",
-      "score": 177,
-      "by": "rkotcher",
-      "comments": 79,
-      "time": "2026-09-14 09:08"
-    },
-    {
-      "id": 49716176,
-      "title": "An update on Wayback Machine access",
-      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-      "score": 525,
-      "by": "ChrisArchitect",
-      "comments": 265,
-      "time": "2026-09-15 17:52"
-    },
-    {
-      "id": 49705944,
-      "title": "Doing Everyone Else's Job",
-      "url": "https://yosefk.com/blog/doing-everyone-elses-job.html",
-      "score": 60,
-      "by": "luu",
-      "comments": 25,
-      "time": "2026-09-15 00:01"
-    },
-    {
-      "id": 49715947,
-      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "score": 404,
-      "by": "leumon",
-      "comments": 264,
-      "time": "2026-09-15 17:38"
-    },
-    {
-      "id": 49721548,
-      "title": "Negativland, Culture Jamming, and the Art of Making Something New",
-      "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
-      "score": 79,
-      "by": "bananaboy",
-      "comments": 19,
-      "time": "2026-09-16 02:46"
-    },
-    {
-      "id": 49722276,
-      "title": "Datamimic \u2013 don't let your coding agent invent its own test world",
-      "url": "https://github.com/rapiddweller/datamimic",
-      "score": 36,
-      "by": "ake2l",
-      "comments": 5,
-      "time": "2026-09-16 04:58"
-    },
-    {
-      "id": 49717638,
-      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-      "url": "https://codyho.dev/blog/gpu-driver/",
-      "score": 313,
-      "by": "ADevWithAnIdea",
-      "comments": 180,
-      "time": "2026-09-15 19:30"
-    },
-    {
-      "id": 49719938,
-      "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
-      "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+      "id": 49733726,
+      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "url": "https://harnesstax.github.io/",
       "score": 123,
-      "by": "zdw",
-      "comments": 31,
-      "time": "2026-09-15 22:50"
+      "by": "matt_d",
+      "comments": 51,
+      "time": "2026-09-16 22:10"
     },
     {
-      "id": 49718928,
-      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-      "score": 215,
-      "by": "summarity",
-      "comments": 76,
-      "time": "2026-09-15 21:07"
+      "id": 49735979,
+      "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "score": 55,
+      "by": "rahimnathwani",
+      "comments": 3,
+      "time": "2026-09-17 03:12"
     },
     {
-      "id": 49715927,
-      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-      "score": 220,
-      "by": "jaykru",
-      "comments": 235,
-      "time": "2026-09-15 17:37"
+      "id": 49711424,
+      "title": "Performance Improvements in .NET 11",
+      "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
+      "score": 282,
+      "by": "soheilpro",
+      "comments": 58,
+      "time": "2026-09-15 12:18"
     },
     {
-      "id": 49722521,
-      "title": "A software thing I built: GPS on a 25MHz 486-SX",
-      "url": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
-      "score": 21,
-      "by": "JPLeRouzic",
-      "comments": 6,
-      "time": "2026-09-16 05:43"
+      "id": 49677916,
+      "title": "Japan's book scene is moving from bookstores to libraries",
+      "url": "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving",
+      "score": 187,
+      "by": "herbertl",
+      "comments": 78,
+      "time": "2026-09-12 22:35"
     },
     {
-      "id": 49694035,
-      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-      "url": "https://arxiv.org/abs/2511.07885",
-      "score": 34,
-      "by": "pythonic_hell",
-      "comments": 2,
-      "time": "2026-09-14 09:16"
-    },
-    {
-      "id": 49716476,
-      "title": "We got admin access to Baseten's production GitHub",
-      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-      "score": 272,
-      "by": "bearsyankees",
-      "comments": 153,
-      "time": "2026-09-15 18:11"
-    },
-    {
-      "id": 49720164,
-      "title": "Saving Jet Fuel",
-      "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
-      "score": 93,
-      "by": "marklit",
-      "comments": 42,
-      "time": "2026-09-15 23:17"
-    },
-    {
-      "id": 49710307,
-      "title": "ZTE B860H: Getting Armbian into It",
-      "url": "https://pen.waltuh.cyou/yonle/zte-b860h-getting-armbian-into-it",
-      "score": 3,
-      "by": "airhangerf15",
-      "comments": 0,
-      "time": "2026-09-15 10:29"
-    },
-    {
-      "id": 49712278,
-      "title": "Show HN: Capsule \u2013 Single-file web apps that save their data into SQLite",
-      "url": "https://withcapsule.app/",
-      "score": 325,
-      "by": "bashtian",
-      "comments": 136,
-      "time": "2026-09-15 13:31"
-    },
-    {
-      "id": 49722591,
-      "title": "MartyPC \u2013 A Cycle-Accurate IBM PC/XT Emulator",
-      "url": "https://github.com/dbalsom/martypc",
-      "score": 10,
-      "by": "yitchelle",
-      "comments": 1,
-      "time": "2026-09-16 05:56"
-    },
-    {
-      "id": 49717280,
-      "title": "Learning to solve hard problems in RL for LLMs by never giving up",
-      "url": "https://mnoukhov.github.io/posts/ngu/",
-      "score": 90,
-      "by": "natolambert",
-      "comments": 4,
-      "time": "2026-09-15 19:07"
-    },
-    {
-      "id": 49684197,
-      "title": "An interactive world map of the stories cultures have told",
-      "url": "https://originmap.sunnyguha.com/",
-      "score": 47,
-      "by": "momentmaker",
-      "comments": 5,
-      "time": "2026-09-13 14:09"
-    },
-    {
-      "id": 49710109,
-      "title": "Let's make quality the norm again",
-      "url": "https://www.forbrukerradet.no/short-life/",
-      "score": 382,
-      "by": "ingve",
-      "comments": 390,
-      "time": "2026-09-15 10:00"
-    },
-    {
-      "id": 49716953,
-      "title": "Chopping up books when they're physically too big",
-      "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
-      "score": 170,
-      "by": "matt_kirkland",
-      "comments": 156,
-      "time": "2026-09-15 18:45"
-    },
-    {
-      "id": 49718822,
-      "title": "Jean-Pierre Serre turns 100",
-      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-      "score": 134,
-      "by": "jzox",
-      "comments": 24,
-      "time": "2026-09-15 20:57"
-    },
-    {
-      "id": 49710253,
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-      "score": 484,
-      "by": "choult",
-      "comments": 426,
-      "time": "2026-09-15 10:22"
-    },
-    {
-      "id": 49717605,
-      "title": "WangNet \u2013 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
-      "url": "https://github.com/GraafHenk/numberwang",
-      "score": 158,
-      "by": "Liogra123",
-      "comments": 56,
-      "time": "2026-09-15 19:27"
-    },
-    {
-      "id": 49692510,
-      "title": "The Beauty of Roundabouts",
-      "url": "https://gruhn.me/blog/2026-09-14/",
-      "score": 49,
-      "by": "ngruhn",
-      "comments": 75,
-      "time": "2026-09-14 05:53"
-    },
-    {
-      "id": 49721435,
-      "title": "Stay discoverable in search while disallowing AI training",
-      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-      "score": 67,
-      "by": "djfergus",
+      "id": 49734409,
+      "title": "US interest rates raised for first time in three years",
+      "url": "https://www.bbc.com/news/articles/cw4gmlyvj422o",
+      "score": 57,
+      "by": "higginsniggins",
       "comments": 40,
-      "time": "2026-09-16 02:25"
+      "time": "2026-09-16 23:25"
     },
     {
-      "id": 49680916,
-      "title": "Sierra digital cameras on the Apple II",
-      "url": "https://www.colino.net/wordpress/archives/2026/09/11/sierra-digital-cameras-on-the-apple-ii/",
-      "score": 36,
-      "by": "ibobev",
-      "comments": 5,
-      "time": "2026-09-13 07:11"
+      "id": 49674451,
+      "title": "Reversing Factorio's RNG",
+      "url": "https://gegell.github.io/posts/factorio-rng/",
+      "score": 204,
+      "by": "jheitmann",
+      "comments": 29,
+      "time": "2026-09-12 17:02"
+    },
+    {
+      "id": 49735367,
+      "title": "Part-human part-mouse brain developed in science breakthrough",
+      "url": "https://www.bbc.com/news/articles/c60m3k28j81mo",
+      "score": 40,
+      "by": "marc__1",
+      "comments": 28,
+      "time": "2026-09-17 01:33"
+    },
+    {
+      "id": 49737985,
+      "title": "AI Safety Is Mostly a Sex Cult",
+      "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+      "score": 26,
+      "by": "Tomte",
+      "comments": 3,
+      "time": "2026-09-17 08:36"
     }
   ]
 }
