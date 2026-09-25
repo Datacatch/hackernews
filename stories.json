@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-09-24T09:08:55.972070",
+  "fetched_at": "2026-09-25T09:28:48.911664",
   "count": 30,
   "stories": [
     {
-      "id": 49826565,
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "url": "https://transluce.org/agent-activity",
-      "score": 106,
-      "by": "snikolaev",
-      "comments": 65,
-      "time": "2026-09-24 05:21"
+      "id": 49841563,
+      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+      "url": "https://www.dawo.community/en/",
+      "score": 62,
+      "by": "fjfaase",
+      "comments": 13,
+      "time": "2026-09-25 08:06"
     },
     {
-      "id": 49823582,
-      "title": "Linux support is coming to Snapdragon X2 Series",
-      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-      "score": 383,
-      "by": "aaronday",
-      "comments": 165,
-      "time": "2026-09-23 22:38"
-    },
-    {
-      "id": 49820134,
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "score": 643,
-      "by": "raahelb",
-      "comments": 658,
-      "time": "2026-09-23 18:06"
-    },
-    {
-      "id": 49825642,
-      "title": "Ideas on modernizing the open-source desktop",
-      "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
-      "score": 113,
-      "by": "signa11",
-      "comments": 77,
-      "time": "2026-09-24 02:52"
-    },
-    {
-      "id": 49823664,
-      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-      "score": 173,
-      "by": "JohnHammersley",
-      "comments": 20,
-      "time": "2026-09-23 22:45"
-    },
-    {
-      "id": 49827794,
-      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-      "score": 51,
-      "by": "pieterr",
+      "id": 49841285,
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+      "score": 33,
+      "by": "hugh4life",
       "comments": 9,
-      "time": "2026-09-24 08:23"
+      "time": "2026-09-25 07:27"
     },
     {
-      "id": 49826221,
-      "title": "Contrastive Language Models",
-      "url": "https://contrastive-lm.notion.site/",
-      "score": 59,
-      "by": "erichocean",
-      "comments": 13,
-      "time": "2026-09-24 04:20"
-    },
-    {
-      "id": 49822555,
-      "title": "VSCode's SSH Agent Is Bananas (2025)",
-      "url": "https://fly.io/blog/vscode-ssh-wtf/",
-      "score": 224,
-      "by": "Rapzid",
-      "comments": 141,
-      "time": "2026-09-23 21:01"
-    },
-    {
-      "id": 49824864,
-      "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
-      "url": "https://github.com/nestrilabs/virtio-nvgpu",
-      "score": 92,
-      "by": "WanjohiRyan",
-      "comments": 41,
-      "time": "2026-09-24 01:02"
-    },
-    {
-      "id": 49802661,
-      "title": "RAM: the forgotten history (2024)",
-      "url": "https://blog.coredump.cx/p/memory-the-forgotten-history",
-      "score": 5,
-      "by": "Luc",
-      "comments": 0,
-      "time": "2026-09-22 15:12"
-    },
-    {
-      "id": 49796372,
-      "title": "The \"Windows XP Box\" (2003)",
-      "url": "https://www.mini-itx.com/projects/windowsxpbox/",
-      "score": 146,
-      "by": "doubletwoyou",
-      "comments": 25,
-      "time": "2026-09-22 03:09"
-    },
-    {
-      "id": 49795600,
-      "title": "Making portable my unportable transputer C compiler",
-      "url": "https://nanochess.org/transputer_c_compiler.html",
+      "id": 49841115,
+      "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+      "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
       "score": 45,
-      "by": "nanochess",
-      "comments": 4,
-      "time": "2026-09-22 01:07"
+      "by": "safateam",
+      "comments": 9,
+      "time": "2026-09-25 07:03"
     },
     {
-      "id": 49817741,
-      "title": "Why 'What's Opera, Doc?' looks like that",
-      "url": "https://animationobsessive.substack.com/p/why-whats-opera-doc-looks-like-that",
-      "score": 57,
-      "by": "CharlesW",
-      "comments": 13,
-      "time": "2026-09-23 15:37"
+      "id": 49831968,
+      "title": "F-Droid 2.0",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "score": 1236,
+      "by": "daveoc64",
+      "comments": 345,
+      "time": "2026-09-24 15:26"
     },
     {
-      "id": 49817469,
-      "title": "Fixing the Portobello Police Station Clock",
-      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
-      "score": 440,
-      "by": "avidly",
-      "comments": 102,
-      "time": "2026-09-23 15:18"
+      "id": 49841912,
+      "title": "The last day of the dinosaurs, as an interactive painting",
+      "url": "https://www.echohive.ai/experiments/dinosaurs",
+      "score": 4,
+      "by": "echohive42",
+      "comments": 1,
+      "time": "2026-09-25 08:58"
     },
     {
-      "id": 49824268,
-      "title": "Meta VR Glasses",
-      "url": "https://www.meta.com/vr-glasses/",
-      "score": 389,
-      "by": "polymorph1sm",
-      "comments": 342,
-      "time": "2026-09-23 23:47"
-    },
-    {
-      "id": 49823348,
-      "title": "Mercury 2.5 LLM hits 770 tokens per second",
-      "url": "https://artificialanalysis.ai/models/mercury-2-5",
-      "score": 102,
-      "by": "Retro_Dev",
-      "comments": 62,
-      "time": "2026-09-23 22:16"
-    },
-    {
-      "id": 49819880,
-      "title": "Making Tailscale Faster",
-      "url": "https://tailscale.com/blog/making-tailscale-faster",
-      "score": 161,
-      "by": "yarapavan",
-      "comments": 65,
-      "time": "2026-09-23 17:49"
-    },
-    {
-      "id": 49793249,
-      "title": "Women Who Sold Books Door to Door",
-      "url": "https://daily.jstor.org/the-women-who-sold-books-door-to-door/",
-      "score": 19,
-      "by": "herbertl",
+      "id": 49841893,
+      "title": "Special Projects (2016)",
+      "url": "https://openai.com/index/special-projects/",
+      "score": 5,
+      "by": "vinhnx",
       "comments": 0,
-      "time": "2026-09-21 20:52"
+      "time": "2026-09-25 08:55"
     },
     {
-      "id": 49825580,
-      "title": "OpenAI agent hacked Australian government website, PM says",
-      "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
-      "score": 43,
-      "by": "rudy6912",
-      "comments": 5,
-      "time": "2026-09-24 02:44"
+      "id": 49823738,
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "url": "https://bastardica.mitpit.com",
+      "score": 687,
+      "by": "MitPitt",
+      "comments": 94,
+      "time": "2026-09-23 22:53"
     },
     {
-      "id": 49819221,
-      "title": "Italian parliament votes for return to nuclear energy",
-      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-      "score": 770,
-      "by": "geox",
-      "comments": 574,
-      "time": "2026-09-23 17:06"
+      "id": 49833867,
+      "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "score": 306,
+      "by": "sidharthkmenon",
+      "comments": 116,
+      "time": "2026-09-24 17:21"
     },
     {
-      "id": 49799855,
-      "title": "The mystery animal on an ancient god's head",
-      "url": "https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/",
-      "score": 107,
+      "id": 49832938,
+      "title": "Why is the liver so weirdly regenerative?",
+      "url": "https://dynomight.substack.com/p/liver",
+      "score": 403,
+      "by": "jbotz",
+      "comments": 206,
+      "time": "2026-09-24 16:23"
+    },
+    {
+      "id": 49801436,
+      "title": "2DWillNeverDie",
+      "url": "https://2dwillneverdie.com/",
+      "score": 230,
       "by": "surprisetalk",
-      "comments": 31,
-      "time": "2026-09-22 12:00"
+      "comments": 50,
+      "time": "2026-09-22 14:00"
     },
     {
-      "id": 49813482,
-      "title": "Tokens too cheap to meter",
-      "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
-      "score": 293,
-      "by": "teoruiz",
-      "comments": 200,
-      "time": "2026-09-23 09:21"
+      "id": 49840300,
+      "title": "Jev Based Code Review",
+      "url": "https://github.com/egma-ai/jev-code-reviewer",
+      "score": 30,
+      "by": "namanbhulawat",
+      "comments": 21,
+      "time": "2026-09-25 04:49"
     },
     {
-      "id": 49801700,
-      "title": "Data liberation: Apache Kafka's native cluster mirroring",
-      "url": "https://developers.redhat.com/articles/2026/09/22/data-liberation-apache-kafka-native-cluster-mirroring",
-      "score": 14,
-      "by": "fvaleri",
-      "comments": 1,
-      "time": "2026-09-22 14:18"
+      "id": 49800085,
+      "title": "Fearless SIMD v1.0",
+      "url": "https://linebender.org/blog/fearless-simd-1-0/",
+      "score": 258,
+      "by": "verdagon",
+      "comments": 36,
+      "time": "2026-09-22 12:23"
     },
     {
-      "id": 49820065,
-      "title": "A brief history of Windows scroll bar shortcuts",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
-      "score": 138,
-      "by": "tybulewicz",
-      "comments": 79,
-      "time": "2026-09-23 18:02"
+      "id": 49817680,
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "score": 335,
+      "by": "an0malous",
+      "comments": 365,
+      "time": "2026-09-23 15:33"
     },
     {
-      "id": 49824715,
-      "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
-      "url": "https://carbon.ms/self-hosted",
-      "score": 34,
-      "by": "barbinbrad",
-      "comments": 15,
-      "time": "2026-09-24 00:45"
+      "id": 49823568,
+      "title": "Toyota is taking the Corolla electric",
+      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+      "score": 327,
+      "by": "cisc",
+      "comments": 580,
+      "time": "2026-09-23 22:37"
     },
     {
-      "id": 49777158,
-      "title": "Lambda MicroEgg",
-      "url": "https://www.philipzucker.com/lambda_miller_egg/",
-      "score": 41,
-      "by": "philzook",
-      "comments": 1,
-      "time": "2026-09-20 16:05"
+      "id": 49805344,
+      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
+      "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+      "score": 331,
+      "by": "ahmedhossamdev",
+      "comments": 148,
+      "time": "2026-09-22 17:49"
     },
     {
-      "id": 49826482,
-      "title": "Six-year-old breaks women's world Rubik's Cube record [video]",
-      "url": "https://www.youtube.com/watch?v=UCMRgvyTm08",
-      "score": 53,
-      "by": "1659447091",
-      "comments": 30,
-      "time": "2026-09-24 05:07"
+      "id": 49835531,
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "score": 131,
+      "by": "benbreen",
+      "comments": 26,
+      "time": "2026-09-24 19:14"
     },
     {
-      "id": 49791558,
-      "title": "Solving for faster SHA-1 collision detection",
-      "url": "https://sam.dev/blog/faster-sha1-collision-detection",
-      "score": 31,
-      "by": "srijs",
+      "id": 49830606,
+      "title": "Google\u2019s Project Suncatcher to put ML infrastructure in space",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "score": 182,
+      "by": "xnx",
+      "comments": 362,
+      "time": "2026-09-24 13:53"
+    },
+    {
+      "id": 49836374,
+      "title": "Opus 5.5 is good at explainer videos",
+      "url": "https://launchvideo.io",
+      "score": 252,
+      "by": "iacguy",
+      "comments": 130,
+      "time": "2026-09-24 20:28"
+    },
+    {
+      "id": 49828731,
+      "title": "Two-tier encryption in the UK",
+      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "score": 448,
+      "by": "ReturnoftheHack",
+      "comments": 398,
+      "time": "2026-09-24 10:39"
+    },
+    {
+      "id": 49802510,
+      "title": "Writing Parquet files using Haskell",
+      "url": "https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html",
+      "score": 61,
+      "by": "cosmic_quanta",
+      "comments": 17,
+      "time": "2026-09-22 15:02"
+    },
+    {
+      "id": 49839664,
+      "title": "What About Rails?",
+      "url": "https://jardo.dev/what-about-rails",
+      "score": 32,
+      "by": "jrochkind1",
       "comments": 8,
-      "time": "2026-09-21 18:46"
+      "time": "2026-09-25 02:50"
     },
     {
-      "id": 49820496,
-      "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
-      "url": "https://huggingface.co/apple/LensVLM-9B",
-      "score": 75,
-      "by": "victormustar",
-      "comments": 7,
-      "time": "2026-09-23 18:36"
+      "id": 49787759,
+      "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
+      "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
+      "score": 120,
+      "by": "ahelwer",
+      "comments": 54,
+      "time": "2026-09-21 14:30"
     },
     {
-      "id": 49817615,
-      "title": "Gemini 3.8 text-to-speech",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-      "score": 301,
-      "by": "swolpers",
-      "comments": 137,
-      "time": "2026-09-23 15:29"
+      "id": 49836590,
+      "title": "The Board Game of the Alpha Nerds (2014)",
+      "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
+      "score": 87,
+      "by": "neonate",
+      "comments": 39,
+      "time": "2026-09-24 20:53"
+    },
+    {
+      "id": 49835996,
+      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+      "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+      "score": 114,
+      "by": "arusekk",
+      "comments": 22,
+      "time": "2026-09-24 19:54"
+    },
+    {
+      "id": 49828385,
+      "title": "Nokia Design Archive (2025)",
+      "url": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
+      "score": 234,
+      "by": "pillars",
+      "comments": 127,
+      "time": "2026-09-24 09:49"
+    },
+    {
+      "id": 49836419,
+      "title": "California is chasing wealth that has feet",
+      "url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+      "score": 233,
+      "by": "idbnstra",
+      "comments": 640,
+      "time": "2026-09-24 20:34"
+    },
+    {
+      "id": 49827375,
+      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+      "url": "https://cms-sfx-demo.apeleg.com/",
+      "score": 69,
+      "by": "emurlin",
+      "comments": 22,
+      "time": "2026-09-24 07:22"
+    },
+    {
+      "id": 49823113,
+      "title": "The Bayeux Tapestry: Woven by the Victors",
+      "url": "https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors",
+      "score": 29,
+      "by": "prismatic",
+      "comments": 12,
+      "time": "2026-09-23 21:54"
+    },
+    {
+      "id": 49792652,
+      "title": "The forgotten battle of East Lansing",
+      "url": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
+      "score": 98,
+      "by": "rmason",
+      "comments": 17,
+      "time": "2026-09-21 20:07"
+    },
+    {
+      "id": 49815370,
+      "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
+      "url": "https://github.com/christianrowlands/wavedigger",
+      "score": 112,
+      "by": "882542F3884314B",
+      "comments": 22,
+      "time": "2026-09-23 12:57"
     }
   ]
 }
