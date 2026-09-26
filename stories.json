@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-09-25T09:28:48.911664",
+  "fetched_at": "2026-09-26T09:14:13.023874",
   "count": 30,
   "stories": [
     {
-      "id": 49841563,
-      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-      "url": "https://www.dawo.community/en/",
-      "score": 62,
-      "by": "fjfaase",
+      "id": 49849985,
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
+      "score": 473,
+      "by": "specked-citrus",
+      "comments": 283,
+      "time": "2026-09-25 21:09"
+    },
+    {
+      "id": 49853175,
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "score": 60,
+      "by": "allanrbo",
       "comments": 13,
-      "time": "2026-09-25 08:06"
+      "time": "2026-09-26 04:20"
     },
     {
-      "id": 49841285,
-      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
-      "score": 33,
-      "by": "hugh4life",
-      "comments": 9,
-      "time": "2026-09-25 07:27"
-    },
-    {
-      "id": 49841115,
-      "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
-      "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
-      "score": 45,
-      "by": "safateam",
-      "comments": 9,
-      "time": "2026-09-25 07:03"
-    },
-    {
-      "id": 49831968,
-      "title": "F-Droid 2.0",
-      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "score": 1236,
-      "by": "daveoc64",
-      "comments": 345,
-      "time": "2026-09-24 15:26"
-    },
-    {
-      "id": 49841912,
-      "title": "The last day of the dinosaurs, as an interactive painting",
-      "url": "https://www.echohive.ai/experiments/dinosaurs",
-      "score": 4,
-      "by": "echohive42",
-      "comments": 1,
-      "time": "2026-09-25 08:58"
-    },
-    {
-      "id": 49841893,
-      "title": "Special Projects (2016)",
-      "url": "https://openai.com/index/special-projects/",
-      "score": 5,
-      "by": "vinhnx",
-      "comments": 0,
-      "time": "2026-09-25 08:55"
-    },
-    {
-      "id": 49823738,
-      "title": "Show HN: Make cursed fonts like Times New Bastard",
-      "url": "https://bastardica.mitpit.com",
-      "score": 687,
-      "by": "MitPitt",
-      "comments": 94,
-      "time": "2026-09-23 22:53"
-    },
-    {
-      "id": 49833867,
-      "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
-      "url": "https://github.com/devdotfast/whiteboard",
-      "score": 306,
-      "by": "sidharthkmenon",
-      "comments": 116,
-      "time": "2026-09-24 17:21"
-    },
-    {
-      "id": 49832938,
-      "title": "Why is the liver so weirdly regenerative?",
-      "url": "https://dynomight.substack.com/p/liver",
-      "score": 403,
-      "by": "jbotz",
-      "comments": 206,
-      "time": "2026-09-24 16:23"
-    },
-    {
-      "id": 49801436,
-      "title": "2DWillNeverDie",
-      "url": "https://2dwillneverdie.com/",
-      "score": 230,
-      "by": "surprisetalk",
-      "comments": 50,
-      "time": "2026-09-22 14:00"
-    },
-    {
-      "id": 49840300,
-      "title": "Jev Based Code Review",
-      "url": "https://github.com/egma-ai/jev-code-reviewer",
-      "score": 30,
-      "by": "namanbhulawat",
-      "comments": 21,
-      "time": "2026-09-25 04:49"
-    },
-    {
-      "id": 49800085,
-      "title": "Fearless SIMD v1.0",
-      "url": "https://linebender.org/blog/fearless-simd-1-0/",
-      "score": 258,
-      "by": "verdagon",
-      "comments": 36,
-      "time": "2026-09-22 12:23"
-    },
-    {
-      "id": 49817680,
-      "title": "Rails World 2026 Opening Keynote [video]",
-      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-      "score": 335,
-      "by": "an0malous",
-      "comments": 365,
-      "time": "2026-09-23 15:33"
-    },
-    {
-      "id": 49823568,
-      "title": "Toyota is taking the Corolla electric",
-      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
-      "score": 327,
-      "by": "cisc",
-      "comments": 580,
-      "time": "2026-09-23 22:37"
-    },
-    {
-      "id": 49805344,
-      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
-      "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
-      "score": 331,
-      "by": "ahmedhossamdev",
-      "comments": 148,
-      "time": "2026-09-22 17:49"
-    },
-    {
-      "id": 49835531,
-      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-      "score": 131,
-      "by": "benbreen",
-      "comments": 26,
-      "time": "2026-09-24 19:14"
-    },
-    {
-      "id": 49830606,
-      "title": "Google\u2019s Project Suncatcher to put ML infrastructure in space",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
-      "score": 182,
-      "by": "xnx",
-      "comments": 362,
-      "time": "2026-09-24 13:53"
-    },
-    {
-      "id": 49836374,
-      "title": "Opus 5.5 is good at explainer videos",
-      "url": "https://launchvideo.io",
-      "score": 252,
-      "by": "iacguy",
+      "id": 49852717,
+      "title": "We're gonna need a lot more mathematicians",
+      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+      "score": 117,
+      "by": "srcreigh",
       "comments": 130,
-      "time": "2026-09-24 20:28"
+      "time": "2026-09-26 02:46"
     },
     {
-      "id": 49828731,
-      "title": "Two-tier encryption in the UK",
-      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-      "score": 448,
-      "by": "ReturnoftheHack",
-      "comments": 398,
-      "time": "2026-09-24 10:39"
+      "id": 49840054,
+      "title": "Plan mode is dead",
+      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+      "score": 312,
+      "by": "jmvldz",
+      "comments": 287,
+      "time": "2026-09-25 03:59"
     },
     {
-      "id": 49802510,
-      "title": "Writing Parquet files using Haskell",
-      "url": "https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html",
-      "score": 61,
-      "by": "cosmic_quanta",
-      "comments": 17,
-      "time": "2026-09-22 15:02"
+      "id": 49848269,
+      "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "score": 449,
+      "by": "Ardakilic",
+      "comments": 117,
+      "time": "2026-09-25 18:33"
     },
     {
-      "id": 49839664,
-      "title": "What About Rails?",
-      "url": "https://jardo.dev/what-about-rails",
-      "score": 32,
-      "by": "jrochkind1",
-      "comments": 8,
-      "time": "2026-09-25 02:50"
+      "id": 49850305,
+      "title": "What even is an OS now?",
+      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "score": 196,
+      "by": "fratellobigio",
+      "comments": 276,
+      "time": "2026-09-25 21:36"
     },
     {
-      "id": 49787759,
-      "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
-      "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
-      "score": 120,
-      "by": "ahelwer",
-      "comments": 54,
-      "time": "2026-09-21 14:30"
+      "id": 49845172,
+      "title": "Show HN: Jev Plays Pok\u00e9mon Red",
+      "url": "https://jev-pokemon.vercel.app/",
+      "score": 196,
+      "by": "pancomplex",
+      "comments": 83,
+      "time": "2026-09-25 14:28"
     },
     {
-      "id": 49836590,
-      "title": "The Board Game of the Alpha Nerds (2014)",
-      "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
-      "score": 87,
-      "by": "neonate",
-      "comments": 39,
-      "time": "2026-09-24 20:53"
+      "id": 49854161,
+      "title": "Is your Postgres migration safe or not safe?",
+      "url": "https://safenotsafe.dev/",
+      "score": 12,
+      "by": "vira28",
+      "comments": 1,
+      "time": "2026-09-26 07:33"
     },
     {
-      "id": 49835996,
-      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
-      "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
-      "score": 114,
-      "by": "arusekk",
+      "id": 49838040,
+      "title": "The Murky History of Soviet-Born Tetris",
+      "url": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
+      "score": 44,
+      "by": "EA-3167",
+      "comments": 10,
+      "time": "2026-09-24 23:11"
+    },
+    {
+      "id": 49836579,
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "score": 72,
+      "by": "azhenley",
+      "comments": 41,
+      "time": "2026-09-24 20:51"
+    },
+    {
+      "id": 49824846,
+      "title": "Scientists build most accurate atomic clock",
+      "url": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
+      "score": 9,
+      "by": "wglb",
+      "comments": 3,
+      "time": "2026-09-24 01:00"
+    },
+    {
+      "id": 49835096,
+      "title": "Postgres SELECT DISTINCT Does Not Scale",
+      "url": "https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale",
+      "score": 77,
+      "by": "KraftyOne",
       "comments": 22,
-      "time": "2026-09-24 19:54"
+      "time": "2026-09-24 18:43"
     },
     {
-      "id": 49828385,
-      "title": "Nokia Design Archive (2025)",
-      "url": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
-      "score": 234,
-      "by": "pillars",
-      "comments": 127,
-      "time": "2026-09-24 09:49"
+      "id": 49852302,
+      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+      "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+      "score": 216,
+      "by": "pseudolus",
+      "comments": 48,
+      "time": "2026-09-26 01:36"
     },
     {
-      "id": 49836419,
-      "title": "California is chasing wealth that has feet",
-      "url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
-      "score": 233,
-      "by": "idbnstra",
-      "comments": 640,
-      "time": "2026-09-24 20:34"
+      "id": 49854399,
+      "title": "CAPTCHAs don't prove you're human \u2013 they prove you're American",
+      "url": "https://shkspr.mobi/blog/2017/11/captchas-dont-prove-youre-human-they-prove-youre-american/",
+      "score": 47,
+      "by": "theanonymousone",
+      "comments": 43,
+      "time": "2026-09-26 08:27"
     },
     {
-      "id": 49827375,
-      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
-      "url": "https://cms-sfx-demo.apeleg.com/",
-      "score": 69,
-      "by": "emurlin",
-      "comments": 22,
-      "time": "2026-09-24 07:22"
+      "id": 49845998,
+      "title": "Gravity seems holographic. What does that mean for reality?",
+      "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
+      "score": 192,
+      "by": "ibobev",
+      "comments": 166,
+      "time": "2026-09-25 15:31"
     },
     {
-      "id": 49823113,
-      "title": "The Bayeux Tapestry: Woven by the Victors",
-      "url": "https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors",
-      "score": 29,
-      "by": "prismatic",
+      "id": 49848955,
+      "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+      "url": "#",
+      "score": 119,
+      "by": "mlaux",
+      "comments": 103,
+      "time": "2026-09-25 19:37"
+    },
+    {
+      "id": 49829472,
+      "title": "Fourier Analysis: Drawing Llamas with Circles",
+      "url": "https://adekau.github.io/posts/2020/llamas.html",
+      "score": 37,
+      "by": "cebert",
+      "comments": 2,
+      "time": "2026-09-24 12:03"
+    },
+    {
+      "id": 49849832,
+      "title": "Excel now supports multiple values in a single cell",
+      "url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
+      "score": 182,
+      "by": "luispa",
+      "comments": 130,
+      "time": "2026-09-25 20:55"
+    },
+    {
+      "id": 49823490,
+      "title": "A new world airport and its baggage",
+      "url": "https://computer.rip/2026-09-20-denver-baggage.html",
+      "score": 22,
+      "by": "firloop",
+      "comments": 2,
+      "time": "2026-09-23 22:30"
+    },
+    {
+      "id": 49852065,
+      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+      "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+      "score": 173,
+      "by": "HotGarbage",
+      "comments": 70,
+      "time": "2026-09-26 00:59"
+    },
+    {
+      "id": 49852462,
+      "title": "HomelabFest will be in St. Louis in September 2027",
+      "url": "https://www.homelabfest.org",
+      "score": 28,
+      "by": "geerlingguy",
       "comments": 12,
-      "time": "2026-09-23 21:54"
+      "time": "2026-09-26 02:03"
     },
     {
-      "id": 49792652,
-      "title": "The forgotten battle of East Lansing",
-      "url": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
-      "score": 98,
-      "by": "rmason",
-      "comments": 17,
-      "time": "2026-09-21 20:07"
+      "id": 49850781,
+      "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
+      "url": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
+      "score": 42,
+      "by": "marc__1",
+      "comments": 10,
+      "time": "2026-09-25 22:28"
     },
     {
-      "id": 49815370,
-      "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
-      "url": "https://github.com/christianrowlands/wavedigger",
-      "score": 112,
-      "by": "882542F3884314B",
-      "comments": 22,
-      "time": "2026-09-23 12:57"
+      "id": 49844736,
+      "title": "First Principles Thinking",
+      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+      "score": 260,
+      "by": "sunils34",
+      "comments": 112,
+      "time": "2026-09-25 13:55"
+    },
+    {
+      "id": 49842409,
+      "title": "I wrote a ray tracer in Brainfuck",
+      "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
+      "score": 69,
+      "by": "epestr",
+      "comments": 15,
+      "time": "2026-09-25 10:08"
+    },
+    {
+      "id": 49844497,
+      "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
+      "url": "https://hackeratlas.com/",
+      "score": 59,
+      "by": "andrearitossa",
+      "comments": 19,
+      "time": "2026-09-25 13:37"
+    },
+    {
+      "id": 49838247,
+      "title": "Remembering Johannes Doerfert",
+      "url": "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/",
+      "score": 89,
+      "by": "sdko",
+      "comments": 2,
+      "time": "2026-09-24 23:36"
+    },
+    {
+      "id": 49830265,
+      "title": "From Thin Air to Bootable Images: The Tine Build System",
+      "url": "https://amutable.com/blog/tine-build-system",
+      "score": 13,
+      "by": "Levitating",
+      "comments": 0,
+      "time": "2026-09-24 13:25"
+    },
+    {
+      "id": 49845977,
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "score": 443,
+      "by": "cramer4next",
+      "comments": 763,
+      "time": "2026-09-25 15:29"
+    },
+    {
+      "id": 49853918,
+      "title": "Alberta's image as world's only rat-free region shattered by discovery of rat",
+      "url": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
+      "score": 18,
+      "by": "pseudolus",
+      "comments": 9,
+      "time": "2026-09-26 06:51"
+    },
+    {
+      "id": 49844896,
+      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+      "score": 122,
+      "by": "sbulaev",
+      "comments": 113,
+      "time": "2026-09-25 14:07"
     }
   ]
 }
