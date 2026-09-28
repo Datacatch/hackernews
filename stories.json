@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-09-27T09:53:49.161077",
+  "fetched_at": "2026-09-28T10:42:36.789179",
   "count": 30,
   "stories": [
     {
-      "id": 49863864,
-      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-      "score": 157,
-      "by": "papergirl",
-      "comments": 111,
-      "time": "2026-09-27 06:19"
+      "id": 49872723,
+      "title": "Owed a billion dollars in Nvidia stock",
+      "url": "https://colo.to/nvidia-stock-narrative.html",
+      "score": 730,
+      "by": "Eric_Gullichsen",
+      "comments": 303,
+      "time": "2026-09-28 02:05"
     },
     {
-      "id": 49864642,
-      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
-      "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
-      "score": 69,
-      "by": "rbanffy",
-      "comments": 29,
-      "time": "2026-09-27 08:44"
+      "id": 49873241,
+      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+      "url": "https://arxiv.org/abs/2110.01834",
+      "score": 106,
+      "by": "teleforce",
+      "comments": 34,
+      "time": "2026-09-28 03:23"
     },
     {
-      "id": 49844657,
-      "title": "Does Georgism work? Five years later",
-      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-      "score": 336,
-      "by": "silveraxe93",
-      "comments": 246,
-      "time": "2026-09-25 13:48"
-    },
-    {
-      "id": 49854219,
-      "title": "Flip Fluid on Flip Dots",
-      "url": "https://mitxela.com/projects/flipflip",
-      "score": 82,
-      "by": "blutack",
-      "comments": 10,
-      "time": "2026-09-26 07:50"
-    },
-    {
-      "id": 49856988,
-      "title": "Go Concurrency Distilled",
-      "url": "https://antonz.org/go-concurrency-distilled/",
-      "score": 220,
-      "by": "chmaynard",
-      "comments": 80,
-      "time": "2026-09-26 14:34"
-    },
-    {
-      "id": 49842764,
-      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "score": 418,
-      "by": "Qision",
-      "comments": 226,
-      "time": "2026-09-25 10:55"
-    },
-    {
-      "id": 49859112,
-      "title": "DeepSeek Elastic Compute (DSec)",
-      "url": "https://arxiv.org/abs/2609.22978",
-      "score": 243,
-      "by": "shenli3514",
-      "comments": 81,
-      "time": "2026-09-26 18:22"
-    },
-    {
-      "id": 49858513,
-      "title": "Show HN: Reladraw \u2013 A diagram language where you decide where to place things",
-      "url": "https://github.com/reladraw/reladraw",
-      "score": 303,
-      "by": "jpwalsh234",
-      "comments": 82,
-      "time": "2026-09-26 17:10"
-    },
-    {
-      "id": 49856193,
-      "title": "Improving site performance by shipping more CSS",
-      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
-      "score": 41,
-      "by": "torutofu",
-      "comments": 22,
-      "time": "2026-09-26 13:10"
-    },
-    {
-      "id": 49845114,
-      "title": "C's Flexible Integer Sizes Were Not a Design Mistake",
-      "url": "https://pikuma.com/blog/c-integer-sizes-not-a-mistake",
-      "score": 29,
-      "by": "ibobev",
-      "comments": 29,
-      "time": "2026-09-25 14:23"
-    },
-    {
-      "id": 49832768,
-      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-      "url": "https://www.movingimagearchive.com/",
-      "score": 173,
-      "by": "momentmaker",
-      "comments": 26,
-      "time": "2026-09-24 16:11"
-    },
-    {
-      "id": 49839438,
-      "title": "Biology might not be quantum, but its math is quantumlike",
-      "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
-      "score": 70,
-      "by": "pseudolus",
-      "comments": 23,
-      "time": "2026-09-25 02:11"
-    },
-    {
-      "id": 49863600,
-      "title": "The internet discovers TLA+. Now what?",
-      "url": "https://reasonable.io/blog/tla-tutorial/",
-      "score": 11,
-      "by": "matt_d",
-      "comments": 4,
-      "time": "2026-09-27 05:26"
-    },
-    {
-      "id": 49862809,
-      "title": "What is the size of Yemen? (2024)",
-      "url": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
-      "score": 166,
-      "by": "kspacewalk2",
-      "comments": 50,
-      "time": "2026-09-27 02:40"
-    },
-    {
-      "id": 49844663,
-      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
-      "score": 280,
-      "by": "MC995",
-      "comments": 635,
-      "time": "2026-09-25 13:49"
-    },
-    {
-      "id": 49854693,
-      "title": "Fifteen years later, the Apple Cards origin story",
-      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-      "score": 395,
-      "by": "ksec",
-      "comments": 102,
-      "time": "2026-09-26 09:13"
-    },
-    {
-      "id": 49857729,
-      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "score": 147,
-      "by": "parasitid",
-      "comments": 41,
-      "time": "2026-09-26 15:56"
-    },
-    {
-      "id": 49853137,
-      "title": "An agent used DNS to reach an external chatbot",
-      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-      "score": 97,
-      "by": "apsec112",
-      "comments": 101,
-      "time": "2026-09-26 04:14"
-    },
-    {
-      "id": 49858676,
-      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
-      "url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
-      "score": 79,
-      "by": "pwg",
-      "comments": 11,
-      "time": "2026-09-26 17:26"
-    },
-    {
-      "id": 49850991,
-      "title": "Exploding variance of means of exponentials: least-squares to the rescue",
-      "url": "https://francisbach.com/spectral_log_density_estimation/",
-      "score": 30,
-      "by": "matt_d",
-      "comments": 0,
-      "time": "2026-09-25 22:48"
-    },
-    {
-      "id": 49836579,
-      "title": "How I changed teaching after AI managed to do all my homework assignments",
-      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-      "score": 207,
-      "by": "azhenley",
-      "comments": 181,
-      "time": "2026-09-24 20:51"
-    },
-    {
-      "id": 49852905,
-      "title": "Promising discoveries about the potential for life on one of Saturn\u2019s icy moons",
-      "url": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
-      "score": 57,
-      "by": "geox",
-      "comments": 31,
-      "time": "2026-09-26 03:23"
-    },
-    {
-      "id": 49857656,
-      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
-      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-      "score": 94,
-      "by": "flxflx",
-      "comments": 38,
-      "time": "2026-09-26 15:49"
-    },
-    {
-      "id": 49854875,
-      "title": "How to keep enjoying programming in a world of LLMs",
-      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "score": 225,
-      "by": "signa11",
-      "comments": 270,
-      "time": "2026-09-26 09:41"
-    },
-    {
-      "id": 49847430,
-      "title": "LP Voting and Investor Consent for AIFs",
-      "url": "https://taghash.io/blog/lp-voting-and-investor-consent-for-aifs-a-practical-workflow",
-      "score": 3,
-      "by": "koolhead17",
-      "comments": 0,
-      "time": "2026-09-25 17:23"
-    },
-    {
-      "id": 49839567,
-      "title": "Evolving programming languages in the AI era",
-      "url": "https://dashbit.co/blog/evolving-ai-era",
-      "score": 93,
-      "by": "pjm331",
-      "comments": 57,
-      "time": "2026-09-25 02:34"
-    },
-    {
-      "id": 49829202,
-      "title": "Modern Object Pascal Introduction for Programmers",
-      "url": "https://castle-engine.io/modern_pascal",
-      "score": 174,
+      "id": 49865312,
+      "title": "Footguns with Postgres \"at time zone 'UTC'\"",
+      "url": "https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does",
+      "score": 31,
       "by": "birdculture",
-      "comments": 75,
-      "time": "2026-09-24 11:33"
+      "comments": 18,
+      "time": "2026-09-27 10:19"
     },
     {
-      "id": 49851883,
-      "title": "Generate fonts where every LLM token is the same width",
-      "url": "https://ampdot.mesh.host/token-space-fonts.html",
-      "score": 62,
-      "by": "z-mach9",
-      "comments": 12,
-      "time": "2026-09-26 00:30"
+      "id": 49868830,
+      "title": "Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "score": 475,
+      "by": "gmays",
+      "comments": 217,
+      "time": "2026-09-27 17:31"
     },
     {
-      "id": 49851555,
-      "title": "Bob Mackie dressed stars\u2013if they were brave enough",
-      "url": "https://www.economist.com/obituary/2026/09/24/bob-mackie-dressed-stars-if-they-were-brave-enough",
-      "score": 7,
-      "by": "andsoitis",
-      "comments": 2,
-      "time": "2026-09-25 23:41"
+      "id": 49870367,
+      "title": "When did Google get so weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "score": 1330,
+      "by": "sancho-panza",
+      "comments": 730,
+      "time": "2026-09-27 20:12"
     },
     {
-      "id": 49844037,
-      "title": "We Should Be Able to Change Our Languages",
-      "url": "http://jimmyhmiller.com/change-our-languages",
-      "score": 43,
+      "id": 49872883,
+      "title": "Nissan's third generation e-POWER powertrain",
+      "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+      "score": 67,
+      "by": "mroche",
+      "comments": 84,
+      "time": "2026-09-28 02:31"
+    },
+    {
+      "id": 49874728,
+      "title": "Prompting Claude Opus 5.5",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "score": 101,
+      "by": "Michelangelo11",
+      "comments": 93,
+      "time": "2026-09-28 07:33"
+    },
+    {
+      "id": 49875466,
+      "title": "Analysis: EVs are now nine times cheaper than petrol or diesel to drive in UK",
+      "url": "https://www.carbonbrief.org/analysis-evs-are-now-nine-times-cheaper-than-petrol-or-diesel-to-drive-in-the-uk",
+      "score": 32,
+      "by": "xbmcuser",
+      "comments": 30,
+      "time": "2026-09-28 09:23"
+    },
+    {
+      "id": 49869755,
+      "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
+      "url": "https://www.inkandswitch.com/essay/malleable-software/",
+      "score": 100,
+      "by": "evakhoury",
+      "comments": 44,
+      "time": "2026-09-27 19:01"
+    },
+    {
+      "id": 49852238,
+      "title": "Functional Mechanical Sympathy [video]",
+      "url": "https://www.youtube.com/watch?v=jSHmDnUZCm8",
+      "score": 34,
       "by": "surprisetalk",
-      "comments": 20,
-      "time": "2026-09-25 13:00"
+      "comments": 2,
+      "time": "2026-09-26 01:26"
+    },
+    {
+      "id": 49875411,
+      "title": "SpaceX's Starship launching to orbit for first time ever today",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live",
+      "score": 25,
+      "by": "geox",
+      "comments": 2,
+      "time": "2026-09-28 09:15"
+    },
+    {
+      "id": 49870070,
+      "title": "Alan Kay's answer to \u201cDid the ENIAC have a BIOS\u201d?",
+      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+      "score": 139,
+      "by": "midnightfish",
+      "comments": 42,
+      "time": "2026-09-27 19:37"
+    },
+    {
+      "id": 49870295,
+      "title": "Self-Hosting on the Dark Web",
+      "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+      "score": 207,
+      "by": "mooreds",
+      "comments": 80,
+      "time": "2026-09-27 20:03"
+    },
+    {
+      "id": 49874551,
+      "title": "Made by Mechanical Means",
+      "url": "https://felixrieseberg.com/made-by-mechanical-means/",
+      "score": 24,
+      "by": "cocoflunchy",
+      "comments": 5,
+      "time": "2026-09-28 07:06"
+    },
+    {
+      "id": 49870837,
+      "title": "Lunar Terminator Paradox",
+      "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+      "score": 81,
+      "by": "dima55",
+      "comments": 53,
+      "time": "2026-09-27 21:06"
+    },
+    {
+      "id": 49852600,
+      "title": "Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06",
+      "url": "https://github.com/dashersw/coyopedal",
+      "score": 86,
+      "by": "arbayi",
+      "comments": 42,
+      "time": "2026-09-26 02:24"
+    },
+    {
+      "id": 49844629,
+      "title": "The state of SIMD in Rust in 2026",
+      "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+      "score": 162,
+      "by": "verdagon",
+      "comments": 38,
+      "time": "2026-09-25 13:46"
+    },
+    {
+      "id": 49868404,
+      "title": "Don't couple your Go code to GitHub",
+      "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+      "score": 248,
+      "by": "birdculture",
+      "comments": 115,
+      "time": "2026-09-27 16:50"
+    },
+    {
+      "id": 49851795,
+      "title": "Deterministic Concurrency [video]",
+      "url": "https://www.youtube.com/watch?v=25x0UuSCKuU",
+      "score": 41,
+      "by": "surprisetalk",
+      "comments": 3,
+      "time": "2026-09-26 00:14"
+    },
+    {
+      "id": 49866951,
+      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "score": 250,
+      "by": "danso",
+      "comments": 94,
+      "time": "2026-09-27 14:30"
+    },
+    {
+      "id": 49869574,
+      "title": "Show HN: Lofi Cities \u2013 Pixel-art city nights with browser-generated lofi",
+      "url": "https://loficities.com/",
+      "score": 254,
+      "by": "safaelmali",
+      "comments": 112,
+      "time": "2026-09-27 18:44"
+    },
+    {
+      "id": 49857281,
+      "title": "There is more to code review than (automatable) detection",
+      "url": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
+      "score": 139,
+      "by": "utiiiD",
+      "comments": 87,
+      "time": "2026-09-26 15:06"
+    },
+    {
+      "id": 49869773,
+      "title": "What I did at Recurse Center",
+      "url": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
+      "score": 108,
+      "by": "bingden",
+      "comments": 32,
+      "time": "2026-09-27 19:04"
+    },
+    {
+      "id": 49869995,
+      "title": "Imp is a full port of DSPy to the BEAM",
+      "url": "https://github.com/deepfates/imp",
+      "score": 77,
+      "by": "mpweiher",
+      "comments": 7,
+      "time": "2026-09-27 19:28"
+    },
+    {
+      "id": 49866515,
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "score": 176,
+      "by": "surprisetalk",
+      "comments": 94,
+      "time": "2026-09-27 13:30"
+    },
+    {
+      "id": 49855276,
+      "title": "Reading\u2019s Bayeux Tapestry",
+      "url": "https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html",
+      "score": 51,
+      "by": "zeristor",
+      "comments": 18,
+      "time": "2026-09-26 10:48"
+    },
+    {
+      "id": 49872541,
+      "title": "Packing Binary Is Fun",
+      "url": "https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually",
+      "score": 24,
+      "by": "BurnerBurner",
+      "comments": 9,
+      "time": "2026-09-28 01:33"
+    },
+    {
+      "id": 49845284,
+      "title": "Previously unheard recordings of John Coltrane, captured by Frank Tiberi",
+      "url": "https://www.jazzwise.com/content/news/john-coltrane-centenary-celebrations-see-impulse-records-release-the-legendary-tiberi-tapes",
+      "score": 91,
+      "by": "gregsadetsky",
+      "comments": 33,
+      "time": "2026-09-25 14:38"
+    },
+    {
+      "id": 49849409,
+      "title": "Writing Efficient C++ Code (2013)",
+      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+      "score": 157,
+      "by": "ibobev",
+      "comments": 119,
+      "time": "2026-09-25 20:20"
+    },
+    {
+      "id": 49869142,
+      "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
+      "url": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+      "score": 78,
+      "by": "Rochus",
+      "comments": 24,
+      "time": "2026-09-27 18:02"
     }
   ]
 }
