@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-09-28T10:42:36.789179",
+  "fetched_at": "2026-09-29T10:30:28.256407",
   "count": 30,
   "stories": [
     {
-      "id": 49872723,
-      "title": "Owed a billion dollars in Nvidia stock",
-      "url": "https://colo.to/nvidia-stock-narrative.html",
-      "score": 730,
-      "by": "Eric_Gullichsen",
-      "comments": 303,
-      "time": "2026-09-28 02:05"
+      "id": 49890051,
+      "title": "Using any C++ library in Godot",
+      "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
+      "score": 35,
+      "by": "czoido",
+      "comments": 10,
+      "time": "2026-09-29 08:40"
     },
     {
-      "id": 49873241,
-      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-      "url": "https://arxiv.org/abs/2110.01834",
-      "score": 106,
-      "by": "teleforce",
-      "comments": 34,
-      "time": "2026-09-28 03:23"
-    },
-    {
-      "id": 49865312,
-      "title": "Footguns with Postgres \"at time zone 'UTC'\"",
-      "url": "https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does",
-      "score": 31,
-      "by": "birdculture",
-      "comments": 18,
-      "time": "2026-09-27 10:19"
-    },
-    {
-      "id": 49868830,
-      "title": "Ember-1",
-      "url": "https://fireworks.ai/blog/ember-1",
-      "score": 475,
-      "by": "gmays",
-      "comments": 217,
-      "time": "2026-09-27 17:31"
-    },
-    {
-      "id": 49870367,
-      "title": "When did Google get so weird?",
-      "url": "https://sancho.bearblog.dev/google-weird/",
-      "score": 1330,
-      "by": "sancho-panza",
-      "comments": 730,
-      "time": "2026-09-27 20:12"
-    },
-    {
-      "id": 49872883,
-      "title": "Nissan's third generation e-POWER powertrain",
-      "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
-      "score": 67,
-      "by": "mroche",
-      "comments": 84,
-      "time": "2026-09-28 02:31"
-    },
-    {
-      "id": 49874728,
-      "title": "Prompting Claude Opus 5.5",
-      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-      "score": 101,
-      "by": "Michelangelo11",
-      "comments": 93,
-      "time": "2026-09-28 07:33"
-    },
-    {
-      "id": 49875466,
-      "title": "Analysis: EVs are now nine times cheaper than petrol or diesel to drive in UK",
-      "url": "https://www.carbonbrief.org/analysis-evs-are-now-nine-times-cheaper-than-petrol-or-diesel-to-drive-in-the-uk",
-      "score": 32,
-      "by": "xbmcuser",
-      "comments": 30,
-      "time": "2026-09-28 09:23"
-    },
-    {
-      "id": 49869755,
-      "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
-      "url": "https://www.inkandswitch.com/essay/malleable-software/",
-      "score": 100,
-      "by": "evakhoury",
-      "comments": 44,
-      "time": "2026-09-27 19:01"
-    },
-    {
-      "id": 49852238,
-      "title": "Functional Mechanical Sympathy [video]",
-      "url": "https://www.youtube.com/watch?v=jSHmDnUZCm8",
-      "score": 34,
-      "by": "surprisetalk",
-      "comments": 2,
-      "time": "2026-09-26 01:26"
-    },
-    {
-      "id": 49875411,
-      "title": "SpaceX's Starship launching to orbit for first time ever today",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live",
-      "score": 25,
-      "by": "geox",
-      "comments": 2,
-      "time": "2026-09-28 09:15"
-    },
-    {
-      "id": 49870070,
-      "title": "Alan Kay's answer to \u201cDid the ENIAC have a BIOS\u201d?",
-      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
-      "score": 139,
-      "by": "midnightfish",
-      "comments": 42,
-      "time": "2026-09-27 19:37"
-    },
-    {
-      "id": 49870295,
-      "title": "Self-Hosting on the Dark Web",
-      "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
-      "score": 207,
-      "by": "mooreds",
-      "comments": 80,
-      "time": "2026-09-27 20:03"
-    },
-    {
-      "id": 49874551,
-      "title": "Made by Mechanical Means",
-      "url": "https://felixrieseberg.com/made-by-mechanical-means/",
-      "score": 24,
-      "by": "cocoflunchy",
+      "id": 49890226,
+      "title": "AI companies leak data to advertisers [pdf]",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "score": 33,
+      "by": "damaru2",
       "comments": 5,
-      "time": "2026-09-28 07:06"
+      "time": "2026-09-29 09:03"
     },
     {
-      "id": 49870837,
-      "title": "Lunar Terminator Paradox",
-      "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
-      "score": 81,
-      "by": "dima55",
-      "comments": 53,
-      "time": "2026-09-27 21:06"
+      "id": 49880411,
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "url": "https://jagi.studio/posts/phyllotaxis/",
+      "score": 148,
+      "by": "evakhoury",
+      "comments": 16,
+      "time": "2026-09-28 16:18"
     },
     {
-      "id": 49852600,
-      "title": "Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06",
-      "url": "https://github.com/dashersw/coyopedal",
-      "score": 86,
-      "by": "arbayi",
-      "comments": 42,
-      "time": "2026-09-26 02:24"
+      "id": 49876052,
+      "title": "The systems that no one will test",
+      "url": "https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/",
+      "score": 67,
+      "by": "perone",
+      "comments": 26,
+      "time": "2026-09-28 10:51"
     },
     {
-      "id": 49844629,
-      "title": "The state of SIMD in Rust in 2026",
-      "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
-      "score": 162,
-      "by": "verdagon",
+      "id": 49870376,
+      "title": "Booted up in 1993, this server still runs \u2013 but not for much longer (2017)",
+      "url": "https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html",
+      "score": 53,
+      "by": "doener",
+      "comments": 14,
+      "time": "2026-09-27 20:13"
+    },
+    {
+      "id": 49880036,
+      "title": "Pirating the Pirates",
+      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "score": 594,
+      "by": "piotrgrabowski",
+      "comments": 290,
+      "time": "2026-09-28 15:54"
+    },
+    {
+      "id": 49866783,
+      "title": "Software occlusion culling in Block Game",
+      "url": "https://enikofox.com/posts/software-rendered-occlusion-culling-in-block-game/",
+      "score": 17,
+      "by": "airhangerf15",
+      "comments": 0,
+      "time": "2026-09-27 14:07"
+    },
+    {
+      "id": 49883539,
+      "title": "California farmers are struggling to sell grapes as demand for wine drops",
+      "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
+      "score": 227,
+      "by": "randycupertino",
+      "comments": 538,
+      "time": "2026-09-28 20:00"
+    },
+    {
+      "id": 49886482,
+      "title": "Tank Body Problem",
+      "url": "http://www.jimsitu.com",
+      "score": 116,
+      "by": "jimbooonooo",
+      "comments": 25,
+      "time": "2026-09-29 00:41"
+    },
+    {
+      "id": 49882781,
+      "title": "MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "score": 246,
+      "by": "logicallee",
+      "comments": 86,
+      "time": "2026-09-28 18:58"
+    },
+    {
+      "id": 49885493,
+      "title": "Show HN: Pac-Bench \u2013 How well can models one-shot a Pac-Man game?",
+      "url": "https://jonclegg.github.io/pacman-bakeoff/",
+      "score": 62,
+      "by": "thefourthchime",
       "comments": 38,
-      "time": "2026-09-25 13:46"
+      "time": "2026-09-28 22:43"
     },
     {
-      "id": 49868404,
-      "title": "Don't couple your Go code to GitHub",
-      "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-      "score": 248,
-      "by": "birdculture",
-      "comments": 115,
-      "time": "2026-09-27 16:50"
+      "id": 49884625,
+      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+      "score": 102,
+      "by": "nkko",
+      "comments": 20,
+      "time": "2026-09-28 21:26"
     },
     {
-      "id": 49851795,
-      "title": "Deterministic Concurrency [video]",
-      "url": "https://www.youtube.com/watch?v=25x0UuSCKuU",
-      "score": 41,
-      "by": "surprisetalk",
-      "comments": 3,
-      "time": "2026-09-26 00:14"
+      "id": 49883844,
+      "title": "Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "url": "https://github.com/firelex/jeff",
+      "score": 498,
+      "by": "firelex",
+      "comments": 190,
+      "time": "2026-09-28 20:23"
     },
     {
-      "id": 49866951,
-      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
-      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
-      "score": 250,
-      "by": "danso",
-      "comments": 94,
-      "time": "2026-09-27 14:30"
+      "id": 49855059,
+      "title": "12,000-year-old G\u00f6beklitepe burials explain scattered bones",
+      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+      "score": 138,
+      "by": "yusufaytas",
+      "comments": 35,
+      "time": "2026-09-26 10:16"
     },
     {
-      "id": 49869574,
-      "title": "Show HN: Lofi Cities \u2013 Pixel-art city nights with browser-generated lofi",
-      "url": "https://loficities.com/",
-      "score": 254,
-      "by": "safaelmali",
-      "comments": 112,
-      "time": "2026-09-27 18:44"
+      "id": 49889934,
+      "title": "Firebase SDK is CRASHING ALLLL iOS Apps, since today morning",
+      "url": "https://twitter.com/GergelyOrosz/status/2104825886922911981",
+      "score": 81,
+      "by": "pranshuchittora",
+      "comments": 41,
+      "time": "2026-09-29 08:26"
     },
     {
-      "id": 49857281,
-      "title": "There is more to code review than (automatable) detection",
-      "url": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
-      "score": 139,
-      "by": "utiiiD",
-      "comments": 87,
-      "time": "2026-09-26 15:06"
+      "id": 49890829,
+      "title": "New Cyber-OSINT model released",
+      "url": "https://twitter.com/0x0SojalSec/status/2104736980768866439",
+      "score": 4,
+      "by": "soltanov",
+      "comments": 0,
+      "time": "2026-09-29 10:23"
     },
     {
-      "id": 49869773,
-      "title": "What I did at Recurse Center",
-      "url": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
-      "score": 108,
-      "by": "bingden",
-      "comments": 32,
-      "time": "2026-09-27 19:04"
+      "id": 49862602,
+      "title": "Simulating Airband AM Radios",
+      "url": "https://bitbashing.io/am-radio.html",
+      "score": 44,
+      "by": "shellpipe",
+      "comments": 4,
+      "time": "2026-09-27 02:01"
     },
     {
-      "id": 49869995,
-      "title": "Imp is a full port of DSPy to the BEAM",
-      "url": "https://github.com/deepfates/imp",
-      "score": 77,
-      "by": "mpweiher",
-      "comments": 7,
-      "time": "2026-09-27 19:28"
+      "id": 49881850,
+      "title": "Sonnet 5.5",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "score": 796,
+      "by": "D2OQZG8l5BI1S06",
+      "comments": 533,
+      "time": "2026-09-28 17:58"
     },
     {
-      "id": 49866515,
-      "title": "Replacing the old battery on rechargeable bike lights",
-      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-      "score": 176,
-      "by": "surprisetalk",
-      "comments": 94,
-      "time": "2026-09-27 13:30"
+      "id": 49879883,
+      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+      "score": 177,
+      "by": "jonbaer",
+      "comments": 223,
+      "time": "2026-09-28 15:46"
     },
     {
-      "id": 49855276,
-      "title": "Reading\u2019s Bayeux Tapestry",
-      "url": "https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html",
-      "score": 51,
-      "by": "zeristor",
-      "comments": 18,
-      "time": "2026-09-26 10:48"
-    },
-    {
-      "id": 49872541,
-      "title": "Packing Binary Is Fun",
-      "url": "https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually",
-      "score": 24,
-      "by": "BurnerBurner",
-      "comments": 9,
-      "time": "2026-09-28 01:33"
-    },
-    {
-      "id": 49845284,
-      "title": "Previously unheard recordings of John Coltrane, captured by Frank Tiberi",
-      "url": "https://www.jazzwise.com/content/news/john-coltrane-centenary-celebrations-see-impulse-records-release-the-legendary-tiberi-tapes",
-      "score": 91,
-      "by": "gregsadetsky",
-      "comments": 33,
-      "time": "2026-09-25 14:38"
-    },
-    {
-      "id": 49849409,
-      "title": "Writing Efficient C++ Code (2013)",
-      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
-      "score": 157,
+      "id": 49879702,
+      "title": "Hijacking the PS5's RTMP stream",
+      "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+      "score": 258,
       "by": "ibobev",
-      "comments": 119,
-      "time": "2026-09-25 20:20"
+      "comments": 85,
+      "time": "2026-09-28 15:35"
     },
     {
-      "id": 49869142,
-      "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
-      "url": "https://www.youtube.com/watch?v=e1Xn3030IvM",
-      "score": 78,
-      "by": "Rochus",
-      "comments": 24,
-      "time": "2026-09-27 18:02"
+      "id": 49883536,
+      "title": "Scientists solve 1840s space weather mystery",
+      "url": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
+      "score": 109,
+      "by": "gumby",
+      "comments": 47,
+      "time": "2026-09-28 20:00"
+    },
+    {
+      "id": 49879645,
+      "title": "Updated Google Maps shows destruction of the city of Rafah",
+      "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
+      "score": 565,
+      "by": "slowin",
+      "comments": 395,
+      "time": "2026-09-28 15:32"
+    },
+    {
+      "id": 49879697,
+      "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+      "url": "https://www.thisamericanlife.org/897/transcript",
+      "score": 406,
+      "by": "simonpure",
+      "comments": 223,
+      "time": "2026-09-28 15:35"
+    },
+    {
+      "id": 49883760,
+      "title": "World Labs is Joining AMD",
+      "url": "https://www.worldlabs.ai/blog/amd-announcement",
+      "score": 280,
+      "by": "mfiguiere",
+      "comments": 111,
+      "time": "2026-09-28 20:18"
+    },
+    {
+      "id": 49863594,
+      "title": "Four CHI '26 papers I wish I wrote",
+      "url": "https://countingfromzero.blog/2026/04/24/four-chi-26-papers-i-wish-i-wrote/",
+      "score": 4,
+      "by": "luu",
+      "comments": 1,
+      "time": "2026-09-27 05:23"
+    },
+    {
+      "id": 49877678,
+      "title": "Does Reddit have an astroturfing problem? What the data suggests",
+      "url": "https://www.petervijeh.com/projects/reddit-astroturf",
+      "score": 224,
+      "by": "p-s-v",
+      "comments": 282,
+      "time": "2026-09-28 13:30"
+    },
+    {
+      "id": 49886195,
+      "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
+      "url": "https://lolchat.rip/",
+      "score": 112,
+      "by": "henrychannel",
+      "comments": 45,
+      "time": "2026-09-29 00:06"
+    },
+    {
+      "id": 49883471,
+      "title": "It's Time to Investigate the AI Labs",
+      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+      "score": 507,
+      "by": "ibobev",
+      "comments": 206,
+      "time": "2026-09-28 19:53"
+    },
+    {
+      "id": 49879401,
+      "title": "Show HN: HN.watch \u2013 Videos of all Hacker News posts",
+      "url": "https://hn.watch/",
+      "score": 180,
+      "by": "mrborgen",
+      "comments": 95,
+      "time": "2026-09-28 15:16"
+    },
+    {
+      "id": 49888937,
+      "title": "Uncensored and Offensive Security AI Models Benchmark",
+      "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
+      "score": 31,
+      "by": "soltanov",
+      "comments": 9,
+      "time": "2026-09-29 06:16"
     }
   ]
 }
