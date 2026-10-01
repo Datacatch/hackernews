@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-09-30T10:21:23.637521",
+  "fetched_at": "2026-10-01T10:48:16.918210",
   "count": 30,
   "stories": [
     {
-      "id": 49906637,
-      "title": "Pi.dev: You Said No MCP",
-      "url": "https://earendil.com/posts/you-said-no-mcp/",
-      "score": 17,
-      "by": "yarapavan",
-      "comments": 1,
-      "time": "2026-09-30 09:55"
+      "id": 49906100,
+      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+      "url": "https://github.com/maanHimself/OpenDLSS-NR",
+      "score": 87,
+      "by": "sagacity",
+      "comments": 53,
+      "time": "2026-09-30 08:43"
     },
     {
-      "id": 49901736,
-      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-      "url": "https://github.com/ninjahawk/livenerf",
-      "score": 638,
-      "by": "bryan0",
-      "comments": 254,
-      "time": "2026-09-29 22:36"
+      "id": 49913571,
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "score": 1412,
+      "by": "bradleyg223",
+      "comments": 920,
+      "time": "2026-09-30 20:04"
     },
     {
-      "id": 49905487,
-      "title": "September 2026: The world today, as seen by one Polish guy",
-      "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
-      "score": 230,
-      "by": "marjancek",
-      "comments": 119,
-      "time": "2026-09-30 07:12"
+      "id": 49894430,
+      "title": "Book of Shapes \u2013 Collection of minimal, generative and customizable SVG-patterns",
+      "url": "https://bookofshapes.com/",
+      "score": 64,
+      "by": "eustoria",
+      "comments": 4,
+      "time": "2026-09-29 14:56"
     },
     {
-      "id": 49887343,
-      "title": "Solving Factorio Quality",
-      "url": "https://exyr.org/2026/solving-factorio-quality/",
-      "score": 77,
-      "by": "laurenth",
-      "comments": 25,
-      "time": "2026-09-29 02:27"
+      "id": 49915082,
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+      "url": "https://www.thespacereview.com/article/4951/1",
+      "score": 225,
+      "by": "Bluestein",
+      "comments": 110,
+      "time": "2026-09-30 22:03"
     },
     {
-      "id": 49896604,
-      "title": "Dots: Always-on agents",
-      "url": "https://openai.com/index/introducing-dots/",
-      "score": 627,
-      "by": "alvis",
-      "comments": 487,
-      "time": "2026-09-29 17:07"
-    },
-    {
-      "id": 49897993,
-      "title": "Vermont replacing power plants with home batteries",
-      "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
-      "score": 205,
-      "by": "devonnull",
-      "comments": 161,
-      "time": "2026-09-29 18:19"
-    },
-    {
-      "id": 49899090,
-      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-      "score": 233,
-      "by": "ilamont",
-      "comments": 136,
-      "time": "2026-09-29 19:30"
-    },
-    {
-      "id": 49893509,
-      "title": "America.gov",
-      "url": "https://america.gov/",
-      "score": 568,
-      "by": "plesiv",
-      "comments": 476,
-      "time": "2026-09-29 14:04"
-    },
-    {
-      "id": 49890733,
-      "title": "NASA asked several former SR-71A staffers to help secret restart",
-      "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
-      "score": 173,
-      "by": "ilamont",
-      "comments": 173,
+      "id": 49890732,
+      "title": "Why the Bronze Age Collapsed",
+      "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+      "score": 253,
+      "by": "AnodicElegy",
+      "comments": 157,
       "time": "2026-09-29 10:10"
     },
     {
-      "id": 49883913,
-      "title": "Testing WebGPU data layouts with Facet",
-      "url": "https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/",
-      "score": 44,
-      "by": "luu",
+      "id": 49912955,
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "score": 191,
+      "by": "ibobev",
+      "comments": 73,
+      "time": "2026-09-30 19:04"
+    },
+    {
+      "id": 49919680,
+      "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
+      "url": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
+      "score": 1,
+      "by": "truemetricsIngo",
       "comments": 0,
-      "time": "2026-09-28 20:28"
+      "time": "2026-10-01 09:48"
     },
     {
-      "id": 49898778,
-      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-      "url": "https://space.bl2.net/",
-      "score": 256,
-      "by": "wanick",
-      "comments": 57,
-      "time": "2026-09-29 19:08"
+      "id": 49912792,
+      "title": "Before pixels: Modular industrial dashboards",
+      "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+      "score": 153,
+      "by": "leephillips",
+      "comments": 34,
+      "time": "2026-09-30 18:49"
     },
     {
-      "id": 49903862,
-      "title": "RSS Feeds for Last.fm",
-      "url": "https://lfm.xiffy.nl/",
-      "score": 77,
-      "by": "Baljhin",
-      "comments": 14,
-      "time": "2026-09-30 03:00"
+      "id": 49911995,
+      "title": "Launch HN: Magnitude (YC S25) \u2013 Self-optimizing inference engine for agents",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "score": 163,
+      "by": "anerli",
+      "comments": 84,
+      "time": "2026-09-30 17:37"
     },
     {
-      "id": 49886535,
-      "title": "Built Dental Scope",
-      "url": "https://dental-scope.com/",
-      "score": 10,
-      "by": "Zeruxe",
-      "comments": 3,
-      "time": "2026-09-29 00:47"
+      "id": 49913350,
+      "title": "Halfspace experimental IDE for solid modeling with distance fields",
+      "url": "https://www.mattkeeter.com/projects/halfspace/",
+      "score": 141,
+      "by": "luu",
+      "comments": 9,
+      "time": "2026-09-30 19:44"
     },
     {
-      "id": 49892245,
-      "title": "How Delhi cut electricity loss from 50 to 5 percent",
-      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
-      "score": 525,
+      "id": 49909583,
+      "title": "A brief history of the Bloomberg terminal",
+      "url": "https://spectrum.ieee.org/bloomberg-terminal",
+      "score": 297,
       "by": "rbanffy",
-      "comments": 294,
-      "time": "2026-09-29 12:43"
+      "comments": 127,
+      "time": "2026-09-30 14:34"
     },
     {
-      "id": 49893002,
-      "title": "Backblaze drive stats for Q2 2026",
-      "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
-      "score": 198,
-      "by": "HieronymusBosch",
-      "comments": 57,
-      "time": "2026-09-29 13:34"
+      "id": 49912444,
+      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+      "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+      "score": 180,
+      "by": "jbott",
+      "comments": 83,
+      "time": "2026-09-30 18:17"
     },
     {
-      "id": 49896586,
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "score": 948,
-      "by": "crorella",
-      "comments": 835,
-      "time": "2026-09-29 17:06"
+      "id": 49893519,
+      "title": "Adding Floating-Point Decimals for Fun and Profit",
+      "url": "https://blog.vero.site/post/float",
+      "score": 4,
+      "by": "ibobev",
+      "comments": 0,
+      "time": "2026-09-29 14:05"
     },
     {
-      "id": 49880411,
-      "title": "Phyllotaxis: An audio-reactive LED display",
-      "url": "https://jagi.studio/posts/phyllotaxis/",
-      "score": 296,
-      "by": "evakhoury",
-      "comments": 48,
-      "time": "2026-09-28 16:18"
+      "id": 49902382,
+      "title": "Show HN: Ledge.sh \u2013 Runnable Markdown Notes",
+      "url": "https://ledge.sh",
+      "score": 146,
+      "by": "dancablam",
+      "comments": 64,
+      "time": "2026-09-29 23:41"
     },
     {
-      "id": 49905633,
-      "title": "Why Is Sam Altman a Free Man?",
-      "url": "https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/",
-      "score": 102,
-      "by": "ragall",
-      "comments": 61,
-      "time": "2026-09-30 07:32"
-    },
-    {
-      "id": 49883273,
-      "title": "Raleigh Vektar Restoration (2020)",
-      "url": "https://retromash.com/2020/06/26/raleigh-vektar-restoration-part-1-the-arrival/",
-      "score": 18,
-      "by": "robin_reala",
-      "comments": 3,
-      "time": "2026-09-28 19:37"
-    },
-    {
-      "id": 49895864,
-      "title": "Needed 1+1, built a functional programming language",
-      "url": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
-      "score": 108,
-      "by": "birdculture",
-      "comments": 32,
-      "time": "2026-09-29 16:18"
-    },
-    {
-      "id": 49891203,
-      "title": "Language models for text classification: From bag-of-words to Jev",
-      "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-      "score": 128,
-      "by": "Anon84",
-      "comments": 5,
-      "time": "2026-09-29 11:06"
-    },
-    {
-      "id": 49902093,
-      "title": "Floppy Emu Hardware Failure Analysis Results",
-      "url": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
-      "score": 9,
-      "by": "zdw",
+      "id": 49906295,
+      "title": "Jacques Barzun, Cultural historian and critic (1980)",
+      "url": "https://www.csmonitor.com/1980/0717/071710.html",
+      "score": 5,
+      "by": "Michelangelo11",
       "comments": 2,
-      "time": "2026-09-29 23:10"
+      "time": "2026-09-30 09:09"
     },
     {
-      "id": 49893157,
-      "title": "Ask HN: What are you reading?",
-      "url": "#",
-      "score": 288,
-      "by": "dan-bailey",
-      "comments": 572,
-      "time": "2026-09-29 13:44"
+      "id": 49908394,
+      "title": "The last time my family was replaced by technology",
+      "url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+      "score": 249,
+      "by": "megalomanu",
+      "comments": 522,
+      "time": "2026-09-30 13:06"
     },
     {
-      "id": 49888182,
-      "title": "When oil prices spike, where does the money go?",
-      "url": "https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763",
-      "score": 89,
-      "by": "thelastgallon",
-      "comments": 76,
-      "time": "2026-09-29 04:14"
+      "id": 49912048,
+      "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+      "url": "https://www.chompiclub.com/opensource",
+      "score": 87,
+      "by": "lashkari",
+      "comments": 20,
+      "time": "2026-09-30 17:42"
     },
     {
-      "id": 49895304,
-      "title": "PS5 Relapse Exploit",
-      "url": "https://github.com/ntfargo/Relapse-Exploit",
-      "score": 312,
-      "by": "therepanic",
-      "comments": 189,
-      "time": "2026-09-29 15:44"
+      "id": 49913192,
+      "title": "EDG C++ front-end goes public",
+      "url": "https://edgcpp.org/#transition",
+      "score": 221,
+      "by": "iandinwoodie",
+      "comments": 106,
+      "time": "2026-09-30 19:26"
     },
     {
-      "id": 49871018,
-      "title": "NAND-16: a computer built from 277,248 NAND gates",
-      "url": "https://somethingbig.ai/computer",
-      "score": 145,
-      "by": "rossant",
-      "comments": 85,
-      "time": "2026-09-27 21:26"
+      "id": 49909056,
+      "title": "What TLA+ can and can't check",
+      "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+      "score": 190,
+      "by": "b-man",
+      "comments": 41,
+      "time": "2026-09-30 13:57"
     },
     {
-      "id": 49879758,
-      "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
-      "url": "https://github.com/ciromattia/kcc",
-      "score": 22,
-      "by": "seam_carver",
-      "comments": 4,
-      "time": "2026-09-28 15:39"
+      "id": 49906432,
+      "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+      "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
+      "score": 398,
+      "by": "rzk",
+      "comments": 352,
+      "time": "2026-09-30 09:27"
     },
     {
-      "id": 49878857,
-      "title": "A Staff Engineer's Guide to Inventing Work",
-      "url": "https://sujithjay.com/inventing-work",
-      "score": 270,
-      "by": "amortize",
-      "comments": 57,
-      "time": "2026-09-28 14:46"
+      "id": 49915126,
+      "title": "56k.rip \u2013 the 1996 dial-up internet experience",
+      "url": "https://56k.rip/",
+      "score": 184,
+      "by": "adunk",
+      "comments": 83,
+      "time": "2026-09-30 22:08"
     },
     {
-      "id": 49902019,
-      "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
-      "url": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river",
-      "score": 40,
-      "by": "papa-whisky",
-      "comments": 13,
-      "time": "2026-09-29 23:03"
+      "id": 49905644,
+      "title": "Doing a Machine Learning PhD While Working in Japan",
+      "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
+      "score": 102,
+      "by": "pwim",
+      "comments": 36,
+      "time": "2026-09-30 07:33"
     },
     {
-      "id": 49894351,
-      "title": "Show HN: NSL \u2013 WSL for Linux",
-      "url": "https://frostyard.github.io/nsl/",
-      "score": 135,
-      "by": "bketelsen",
-      "comments": 81,
-      "time": "2026-09-29 14:51"
+      "id": 49882754,
+      "title": "Burning Man death rates \u2013 A short lesson in statistics",
+      "url": "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson",
+      "score": 148,
+      "by": "viraj_shah",
+      "comments": 192,
+      "time": "2026-09-28 18:57"
+    },
+    {
+      "id": 49903713,
+      "title": "Responsible Release of AI-Generated Mathematics",
+      "url": "https://agmai.org/general-sep29/",
+      "score": 94,
+      "by": "aureianimus",
+      "comments": 127,
+      "time": "2026-09-30 02:36"
+    },
+    {
+      "id": 49904314,
+      "title": "LinkedIn Larpmaxxing",
+      "url": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
+      "score": 207,
+      "by": "BurnerBurner",
+      "comments": 175,
+      "time": "2026-09-30 04:19"
+    },
+    {
+      "id": 49909908,
+      "title": "Coltrane's Tone Circle",
+      "url": "https://jtomschroeder.com/blog/tone-circle/",
+      "score": 62,
+      "by": "jtomschroeder",
+      "comments": 19,
+      "time": "2026-09-30 14:59"
+    },
+    {
+      "id": 49911534,
+      "title": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
+      "url": "https://www.software3d.com/MillersMonster.php",
+      "score": 71,
+      "by": "cobbzilla",
+      "comments": 11,
+      "time": "2026-09-30 17:00"
+    },
+    {
+      "id": 49895221,
+      "title": "PlayBook: A Programmable Paper Notebook [video]",
+      "url": "https://www.youtube.com/watch?v=GurWDZ8ENpA",
+      "score": 18,
+      "by": "surprisetalk",
+      "comments": 5,
+      "time": "2026-09-29 15:40"
+    },
+    {
+      "id": 49908962,
+      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+      "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+      "score": 155,
+      "by": "ibobev",
+      "comments": 58,
+      "time": "2026-09-30 13:50"
+    },
+    {
+      "id": 49913604,
+      "title": "Functional Ultrasound Imaging (fUSI) from scratch",
+      "url": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
+      "score": 47,
+      "by": "pminimax",
+      "comments": 9,
+      "time": "2026-09-30 20:06"
     }
   ]
 }
