@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-10-02T10:22:48.996669",
+  "fetched_at": "2026-10-03T09:44:24.084100",
   "count": 30,
   "stories": [
     {
-      "id": 49926069,
-      "title": "Pi 1.0",
-      "url": "https://earendil.com/posts/pi-1-0/",
-      "score": 1294,
-      "by": "sergiotapia",
-      "comments": 413,
-      "time": "2026-10-01 19:33"
+      "id": 49940394,
+      "title": "Newgrounds.com \u2013 A community of games, music, and art",
+      "url": "https://www.newgrounds.com/",
+      "score": 213,
+      "by": "azhenley",
+      "comments": 55,
+      "time": "2026-10-03 00:55"
     },
     {
-      "id": 49930047,
-      "title": "Shimano Bicycle Museum Review",
-      "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
-      "score": 111,
-      "by": "pietroppeter",
-      "comments": 17,
-      "time": "2026-10-02 05:12"
-    },
-    {
-      "id": 49929113,
-      "title": "How Singapore's government-run dating service works",
-      "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
-      "score": 169,
-      "by": "danielfoster",
-      "comments": 114,
-      "time": "2026-10-02 01:56"
-    },
-    {
-      "id": 49928121,
-      "title": "Several vulnerabilities have been discovered in the Linux kernel",
-      "url": "https://lwn.net/Articles/1097401/",
-      "score": 311,
-      "by": "luispa",
-      "comments": 224,
-      "time": "2026-10-01 23:10"
-    },
-    {
-      "id": 49923692,
-      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-      "url": "https://blog.cloudflare.com/clef-decision-models/",
-      "score": 515,
-      "by": "jasondavies",
-      "comments": 180,
-      "time": "2026-10-01 16:18"
-    },
-    {
-      "id": 49931031,
-      "title": "Show HN: Audionaut \u2013 an open-source cross-platform multitrack audio editor",
-      "url": "https://github.com/kvoltmer/Audionaut",
-      "score": 15,
-      "by": "vltmrkls",
-      "comments": 3,
-      "time": "2026-10-02 08:05"
-    },
-    {
-      "id": 49929489,
-      "title": "DeepSeek Harness Desktop for macOS and Windows",
-      "url": "https://www.deepseek.com/en/harness/",
-      "score": 240,
-      "by": "Kuyawa",
-      "comments": 119,
-      "time": "2026-10-02 03:11"
-    },
-    {
-      "id": 49926536,
-      "title": "SvelteKit 3",
-      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
-      "score": 281,
-      "by": "sampsn",
-      "comments": 104,
-      "time": "2026-10-01 20:14"
-    },
-    {
-      "id": 49925969,
-      "title": "Pi Durable",
-      "url": "https://earendil.com/posts/pi-durable/",
-      "score": 385,
-      "by": "paulsmith",
-      "comments": 48,
-      "time": "2026-10-01 19:24"
-    },
-    {
-      "id": 49922569,
-      "title": "Ask HN: Who is hiring? (October 2026)",
-      "url": "#",
-      "score": 205,
-      "by": "whoishiring",
-      "comments": 204,
-      "time": "2026-10-01 15:02"
-    },
-    {
-      "id": 49926628,
-      "title": "Automatic Transmission \u2013 a data-privacy study of connected vehicles",
-      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
-      "score": 193,
-      "by": "rafaelc",
-      "comments": 166,
-      "time": "2026-10-01 20:23"
-    },
-    {
-      "id": 49924179,
-      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
-      "url": "https://blog.gitbutler.com/git-3-sha-256",
-      "score": 381,
-      "by": "chmaynard",
-      "comments": 359,
-      "time": "2026-10-01 16:57"
-    },
-    {
-      "id": 49920160,
-      "title": "StreetComplete on iOS is now in public beta",
-      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-      "score": 567,
-      "by": "Snowly",
-      "comments": 150,
-      "time": "2026-10-01 10:59"
-    },
-    {
-      "id": 49926917,
-      "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
-      "url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
-      "score": 148,
-      "by": "benbreen",
-      "comments": 41,
-      "time": "2026-10-01 20:48"
-    },
-    {
-      "id": 49927760,
-      "title": "Frog and Toad and the Increasingly Capable Machines",
-      "url": "https://www.frogandtoad.ai/",
-      "score": 174,
-      "by": "supermdguy",
-      "comments": 39,
+      "id": 49927754,
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "score": 630,
+      "by": "hn_acker",
+      "comments": 278,
       "time": "2026-10-01 22:23"
     },
     {
-      "id": 49921798,
-      "title": "Turbo Haskell",
-      "url": "https://comonad.com/reader/2026/turbo-haskell/",
-      "score": 100,
-      "by": "pjmlp",
-      "comments": 20,
-      "time": "2026-10-01 13:58"
+      "id": 49937276,
+      "title": "Apple Pass Designer",
+      "url": "https://developer.apple.com/pass-designer/",
+      "score": 421,
+      "by": "soheilpro",
+      "comments": 256,
+      "time": "2026-10-02 19:06"
     },
     {
-      "id": 49923466,
-      "title": "RIP, vector database",
-      "url": "https://turbopuffer.com/blog/rip-vector-database",
-      "score": 331,
-      "by": "razin",
-      "comments": 88,
-      "time": "2026-10-01 16:01"
+      "id": 49925184,
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "score": 458,
+      "by": "CoryOndrejka",
+      "comments": 107,
+      "time": "2026-10-01 18:20"
     },
     {
-      "id": 49927212,
-      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-      "url": "https://www.cssbed.com",
-      "score": 112,
-      "by": "sea-gold",
-      "comments": 28,
-      "time": "2026-10-01 21:21"
+      "id": 49938306,
+      "title": "Barcodes are about to go extinct",
+      "url": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
+      "score": 39,
+      "by": "rmason",
+      "comments": 61,
+      "time": "2026-10-02 20:37"
     },
     {
-      "id": 49926512,
-      "title": "ArXiv's Updated Rate Limit Policy",
-      "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
-      "score": 120,
-      "by": "50kIters",
-      "comments": 56,
-      "time": "2026-10-01 20:12"
+      "id": 49941091,
+      "title": "Cloudflare OHTTP gateway",
+      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "score": 71,
+      "by": "est",
+      "comments": 19,
+      "time": "2026-10-03 03:15"
     },
     {
-      "id": 49922674,
-      "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
-      "url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
-      "score": 228,
-      "by": "nkw",
-      "comments": 39,
-      "time": "2026-10-01 15:07"
+      "id": 49932147,
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "score": 278,
+      "by": "mariuz",
+      "comments": 55,
+      "time": "2026-10-02 11:07"
     },
     {
-      "id": 49924618,
-      "title": "Vote on which of Hacker News' challenges for AI have been met",
-      "url": "https://stoppels.ch/goalposts/",
-      "score": 144,
-      "by": "stabbles",
-      "comments": 172,
-      "time": "2026-10-01 17:32"
+      "id": 49933869,
+      "title": "The Forgetful CPU (Linux on M4)",
+      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "score": 213,
+      "by": "signa11",
+      "comments": 140,
+      "time": "2026-10-02 14:22"
     },
     {
-      "id": 49926773,
-      "title": "Show HN: Janus \u2013 Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-      "url": "https://github.com/Vibra-Ingenn/Janus",
-      "score": 75,
-      "by": "Maverick617",
+      "id": 49941447,
+      "title": "An Update on Orion for Linux and Windows",
+      "url": "https://blog.kagi.com/update-orion-linux-windows",
+      "score": 44,
+      "by": "pentagrama",
       "comments": 14,
-      "time": "2026-10-01 20:36"
+      "time": "2026-10-03 04:53"
     },
     {
-      "id": 49921923,
-      "title": "Cloudflare K2: serverless event streams",
-      "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
-      "score": 240,
-      "by": "elffjs",
-      "comments": 90,
-      "time": "2026-10-01 14:09"
+      "id": 49926411,
+      "title": "Loss of cell identity drives human aging: Two new papers",
+      "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
+      "score": 259,
+      "by": "bookofjoe",
+      "comments": 79,
+      "time": "2026-10-01 20:02"
     },
     {
-      "id": 49925742,
-      "title": "Oxygen-deprived underwater zones may not be \u201cdead zones\u201d but clue to early life",
-      "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
-      "score": 103,
-      "by": "gumby",
-      "comments": 12,
-      "time": "2026-10-01 19:03"
+      "id": 49941114,
+      "title": "Extra Big Ass Intelligence",
+      "url": "https://www.extrabigassintelligence.com/",
+      "score": 291,
+      "by": "34679",
+      "comments": 61,
+      "time": "2026-10-03 03:19"
     },
     {
-      "id": 49922437,
-      "title": "Context Language Models",
-      "url": "https://arxiv.org/abs/2609.37725",
-      "score": 147,
-      "by": "emersonmacro",
-      "comments": 36,
-      "time": "2026-10-01 14:51"
+      "id": 49936575,
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/",
+      "score": 237,
+      "by": "fibo",
+      "comments": 63,
+      "time": "2026-10-02 18:01"
     },
     {
-      "id": 49920896,
-      "title": "How to speed up the Rust compiler in September 2026",
-      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-      "score": 257,
-      "by": "trickypr",
-      "comments": 139,
-      "time": "2026-10-01 12:44"
+      "id": 49929391,
+      "title": "Greg Kroah-Hartman \u2013 Security in the LLM Age [video]",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "score": 239,
+      "by": "usernomdeguerre",
+      "comments": 73,
+      "time": "2026-10-02 02:51"
+    },
+    {
+      "id": 49925974,
+      "title": "FLUX 3 Image",
+      "url": "https://bfl.ai/models/flux-3-image",
+      "score": 344,
+      "by": "minimaxir",
+      "comments": 72,
+      "time": "2026-10-01 19:24"
+    },
+    {
+      "id": 49937504,
+      "title": "Muse Gadgets",
+      "url": "https://gadgets.muse.ai",
+      "score": 194,
+      "by": "anant",
+      "comments": 85,
+      "time": "2026-10-02 19:26"
+    },
+    {
+      "id": 49933740,
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "score": 216,
+      "by": "PaulHoule",
+      "comments": 109,
+      "time": "2026-10-02 14:11"
+    },
+    {
+      "id": 49937146,
+      "title": "The Nintendo 64 Partner-N64 Development Kit",
+      "url": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
+      "score": 39,
+      "by": "paulgerhardt",
+      "comments": 5,
+      "time": "2026-10-02 18:53"
+    },
+    {
+      "id": 49937631,
+      "title": "Updates to Full Disk Access in macOS",
+      "url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "score": 199,
+      "by": "notfirstpost",
+      "comments": 133,
+      "time": "2026-10-02 19:37"
+    },
+    {
+      "id": 49934620,
+      "title": "One month coding with GLM 5.3 Flash",
+      "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+      "score": 161,
+      "by": "ThibWeb",
+      "comments": 119,
+      "time": "2026-10-02 15:29"
+    },
+    {
+      "id": 49928566,
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "url": "https://stillwet.art/",
+      "score": 275,
+      "by": "alstonite",
+      "comments": 88,
+      "time": "2026-10-02 00:27"
+    },
+    {
+      "id": 49924121,
+      "title": "More like SC-Forth-thousand, am I right?",
+      "url": "https://www.leadedsolder.com/2026/10/01/rc2026-10-sg1000-forth-port.html",
+      "score": 7,
+      "by": "stevekemp",
+      "comments": 0,
+      "time": "2026-10-01 16:52"
+    },
+    {
+      "id": 49927747,
+      "title": "Sites in ChatGPT",
+      "url": "https://chatgpt.com/features/sites/",
+      "score": 268,
+      "by": "polvi",
+      "comments": 253,
+      "time": "2026-10-01 22:22"
+    },
+    {
+      "id": 49933235,
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "score": 279,
+      "by": "suopspaces",
+      "comments": 149,
+      "time": "2026-10-02 13:18"
+    },
+    {
+      "id": 49942211,
+      "title": "Why should I have to pay more for buses if I don't use a smartphone?",
+      "url": "https://www.theguardian.com/money/2026/oct/02/why-should-i-have-to-pay-more-for-buses-if-i-dont-use-a-smartphone",
+      "score": 28,
+      "by": "DamonHD",
+      "comments": 28,
+      "time": "2026-10-03 07:48"
+    },
+    {
+      "id": 49912091,
+      "title": "Billions of triangles redux",
+      "url": "https://zeux.io/2026/09/30/billions-of-triangles-redux/",
+      "score": 44,
+      "by": "ibobev",
+      "comments": 0,
+      "time": "2026-09-30 17:46"
+    },
+    {
+      "id": 49921825,
+      "title": "OKI Develops 124-Layer PCB Technology",
+      "url": "https://www.oki.com/global/press/2025/z25006e.html",
+      "score": 31,
+      "by": "luu",
+      "comments": 15,
+      "time": "2026-10-01 14:00"
+    },
+    {
+      "id": 49933230,
+      "title": "Venice\u2019s failed war against Constantinople led to the first bond market",
+      "url": "https://bigthink.com/books/a-fabulous-debt/",
+      "score": 120,
+      "by": "RickJWagner",
+      "comments": 35,
+      "time": "2026-10-02 13:17"
+    },
+    {
+      "id": 49918480,
+      "title": "Programming the ENIAC(2011)",
+      "url": "https://www.columbia.edu/cu/computinghistory/eniac.html",
+      "score": 6,
+      "by": "nill0",
+      "comments": 0,
+      "time": "2026-10-01 06:46"
+    },
+    {
+      "id": 49937916,
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "score": 114,
+      "by": "antelocnova",
+      "comments": 44,
+      "time": "2026-10-02 20:00"
     },
     {
       "id": 49919676,
       "title": "To grieve, or not to grieve?",
       "url": "https://xenaproject.wordpress.com/2026/10/01/to-grieve-or-not-to-grieve/",
-      "score": 77,
+      "score": 141,
       "by": "stabbles",
-      "comments": 55,
+      "comments": 120,
       "time": "2026-10-01 09:47"
-    },
-    {
-      "id": 49922515,
-      "title": "RacketCon Is Saturday",
-      "url": "https://con.racket-lang.org/",
-      "score": 146,
-      "by": "spdegabrielle",
-      "comments": 38,
-      "time": "2026-10-01 14:58"
-    },
-    {
-      "id": 49928152,
-      "title": "Butterflies use optical illusions to dodge predators",
-      "url": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
-      "score": 49,
-      "by": "gmays",
-      "comments": 11,
-      "time": "2026-10-01 23:15"
-    },
-    {
-      "id": 49919910,
-      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-      "score": 178,
-      "by": "giuliomagnifico",
-      "comments": 108,
-      "time": "2026-10-01 10:21"
     }
   ]
 }
