@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-10-05T11:17:04.420168",
+  "fetched_at": "2026-10-06T11:06:35.389990",
   "count": 30,
   "stories": [
     {
-      "id": 49962012,
-      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
-      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-      "score": 179,
-      "by": "clan",
-      "comments": 123,
-      "time": "2026-10-05 08:09"
+      "id": 49976265,
+      "title": "Nobel Prize in Physics goes to Francis Halzen",
+      "url": "https://www.nobelprize.org/prizes/physics/2026/",
+      "score": 96,
+      "by": "solarist",
+      "comments": 16,
+      "time": "2026-10-06 09:48"
+    },
+    {
+      "id": 49969183,
+      "title": "Beam: Reflection's 501B open-weight model",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "score": 469,
+      "by": "Philpax",
+      "comments": 148,
+      "time": "2026-10-05 19:16"
+    },
+    {
+      "id": 49971230,
+      "title": "Find the flattest route between any two points in SF",
+      "url": "https://flattensf.com/",
+      "score": 216,
+      "by": "ishan0102",
+      "comments": 77,
+      "time": "2026-10-05 21:40"
+    },
+    {
+      "id": 49951155,
+      "title": "Accountability mechanisms can be joyful (2024)",
+      "url": "https://liquidbrain.net/blog/accountability-and-joy/",
+      "score": 45,
+      "by": "luu",
+      "comments": 10,
+      "time": "2026-10-04 06:15"
+    },
+    {
+      "id": 49971719,
+      "title": "Friendship ended with Deno, now Node is my best friend",
+      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+      "score": 184,
+      "by": "ibobev",
+      "comments": 109,
+      "time": "2026-10-05 22:30"
+    },
+    {
+      "id": 49970871,
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "url": "https://qlabs.sh/research/dust",
+      "score": 208,
+      "by": "E-Reverance",
+      "comments": 51,
+      "time": "2026-10-05 21:15"
+    },
+    {
+      "id": 49970667,
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "score": 367,
+      "by": "outlier99",
+      "comments": 245,
+      "time": "2026-10-05 21:00"
+    },
+    {
+      "id": 49963171,
+      "title": "Web Search API",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "score": 556,
+      "by": "tosh",
+      "comments": 249,
+      "time": "2026-10-05 10:47"
+    },
+    {
+      "id": 49973878,
+      "title": "Resurrecting iChat Audio and Video Conferencing",
+      "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
+      "score": 56,
+      "by": "thepipetogrep",
+      "comments": 13,
+      "time": "2026-10-06 03:39"
+    },
+    {
+      "id": 49971921,
+      "title": "Example.com just launched the biggest redesign in decades",
+      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "score": 234,
+      "by": "jgx0",
+      "comments": 154,
+      "time": "2026-10-05 22:55"
+    },
+    {
+      "id": 49945588,
+      "title": "An algorithmic failure beneath the secret ballot",
+      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+      "score": 86,
+      "by": "leecoursey",
+      "comments": 61,
+      "time": "2026-10-03 16:23"
+    },
+    {
+      "id": 49950653,
+      "title": "Testing 12 different Zigbee temperature/humidity sensors",
+      "url": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
+      "score": 123,
+      "by": "walrus01",
+      "comments": 65,
+      "time": "2026-10-04 04:30"
+    },
+    {
+      "id": 49944049,
+      "title": "Competitive Programmer's Handbook (2018) [pdf]",
+      "url": "https://cses.fi/book/book.pdf",
+      "score": 217,
+      "by": "vinhnx",
+      "comments": 54,
+      "time": "2026-10-03 13:24"
+    },
+    {
+      "id": 49975619,
+      "title": "Gleam doesn't compile to Erlang source anymore",
+      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+      "score": 16,
+      "by": "ingve",
+      "comments": 1,
+      "time": "2026-10-06 08:08"
+    },
+    {
+      "id": 49971782,
+      "title": "Global Solar Atlas: summary of solar power potential globally",
+      "url": "https://globalsolaratlas.info/",
+      "score": 61,
+      "by": "stratts",
+      "comments": 37,
+      "time": "2026-10-05 22:37"
+    },
+    {
+      "id": 49953344,
+      "title": "The complement of true is true, except when it's false",
+      "url": "https://dryperspective.github.io/posts/complement-of-true/",
+      "score": 22,
+      "by": "aw1621107",
+      "comments": 1,
+      "time": "2026-10-04 12:28"
+    },
+    {
+      "id": 49973598,
+      "title": "Why Common Lisp is now the best programming language",
+      "url": "https://www.vivienhenz.com/common-lisp",
+      "score": 203,
+      "by": "misterchocolat",
+      "comments": 243,
+      "time": "2026-10-06 02:51"
+    },
+    {
+      "id": 49943598,
+      "title": "Show HN: Entombed in a Raycaster",
+      "url": "https://www.stelabouras.com/blog/entombed-raycaster/",
+      "score": 26,
+      "by": "stelabouras",
+      "comments": 5,
+      "time": "2026-10-03 12:13"
+    },
+    {
+      "id": 49952464,
+      "title": "Using A.I. and machine learning to decode communication of sperm whales",
+      "url": "https://blue-continuum.com/the-man-who-listens-to-whales",
+      "score": 30,
+      "by": "dnetesn",
+      "comments": 19,
+      "time": "2026-10-04 10:15"
+    },
+    {
+      "id": 49965152,
+      "title": "The lamps in my house",
+      "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+      "score": 222,
+      "by": "farslan",
+      "comments": 97,
+      "time": "2026-10-05 14:12"
+    },
+    {
+      "id": 49950818,
+      "title": "Fog-Bank: Archiving the oldest webcam feed",
+      "url": "https://fog-bank.org/net",
+      "score": 14,
+      "by": "rdmuser",
+      "comments": 10,
+      "time": "2026-10-04 05:06"
+    },
+    {
+      "id": 49944196,
+      "title": "Show HN: Photoc \u2013 Command-line tools for photographers",
+      "url": "https://github.com/ahmetomerv/photoc",
+      "score": 41,
+      "by": "ahmetomer",
+      "comments": 5,
+      "time": "2026-10-03 13:42"
+    },
+    {
+      "id": 49972211,
+      "title": "Samon: Designing a Zen Garden Raking Puzzle",
+      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+      "score": 47,
+      "by": "networked",
+      "comments": 21,
+      "time": "2026-10-05 23:35"
+    },
+    {
+      "id": 49972008,
+      "title": "Ephemeral Testing",
+      "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
+      "score": 64,
+      "by": "ibobev",
+      "comments": 20,
+      "time": "2026-10-05 23:06"
+    },
+    {
+      "id": 49971846,
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "score": 456,
+      "by": "rdmuser",
+      "comments": 330,
+      "time": "2026-10-05 22:46"
+    },
+    {
+      "id": 49953195,
+      "title": "DEDA \u2013 Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
+      "url": "https://github.com/dfd-tud/deda",
+      "score": 66,
+      "by": "greyface-",
+      "comments": 7,
+      "time": "2026-10-04 12:09"
     },
     {
       "id": 49962857,
-      "title": "Apple and a Hacker's Future",
+      "title": "Apple and a hacker's future",
       "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-      "score": 30,
+      "score": 262,
       "by": "maguay",
-      "comments": 10,
+      "comments": 226,
       "time": "2026-10-05 10:05"
     },
     {
+      "id": 49976468,
+      "title": "ASOS app users receive push notifications apparently sent by hackers",
+      "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
+      "score": 7,
+      "by": "helsinkiandrew",
+      "comments": 0,
+      "time": "2026-10-06 10:15"
+    },
+    {
+      "id": 49965308,
+      "title": "Making a GTK application in Haskell, part 1",
+      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "score": 160,
+      "by": "Vosporos",
+      "comments": 45,
+      "time": "2026-10-05 14:23"
+    },
+    {
       "id": 49961861,
-      "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-      "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
-      "score": 73,
+      "title": "Qualcomm licenses patents on Huawei\u2019s LogicFolding chip tech",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+      "score": 194,
       "by": "0xedb",
-      "comments": 52,
+      "comments": 126,
       "time": "2026-10-05 07:46"
-    },
-    {
-      "id": 49953495,
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "url": "https://github.com/Niko1221/Strata",
-      "score": 820,
-      "by": "snehesht",
-      "comments": 363,
-      "time": "2026-10-04 12:51"
-    },
-    {
-      "id": 49963094,
-      "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
-      "url": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
-      "score": 6,
-      "by": "Anon84",
-      "comments": 4,
-      "time": "2026-10-05 10:35"
-    },
-    {
-      "id": 49957812,
-      "title": "In the wake of Tippett Studios\u2019 closure, a digital archive appears online",
-      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-      "score": 152,
-      "by": "rdmuser",
-      "comments": 17,
-      "time": "2026-10-04 21:01"
-    },
-    {
-      "id": 49948300,
-      "title": "We ported the original Doom to SQL",
-      "url": "https://cedardb.com/blog/sqldoom/",
-      "score": 142,
-      "by": "Vaslo",
-      "comments": 21,
-      "time": "2026-10-03 22:14"
-    },
-    {
-      "id": 49956681,
-      "title": "A browser-native classic Visual Basic VB6 IDE",
-      "url": "https://wieslawsoltes.github.io/VB6/",
-      "score": 262,
-      "by": "wiso",
-      "comments": 89,
-      "time": "2026-10-04 18:49"
-    },
-    {
-      "id": 49932236,
-      "title": "The Tao of Backup",
-      "url": "http://www.taobackup.com/index.html",
-      "score": 162,
-      "by": "vntok",
-      "comments": 55,
-      "time": "2026-10-02 11:19"
-    },
-    {
-      "id": 49943637,
-      "title": "Infidel goes wild",
-      "url": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
-      "score": 142,
-      "by": "tobr",
-      "comments": 25,
-      "time": "2026-10-03 12:19"
-    },
-    {
-      "id": 49920332,
-      "title": "Gods in the Classroom: Religion and Education in First Millennium BCE Babylonia",
-      "url": "https://www.cambridge.org/core/journals/iraq/article/gods-in-the-classroom-religion-and-education-in-1st-millennium-bce-babylonia/EB059EE81804DCBC1848CACBD6298E0B",
-      "score": 44,
-      "by": "pseudolus",
-      "comments": 19,
-      "time": "2026-10-01 11:31"
-    },
-    {
-      "id": 49957116,
-      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "url": "https://github.com/omlahore/RemoveMacAI",
-      "score": 603,
-      "by": "privacyisntdead",
-      "comments": 414,
-      "time": "2026-10-04 19:42"
-    },
-    {
-      "id": 49960901,
-      "title": "Replacement of petroleum based products with plant-based materials (2025)",
-      "url": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
-      "score": 72,
-      "by": "thelastgallon",
-      "comments": 37,
-      "time": "2026-10-05 05:09"
-    },
-    {
-      "id": 49949438,
-      "title": "Tell HN: Bob Cringely has died",
-      "url": "#",
-      "score": 883,
-      "by": "paveworld",
-      "comments": 190,
-      "time": "2026-10-04 00:50"
-    },
-    {
-      "id": 49920785,
-      "title": "First Implantable Cochlear Implant Launches",
-      "url": "https://spectrum.ieee.org/fully-implantable-cochlear-implant",
-      "score": 15,
-      "by": "rbanffy",
-      "comments": 10,
-      "time": "2026-10-01 12:31"
-    },
-    {
-      "id": 49923125,
-      "title": "Safe Optimistic Lock Coupling",
-      "url": "http://databasearchitects.blogspot.com/2026/04/safe-optimistic-lock-coupling.html",
-      "score": 23,
-      "by": "greghn",
-      "comments": 1,
-      "time": "2026-10-01 15:37"
-    },
-    {
-      "id": 49959869,
-      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-      "score": 221,
-      "by": "llm_nerd",
-      "comments": 190,
-      "time": "2026-10-05 01:54"
-    },
-    {
-      "id": 49940044,
-      "title": "Demystifying Tufte's data-ink ratio",
-      "url": "https://tuftesrazor.scienceux.org/",
-      "score": 53,
-      "by": "s4074433",
-      "comments": 23,
-      "time": "2026-10-02 23:55"
-    },
-    {
-      "id": 49946148,
-      "title": "Automating my 35mm film scanning pipeline",
-      "url": "https://shannadige.com/blog/darkroom/",
-      "score": 81,
-      "by": "shannadige",
-      "comments": 58,
-      "time": "2026-10-03 17:35"
-    },
-    {
-      "id": 49957068,
-      "title": "Improper redaction reveals Google Data Center water and electricity usage",
-      "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-      "score": 403,
-      "by": "sensanaty",
-      "comments": 535,
-      "time": "2026-10-04 19:37"
-    },
-    {
-      "id": 49930872,
-      "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
-      "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
-      "score": 17,
-      "by": "giuliomagnifico",
-      "comments": 6,
-      "time": "2026-10-02 07:40"
-    },
-    {
-      "id": 49933476,
-      "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-      "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
-      "score": 76,
-      "by": "tomncooper",
-      "comments": 24,
-      "time": "2026-10-02 13:47"
-    },
-    {
-      "id": 49917536,
-      "title": "What is going on with ceiling fans",
-      "url": "https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans",
-      "score": 321,
-      "by": "colinprince",
-      "comments": 277,
-      "time": "2026-10-01 03:52"
-    },
-    {
-      "id": 49947565,
-      "title": "'Neanderthals Among Us' review",
-      "url": "https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review",
-      "score": 77,
-      "by": "pepys",
-      "comments": 78,
-      "time": "2026-10-03 20:41"
-    },
-    {
-      "id": 49930439,
-      "title": "Show HN: Glash\u00fctte Trash Clock \u2013 A 30-minute pendulum clock made from trash",
-      "url": "https://niklasroy.com/gtc/",
-      "score": 203,
-      "by": "r0r0",
-      "comments": 30,
-      "time": "2026-10-02 06:33"
-    },
-    {
-      "id": 49908055,
-      "title": "Lace and Labor: Lessons from the actual Luddites",
-      "url": "https://articlesofinterest.substack.com/p/lace-and-labor",
-      "score": 24,
-      "by": "surprisetalk",
-      "comments": 1,
-      "time": "2026-09-30 12:40"
-    },
-    {
-      "id": 49943685,
-      "title": "Watson Jr. memo about CDC 6600 (1963)",
-      "url": "https://www.computerhistory.org/revolution/supercomputers/10/33/62",
-      "score": 45,
-      "by": "mooreds",
-      "comments": 24,
-      "time": "2026-10-03 12:27"
-    },
-    {
-      "id": 49953288,
-      "title": "Bill Draper has died",
-      "url": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
-      "score": 123,
-      "by": "bookofjoe",
-      "comments": 38,
-      "time": "2026-10-04 12:21"
-    },
-    {
-      "id": 49958569,
-      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-      "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
-      "score": 151,
-      "by": "renehsz",
-      "comments": 33,
-      "time": "2026-10-04 22:25"
-    },
-    {
-      "id": 49951891,
-      "title": "How to scale intent, quality, and artistry with AI [video]",
-      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-      "score": 86,
-      "by": "simonjgreen",
-      "comments": 34,
-      "time": "2026-10-04 08:41"
     }
   ]
 }
