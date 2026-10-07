@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-10-06T11:06:35.389990",
+  "fetched_at": "2026-10-07T10:55:37.547194",
   "count": 30,
   "stories": [
     {
-      "id": 49976265,
-      "title": "Nobel Prize in Physics goes to Francis Halzen",
-      "url": "https://www.nobelprize.org/prizes/physics/2026/",
-      "score": 96,
-      "by": "solarist",
-      "comments": 16,
-      "time": "2026-10-06 09:48"
-    },
-    {
-      "id": 49969183,
-      "title": "Beam: Reflection's 501B open-weight model",
-      "url": "https://reflection.ai/blog/introducing-beam",
-      "score": 469,
-      "by": "Philpax",
-      "comments": 148,
-      "time": "2026-10-05 19:16"
-    },
-    {
-      "id": 49971230,
-      "title": "Find the flattest route between any two points in SF",
-      "url": "https://flattensf.com/",
-      "score": 216,
-      "by": "ishan0102",
-      "comments": 77,
-      "time": "2026-10-05 21:40"
-    },
-    {
-      "id": 49951155,
-      "title": "Accountability mechanisms can be joyful (2024)",
-      "url": "https://liquidbrain.net/blog/accountability-and-joy/",
-      "score": 45,
-      "by": "luu",
-      "comments": 10,
-      "time": "2026-10-04 06:15"
-    },
-    {
-      "id": 49971719,
-      "title": "Friendship ended with Deno, now Node is my best friend",
-      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
-      "score": 184,
-      "by": "ibobev",
-      "comments": 109,
-      "time": "2026-10-05 22:30"
-    },
-    {
-      "id": 49970871,
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "url": "https://qlabs.sh/research/dust",
-      "score": 208,
-      "by": "E-Reverance",
-      "comments": 51,
-      "time": "2026-10-05 21:15"
-    },
-    {
-      "id": 49970667,
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "score": 367,
-      "by": "outlier99",
-      "comments": 245,
-      "time": "2026-10-05 21:00"
-    },
-    {
-      "id": 49963171,
-      "title": "Web Search API",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-      "score": 556,
-      "by": "tosh",
-      "comments": 249,
-      "time": "2026-10-05 10:47"
-    },
-    {
-      "id": 49973878,
-      "title": "Resurrecting iChat Audio and Video Conferencing",
-      "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
-      "score": 56,
-      "by": "thepipetogrep",
-      "comments": 13,
-      "time": "2026-10-06 03:39"
-    },
-    {
-      "id": 49971921,
-      "title": "Example.com just launched the biggest redesign in decades",
-      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-      "score": 234,
-      "by": "jgx0",
-      "comments": 154,
-      "time": "2026-10-05 22:55"
-    },
-    {
-      "id": 49945588,
-      "title": "An algorithmic failure beneath the secret ballot",
-      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
-      "score": 86,
-      "by": "leecoursey",
-      "comments": 61,
-      "time": "2026-10-03 16:23"
-    },
-    {
-      "id": 49950653,
-      "title": "Testing 12 different Zigbee temperature/humidity sensors",
-      "url": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
-      "score": 123,
-      "by": "walrus01",
-      "comments": 65,
-      "time": "2026-10-04 04:30"
-    },
-    {
-      "id": 49944049,
-      "title": "Competitive Programmer's Handbook (2018) [pdf]",
-      "url": "https://cses.fi/book/book.pdf",
-      "score": 217,
-      "by": "vinhnx",
-      "comments": 54,
-      "time": "2026-10-03 13:24"
-    },
-    {
-      "id": 49975619,
-      "title": "Gleam doesn't compile to Erlang source anymore",
-      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-      "score": 16,
-      "by": "ingve",
-      "comments": 1,
-      "time": "2026-10-06 08:08"
-    },
-    {
-      "id": 49971782,
-      "title": "Global Solar Atlas: summary of solar power potential globally",
-      "url": "https://globalsolaratlas.info/",
-      "score": 61,
-      "by": "stratts",
-      "comments": 37,
-      "time": "2026-10-05 22:37"
-    },
-    {
-      "id": 49953344,
-      "title": "The complement of true is true, except when it's false",
-      "url": "https://dryperspective.github.io/posts/complement-of-true/",
-      "score": 22,
-      "by": "aw1621107",
-      "comments": 1,
-      "time": "2026-10-04 12:28"
-    },
-    {
-      "id": 49973598,
-      "title": "Why Common Lisp is now the best programming language",
-      "url": "https://www.vivienhenz.com/common-lisp",
-      "score": 203,
-      "by": "misterchocolat",
-      "comments": 243,
-      "time": "2026-10-06 02:51"
-    },
-    {
-      "id": 49943598,
-      "title": "Show HN: Entombed in a Raycaster",
-      "url": "https://www.stelabouras.com/blog/entombed-raycaster/",
-      "score": 26,
-      "by": "stelabouras",
-      "comments": 5,
-      "time": "2026-10-03 12:13"
-    },
-    {
-      "id": 49952464,
-      "title": "Using A.I. and machine learning to decode communication of sperm whales",
-      "url": "https://blue-continuum.com/the-man-who-listens-to-whales",
-      "score": 30,
-      "by": "dnetesn",
-      "comments": 19,
-      "time": "2026-10-04 10:15"
-    },
-    {
-      "id": 49965152,
-      "title": "The lamps in my house",
-      "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
-      "score": 222,
-      "by": "farslan",
-      "comments": 97,
-      "time": "2026-10-05 14:12"
-    },
-    {
-      "id": 49950818,
-      "title": "Fog-Bank: Archiving the oldest webcam feed",
-      "url": "https://fog-bank.org/net",
-      "score": 14,
-      "by": "rdmuser",
-      "comments": 10,
-      "time": "2026-10-04 05:06"
-    },
-    {
-      "id": 49944196,
-      "title": "Show HN: Photoc \u2013 Command-line tools for photographers",
-      "url": "https://github.com/ahmetomerv/photoc",
-      "score": 41,
-      "by": "ahmetomer",
-      "comments": 5,
-      "time": "2026-10-03 13:42"
-    },
-    {
-      "id": 49972211,
-      "title": "Samon: Designing a Zen Garden Raking Puzzle",
-      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
-      "score": 47,
-      "by": "networked",
-      "comments": 21,
-      "time": "2026-10-05 23:35"
-    },
-    {
-      "id": 49972008,
-      "title": "Ephemeral Testing",
-      "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
-      "score": 64,
-      "by": "ibobev",
-      "comments": 20,
-      "time": "2026-10-05 23:06"
-    },
-    {
-      "id": 49971846,
-      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-      "score": 456,
-      "by": "rdmuser",
-      "comments": 330,
-      "time": "2026-10-05 22:46"
-    },
-    {
-      "id": 49953195,
-      "title": "DEDA \u2013 Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
-      "url": "https://github.com/dfd-tud/deda",
-      "score": 66,
-      "by": "greyface-",
+      "id": 49990224,
+      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "url": "https://github.com/szabadkai/c64-keyboard-font/",
+      "score": 57,
+      "by": "sohkamyung",
       "comments": 7,
-      "time": "2026-10-04 12:09"
+      "time": "2026-10-07 09:17"
     },
     {
-      "id": 49962857,
-      "title": "Apple and a hacker's future",
-      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-      "score": 262,
-      "by": "maguay",
-      "comments": 226,
-      "time": "2026-10-05 10:05"
+      "id": 49990470,
+      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+      "score": 32,
+      "by": "sasvari",
+      "comments": 2,
+      "time": "2026-10-07 09:51"
     },
     {
-      "id": 49976468,
-      "title": "ASOS app users receive push notifications apparently sent by hackers",
-      "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
-      "score": 7,
-      "by": "helsinkiandrew",
-      "comments": 0,
-      "time": "2026-10-06 10:15"
+      "id": 49984923,
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "score": 949,
+      "by": "OfficialTurkey",
+      "comments": 889,
+      "time": "2026-10-06 22:17"
     },
     {
-      "id": 49965308,
-      "title": "Making a GTK application in Haskell, part 1",
-      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
-      "score": 160,
-      "by": "Vosporos",
+      "id": 49987076,
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "score": 186,
+      "by": "gmays",
+      "comments": 46,
+      "time": "2026-10-07 02:02"
+    },
+    {
+      "id": 49984025,
+      "title": "Decisions API is in public beta",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "score": 309,
+      "by": "chiefstorm",
+      "comments": 152,
+      "time": "2026-10-06 20:57"
+    },
+    {
+      "id": 49977979,
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "score": 1834,
+      "by": "Philpax",
+      "comments": 1101,
+      "time": "2026-10-06 13:15"
+    },
+    {
+      "id": 49980487,
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "score": 337,
+      "by": "ilreb",
+      "comments": 35,
+      "time": "2026-10-06 16:03"
+    },
+    {
+      "id": 49986862,
+      "title": "ESP32-C3 Adblock",
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "score": 106,
+      "by": "jayhoon",
+      "comments": 40,
+      "time": "2026-10-07 01:39"
+    },
+    {
+      "id": 49988709,
+      "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+      "url": "https://github.com/shader-effects-inc/shaders",
+      "score": 33,
+      "by": "jinqueeny",
+      "comments": 16,
+      "time": "2026-10-07 05:38"
+    },
+    {
+      "id": 49978333,
+      "title": "What is Codemode",
+      "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
+      "score": 92,
+      "by": "Tomte",
+      "comments": 43,
+      "time": "2026-10-06 13:41"
+    },
+    {
+      "id": 49956219,
+      "title": "Gallery of Processor Cache Effects",
+      "url": "https://igoro.com/archive/gallery-of-processor-cache-effects/",
+      "score": 20,
+      "by": "porridgeraisin",
+      "comments": 2,
+      "time": "2026-10-04 17:58"
+    },
+    {
+      "id": 49957044,
+      "title": "Show HN: Arcadeia \u2013 A self-hosted media library with animated video previews",
+      "url": "https://github.com/travelonium/arcadeia",
+      "score": 6,
+      "by": "omidontop",
+      "comments": 5,
+      "time": "2026-10-04 19:33"
+    },
+    {
+      "id": 49950865,
+      "title": "The cost of lies: A Mineserver story",
+      "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
+      "score": 118,
+      "by": "luu",
+      "comments": 52,
+      "time": "2026-10-04 05:17"
+    },
+    {
+      "id": 49982498,
+      "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+      "url": "#",
+      "score": 268,
+      "by": "IvanK_net",
+      "comments": 149,
+      "time": "2026-10-06 18:54"
+    },
+    {
+      "id": 49953939,
+      "title": "The Legend of the Paper Crane",
+      "url": "https://mazdastories.com/en_us/inspire/paper-cranes-into-the-fold/",
+      "score": 18,
+      "by": "vismit2000",
+      "comments": 5,
+      "time": "2026-10-04 13:49"
+    },
+    {
+      "id": 49981905,
+      "title": "Claude Code\u2019s suggested message feature: I think the real customer is the model",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "score": 208,
+      "by": "zed_labs_dev",
+      "comments": 121,
+      "time": "2026-10-06 18:00"
+    },
+    {
+      "id": 49987675,
+      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
+      "url": "https://nanochess.org/la_cueva_bbs.html",
+      "score": 54,
+      "by": "nanochess",
+      "comments": 15,
+      "time": "2026-10-07 03:16"
+    },
+    {
+      "id": 49987858,
+      "title": "The art of defusing a second world war bomb",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
+      "score": 74,
+      "by": "sandebert",
       "comments": 45,
-      "time": "2026-10-05 14:23"
+      "time": "2026-10-07 03:43"
     },
     {
-      "id": 49961861,
-      "title": "Qualcomm licenses patents on Huawei\u2019s LogicFolding chip tech",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
-      "score": 194,
-      "by": "0xedb",
-      "comments": 126,
-      "time": "2026-10-05 07:46"
+      "id": 49984716,
+      "title": "Penguin Mail \u2013 open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
+      "score": 189,
+      "by": "kavourias",
+      "comments": 127,
+      "time": "2026-10-06 21:59"
+    },
+    {
+      "id": 49980715,
+      "title": "OpenTPU \u2013 An open-source AI accelerator, developed by AI",
+      "url": "https://github.com/FeSens/openTPU",
+      "score": 292,
+      "by": "fsbonetto",
+      "comments": 343,
+      "time": "2026-10-06 16:23"
+    },
+    {
+      "id": 49977531,
+      "title": "What's Earth's dominant species by mass?",
+      "url": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
+      "score": 254,
+      "by": "surprisetalk",
+      "comments": 192,
+      "time": "2026-10-06 12:40"
+    },
+    {
+      "id": 49980790,
+      "title": "Treg (OpenRouter for Tools)",
+      "url": "https://github.com/superdesigndev/treg",
+      "score": 34,
+      "by": "trollied",
+      "comments": 6,
+      "time": "2026-10-06 16:29"
+    },
+    {
+      "id": 49985664,
+      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "score": 277,
+      "by": "Fe2O3",
+      "comments": 231,
+      "time": "2026-10-06 23:28"
+    },
+    {
+      "id": 49985643,
+      "title": "State of Devs 2026",
+      "url": "https://2026.stateofdevs.com/en-US/",
+      "score": 178,
+      "by": "sgdesign",
+      "comments": 91,
+      "time": "2026-10-06 23:26"
+    },
+    {
+      "id": 49987765,
+      "title": "Show HN: NanoMuse \u2013 An open-source AI agent for your phone and computer",
+      "url": "https://github.com/nano-muse/nanoMuse",
+      "score": 21,
+      "by": "ilreb",
+      "comments": 4,
+      "time": "2026-10-07 03:30"
+    },
+    {
+      "id": 49983404,
+      "title": "When random is not actually random enough",
+      "url": "https://ersc.io/blog/when-random-isnt-random-enough",
+      "score": 66,
+      "by": "steveklabnik",
+      "comments": 32,
+      "time": "2026-10-06 20:12"
+    },
+    {
+      "id": 49988230,
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "score": 80,
+      "by": "colinprince",
+      "comments": 27,
+      "time": "2026-10-07 04:37"
+    },
+    {
+      "id": 49981186,
+      "title": "California closed the Montana license plate loophole",
+      "url": "https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole",
+      "score": 116,
+      "by": "speckx",
+      "comments": 290,
+      "time": "2026-10-06 17:00"
+    },
+    {
+      "id": 49967427,
+      "title": "Benchmark in Milliseconds",
+      "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
+      "score": 143,
+      "by": "surprisetalk",
+      "comments": 47,
+      "time": "2026-10-05 17:00"
+    },
+    {
+      "id": 49988550,
+      "title": "Sharded, encrypted storage between friends over Yggdrasil",
+      "url": "https://github.com/peterretief/yggstore",
+      "score": 13,
+      "by": "peter_retief",
+      "comments": 3,
+      "time": "2026-10-07 05:20"
     }
   ]
 }
