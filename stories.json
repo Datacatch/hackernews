@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-10-07T10:55:37.547194",
+  "fetched_at": "2026-10-08T11:13:01.537145",
   "count": 30,
   "stories": [
     {
-      "id": 49990224,
-      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
-      "url": "https://github.com/szabadkai/c64-keyboard-font/",
-      "score": 57,
-      "by": "sohkamyung",
-      "comments": 7,
-      "time": "2026-10-07 09:17"
+      "id": 50002008,
+      "title": "\u201cMath 2.0\u201d will need to value mathematical progress more holistically",
+      "url": "https://mathstodon.xyz/@tao/117395269325940185",
+      "score": 333,
+      "by": "ent101",
+      "comments": 312,
+      "time": "2026-10-08 05:14"
     },
     {
-      "id": 49990470,
-      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
-      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
-      "score": 32,
-      "by": "sasvari",
+      "id": 50004284,
+      "title": "Open-Source Rust Alternatives to Adobe Apps",
+      "url": "https://getartcraft.com/",
+      "score": 13,
+      "by": "SweetSoftPillow",
       "comments": 2,
-      "time": "2026-10-07 09:51"
+      "time": "2026-10-08 10:55"
+    },
+    {
+      "id": 49996437,
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "score": 903,
+      "by": "sfkgtbor",
+      "comments": 432,
+      "time": "2026-10-07 18:01"
+    },
+    {
+      "id": 49959280,
+      "title": "The 15-year search for a band that charted once and vanished",
+      "url": "https://shahidhussain.com/writing/search-for-salvage/",
+      "score": 140,
+      "by": "shahidhussain",
+      "comments": 58,
+      "time": "2026-10-05 00:06"
+    },
+    {
+      "id": 49970767,
+      "title": "Living off-grid: Hundred Rabbits",
+      "url": "https://100r.ca/site/home.html",
+      "score": 239,
+      "by": "Muhammad523",
+      "comments": 77,
+      "time": "2026-10-05 21:08"
+    },
+    {
+      "id": 49998895,
+      "title": "Margaret Hamilton has died",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "score": 1616,
+      "by": "muglug",
+      "comments": 176,
+      "time": "2026-10-07 21:16"
+    },
+    {
+      "id": 49996425,
+      "title": "GPT\u20116 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "score": 655,
+      "by": "joshuawright11",
+      "comments": 360,
+      "time": "2026-10-07 18:00"
+    },
+    {
+      "id": 50002426,
+      "title": "Classic PC demoscene productions running natively in the browser",
+      "url": "https://treylorswift.github.io/demoscene-recomp/web/",
+      "score": 85,
+      "by": "adunk",
+      "comments": 62,
+      "time": "2026-10-08 06:29"
+    },
+    {
+      "id": 49969073,
+      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
+      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+      "score": 190,
+      "by": "pavel_lishin",
+      "comments": 66,
+      "time": "2026-10-05 19:07"
+    },
+    {
+      "id": 49998066,
+      "title": "'Jonathan' is the oldest land animal on Earth",
+      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+      "score": 171,
+      "by": "gumby",
+      "comments": 88,
+      "time": "2026-10-07 20:01"
+    },
+    {
+      "id": 49997718,
+      "title": "The Mathocalypse",
+      "url": "https://scottaaronson.blog/?p=10169",
+      "score": 258,
+      "by": "6bitquant",
+      "comments": 285,
+      "time": "2026-10-07 19:33"
+    },
+    {
+      "id": 49994443,
+      "title": "Show HN: Bigwords.page \u2013 Turn any screen into a sign. The URL is the app",
+      "url": "https://bigwords.page/",
+      "score": 525,
+      "by": "SpeakingOfBrad",
+      "comments": 142,
+      "time": "2026-10-07 15:44"
+    },
+    {
+      "id": 49982445,
+      "title": "Cleo (Mathematician)",
+      "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
+      "score": 165,
+      "by": "djoldman",
+      "comments": 35,
+      "time": "2026-10-06 18:49"
+    },
+    {
+      "id": 49996406,
+      "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
+      "url": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
+      "score": 113,
+      "by": "gumby",
+      "comments": 31,
+      "time": "2026-10-07 17:59"
+    },
+    {
+      "id": 49983765,
+      "title": "Bloody Cavemen",
+      "url": "https://www.lrb.co.uk/the-paper/v48/n18/edmund-gordon/bloody-cavemen",
+      "score": 13,
+      "by": "Thevet",
+      "comments": 0,
+      "time": "2026-10-06 20:39"
+    },
+    {
+      "id": 50002505,
+      "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
+      "url": "https://dat-ecosystem.org/",
+      "score": 17,
+      "by": "janandonly",
+      "comments": 10,
+      "time": "2026-10-08 06:43"
+    },
+    {
+      "id": 49996259,
+      "title": "Docker Agent",
+      "url": "https://github.com/docker/docker-agent",
+      "score": 247,
+      "by": "saikatsg",
+      "comments": 114,
+      "time": "2026-10-07 17:48"
     },
     {
       "id": 49984923,
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "score": 949,
+      "score": 1285,
       "by": "OfficialTurkey",
-      "comments": 889,
+      "comments": 1457,
       "time": "2026-10-06 22:17"
     },
     {
-      "id": 49987076,
-      "title": "Strands Decider 2B: a small, open-source, decision model",
-      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-      "score": 186,
-      "by": "gmays",
-      "comments": 46,
-      "time": "2026-10-07 02:02"
+      "id": 49966866,
+      "title": "Analog Computer Simulator in the Browser",
+      "url": "https://pavel-krivanek.github.io/The-Analog-Thing-Simulator/public/",
+      "score": 27,
+      "by": "adamnemecek",
+      "comments": 10,
+      "time": "2026-10-05 16:19"
     },
     {
-      "id": 49984025,
-      "title": "Decisions API is in public beta",
-      "url": "https://developers.openai.com/api/docs/guides/decisions",
-      "score": 309,
-      "by": "chiefstorm",
-      "comments": 152,
-      "time": "2026-10-06 20:57"
-    },
-    {
-      "id": 49977979,
-      "title": "Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "score": 1834,
-      "by": "Philpax",
-      "comments": 1101,
-      "time": "2026-10-06 13:15"
-    },
-    {
-      "id": 49980487,
-      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "score": 337,
-      "by": "ilreb",
-      "comments": 35,
-      "time": "2026-10-06 16:03"
-    },
-    {
-      "id": 49986862,
-      "title": "ESP32-C3 Adblock",
-      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
-      "score": 106,
-      "by": "jayhoon",
-      "comments": 40,
-      "time": "2026-10-07 01:39"
-    },
-    {
-      "id": 49988709,
-      "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
-      "url": "https://github.com/shader-effects-inc/shaders",
-      "score": 33,
-      "by": "jinqueeny",
-      "comments": 16,
-      "time": "2026-10-07 05:38"
-    },
-    {
-      "id": 49978333,
-      "title": "What is Codemode",
-      "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
-      "score": 92,
-      "by": "Tomte",
-      "comments": 43,
-      "time": "2026-10-06 13:41"
-    },
-    {
-      "id": 49956219,
-      "title": "Gallery of Processor Cache Effects",
-      "url": "https://igoro.com/archive/gallery-of-processor-cache-effects/",
-      "score": 20,
-      "by": "porridgeraisin",
-      "comments": 2,
-      "time": "2026-10-04 17:58"
-    },
-    {
-      "id": 49957044,
-      "title": "Show HN: Arcadeia \u2013 A self-hosted media library with animated video previews",
-      "url": "https://github.com/travelonium/arcadeia",
-      "score": 6,
-      "by": "omidontop",
-      "comments": 5,
-      "time": "2026-10-04 19:33"
-    },
-    {
-      "id": 49950865,
-      "title": "The cost of lies: A Mineserver story",
-      "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
-      "score": 118,
-      "by": "luu",
-      "comments": 52,
-      "time": "2026-10-04 05:17"
-    },
-    {
-      "id": 49982498,
-      "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
-      "url": "#",
-      "score": 268,
-      "by": "IvanK_net",
-      "comments": 149,
-      "time": "2026-10-06 18:54"
-    },
-    {
-      "id": 49953939,
-      "title": "The Legend of the Paper Crane",
-      "url": "https://mazdastories.com/en_us/inspire/paper-cranes-into-the-fold/",
-      "score": 18,
-      "by": "vismit2000",
-      "comments": 5,
-      "time": "2026-10-04 13:49"
-    },
-    {
-      "id": 49981905,
-      "title": "Claude Code\u2019s suggested message feature: I think the real customer is the model",
-      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-      "score": 208,
-      "by": "zed_labs_dev",
-      "comments": 121,
-      "time": "2026-10-06 18:00"
-    },
-    {
-      "id": 49987675,
-      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
-      "url": "https://nanochess.org/la_cueva_bbs.html",
-      "score": 54,
-      "by": "nanochess",
-      "comments": 15,
-      "time": "2026-10-07 03:16"
-    },
-    {
-      "id": 49987858,
-      "title": "The art of defusing a second world war bomb",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
-      "score": 74,
-      "by": "sandebert",
-      "comments": 45,
-      "time": "2026-10-07 03:43"
-    },
-    {
-      "id": 49984716,
-      "title": "Penguin Mail \u2013 open-source Rust email client for Linux with AI",
-      "url": "https://penguin-mail.com/",
-      "score": 189,
-      "by": "kavourias",
-      "comments": 127,
-      "time": "2026-10-06 21:59"
-    },
-    {
-      "id": 49980715,
-      "title": "OpenTPU \u2013 An open-source AI accelerator, developed by AI",
-      "url": "https://github.com/FeSens/openTPU",
-      "score": 292,
-      "by": "fsbonetto",
-      "comments": 343,
-      "time": "2026-10-06 16:23"
-    },
-    {
-      "id": 49977531,
-      "title": "What's Earth's dominant species by mass?",
-      "url": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
-      "score": 254,
-      "by": "surprisetalk",
-      "comments": 192,
-      "time": "2026-10-06 12:40"
-    },
-    {
-      "id": 49980790,
-      "title": "Treg (OpenRouter for Tools)",
-      "url": "https://github.com/superdesigndev/treg",
-      "score": 34,
-      "by": "trollied",
-      "comments": 6,
-      "time": "2026-10-06 16:29"
-    },
-    {
-      "id": 49985664,
-      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "score": 277,
-      "by": "Fe2O3",
-      "comments": 231,
-      "time": "2026-10-06 23:28"
-    },
-    {
-      "id": 49985643,
-      "title": "State of Devs 2026",
-      "url": "https://2026.stateofdevs.com/en-US/",
-      "score": 178,
-      "by": "sgdesign",
-      "comments": 91,
-      "time": "2026-10-06 23:26"
-    },
-    {
-      "id": 49987765,
-      "title": "Show HN: NanoMuse \u2013 An open-source AI agent for your phone and computer",
-      "url": "https://github.com/nano-muse/nanoMuse",
-      "score": 21,
-      "by": "ilreb",
-      "comments": 4,
-      "time": "2026-10-07 03:30"
-    },
-    {
-      "id": 49983404,
-      "title": "When random is not actually random enough",
-      "url": "https://ersc.io/blog/when-random-isnt-random-enough",
-      "score": 66,
-      "by": "steveklabnik",
-      "comments": 32,
-      "time": "2026-10-06 20:12"
-    },
-    {
-      "id": 49988230,
-      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-      "score": 80,
-      "by": "colinprince",
-      "comments": 27,
-      "time": "2026-10-07 04:37"
-    },
-    {
-      "id": 49981186,
-      "title": "California closed the Montana license plate loophole",
-      "url": "https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole",
-      "score": 116,
+      "id": 49997073,
+      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+      "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+      "score": 155,
       "by": "speckx",
-      "comments": 290,
-      "time": "2026-10-06 17:00"
+      "comments": 71,
+      "time": "2026-10-07 18:43"
     },
     {
-      "id": 49967427,
-      "title": "Benchmark in Milliseconds",
-      "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
-      "score": 143,
+      "id": 49975158,
+      "title": "New repository settings for configuring pull request access",
+      "url": "https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/",
+      "score": 19,
+      "by": "Bluestein",
+      "comments": 11,
+      "time": "2026-10-06 07:01"
+    },
+    {
+      "id": 49993857,
+      "title": "Animated ASCII Art for Web Pages",
+      "url": "https://ascii.rest/",
+      "score": 369,
+      "by": "turrini",
+      "comments": 65,
+      "time": "2026-10-07 15:05"
+    },
+    {
+      "id": 49993908,
+      "title": "Why were Victorian elites so effective?",
+      "url": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/",
+      "score": 177,
+      "by": "karakoram",
+      "comments": 286,
+      "time": "2026-10-07 15:09"
+    },
+    {
+      "id": 49992125,
+      "title": "House with 15m underground tunnels for sale for 300k",
+      "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
+      "score": 212,
+      "by": "librasteve",
+      "comments": 199,
+      "time": "2026-10-07 12:57"
+    },
+    {
+      "id": 49980626,
+      "title": "How machines learned precision",
+      "url": "https://glinscott.github.io/how-machines-learned-precision/",
+      "score": 176,
+      "by": "glinscott",
+      "comments": 63,
+      "time": "2026-10-06 16:14"
+    },
+    {
+      "id": 49977351,
+      "title": "A minimal kernel in Swift, running in QEMU",
+      "url": "https://carette.xyz/posts/minimal_swift_kernel_on_qemu/",
+      "score": 87,
       "by": "surprisetalk",
-      "comments": 47,
-      "time": "2026-10-05 17:00"
+      "comments": 15,
+      "time": "2026-10-06 12:20"
     },
     {
-      "id": 49988550,
-      "title": "Sharded, encrypted storage between friends over Yggdrasil",
-      "url": "https://github.com/peterretief/yggstore",
-      "score": 13,
-      "by": "peter_retief",
-      "comments": 3,
-      "time": "2026-10-07 05:20"
+      "id": 50000676,
+      "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+      "url": "https://github.com/pingdotgg/ts-rust",
+      "score": 70,
+      "by": "jcbhmr",
+      "comments": 111,
+      "time": "2026-10-08 00:46"
+    },
+    {
+      "id": 49994145,
+      "title": "Navier\u2013Stokes Lost in Translation",
+      "url": "https://arxiv.org/abs/2610.08144",
+      "score": 313,
+      "by": "nill0",
+      "comments": 188,
+      "time": "2026-10-07 15:24"
+    },
+    {
+      "id": 49992257,
+      "title": "Anti-patterns in software blogging",
+      "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+      "score": 286,
+      "by": "ilreb",
+      "comments": 140,
+      "time": "2026-10-07 13:08"
+    },
+    {
+      "id": 49991823,
+      "title": "Google Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "score": 149,
+      "by": "acossta",
+      "comments": 221,
+      "time": "2026-10-07 12:28"
     }
   ]
 }
