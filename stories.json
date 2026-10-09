@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-10-08T11:13:01.537145",
+  "fetched_at": "2026-10-09T11:11:48.700602",
   "count": 30,
   "stories": [
     {
-      "id": 50002008,
-      "title": "\u201cMath 2.0\u201d will need to value mathematical progress more holistically",
-      "url": "https://mathstodon.xyz/@tao/117395269325940185",
-      "score": 333,
-      "by": "ent101",
-      "comments": 312,
-      "time": "2026-10-08 05:14"
+      "id": 50018420,
+      "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
+      "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+      "score": 61,
+      "by": "Anon84",
+      "comments": 24,
+      "time": "2026-10-09 10:12"
     },
     {
-      "id": 50004284,
-      "title": "Open-Source Rust Alternatives to Adobe Apps",
-      "url": "https://getartcraft.com/",
-      "score": 13,
-      "by": "SweetSoftPillow",
-      "comments": 2,
-      "time": "2026-10-08 10:55"
+      "id": 50000488,
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "score": 806,
+      "by": "jonotime",
+      "comments": 712,
+      "time": "2026-10-08 00:14"
     },
     {
-      "id": 49996437,
-      "title": "Claude Haiku 5.5",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "score": 903,
-      "by": "sfkgtbor",
-      "comments": 432,
-      "time": "2026-10-07 18:01"
+      "id": 50008427,
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "url": "https://cactuscompute.com/blog/whistle",
+      "score": 789,
+      "by": "gmays",
+      "comments": 159,
+      "time": "2026-10-08 16:59"
     },
     {
-      "id": 49959280,
-      "title": "The 15-year search for a band that charted once and vanished",
-      "url": "https://shahidhussain.com/writing/search-for-salvage/",
-      "score": 140,
-      "by": "shahidhussain",
-      "comments": 58,
-      "time": "2026-10-05 00:06"
+      "id": 50016489,
+      "title": "MXC - a sandboxed code execution system",
+      "url": "https://github.com/microsoft/mxc",
+      "score": 52,
+      "by": "nreece",
+      "comments": 17,
+      "time": "2026-10-09 05:51"
     },
     {
-      "id": 49970767,
-      "title": "Living off-grid: Hundred Rabbits",
-      "url": "https://100r.ca/site/home.html",
-      "score": 239,
-      "by": "Muhammad523",
-      "comments": 77,
-      "time": "2026-10-05 21:08"
+      "id": 49995495,
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+      "score": 728,
+      "by": "ck2",
+      "comments": 449,
+      "time": "2026-10-07 16:56"
     },
     {
-      "id": 49998895,
-      "title": "Margaret Hamilton has died",
-      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-      "score": 1616,
-      "by": "muglug",
-      "comments": 176,
-      "time": "2026-10-07 21:16"
+      "id": 50015515,
+      "title": "Keyboard differences between Windows and Macs",
+      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "score": 168,
+      "by": "sohkamyung",
+      "comments": 148,
+      "time": "2026-10-09 03:08"
     },
     {
-      "id": 49996425,
-      "title": "GPT\u20116 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone/",
-      "score": 655,
-      "by": "joshuawright11",
-      "comments": 360,
-      "time": "2026-10-07 18:00"
+      "id": 49986882,
+      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+      "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+      "score": 677,
+      "by": "soheilpro",
+      "comments": 133,
+      "time": "2026-10-07 01:41"
     },
     {
-      "id": 50002426,
-      "title": "Classic PC demoscene productions running natively in the browser",
-      "url": "https://treylorswift.github.io/demoscene-recomp/web/",
-      "score": 85,
-      "by": "adunk",
-      "comments": 62,
-      "time": "2026-10-08 06:29"
+      "id": 50003796,
+      "title": "Yes, and",
+      "url": "https://htmx.org/essays/yes-and/",
+      "score": 470,
+      "by": "Michelangelo11",
+      "comments": 156,
+      "time": "2026-10-08 09:48"
     },
     {
-      "id": 49969073,
-      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
-      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
-      "score": 190,
-      "by": "pavel_lishin",
-      "comments": 66,
-      "time": "2026-10-05 19:07"
+      "id": 50009295,
+      "title": "Theranos.world",
+      "url": "https://www.theranos.world/",
+      "score": 463,
+      "by": "kbyatnal",
+      "comments": 159,
+      "time": "2026-10-08 17:51"
     },
     {
-      "id": 49998066,
-      "title": "'Jonathan' is the oldest land animal on Earth",
-      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
-      "score": 171,
-      "by": "gumby",
-      "comments": 88,
-      "time": "2026-10-07 20:01"
+      "id": 50010470,
+      "title": "The value of not getting to the point (2015)",
+      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+      "score": 174,
+      "by": "NaOH",
+      "comments": 61,
+      "time": "2026-10-08 19:04"
     },
     {
-      "id": 49997718,
-      "title": "The Mathocalypse",
-      "url": "https://scottaaronson.blog/?p=10169",
-      "score": 258,
-      "by": "6bitquant",
-      "comments": 285,
-      "time": "2026-10-07 19:33"
+      "id": 49985548,
+      "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+      "url": "#",
+      "score": 248,
+      "by": "mariocesar",
+      "comments": 395,
+      "time": "2026-10-06 23:16"
     },
     {
-      "id": 49994443,
-      "title": "Show HN: Bigwords.page \u2013 Turn any screen into a sign. The URL is the app",
-      "url": "https://bigwords.page/",
-      "score": 525,
-      "by": "SpeakingOfBrad",
-      "comments": 142,
-      "time": "2026-10-07 15:44"
+      "id": 50013902,
+      "title": "OpenAI, the Partition Principle, and Mathematics",
+      "url": "https://karagila.org/2026/openai-pp/",
+      "score": 129,
+      "by": "md224",
+      "comments": 192,
+      "time": "2026-10-08 23:29"
     },
     {
-      "id": 49982445,
-      "title": "Cleo (Mathematician)",
-      "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
-      "score": 165,
-      "by": "djoldman",
-      "comments": 35,
-      "time": "2026-10-06 18:49"
+      "id": 50016974,
+      "title": "OTel-Native by Design \u2013 Building Products That Export to Any Observability Stack",
+      "url": "https://opentelemetry.io/blog/2026/otel-native-by-design/",
+      "score": 47,
+      "by": "dhruv_ahuja",
+      "comments": 9,
+      "time": "2026-10-09 06:54"
     },
     {
-      "id": 49996406,
-      "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
-      "url": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
-      "score": 113,
-      "by": "gumby",
-      "comments": 31,
-      "time": "2026-10-07 17:59"
+      "id": 49992994,
+      "title": "ETH-68: Ethernet Audio Interface for Linux",
+      "url": "https://naturalsystems.io/eth68",
+      "score": 167,
+      "by": "chabad360",
+      "comments": 92,
+      "time": "2026-10-07 13:58"
     },
     {
-      "id": 49983765,
-      "title": "Bloody Cavemen",
-      "url": "https://www.lrb.co.uk/the-paper/v48/n18/edmund-gordon/bloody-cavemen",
-      "score": 13,
-      "by": "Thevet",
-      "comments": 0,
-      "time": "2026-10-06 20:39"
+      "id": 50011999,
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "score": 127,
+      "by": "ray__",
+      "comments": 18,
+      "time": "2026-10-08 20:46"
     },
     {
-      "id": 50002505,
-      "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
-      "url": "https://dat-ecosystem.org/",
-      "score": 17,
-      "by": "janandonly",
-      "comments": 10,
-      "time": "2026-10-08 06:43"
-    },
-    {
-      "id": 49996259,
-      "title": "Docker Agent",
-      "url": "https://github.com/docker/docker-agent",
-      "score": 247,
-      "by": "saikatsg",
-      "comments": 114,
-      "time": "2026-10-07 17:48"
-    },
-    {
-      "id": 49984923,
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "score": 1285,
-      "by": "OfficialTurkey",
-      "comments": 1457,
-      "time": "2026-10-06 22:17"
-    },
-    {
-      "id": 49966866,
-      "title": "Analog Computer Simulator in the Browser",
-      "url": "https://pavel-krivanek.github.io/The-Analog-Thing-Simulator/public/",
-      "score": 27,
-      "by": "adamnemecek",
-      "comments": 10,
-      "time": "2026-10-05 16:19"
-    },
-    {
-      "id": 49997073,
-      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
-      "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
-      "score": 155,
+      "id": 50005527,
+      "title": "Beauty in DVD Menus",
+      "url": "https://vale.rocks/posts/dvd-menus",
+      "score": 308,
       "by": "speckx",
-      "comments": 71,
-      "time": "2026-10-07 18:43"
+      "comments": 164,
+      "time": "2026-10-08 13:22"
     },
     {
-      "id": 49975158,
-      "title": "New repository settings for configuring pull request access",
-      "url": "https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/",
-      "score": 19,
-      "by": "Bluestein",
-      "comments": 11,
-      "time": "2026-10-06 07:01"
-    },
-    {
-      "id": 49993857,
-      "title": "Animated ASCII Art for Web Pages",
-      "url": "https://ascii.rest/",
-      "score": 369,
-      "by": "turrini",
-      "comments": 65,
-      "time": "2026-10-07 15:05"
-    },
-    {
-      "id": 49993908,
-      "title": "Why were Victorian elites so effective?",
-      "url": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/",
-      "score": 177,
-      "by": "karakoram",
-      "comments": 286,
-      "time": "2026-10-07 15:09"
-    },
-    {
-      "id": 49992125,
-      "title": "House with 15m underground tunnels for sale for 300k",
-      "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
-      "score": 212,
-      "by": "librasteve",
-      "comments": 199,
-      "time": "2026-10-07 12:57"
-    },
-    {
-      "id": 49980626,
-      "title": "How machines learned precision",
-      "url": "https://glinscott.github.io/how-machines-learned-precision/",
-      "score": 176,
-      "by": "glinscott",
-      "comments": 63,
-      "time": "2026-10-06 16:14"
-    },
-    {
-      "id": 49977351,
-      "title": "A minimal kernel in Swift, running in QEMU",
-      "url": "https://carette.xyz/posts/minimal_swift_kernel_on_qemu/",
-      "score": 87,
-      "by": "surprisetalk",
-      "comments": 15,
-      "time": "2026-10-06 12:20"
-    },
-    {
-      "id": 50000676,
-      "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-      "url": "https://github.com/pingdotgg/ts-rust",
-      "score": 70,
-      "by": "jcbhmr",
-      "comments": 111,
-      "time": "2026-10-08 00:46"
-    },
-    {
-      "id": 49994145,
-      "title": "Navier\u2013Stokes Lost in Translation",
-      "url": "https://arxiv.org/abs/2610.08144",
-      "score": 313,
-      "by": "nill0",
-      "comments": 188,
-      "time": "2026-10-07 15:24"
-    },
-    {
-      "id": 49992257,
-      "title": "Anti-patterns in software blogging",
-      "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
-      "score": 286,
+      "id": 50016312,
+      "title": "Show HN: Quake ported to safe Rust, playable in browser",
+      "url": "https://quake-srp.pages.dev/",
+      "score": 171,
       "by": "ilreb",
-      "comments": 140,
-      "time": "2026-10-07 13:08"
+      "comments": 137,
+      "time": "2026-10-09 05:22"
     },
     {
-      "id": 49991823,
-      "title": "Google Playground: Create and play custom games",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "score": 149,
-      "by": "acossta",
-      "comments": 221,
-      "time": "2026-10-07 12:28"
+      "id": 50018350,
+      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "score": 28,
+      "by": "trakkstar",
+      "comments": 11,
+      "time": "2026-10-09 10:00"
+    },
+    {
+      "id": 49996149,
+      "title": "DuckDB Ducklake",
+      "url": "https://github.com/duckdb/ducklake",
+      "score": 188,
+      "by": "saikatsg",
+      "comments": 23,
+      "time": "2026-10-07 17:40"
+    },
+    {
+      "id": 49984159,
+      "title": "A Terminal Protocol for Program Status (OSC 7501)",
+      "url": "https://mitchellh.com/writing/program-status-osc7501",
+      "score": 157,
+      "by": "mfiguiere",
+      "comments": 47,
+      "time": "2026-10-06 21:08"
+    },
+    {
+      "id": 50008047,
+      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+      "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
+      "score": 174,
+      "by": "scottbez1",
+      "comments": 30,
+      "time": "2026-10-08 16:37"
+    },
+    {
+      "id": 50002650,
+      "title": "OpenAI withdraws three mathematical results",
+      "url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "score": 323,
+      "by": "sashank_1509",
+      "comments": 578,
+      "time": "2026-10-08 07:05"
+    },
+    {
+      "id": 50015236,
+      "title": "What should we tell our students?",
+      "url": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
+      "score": 121,
+      "by": "sajid",
+      "comments": 148,
+      "time": "2026-10-09 02:27"
+    },
+    {
+      "id": 50007764,
+      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+      "url": "https://openrouter.ai/stepfun/step-5-preview",
+      "score": 129,
+      "by": "AnneWodell",
+      "comments": 31,
+      "time": "2026-10-08 16:20"
+    },
+    {
+      "id": 50011928,
+      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+      "score": 312,
+      "by": "bookofjoe",
+      "comments": 204,
+      "time": "2026-10-08 20:42"
+    },
+    {
+      "id": 50002665,
+      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+      "score": 197,
+      "by": "pyduan",
+      "comments": 81,
+      "time": "2026-10-08 07:07"
+    },
+    {
+      "id": 49996639,
+      "title": "A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone",
+      "url": "https://www.nature.com/articles/s41586-026-10546-z",
+      "score": 137,
+      "by": "bryanrasmussen",
+      "comments": 11,
+      "time": "2026-10-07 18:14"
+    },
+    {
+      "id": 49998992,
+      "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
+      "url": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
+      "score": 135,
+      "by": "Hooke",
+      "comments": 55,
+      "time": "2026-10-07 21:25"
+    },
+    {
+      "id": 50013610,
+      "title": "Bevy 0.20",
+      "url": "https://bevy.org/news/bevy-0-20/",
+      "score": 181,
+      "by": "Philpax",
+      "comments": 38,
+      "time": "2026-10-08 22:57"
+    },
+    {
+      "id": 50006012,
+      "title": "Orkut.com",
+      "url": "https://orkut.com/",
+      "score": 195,
+      "by": "andreynering",
+      "comments": 144,
+      "time": "2026-10-08 14:09"
     }
   ]
 }
