@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-10-10T10:28:59.331798",
+  "fetched_at": "2026-10-11T10:41:11.440587",
   "count": 30,
   "stories": [
     {
-      "id": 50031269,
-      "title": "`123456' password used in Danish CPR data breach",
-      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-      "score": 37,
-      "by": "baal80spam",
-      "comments": 14,
-      "time": "2026-10-10 09:51"
+      "id": 50041540,
+      "title": "IRCv3",
+      "url": "https://ircv3.net/",
+      "score": 32,
+      "by": "basilikum",
+      "comments": 7,
+      "time": "2026-10-11 10:11"
     },
     {
-      "id": 49998801,
-      "title": "WSL3 Performance is about 5-60% faster than WSL2 depending on the workload",
-      "url": "https://tonym.us/wsl2-vs-wsl3-benchmarks.html",
-      "score": 33,
-      "by": "tonymet",
-      "comments": 10,
-      "time": "2026-10-07 21:06"
+      "id": 50040276,
+      "title": "LineageOS 24.0",
+      "url": "https://lineageos.org/Changelog-32/",
+      "score": 114,
+      "by": "timschumi",
+      "comments": 26,
+      "time": "2026-10-11 06:18"
     },
     {
-      "id": 50028275,
-      "title": "REA Reverse \u2013 Engineer Anything",
-      "url": "https://rea.tools/",
-      "score": 443,
-      "by": "modinfo",
-      "comments": 170,
-      "time": "2026-10-10 00:37"
+      "id": 50037949,
+      "title": "Build your own decision model",
+      "url": "https://nishtahir.com/build-your-own-decision-model/",
+      "score": 316,
+      "by": "softwaredoug",
+      "comments": 72,
+      "time": "2026-10-10 22:50"
     },
     {
-      "id": 50029123,
-      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-      "score": 188,
-      "by": "g-b-r",
-      "comments": 87,
-      "time": "2026-10-10 03:02"
+      "id": 49991852,
+      "title": "2D Vehicles",
+      "url": "https://patkerr.co.uk/2d-vehicles/",
+      "score": 489,
+      "by": "Michelangelo11",
+      "comments": 102,
+      "time": "2026-10-07 12:30"
     },
     {
-      "id": 50019911,
-      "title": "Cloudflare acquires Deno",
-      "url": "https://deno.com/blog/cloudflare",
-      "score": 1243,
-      "by": "ilreb",
-      "comments": 627,
-      "time": "2026-10-09 13:03"
+      "id": 50036864,
+      "title": "A city-building game in which the city would prefer you didn't",
+      "url": "https://housing.over.pizza/",
+      "score": 355,
+      "by": "JumpCrisscross",
+      "comments": 120,
+      "time": "2026-10-10 20:31"
     },
     {
-      "id": 50022292,
-      "title": "Triple-A Minesweeper",
-      "url": "https://minesweeper.mikelacher.com/",
-      "score": 990,
-      "by": "robin_reala",
-      "comments": 194,
-      "time": "2026-10-09 15:51"
+      "id": 50029487,
+      "title": "The Lightbulb Computer",
+      "url": "https://lightbulbcomputer.com/",
+      "score": 433,
+      "by": "oskarth",
+      "comments": 66,
+      "time": "2026-10-10 04:12"
     },
     {
-      "id": 49997481,
-      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
-      "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
-      "score": 167,
-      "by": "ortusdux",
-      "comments": 38,
-      "time": "2026-10-07 19:15"
+      "id": 50017548,
+      "title": "How big is a Git commit?",
+      "url": "https://ratfactor.com/cards/git-commit-size",
+      "score": 38,
+      "by": "theanonymousone",
+      "comments": 17,
+      "time": "2026-10-09 08:13"
     },
     {
-      "id": 50029982,
-      "title": "Computers Cannot Make Decisions",
-      "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
-      "score": 88,
-      "by": "heavensteeth",
-      "comments": 70,
-      "time": "2026-10-10 05:47"
+      "id": 50039063,
+      "title": "European Alternatives",
+      "url": "https://buy-european.net/en/alternatives",
+      "score": 68,
+      "by": "doener",
+      "comments": 37,
+      "time": "2026-10-11 01:56"
     },
     {
-      "id": 50010986,
-      "title": "Cube Type \u2013 Isometric Typography Generator",
-      "url": "https://typeincube.com/",
-      "score": 17,
-      "by": "eustoria",
+      "id": 50001234,
+      "title": "Retrofitting language models to operate over bytes",
+      "url": "https://www.nature.com/articles/s41586-026-11111-4",
+      "score": 70,
+      "by": "theanonymousone",
+      "comments": 7,
+      "time": "2026-10-08 02:15"
+    },
+    {
+      "id": 50038623,
+      "title": "PSPi 6 \u2013 Raspberry Pi in a PSP",
+      "url": "https://github.com/othermod/PSPi-Version-6",
+      "score": 89,
+      "by": "therepanic",
+      "comments": 7,
+      "time": "2026-10-11 00:45"
+    },
+    {
+      "id": 50028647,
+      "title": "Decade-old RAM is making a comeback",
+      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "score": 71,
+      "by": "1potato",
+      "comments": 61,
+      "time": "2026-10-10 01:37"
+    },
+    {
+      "id": 50017247,
+      "title": "Nix wrote half of my debugger",
+      "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+      "score": 200,
+      "by": "ingve",
+      "comments": 47,
+      "time": "2026-10-09 07:29"
+    },
+    {
+      "id": 50040625,
+      "title": "I wish you the best in the Offline",
+      "url": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
+      "score": 44,
+      "by": "birdculture",
+      "comments": 21,
+      "time": "2026-10-11 07:53"
+    },
+    {
+      "id": 50015833,
+      "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
+      "url": "https://hangul.ink/blog/hangul-day",
+      "score": 47,
+      "by": "jbaudanza",
+      "comments": 8,
+      "time": "2026-10-09 03:58"
+    },
+    {
+      "id": 50031614,
+      "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
+      "score": 296,
+      "by": "rociiu",
+      "comments": 134,
+      "time": "2026-10-10 10:52"
+    },
+    {
+      "id": 50034081,
+      "title": "Knuth reward check",
+      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
+      "score": 195,
+      "by": "Curiositry",
+      "comments": 71,
+      "time": "2026-10-10 15:47"
+    },
+    {
+      "id": 50021899,
+      "title": "Five months treating bugs like patients and coding agents like a medical team",
+      "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+      "score": 138,
+      "by": "rafiss",
+      "comments": 56,
+      "time": "2026-10-09 15:26"
+    },
+    {
+      "id": 50016956,
+      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+      "score": 192,
+      "by": "smokel",
+      "comments": 51,
+      "time": "2026-10-09 06:52"
+    },
+    {
+      "id": 50040547,
+      "title": "3rd Yandex Cloud Data Center Was Hit",
+      "url": "https://status.yandex.cloud/en/incidents/2136",
+      "score": 215,
+      "by": "defly",
+      "comments": 284,
+      "time": "2026-10-11 07:34"
+    },
+    {
+      "id": 50024805,
+      "title": "Deterministic Simulation Testing in Celld",
+      "url": "https://celld.dev/docs/engineering/deterministic-simulation-testing/",
+      "score": 24,
+      "by": "handfuloflight",
+      "comments": 2,
+      "time": "2026-10-09 18:31"
+    },
+    {
+      "id": 50006930,
+      "title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
+      "url": "https://github.com/moritzwilksch/diffle",
+      "score": 52,
+      "by": "mwil1000",
+      "comments": 7,
+      "time": "2026-10-08 15:23"
+    },
+    {
+      "id": 50009451,
+      "title": "The Marriage That Captures a High Point of American Art",
+      "url": "https://www.theatlantic.com/culture/2026/10/jackson-pollock-lee-krasner-met-review/688916",
+      "score": 7,
+      "by": "prismatic",
       "comments": 1,
-      "time": "2026-10-08 19:41"
+      "time": "2026-10-08 18:00"
+    },
+    {
+      "id": 50030558,
+      "title": "Cyril Hilsum invented the flat-screen displays that hold us in thrall",
+      "url": "https://www.economist.com/obituary/2026/10/08/cyril-hilsum-invented-the-flat-screen-displays-that-hold-us-in-thrall",
+      "score": 5,
+      "by": "sohkamyung",
+      "comments": 0,
+      "time": "2026-10-10 07:25"
+    },
+    {
+      "id": 50039092,
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "score": 100,
+      "by": "davikr",
+      "comments": 74,
+      "time": "2026-10-11 02:02"
+    },
+    {
+      "id": 50033357,
+      "title": "Unikernels were hard. key word: were",
+      "url": "https://ghuntley.com/unikernels/",
+      "score": 165,
+      "by": "ghuntley",
+      "comments": 81,
+      "time": "2026-10-10 14:27"
     },
     {
       "id": 50029830,
       "title": "Food processing influences metabolism and brain activity",
       "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-      "score": 36,
+      "score": 157,
       "by": "gmays",
-      "comments": 21,
+      "comments": 124,
       "time": "2026-10-10 05:22"
     },
     {
-      "id": 50021410,
-      "title": "Can you use autoregressive diffusion to generate market data?",
-      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-      "score": 92,
-      "by": "jsomers",
-      "comments": 26,
-      "time": "2026-10-09 14:56"
+      "id": 49984349,
+      "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
+      "url": "https://openscad.org/",
+      "score": 149,
+      "by": "b-man",
+      "comments": 114,
+      "time": "2026-10-06 21:22"
     },
     {
-      "id": 50024499,
-      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "url": "https://carrierexplode.com/",
-      "score": 331,
-      "by": "simplyalec",
-      "comments": 42,
-      "time": "2026-10-09 18:10"
+      "id": 50039536,
+      "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
+      "url": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
+      "score": 99,
+      "by": "pizzaiolo",
+      "comments": 29,
+      "time": "2026-10-11 03:21"
     },
     {
-      "id": 49981264,
-      "title": "How to head into VR without wearing a headset",
-      "url": "https://www.kyushu-u.ac.jp/en/researches/view/414/",
-      "score": 34,
-      "by": "Betelbuddy",
-      "comments": 15,
-      "time": "2026-10-06 17:07"
+      "id": 50005743,
+      "title": "C for Rust programmers",
+      "url": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
+      "score": 154,
+      "by": "xyproto",
+      "comments": 160,
+      "time": "2026-10-08 13:44"
     },
     {
-      "id": 50023450,
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "url": "https://typesafe.ai/blog/series-ai",
-      "score": 378,
-      "by": "tosh",
-      "comments": 277,
-      "time": "2026-10-09 17:02"
-    },
-    {
-      "id": 50027853,
-      "title": "Compiling Rust to readable C with Eurydice",
-      "url": "https://lwn.net/Articles/1055211/",
-      "score": 82,
-      "by": "peter_d_sherman",
-      "comments": 17,
-      "time": "2026-10-09 23:28"
-    },
-    {
-      "id": 49998350,
-      "title": "I tried to move my notes out of Emacs. I failed. Again",
-      "url": "https://baty.net/posts/2026/10/i-tried-to-move-my-notes-out-of-emacs-i-failed/",
-      "score": 30,
+      "id": 50020901,
+      "title": "Getting old Macromedia Director Games to run on modern Hardware",
+      "url": "https://werwolv.net/posts/macromedia_copy_protection/",
+      "score": 79,
       "by": "speckx",
-      "comments": 29,
-      "time": "2026-10-07 20:27"
-    },
-    {
-      "id": 50028027,
-      "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
-      "url": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
-      "score": 73,
-      "by": "luu",
-      "comments": 13,
-      "time": "2026-10-09 23:53"
-    },
-    {
-      "id": 50019056,
-      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-      "score": 147,
-      "by": "piratebroadcast",
-      "comments": 76,
-      "time": "2026-10-09 11:36"
-    },
-    {
-      "id": 50024090,
-      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-      "score": 119,
-      "by": "matt_d",
-      "comments": 23,
-      "time": "2026-10-09 17:42"
-    },
-    {
-      "id": 50023995,
-      "title": "Scam American companies are using to manipulate ingredient lists",
-      "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
-      "score": 125,
-      "by": "bilsbie",
-      "comments": 136,
-      "time": "2026-10-09 17:35"
-    },
-    {
-      "id": 50003545,
-      "title": "Show HN: Proton Drive for Linux",
-      "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
-      "score": 84,
-      "by": "khaosdoctor",
-      "comments": 30,
-      "time": "2026-10-08 09:10"
-    },
-    {
-      "id": 50006734,
-      "title": "Vegetative Electron Microscopy WTF? (2025)",
-      "url": "https://www.sciencebase.com/science-blog/vegetative-electron-microscopy.html",
-      "score": 16,
-      "by": "adunk",
-      "comments": 1,
-      "time": "2026-10-08 15:06"
-    },
-    {
-      "id": 50020533,
-      "title": "'Wallace and Gromit,' 90% Alone",
-      "url": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
-      "score": 218,
-      "by": "vinhnx",
-      "comments": 29,
-      "time": "2026-10-09 13:49"
-    },
-    {
-      "id": 49984854,
-      "title": "The role of cat eye narrowing movements in cat\u2013human communication (2020)",
-      "url": "https://www.nature.com/articles/s41598-020-73426-0",
-      "score": 86,
-      "by": "bushwart",
-      "comments": 36,
-      "time": "2026-10-06 22:10"
-    },
-    {
-      "id": 50020014,
-      "title": "Our $445M Series D",
-      "url": "https://oxide.computer/blog/our-445m-series-d",
-      "score": 660,
-      "by": "ahlCVA",
-      "comments": 296,
-      "time": "2026-10-09 13:12"
-    },
-    {
-      "id": 50026555,
-      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-      "score": 578,
-      "by": "gumby",
-      "comments": 312,
-      "time": "2026-10-09 21:06"
-    },
-    {
-      "id": 50018088,
-      "title": "Sorry, I'm in a meeting",
-      "url": "https://iminafleeting.com/",
-      "score": 909,
-      "by": "splintersio",
-      "comments": 256,
-      "time": "2026-10-09 09:21"
-    },
-    {
-      "id": 49980208,
-      "title": "Communication Between the Compiler, the Build System, and Beyond",
-      "url": "https://shrub.industries/words/problem.html",
-      "score": 17,
-      "by": "shrub900",
-      "comments": 3,
-      "time": "2026-10-06 15:44"
-    },
-    {
-      "id": 50024055,
-      "title": "Show HN: The rarest tech books and docs you've probably never read",
-      "url": "https://readrare.com/",
-      "score": 132,
-      "by": "miletus",
-      "comments": 48,
-      "time": "2026-10-09 17:39"
-    },
-    {
-      "id": 50019499,
-      "title": "100+ reactions to 100+ solutions",
-      "url": "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/",
-      "score": 73,
-      "by": "jacobedawson",
-      "comments": 66,
-      "time": "2026-10-09 12:26"
+      "comments": 15,
+      "time": "2026-10-09 14:18"
     }
   ]
 }
