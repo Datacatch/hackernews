@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-10-12T11:45:53.184431",
+  "fetched_at": "2026-10-13T11:32:45.000130",
   "count": 30,
   "stories": [
     {
-      "id": 50054751,
-      "title": "QGIS bans AI assisted contributions",
-      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-      "score": 35,
-      "by": "bwnkl",
-      "comments": 25,
-      "time": "2026-10-12 11:22"
+      "id": 50069499,
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "score": 106,
+      "by": "formerly_proven",
+      "comments": 28,
+      "time": "2026-10-13 10:27"
     },
     {
-      "id": 50054207,
-      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
-      "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
-      "score": 155,
-      "by": "Betelbuddy",
-      "comments": 33,
-      "time": "2026-10-12 10:21"
+      "id": 50069337,
+      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+      "url": "https://pdftomp3.com/connect-ai/",
+      "score": 26,
+      "by": "janpmz",
+      "comments": 20,
+      "time": "2026-10-13 10:08"
     },
     {
-      "id": 50051573,
-      "title": "Type-safe HTML templating in Zig",
-      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
-      "score": 140,
-      "by": "lukaslalinsky",
-      "comments": 60,
-      "time": "2026-10-12 05:02"
-    },
-    {
-      "id": 50048642,
-      "title": "Fingerprints are the new cookies",
-      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
-      "score": 430,
-      "by": "royfish",
-      "comments": 220,
-      "time": "2026-10-11 22:33"
-    },
-    {
-      "id": 50037711,
-      "title": "Secret of Orange Cats Revealed After 60-Year Search",
-      "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
-      "score": 23,
-      "by": "bookofjoe",
-      "comments": 1,
-      "time": "2026-10-10 22:10"
-    },
-    {
-      "id": 50052251,
-      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
-      "url": "https://github.com/snuri00/ps2-web-recomp",
-      "score": 58,
-      "by": "deadxwarrior",
-      "comments": 19,
-      "time": "2026-10-12 06:46"
-    },
-    {
-      "id": 50045984,
-      "title": "Total Annihilation, rebuilt for modern computers",
-      "url": "https://nanolathe.gg",
-      "score": 547,
-      "by": "jttnr",
-      "comments": 209,
-      "time": "2026-10-11 18:04"
-    },
-    {
-      "id": 50034206,
-      "title": "Calculus with Julia",
-      "url": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
-      "score": 151,
-      "by": "subset",
-      "comments": 15,
-      "time": "2026-10-10 15:59"
-    },
-    {
-      "id": 50041573,
-      "title": "Running the unmodified Linux amdgpu driver on an iPad",
-      "url": "https://github.com/Geramy/LemonSeed-Studio",
-      "score": 37,
-      "by": "joshcsimmons",
-      "comments": 13,
-      "time": "2026-10-11 10:18"
-    },
-    {
-      "id": 50052163,
-      "title": "Postgres isn't slow, your storage is",
-      "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
-      "score": 119,
-      "by": "saisrirampur",
-      "comments": 100,
-      "time": "2026-10-12 06:36"
-    },
-    {
-      "id": 50054092,
-      "title": "Ledger confirms hidden chip in crypto wallet amid $92M theft claims",
-      "url": "https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/",
-      "score": 40,
-      "by": "thm",
-      "comments": 35,
-      "time": "2026-10-12 10:09"
-    },
-    {
-      "id": 50047091,
-      "title": "Cartographers of North Korea (2019)",
-      "url": "https://cartographers-nk.wonyoung.so/",
-      "score": 272,
-      "by": "edent",
-      "comments": 52,
-      "time": "2026-10-11 19:46"
-    },
-    {
-      "id": 50049411,
-      "title": "Whatever became of holography? (2011)",
-      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
-      "score": 140,
-      "by": "cainxinth",
-      "comments": 68,
-      "time": "2026-10-11 23:50"
-    },
-    {
-      "id": 50043026,
-      "title": "Terence Tao: Math 2.0 [pdf]",
-      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-      "score": 423,
-      "by": "Anon84",
-      "comments": 441,
-      "time": "2026-10-11 13:16"
-    },
-    {
-      "id": 50047422,
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "score": 496,
-      "by": "albertzeyer",
-      "comments": 729,
-      "time": "2026-10-11 20:20"
-    },
-    {
-      "id": 50049872,
-      "title": "Doory \u2013 Open-Source Canva",
-      "url": "https://github.com/shaongitbd/doory",
-      "score": 133,
-      "by": "acley",
-      "comments": 48,
-      "time": "2026-10-12 00:48"
-    },
-    {
-      "id": 50051583,
-      "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
-      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-      "score": 109,
-      "by": "m463",
-      "comments": 79,
-      "time": "2026-10-12 05:03"
-    },
-    {
-      "id": 50051530,
-      "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-      "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
-      "score": 173,
-      "by": "amosbatto",
-      "comments": 191,
-      "time": "2026-10-12 04:54"
-    },
-    {
-      "id": 50049133,
-      "title": "Illustration Beyond Proof",
-      "url": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
-      "score": 73,
-      "by": "smilelamp",
-      "comments": 10,
-      "time": "2026-10-11 23:22"
-    },
-    {
-      "id": 50034950,
-      "title": "Bag of Decisions Reranker",
-      "url": "https://softwaredoug.com/blog/2026/10/08/bag-of-decisions.html",
-      "score": 7,
-      "by": "zdw",
+      "id": 50069971,
+      "title": "An hour of audio transcribed in about 13s on MacBook Air",
+      "url": "https://eg2.haku.sh/",
+      "score": 4,
+      "by": "amrrs",
       "comments": 0,
-      "time": "2026-10-10 17:12"
+      "time": "2026-10-13 11:27"
     },
     {
-      "id": 50049508,
-      "title": "Local Indexing to reduce tool calling and token usage",
-      "url": "https://tedhaley.ca/pensieve/",
-      "score": 85,
-      "by": "TedHaley",
-      "comments": 26,
-      "time": "2026-10-12 00:03"
+      "id": 50067414,
+      "title": "Hittite royal archive found in Turkey",
+      "url": "https://www.thehistoryblog.com/archives/77107",
+      "score": 92,
+      "by": "benbreen",
+      "comments": 8,
+      "time": "2026-10-13 06:02"
     },
     {
-      "id": 50048312,
-      "title": "Passkeys are a trap",
-      "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-      "score": 691,
-      "by": "laurex",
-      "comments": 396,
-      "time": "2026-10-11 21:59"
+      "id": 50041866,
+      "title": "The baffling intelligence of a single cell (2024)",
+      "url": "https://jsomers.net/e-coli-chemotaxis/",
+      "score": 313,
+      "by": "jsomers",
+      "comments": 84,
+      "time": "2026-10-11 11:02"
     },
     {
-      "id": 50052814,
-      "title": "Zod 4.6.6 compromised by malware?",
-      "url": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
-      "score": 139,
-      "by": "luggage_bazooka",
-      "comments": 34,
-      "time": "2026-10-12 07:47"
+      "id": 50069329,
+      "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+      "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+      "score": 56,
+      "by": "helsinkiandrew",
+      "comments": 8,
+      "time": "2026-10-13 10:08"
     },
     {
-      "id": 50046241,
-      "title": "Chapter 1 of \"Ways of Seeing\" by John Berger (1972)",
-      "url": "https://www.ways-of-seeing.com/ch1",
-      "score": 115,
-      "by": "rafael859",
-      "comments": 22,
-      "time": "2026-10-11 18:26"
+      "id": 50058507,
+      "title": "GLM-Legal",
+      "url": "https://z.ai/blog/glm-legal",
+      "score": 583,
+      "by": "ilreb",
+      "comments": 330,
+      "time": "2026-10-12 16:11"
     },
     {
-      "id": 50039291,
-      "title": "Ask HN: Do you want a router that has DD-WRT pre-installed?",
+      "id": 50063365,
+      "title": "Intel D270 GPU AI Accelerator\u2013Up to 480 GB LPDDR5X",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "score": 243,
+      "by": "hurricanepootis",
+      "comments": 116,
+      "time": "2026-10-12 21:35"
+    },
+    {
+      "id": 50055304,
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "score": 734,
+      "by": "Zeekaas",
+      "comments": 850,
+      "time": "2026-10-12 12:16"
+    },
+    {
+      "id": 50058528,
+      "title": "A Modern Web App in C",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "score": 594,
+      "by": "prophittcorey",
+      "comments": 248,
+      "time": "2026-10-12 16:13"
+    },
+    {
+      "id": 50068443,
+      "title": "Document Review with Unsiloed and TypeSafe Jev",
+      "url": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
+      "score": 15,
+      "by": "ritzaco",
+      "comments": 2,
+      "time": "2026-10-13 08:24"
+    },
+    {
+      "id": 50063138,
+      "title": "Who is vfmaddrnd231pd?",
+      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "score": 220,
+      "by": "pngmangi",
+      "comments": 21,
+      "time": "2026-10-12 21:12"
+    },
+    {
+      "id": 50063717,
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "url": "https://github.com/prabanta-dev/janas",
+      "score": 161,
+      "by": "khalidkhair",
+      "comments": 53,
+      "time": "2026-10-12 22:05"
+    },
+    {
+      "id": 50061791,
+      "title": "Making big downloads resumable in Firefox",
+      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+      "score": 222,
+      "by": "speckx",
+      "comments": 104,
+      "time": "2026-10-12 19:36"
+    },
+    {
+      "id": 50069318,
+      "title": "AWS Lambda Web Functions",
+      "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
+      "score": 29,
+      "by": "HatchedLake721",
+      "comments": 7,
+      "time": "2026-10-13 10:07"
+    },
+    {
+      "id": 50068508,
+      "title": "Crypto thieves sell hardware wallets with secret eSIM",
+      "url": "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html",
+      "score": 45,
+      "by": "qwertox",
+      "comments": 29,
+      "time": "2026-10-13 08:34"
+    },
+    {
+      "id": 50055593,
+      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "url": "https://github.com/h0m3us3r/w1700k-sdr",
+      "score": 360,
+      "by": "djfergus",
+      "comments": 99,
+      "time": "2026-10-12 12:41"
+    },
+    {
+      "id": 50055220,
+      "title": "Citroen revives the 2CV for an electric age",
+      "url": "https://www.bbc.com/news/articles/c620r33plgppo",
+      "score": 355,
+      "by": "scrlk",
+      "comments": 401,
+      "time": "2026-10-12 12:09"
+    },
+    {
+      "id": 50063427,
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "score": 440,
+      "by": "layer8",
+      "comments": 354,
+      "time": "2026-10-12 21:40"
+    },
+    {
+      "id": 50059096,
+      "title": "Launch HN: Agent37 (YC F26) \u2013 Low-cost agent sandboxes for running agents",
       "url": "#",
-      "score": 64,
-      "by": "Ixander",
-      "comments": 67,
-      "time": "2026-10-11 02:37"
+      "score": 137,
+      "by": "vishnukool",
+      "comments": 98,
+      "time": "2026-10-12 16:46"
     },
     {
-      "id": 50041252,
-      "title": "Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos",
-      "url": "https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5",
-      "score": 59,
-      "by": "Bluestein",
-      "comments": 38,
-      "time": "2026-10-11 09:19"
+      "id": 50065932,
+      "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+      "url": "https://www.argmin.net/p/faster-fourier-transforms",
+      "score": 159,
+      "by": "mochomocha",
+      "comments": 107,
+      "time": "2026-10-13 02:46"
     },
     {
-      "id": 50045946,
-      "title": "NYC's \"Click to Cancel\" rule is now in effect",
-      "url": "https://www.nyc.gov/main/click-to-cancel",
-      "score": 492,
-      "by": "gregsadetsky",
-      "comments": 245,
-      "time": "2026-10-11 18:01"
-    },
-    {
-      "id": 50048768,
-      "title": "Google Data Centers around the world",
-      "url": "https://datacenters.google/locations/",
+      "id": 50047664,
+      "title": "Auto Research: Integer multiplication below n log n",
+      "url": "https://app.getsupers.com/auto-research",
       "score": 66,
-      "by": "andsoitis",
-      "comments": 59,
-      "time": "2026-10-11 22:45"
+      "by": "swesnow",
+      "comments": 30,
+      "time": "2026-10-11 20:48"
     },
     {
-      "id": 50047055,
-      "title": "So, you\u2019d like to sell your print issues of The Onion?",
-      "url": "https://theonion.com/archivehunt/",
-      "score": 335,
-      "by": "mooreds",
-      "comments": 51,
-      "time": "2026-10-11 19:43"
+      "id": 50061859,
+      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+      "score": 139,
+      "by": "zdw",
+      "comments": 26,
+      "time": "2026-10-12 19:40"
     },
     {
-      "id": 50039608,
-      "title": "Vectorized CLZ and CTZ",
-      "url": "https://purplesyringa.moe/blog/vectorized-clz-and-ctz/",
-      "score": 47,
-      "by": "zX41ZdbW",
-      "comments": 5,
-      "time": "2026-10-11 03:36"
+      "id": 50069333,
+      "title": "AI models may soon self-replicate without access to data centers",
+      "url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
+      "score": 16,
+      "by": "samizdis",
+      "comments": 18,
+      "time": "2026-10-13 10:08"
+    },
+    {
+      "id": 50056822,
+      "title": "Solar panels that plug into your wall",
+      "url": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
+      "score": 199,
+      "by": "speckx",
+      "comments": 212,
+      "time": "2026-10-12 14:19"
+    },
+    {
+      "id": 50065692,
+      "title": "AI models can provably hide arbitrary capabilities",
+      "url": "https://arxiv.org/abs/2610.13928",
+      "score": 222,
+      "by": "sbulaev",
+      "comments": 112,
+      "time": "2026-10-13 02:07"
+    },
+    {
+      "id": 50064840,
+      "title": "Show HN: SolidCraft \u2013 Open-Source Parametric CAD in Rust (With MCP Support)",
+      "url": "https://github.com/bherbruck/solidcraft",
+      "score": 70,
+      "by": "bherbruck",
+      "comments": 14,
+      "time": "2026-10-13 00:11"
+    },
+    {
+      "id": 50064438,
+      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+      "url": "https://github.com/andrewfader/blokkily",
+      "score": 65,
+      "by": "androsynth89",
+      "comments": 28,
+      "time": "2026-10-12 23:21"
+    },
+    {
+      "id": 50057668,
+      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+      "url": "https://taylor.town/kk-ai-2026",
+      "score": 193,
+      "by": "surprisetalk",
+      "comments": 74,
+      "time": "2026-10-12 15:16"
+    },
+    {
+      "id": 50036287,
+      "title": "The Making Of Super Mario 64 \u2013 full Giles Goddard interview (2001)",
+      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+      "score": 254,
+      "by": "gregsadetsky",
+      "comments": 99,
+      "time": "2026-10-10 19:28"
     }
   ]
 }
