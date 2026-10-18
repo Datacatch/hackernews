@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-10-17T08:22:43.504433",
+  "fetched_at": "2026-10-18T08:42:22.406173",
   "count": 30,
   "stories": [
     {
-      "id": 50106747,
-      "title": "Ultramarine 1\u00a0Flash",
-      "url": "https://www.paperinstruments.com/ultramarine",
-      "score": 219,
-      "by": "i_rush_carriers",
+      "id": 50138531,
+      "title": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "score": 122,
+      "by": "fagnerbrack",
+      "comments": 53,
+      "time": "2026-10-18 06:50"
+    },
+    {
+      "id": 50137950,
+      "title": "Show HN: Sphinx \u2013 A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "score": 103,
+      "by": "critiquebrowser",
+      "comments": 30,
+      "time": "2026-10-18 04:33"
+    },
+    {
+      "id": 50137620,
+      "title": "How the Elizabeth Holmes documentary \u201cYou Can See Everything\u201d is deceiving",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "score": 117,
+      "by": "MaysonL",
+      "comments": 109,
+      "time": "2026-10-18 03:19"
+    },
+    {
+      "id": 50126253,
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "url": "https://www.nature.com/articles/d41586-026-03266-x",
+      "score": 436,
+      "by": "alkyon",
+      "comments": 97,
+      "time": "2026-10-16 23:38"
+    },
+    {
+      "id": 50114758,
+      "title": "Lean now ships with verified kernels",
+      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+      "score": 124,
+      "by": "matt_d",
+      "comments": 43,
+      "time": "2026-10-16 06:16"
+    },
+    {
+      "id": 50138087,
+      "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
+      "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+      "score": 82,
+      "by": "thatslast",
+      "comments": 53,
+      "time": "2026-10-18 05:09"
+    },
+    {
+      "id": 50126312,
+      "title": "Dam removals are bringing fish back across the northeastern United States",
+      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+      "score": 266,
+      "by": "sohkamyung",
       "comments": 65,
-      "time": "2026-10-15 17:06"
+      "time": "2026-10-16 23:47"
     },
     {
-      "id": 50112657,
-      "title": "Tesla Roadster",
-      "url": "https://www.tesla.com/roadster",
-      "score": 1398,
-      "by": "shekhar101",
-      "comments": 2448,
-      "time": "2026-10-16 01:32"
+      "id": 50129045,
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "score": 844,
+      "by": "theykk",
+      "comments": 645,
+      "time": "2026-10-17 08:21"
     },
     {
-      "id": 50127979,
-      "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://llmspeed.dev/",
-      "score": 50,
-      "by": "albinstman",
-      "comments": 20,
-      "time": "2026-10-17 04:36"
+      "id": 50132193,
+      "title": "Pele \u2013 Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
+      "score": 414,
+      "by": "dchest",
+      "comments": 38,
+      "time": "2026-10-17 15:55"
     },
     {
-      "id": 50122431,
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "score": 279,
-      "by": "Anon84",
+      "id": 50138002,
+      "title": "Notes on the Complex Roots of Unity",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+      "score": 19,
+      "by": "sks_15",
+      "comments": 2,
+      "time": "2026-10-18 04:49"
+    },
+    {
+      "id": 50106792,
+      "title": "Fun Extending the C Preprocessor",
+      "url": "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html",
+      "score": 19,
+      "by": "david2ndaccount",
+      "comments": 4,
+      "time": "2026-10-15 17:08"
+    },
+    {
+      "id": 50100994,
+      "title": "Furifont, a Japanese font that shows furigana",
+      "url": "https://furifont.antfu.me/",
+      "score": 336,
+      "by": "plaguna",
       "comments": 68,
-      "time": "2026-10-16 18:32"
+      "time": "2026-10-15 08:48"
     },
     {
-      "id": 50103255,
-      "title": "Intuitive concurrent programming in any language",
-      "url": "https://www.lf-lang.org/",
+      "id": 50110081,
+      "title": "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
+      "url": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
+      "score": 27,
+      "by": "jacquesm",
+      "comments": 2,
+      "time": "2026-10-15 20:55"
+    },
+    {
+      "id": 50124730,
+      "title": "Teal \u2013 A statically-typed dialect of Lua",
+      "url": "https://teal-language.org/",
+      "score": 7,
+      "by": "Lyngbakr",
+      "comments": 0,
+      "time": "2026-10-16 21:07"
+    },
+    {
+      "id": 50131213,
+      "title": "Making chicken transparent using Dorito dust",
+      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+      "score": 301,
+      "by": "crescit_eundo",
+      "comments": 81,
+      "time": "2026-10-17 13:55"
+    },
+    {
+      "id": 50130379,
+      "title": "Interactive Linear Programming in the Browser",
+      "url": "https://lpviz.net/",
       "score": 24,
-      "by": "mpweiher",
-      "comments": 3,
-      "time": "2026-10-15 13:18"
+      "by": "klamike",
+      "comments": 0,
+      "time": "2026-10-17 12:06"
     },
     {
-      "id": 50122800,
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "score": 850,
-      "by": "ahlCVA",
-      "comments": 315,
-      "time": "2026-10-16 18:55"
+      "id": 50100366,
+      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "url": "https://github.com/antirez/c64-hw-simulator",
+      "score": 183,
+      "by": "antirez",
+      "comments": 27,
+      "time": "2026-10-15 07:18"
+    },
+    {
+      "id": 50136536,
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "score": 262,
+      "by": "guiambros",
+      "comments": 96,
+      "time": "2026-10-18 00:14"
     },
     {
       "id": 50122878,
       "title": "You could have invented transformers from memory",
       "url": "https://alexwang.ai/posts/associative-memory/",
-      "score": 275,
+      "score": 557,
       "by": "speckx",
-      "comments": 66,
+      "comments": 127,
       "time": "2026-10-16 19:01"
     },
     {
-      "id": 50088937,
-      "title": "California is building a $400M shield for Yosemite's most dangerous highway",
-      "url": "https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php",
-      "score": 38,
-      "by": "danso",
-      "comments": 35,
-      "time": "2026-10-14 15:15"
+      "id": 50133231,
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
+      "url": "https://github.com/openai/codex/issues/25921",
+      "score": 127,
+      "by": "AIorNot",
+      "comments": 47,
+      "time": "2026-10-17 17:45"
     },
     {
-      "id": 50088767,
-      "title": "0/1 Knapsack Problem in PyTorch",
-      "url": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
-      "score": 17,
-      "by": "yu3zhou4",
-      "comments": 1,
-      "time": "2026-10-14 15:04"
-    },
-    {
-      "id": 50123580,
-      "title": "FLUX 3 Image Klein",
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "score": 162,
-      "by": "gmays",
-      "comments": 45,
-      "time": "2026-10-16 19:47"
-    },
-    {
-      "id": 50118320,
-      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "score": 307,
-      "by": "antipaul",
-      "comments": 158,
-      "time": "2026-10-16 13:43"
-    },
-    {
-      "id": 50122034,
-      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-      "score": 214,
-      "by": "7402",
-      "comments": 177,
-      "time": "2026-10-16 18:06"
-    },
-    {
-      "id": 50127274,
-      "title": "Butlerian Jihad",
-      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
-      "score": 208,
-      "by": "wetwater",
-      "comments": 112,
-      "time": "2026-10-17 02:21"
-    },
-    {
-      "id": 50110930,
-      "title": "$50k First Letters Prize Awarded for PHerc 343",
-      "url": "https://scrollprize.substack.com/p/50k-first-letters-prize-awarded-for",
-      "score": 7,
-      "by": "dcminter",
-      "comments": 0,
-      "time": "2026-10-15 21:55"
-    },
-    {
-      "id": 50120224,
-      "title": "JPEG XL vs. AVIF for web use-cases",
-      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-      "score": 252,
-      "by": "farlight",
-      "comments": 174,
-      "time": "2026-10-16 16:12"
-    },
-    {
-      "id": 50121939,
-      "title": "Designing more efficient quantum circuits with Claude",
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "score": 135,
-      "by": "pretext",
-      "comments": 32,
-      "time": "2026-10-16 18:00"
-    },
-    {
-      "id": 50119751,
-      "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
-      "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
-      "score": 43,
-      "by": "michidk",
-      "comments": 3,
-      "time": "2026-10-16 15:38"
-    },
-    {
-      "id": 50088748,
-      "title": "I built the RealWorld app in Lean 4",
-      "url": "https://leangineer.com/blog/realworld-in-lean/",
-      "score": 48,
-      "by": "saviorand",
-      "comments": 4,
-      "time": "2026-10-14 15:03"
-    },
-    {
-      "id": 50076089,
-      "title": "Monte-Carlo Simulations",
-      "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
-      "score": 112,
-      "by": "ibobev",
-      "comments": 21,
-      "time": "2026-10-13 18:11"
-    },
-    {
-      "id": 50121179,
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "score": 490,
-      "by": "speckx",
-      "comments": 412,
-      "time": "2026-10-16 17:08"
-    },
-    {
-      "id": 50126774,
-      "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
-      "url": "https://www.flexport.com/company/careers/",
-      "score": 1,
-      "by": "thedogeye",
-      "comments": 0,
-      "time": "2026-10-17 01:01"
-    },
-    {
-      "id": 50128468,
-      "title": "Why Math Dumped OpenAI",
-      "url": "https://raymyers.org/post/math-dumped-openai/",
-      "score": 7,
-      "by": "xeonmc",
-      "comments": 0,
-      "time": "2026-10-17 06:19"
-    },
-    {
-      "id": 50118688,
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "url": "https://starskirmish.com/bench/v0-2/",
-      "score": 218,
-      "by": "__cayenne__",
-      "comments": 98,
-      "time": "2026-10-16 14:18"
-    },
-    {
-      "id": 50083673,
-      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
-      "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
-      "score": 93,
-      "by": "giuliomagnifico",
-      "comments": 16,
-      "time": "2026-10-14 07:21"
-    },
-    {
-      "id": 50122951,
-      "title": "How the Claude Code team does code review",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "score": 331,
-      "by": "pretext",
-      "comments": 308,
-      "time": "2026-10-16 19:04"
-    },
-    {
-      "id": 50122736,
-      "title": "C++26: The New Debugging Header",
-      "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
-      "score": 93,
-      "by": "jandeboevrie",
+      "id": 50138462,
+      "title": "A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One",
+      "url": "https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c",
+      "score": 28,
+      "by": "mid1110",
       "comments": 20,
-      "time": "2026-10-16 18:52"
+      "time": "2026-10-18 06:36"
     },
     {
-      "id": 50117746,
-      "title": "I love software rendering",
-      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-      "score": 318,
-      "by": "speckx",
-      "comments": 202,
-      "time": "2026-10-16 12:52"
+      "id": 50132870,
+      "title": "Gold is now the top U.S. export",
+      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+      "score": 320,
+      "by": "iamnothere",
+      "comments": 171,
+      "time": "2026-10-17 17:06"
     },
     {
-      "id": 50125545,
-      "title": "Nine-Inch Snails",
-      "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-      "score": 58,
-      "by": "zdw",
-      "comments": 31,
-      "time": "2026-10-16 22:21"
+      "id": 50138044,
+      "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
+      "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+      "score": 82,
+      "by": "georgecmu",
+      "comments": 14,
+      "time": "2026-10-18 04:59"
     },
     {
-      "id": 50079280,
-      "title": "New 'super ice' 10 times stronger, bringing it close to the strength of concrete",
-      "url": "https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete",
-      "score": 97,
-      "by": "andrewl",
-      "comments": 72,
-      "time": "2026-10-13 21:42"
+      "id": 50131006,
+      "title": "Show HN: High-quality duck audio synthesizer",
+      "url": "https://celphase.github.io/duck-pond/",
+      "score": 128,
+      "by": "celphase",
+      "comments": 28,
+      "time": "2026-10-17 13:28"
     },
     {
-      "id": 50118977,
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "url": "https://calif.io/research/big-fish",
-      "score": 186,
-      "by": "rs_rs_rs_rs_rs",
-      "comments": 56,
-      "time": "2026-10-16 14:44"
+      "id": 50097257,
+      "title": "Custom server to revive neato bots",
+      "url": "https://github.com/vacuula/vacuula",
+      "score": 40,
+      "by": "matttah",
+      "comments": 1,
+      "time": "2026-10-14 23:48"
+    },
+    {
+      "id": 50126457,
+      "title": "Propagation of Sound in Strongly Viscous Liquids (1966) [pdf]",
+      "url": "https://jetp.ras.ru/cgi-bin/dn/e_023_05_0893.pdf",
+      "score": 4,
+      "by": "peter_d_sherman",
+      "comments": 1,
+      "time": "2026-10-17 00:11"
+    },
+    {
+      "id": 50117935,
+      "title": "Superoptimizing an FPU Emulator",
+      "url": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
+      "score": 22,
+      "by": "dverlaeckt80",
+      "comments": 2,
+      "time": "2026-10-16 13:08"
+    },
+    {
+      "id": 50127979,
+      "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "score": 286,
+      "by": "albinstman",
+      "comments": 81,
+      "time": "2026-10-17 04:36"
+    },
+    {
+      "id": 50131256,
+      "title": "Solar surpasses nuclear power globally for first time",
+      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "score": 590,
+      "by": "xbmcuser",
+      "comments": 367,
+      "time": "2026-10-17 14:01"
+    },
+    {
+      "id": 50131189,
+      "title": "Show HN: Esp32sim \u2013 Run ESP32 firmware in the browser",
+      "url": "https://github.com/mikroverk/esp32sim",
+      "score": 159,
+      "by": "joakimeriksson",
+      "comments": 30,
+      "time": "2026-10-17 13:51"
     }
   ]
 }
