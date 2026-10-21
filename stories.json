@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-10-20T09:16:55.828663",
+  "fetched_at": "2026-10-21T09:13:39.581820",
   "count": 30,
   "stories": [
     {
-      "id": 50141581,
-      "title": "Nordwand Mono \u2013 A monospace font for coders and adventurers",
-      "url": "https://github.com/tywr/Nordwand-Mono",
-      "score": 220,
-      "by": "noriax86",
-      "comments": 65,
-      "time": "2026-10-18 14:48"
+      "id": 50175070,
+      "title": "The Future of CSS",
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "score": 350,
+      "by": "soheilpro",
+      "comments": 134,
+      "time": "2026-10-21 01:47"
     },
     {
-      "id": 50160494,
-      "title": "OpenBSD 8.0",
-      "url": "https://www.openbsd.org/80.html",
-      "score": 275,
-      "by": "privong",
-      "comments": 80,
-      "time": "2026-10-20 02:06"
+      "id": 50170593,
+      "title": "Show HN: SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "score": 783,
+      "by": "pcai",
+      "comments": 369,
+      "time": "2026-10-20 18:29"
     },
     {
-      "id": 50140111,
-      "title": "Restoration of Retinal Regenerative Potential",
-      "url": "https://www.nature.com/articles/s41467-025-58290-8",
-      "score": 53,
-      "by": "Kaibeezy",
-      "comments": 2,
-      "time": "2026-10-18 11:32"
+      "id": 50172041,
+      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "url": "https://news-web.php.net/php.announce/509",
+      "score": 756,
+      "by": "xd",
+      "comments": 294,
+      "time": "2026-10-20 20:15"
     },
     {
-      "id": 50159341,
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "score": 413,
-      "by": "ds",
-      "comments": 111,
-      "time": "2026-10-19 23:22"
+      "id": 50174687,
+      "title": "Muse exposes users' personal and business secrets when they share conversations",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "score": 157,
+      "by": "gumby",
+      "comments": 62,
+      "time": "2026-10-21 00:45"
     },
     {
-      "id": 50154244,
-      "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-      "score": 234,
-      "by": "cmrdporcupine",
-      "comments": 204,
-      "time": "2026-10-19 16:16"
+      "id": 50149861,
+      "title": "The Decoherence Trap",
+      "url": "https://maevyn.codes/decoherence",
+      "score": 25,
+      "by": "cassianoleal",
+      "comments": 4,
+      "time": "2026-10-19 08:35"
     },
     {
-      "id": 50154540,
-      "title": "MiniMax M3.1 Flash",
-      "url": "https://www.minimax.io/blog/minimax-m31f",
-      "score": 463,
-      "by": "jtg",
-      "comments": 198,
-      "time": "2026-10-19 16:39"
+      "id": 50168396,
+      "title": "Voxtral 3",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "score": 658,
+      "by": "ilreb",
+      "comments": 166,
+      "time": "2026-10-20 16:02"
     },
     {
-      "id": 50159616,
-      "title": "France's supermarket fridges were vulnerable online for months",
-      "url": "https://ipinfo.io/blog/france-fridges-hack",
-      "score": 166,
-      "by": "emot",
-      "comments": 137,
-      "time": "2026-10-20 00:00"
+      "id": 50166579,
+      "title": "eMudhra intermediate CA compromise",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "score": 920,
+      "by": "galadran",
+      "comments": 394,
+      "time": "2026-10-20 13:58"
     },
     {
-      "id": 50140584,
-      "title": "Weball: Play Katamari on Websites",
-      "url": "https://www.funwithcomputervision.com/weball/",
-      "score": 199,
-      "by": "croes",
-      "comments": 14,
-      "time": "2026-10-18 12:39"
+      "id": 50173487,
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "score": 197,
+      "by": "Bender",
+      "comments": 90,
+      "time": "2026-10-20 22:21"
     },
     {
-      "id": 50158942,
-      "title": "An ad-free Android TV",
-      "url": "https://cretezy.com/2026/ad-free-android-tv",
-      "score": 205,
-      "by": "CraftThatBlock",
-      "comments": 63,
-      "time": "2026-10-19 22:32"
-    },
-    {
-      "id": 50160877,
-      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
-      "url": "https://github.com/golang/go/issues/82345",
-      "score": 90,
-      "by": "mendym",
-      "comments": 33,
-      "time": "2026-10-20 03:05"
-    },
-    {
-      "id": 50132198,
-      "title": "Making a 88x31 button book using ImageMagick",
-      "url": "https://k.sosnierz.me/08-11-24/",
-      "score": 9,
-      "by": "birdculture",
-      "comments": 1,
-      "time": "2026-10-17 15:55"
-    },
-    {
-      "id": 50150089,
-      "title": "I built a drone with only one motor [video]",
-      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
-      "score": 538,
-      "by": "hakonjdjohnsen",
-      "comments": 110,
-      "time": "2026-10-19 09:05"
-    },
-    {
-      "id": 50152307,
-      "title": "Wine ported to OpenBSD",
-      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-      "score": 563,
-      "by": "iamnothere",
-      "comments": 188,
-      "time": "2026-10-19 13:35"
-    },
-    {
-      "id": 50134472,
-      "title": "It's still ok to enjoy programming",
-      "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-      "score": 591,
-      "by": "goostavos",
-      "comments": 517,
-      "time": "2026-10-17 19:53"
-    },
-    {
-      "id": 50162177,
-      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
-      "url": "https://github.com/microg/GmsCore/wiki",
-      "score": 12,
-      "by": "theanonymousone",
-      "comments": 0,
-      "time": "2026-10-20 06:37"
-    },
-    {
-      "id": 50153664,
-      "title": "Ukraine claims first drone evacuation of wounded soldier",
-      "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-      "score": 279,
-      "by": "yzydserd",
-      "comments": 206,
-      "time": "2026-10-19 15:31"
-    },
-    {
-      "id": 50159245,
-      "title": "How abliterated models can get you pwned",
-      "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
-      "score": 124,
-      "by": "chatmasta",
-      "comments": 71,
-      "time": "2026-10-19 23:08"
-    },
-    {
-      "id": 50152466,
-      "title": "Maxwell: A new kind of model that sits between code and hardware",
-      "url": "https://heymaxwell.ai/",
-      "score": 64,
-      "by": "laginimaineb",
-      "comments": 36,
-      "time": "2026-10-19 13:47"
-    },
-    {
-      "id": 50158138,
-      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-      "url": "https://bsd.network/@brynet/117407035545900963",
-      "score": 154,
-      "by": "doener",
-      "comments": 33,
-      "time": "2026-10-19 21:11"
-    },
-    {
-      "id": 50136126,
-      "title": "RuneScape Bench: MMOs for Agents [video]",
-      "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
-      "score": 195,
-      "by": "evakhoury",
-      "comments": 68,
-      "time": "2026-10-17 23:24"
-    },
-    {
-      "id": 50147233,
-      "title": "Starcraft: Ashfall",
-      "url": "https://starcraft-shooter-2026.pages.dev/",
-      "score": 453,
-      "by": "debo_",
-      "comments": 141,
-      "time": "2026-10-19 01:18"
-    },
-    {
-      "id": 50134809,
-      "title": "How Do Fungi Keep the Planet Healthy?",
-      "url": "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/",
-      "score": 50,
-      "by": "marojejian",
-      "comments": 8,
-      "time": "2026-10-17 20:27"
-    },
-    {
-      "id": 50157865,
-      "title": "One Hash Bloom Filters",
-      "url": "https://calabro.io/ohbf",
-      "score": 102,
-      "by": "jcalabro",
-      "comments": 11,
-      "time": "2026-10-19 20:50"
-    },
-    {
-      "id": 50151036,
-      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-      "url": "#",
-      "score": 437,
-      "by": "rzk",
-      "comments": 581,
-      "time": "2026-10-19 11:24"
-    },
-    {
-      "id": 50135177,
-      "title": "Porting video games to VHS",
-      "url": "https://gardinerbryant.com/what-if-video-games-came-on-vhs/",
-      "score": 39,
-      "by": "Kate0CoolLibby",
-      "comments": 25,
-      "time": "2026-10-17 21:12"
-    },
-    {
-      "id": 50155172,
-      "title": "Evidence (YC S21) Is Hiring Software Engineers",
-      "url": "https://evidence.dev/jobs",
-      "score": 1,
-      "by": "hughess",
-      "comments": 0,
-      "time": "2026-10-19 17:21"
-    },
-    {
-      "id": 50162860,
-      "title": "Everything is going wrong for Muhammad bin Salman",
-      "url": "https://www.economist.com/middle-east-and-africa/2026/10/19/everything-is-going-wrong-for-muhammad-bin-salman",
-      "score": 14,
-      "by": "u1hcw9nx",
-      "comments": 13,
-      "time": "2026-10-20 08:16"
-    },
-    {
-      "id": 50158100,
-      "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
-      "url": "https://josie.lol/blog/linux-rtx-spark",
-      "score": 233,
-      "by": "pfeifferj",
-      "comments": 120,
-      "time": "2026-10-19 21:08"
-    },
-    {
-      "id": 50161408,
-      "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
-      "url": "https://deathplanswitch.com/",
-      "score": 64,
-      "by": "romeo19361",
+      "id": 50175185,
+      "title": "In Hilbert space, all things are quantumly possible",
+      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "score": 91,
+      "by": "unprovable",
       "comments": 48,
-      "time": "2026-10-20 04:37"
+      "time": "2026-10-21 02:04"
     },
     {
-      "id": 50153225,
-      "title": "Agentic Monitoring",
-      "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
-      "score": 99,
-      "by": "bcongdon",
-      "comments": 16,
-      "time": "2026-10-19 14:52"
+      "id": 50175059,
+      "title": "Good type against all odds",
+      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "score": 116,
+      "by": "firloop",
+      "comments": 12,
+      "time": "2026-10-21 01:45"
+    },
+    {
+      "id": 50173891,
+      "title": "The Other Epidemic: Trying to get off benzodiazepines",
+      "url": "https://www.thebeliever.net/the-other-epidemic/",
+      "score": 187,
+      "by": "gaplong",
+      "comments": 141,
+      "time": "2026-10-20 23:04"
+    },
+    {
+      "id": 50148845,
+      "title": "Composite objects and C++26 the std:polymorphic type",
+      "url": "https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/",
+      "score": 24,
+      "by": "jandeboevrie",
+      "comments": 22,
+      "time": "2026-10-19 05:54"
+    },
+    {
+      "id": 50147799,
+      "title": "ZX Spectrum Next Laptop",
+      "url": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
+      "score": 71,
+      "by": "utopcell",
+      "comments": 11,
+      "time": "2026-10-19 02:48"
+    },
+    {
+      "id": 50165215,
+      "title": "Four Years with Decker",
+      "url": "https://beyondloom.com/blog/fouryearsdecker.html",
+      "score": 34,
+      "by": "ibobev",
+      "comments": 4,
+      "time": "2026-10-20 12:18"
+    },
+    {
+      "id": 50175779,
+      "title": "Using Claude to reduce the attack surface of code",
+      "url": "https://www.anthropic.com/research/attack-surface-reduction",
+      "score": 40,
+      "by": "dnw",
+      "comments": 13,
+      "time": "2026-10-21 03:36"
+    },
+    {
+      "id": 50176298,
+      "title": "Battlezone Online: BZFlag in the Browser",
+      "url": "https://github.com/timriker/bzo",
+      "score": 28,
+      "by": "indigodaddy",
+      "comments": 22,
+      "time": "2026-10-21 05:05"
+    },
+    {
+      "id": 50175510,
+      "title": "C# now beats Rust on WASM size",
+      "url": "https://github.com/zion-sati/NetWasm",
+      "score": 52,
+      "by": "sumnole",
+      "comments": 13,
+      "time": "2026-10-21 02:53"
+    },
+    {
+      "id": 50169053,
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "url": "https://github.com/google-pytorch/torch_tpu",
+      "score": 335,
+      "by": "ilreb",
+      "comments": 73,
+      "time": "2026-10-20 16:40"
+    },
+    {
+      "id": 50175882,
+      "title": "Setting Up SSH Keys on macOS with Touch ID",
+      "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+      "score": 46,
+      "by": "civilchaos",
+      "comments": 29,
+      "time": "2026-10-21 03:51"
+    },
+    {
+      "id": 50169707,
+      "title": "What shall I teach my son?",
+      "url": "https://stevekrouse.com/ends",
+      "score": 389,
+      "by": "Curiositry",
+      "comments": 461,
+      "time": "2026-10-20 17:25"
+    },
+    {
+      "id": 50108717,
+      "title": "SlopCodeBench 10/2026 \u2013 Opus 5.5, Astra wins overall, xhigh considered harmful",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+      "score": 253,
+      "by": "dhorthy",
+      "comments": 96,
+      "time": "2026-10-15 19:09"
+    },
+    {
+      "id": 50176301,
+      "title": "Pillowfort Is Closing",
+      "url": "https://www.pillowfort.social/posts/8413273",
+      "score": 42,
+      "by": "BrenBarn",
+      "comments": 22,
+      "time": "2026-10-21 05:05"
+    },
+    {
+      "id": 50151447,
+      "title": "Bonanza of new dates rewrites the history of the Inca",
+      "url": "https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca",
+      "score": 5,
+      "by": "pseudolus",
+      "comments": 0,
+      "time": "2026-10-19 12:13"
+    },
+    {
+      "id": 50165208,
+      "title": "Apple broke an essential presentation feature of iPads",
+      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "score": 555,
+      "by": "evanb",
+      "comments": 272,
+      "time": "2026-10-20 12:17"
+    },
+    {
+      "id": 50163277,
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "score": 2245,
+      "by": "ggcr",
+      "comments": 856,
+      "time": "2026-10-20 09:08"
+    },
+    {
+      "id": 50151771,
+      "title": "Borrow Checking Zero-Cost Cyclic Mutability",
+      "url": "https://antelang.org/blog/safe_cyclic_mutability/",
+      "score": 32,
+      "by": "jfecher",
+      "comments": 2,
+      "time": "2026-10-19 12:47"
+    },
+    {
+      "id": 50167028,
+      "title": "Ofcom concedes defeat in 4chan case",
+      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+      "score": 385,
+      "by": "iamnothere",
+      "comments": 296,
+      "time": "2026-10-20 14:30"
+    },
+    {
+      "id": 50168357,
+      "title": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
+      "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+      "score": 270,
+      "by": "speckx",
+      "comments": 156,
+      "time": "2026-10-20 15:59"
+    },
+    {
+      "id": 50165953,
+      "title": "Tsrs: A Port of TypeScript to Rust",
+      "url": "https://blog.cloudflare.com/typescript-rust-port/",
+      "score": 407,
+      "by": "hnisjafx40",
+      "comments": 198,
+      "time": "2026-10-20 13:18"
+    },
+    {
+      "id": 50143360,
+      "title": "To Make, or to Buy: The Economics of Decision Models",
+      "url": "https://pncnmnp.github.io/blogs/economics-decision-models.html",
+      "score": 49,
+      "by": "pncnmnp",
+      "comments": 2,
+      "time": "2026-10-18 17:40"
     }
   ]
 }
