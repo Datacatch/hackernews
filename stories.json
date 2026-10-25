@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-10-24T08:45:34.073309",
+  "fetched_at": "2026-10-25T09:01:23.737151",
   "count": 30,
   "stories": [
     {
-      "id": 50218430,
-      "title": "OBS Studio 33",
-      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-      "score": 107,
-      "by": "pentagrama",
-      "comments": 28,
-      "time": "2026-10-24 04:49"
+      "id": 50225695,
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "score": 392,
+      "by": "ltratt",
+      "comments": 341,
+      "time": "2026-10-24 21:47"
     },
     {
-      "id": 50212065,
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "score": 892,
-      "by": "Jowsey",
-      "comments": 525,
-      "time": "2026-10-23 16:59"
+      "id": 50227356,
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "score": 144,
+      "by": "gmays",
+      "comments": 51,
+      "time": "2026-10-25 01:33"
     },
     {
-      "id": 50217500,
-      "title": "Twelve years of distributed SQLite",
-      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-      "score": 183,
-      "by": "otoolep",
-      "comments": 22,
-      "time": "2026-10-24 01:16"
+      "id": 50193936,
+      "title": "How Japanese Dried Bonito Is Made",
+      "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+      "score": 32,
+      "by": "bookofjoe",
+      "comments": 7,
+      "time": "2026-10-22 11:31"
     },
     {
-      "id": 50211474,
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "url": "https://blog.calif.io/p/iphone",
-      "score": 863,
-      "by": "pavel_lishin",
-      "comments": 560,
-      "time": "2026-10-23 16:21"
+      "id": 50224100,
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "score": 374,
+      "by": "bobbydigitales",
+      "comments": 243,
+      "time": "2026-10-24 19:06"
     },
     {
-      "id": 50218195,
-      "title": "How close can pure functional programming get to C?",
-      "url": "https://rtfeldman.com/fp-vs-c",
-      "score": 99,
-      "by": "stmonty",
-      "comments": 9,
-      "time": "2026-10-24 03:43"
+      "id": 50224210,
+      "title": "SpeedCrunch 1.1",
+      "url": "https://www.speedcrunch.org/",
+      "score": 142,
+      "by": "LordNibbler",
+      "comments": 24,
+      "time": "2026-10-24 19:19"
     },
     {
-      "id": 50207910,
-      "title": "Apple Music 404 Not Found",
-      "url": "https://music.apple.com/this-url-doesnt-exist",
-      "score": 745,
-      "by": "frizlab",
-      "comments": 230,
-      "time": "2026-10-23 12:28"
+      "id": 50225674,
+      "title": "Small Programs and Languages",
+      "url": "https://ratfactor.com/cards/pl-small",
+      "score": 105,
+      "by": "andsoitis",
+      "comments": 7,
+      "time": "2026-10-24 21:44"
+    },
+    {
+      "id": 50226577,
+      "title": "Why Gopher in 2026?",
+      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "score": 74,
+      "by": "andsoitis",
+      "comments": 23,
+      "time": "2026-10-24 23:33"
+    },
+    {
+      "id": 50226419,
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "score": 347,
+      "by": "gnabgib",
+      "comments": 341,
+      "time": "2026-10-24 23:11"
+    },
+    {
+      "id": 50172432,
+      "title": "I Built a Stereo Vision Board for Hardware Hackers",
+      "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
+      "score": 73,
+      "by": "machinehum",
+      "comments": 12,
+      "time": "2026-10-20 20:45"
+    },
+    {
+      "id": 50219666,
+      "title": "I don't understand quantum physics (2018)",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "score": 314,
+      "by": "rramadass",
+      "comments": 250,
+      "time": "2026-10-24 09:53"
+    },
+    {
+      "id": 50222133,
+      "title": "FreeDNS",
+      "url": "https://freedns.afraid.org/",
+      "score": 290,
+      "by": "esher",
+      "comments": 74,
+      "time": "2026-10-24 15:20"
     },
     {
       "id": 50202285,
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "url": "https://edjefferson.com/localwiki/",
-      "score": 1369,
+      "score": 1585,
       "by": "sohkamyung",
-      "comments": 233,
+      "comments": 246,
       "time": "2026-10-22 23:01"
+    },
+    {
+      "id": 50219177,
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "score": 308,
+      "by": "theanonymousone",
+      "comments": 152,
+      "time": "2026-10-24 08:06"
+    },
+    {
+      "id": 50169450,
+      "title": "Social dynamics of toxic metal industry in medieval Europe",
+      "url": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
+      "score": 45,
+      "by": "XzetaU8",
+      "comments": 16,
+      "time": "2026-10-20 17:06"
+    },
+    {
+      "id": 50225663,
+      "title": "The Importance of Limitations for Creativity and Learning (2023)",
+      "url": "https://ratfactor.com/cards/limitations",
+      "score": 65,
+      "by": "andsoitis",
+      "comments": 17,
+      "time": "2026-10-24 21:42"
+    },
+    {
+      "id": 50176674,
+      "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
+      "url": "https://pragtical.dev/blog/pragtical-v3140-release",
+      "score": 14,
+      "by": "rd07",
+      "comments": 1,
+      "time": "2026-10-21 06:09"
+    },
+    {
+      "id": 50194935,
+      "title": "In Rainbows",
+      "url": "https://hitogata.neocities.org/Rainbows",
+      "score": 27,
+      "by": "surprisetalk",
+      "comments": 8,
+      "time": "2026-10-22 13:20"
+    },
+    {
+      "id": 50186289,
+      "title": "A story of a Figma bug that wasn't a bug at all (2021)",
+      "url": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
+      "score": 27,
+      "by": "jllyhill",
+      "comments": 1,
+      "time": "2026-10-21 19:30"
+    },
+    {
+      "id": 50222927,
+      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+      "url": "https://de.numista.com/9866",
+      "score": 115,
+      "by": "schleck8",
+      "comments": 36,
+      "time": "2026-10-24 16:41"
+    },
+    {
+      "id": 50219700,
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "score": 244,
+      "by": "fragebogen",
+      "comments": 71,
+      "time": "2026-10-24 09:58"
+    },
+    {
+      "id": 50222525,
+      "title": "Neural chip decodes interactions between brain regions",
+      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "score": 105,
+      "by": "giuliomagnifico",
+      "comments": 37,
+      "time": "2026-10-24 15:57"
+    },
+    {
+      "id": 50224916,
+      "title": "Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com/",
+      "score": 471,
+      "by": "cloudlandsdev",
+      "comments": 295,
+      "time": "2026-10-24 20:30"
+    },
+    {
+      "id": 50222622,
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "url": "https://blog.roku.com/developer/gitlab-move",
+      "score": 286,
+      "by": "cxr",
+      "comments": 198,
+      "time": "2026-10-24 16:06"
+    },
+    {
+      "id": 50223777,
+      "title": "Bbtree: Fastest Ordered Map",
+      "url": "https://bbtree.xiangpeng.systems/post/",
+      "score": 108,
+      "by": "aoli-al",
+      "comments": 11,
+      "time": "2026-10-24 18:22"
     },
     {
       "id": 50186450,
       "title": "Physicists trap a single antimatter particle for a month",
       "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
-      "score": 10,
+      "score": 304,
       "by": "mooreds",
-      "comments": 4,
+      "comments": 86,
       "time": "2026-10-21 19:40"
+    },
+    {
+      "id": 50194645,
+      "title": "Rewriting a Commercial Engine in Jai",
+      "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+      "score": 9,
+      "by": "frading",
+      "comments": 2,
+      "time": "2026-10-22 12:50"
+    },
+    {
+      "id": 50228167,
+      "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+      "url": "https://github.com/slee-persis/GVS5H",
+      "score": 158,
+      "by": "rzk",
+      "comments": 55,
+      "time": "2026-10-25 03:56"
+    },
+    {
+      "id": 50218195,
+      "title": "How close can pure functional programming get to C?",
+      "url": "https://rtfeldman.com/fp-vs-c",
+      "score": 268,
+      "by": "stmonty",
+      "comments": 93,
+      "time": "2026-10-24 03:43"
     },
     {
       "id": 50171379,
       "title": "A practical guide to AI image generation, from diffusion to agents",
       "url": "https://danielball.com/notes/ai_image_generation.html",
-      "score": 74,
+      "score": 267,
       "by": "westsmith",
-      "comments": 19,
+      "comments": 86,
       "time": "2026-10-20 19:22"
     },
     {
-      "id": 50172962,
-      "title": "Bringing uv and ty together",
-      "url": "https://astral.sh/blog/uv-ty-integration",
-      "score": 141,
-      "by": "Ravencentric",
-      "comments": 31,
-      "time": "2026-10-20 21:30"
-    },
-    {
-      "id": 50213925,
-      "title": "Dessa: Conversation Model trained only on speech",
-      "url": "https://block.xyz/dessa",
-      "score": 376,
-      "by": "dsr12",
-      "comments": 135,
-      "time": "2026-10-23 19:09"
-    },
-    {
-      "id": 50217903,
-      "title": "Apple Security Research Device",
-      "url": "https://security.apple.com/research-device/",
-      "score": 49,
-      "by": "neom",
-      "comments": 13,
-      "time": "2026-10-24 02:36"
-    },
-    {
-      "id": 50215530,
-      "title": "CVE Tracker",
-      "url": "https://cve.0xosprey.com/",
-      "score": 166,
-      "by": "Group_B",
-      "comments": 61,
-      "time": "2026-10-23 21:21"
-    },
-    {
-      "id": 50175732,
-      "title": "The Best Monopoly Strategy, Tested on 300M Games [video]",
-      "url": "https://www.youtube.com/watch?v=S_2eVAaw1UM",
-      "score": 21,
-      "by": "zdw",
-      "comments": 12,
-      "time": "2026-10-21 03:30"
-    },
-    {
-      "id": 50202114,
-      "title": "Canadians are running out of time to oppose Bill C-22",
-      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-      "score": 406,
-      "by": "hn_acker",
-      "comments": 214,
-      "time": "2026-10-22 22:43"
-    },
-    {
-      "id": 50218633,
-      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-      "score": 81,
-      "by": "testing22321",
-      "comments": 13,
-      "time": "2026-10-24 05:49"
-    },
-    {
-      "id": 50169499,
-      "title": "The Real Kevin Bacon",
-      "url": "https://pudding.cool/2026/10/kevin-bacon/",
-      "score": 297,
-      "by": "xnx",
-      "comments": 77,
-      "time": "2026-10-20 17:10"
-    },
-    {
-      "id": 50193677,
-      "title": "The Quake Fan who built the map editor everybody uses",
-      "url": "https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses",
-      "score": 106,
-      "by": "klaussilveira",
-      "comments": 7,
-      "time": "2026-10-22 10:55"
-    },
-    {
-      "id": 50215828,
-      "title": "One Man's Pan Am 747 Replica [video]",
-      "url": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
-      "score": 32,
-      "by": "Teever",
-      "comments": 2,
-      "time": "2026-10-23 21:46"
-    },
-    {
-      "id": 50217946,
-      "title": "How Block Blast harvests its players for ad money",
-      "url": "https://ayoships.com/breakdowns/block-blast",
-      "score": 43,
-      "by": "motionlessveloc",
-      "comments": 10,
-      "time": "2026-10-24 02:43"
-    },
-    {
-      "id": 50217495,
-      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-      "score": 29,
-      "by": "privacyishuman",
-      "comments": 1,
-      "time": "2026-10-24 01:15"
-    },
-    {
-      "id": 50176544,
-      "title": "C vs. C#: racing VLC's Gaussian blur",
-      "url": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
-      "score": 69,
-      "by": "martz",
-      "comments": 17,
-      "time": "2026-10-21 05:48"
-    },
-    {
-      "id": 50212507,
-      "title": "Air Purifiers as White Noise Machines",
-      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-      "score": 125,
-      "by": "luu",
-      "comments": 114,
-      "time": "2026-10-23 17:28"
-    },
-    {
-      "id": 50214373,
-      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-      "url": "https://corgi.computer/",
-      "score": 77,
-      "by": "eiopa",
-      "comments": 21,
-      "time": "2026-10-23 19:46"
-    },
-    {
-      "id": 50185715,
-      "title": "A Cocktail Party in the Street: An Interview with Alan Stillman (2010)",
-      "url": "https://www.ediblegeography.com/a-cocktail-party-in-the-street-an-interview-with-alan-stillman/",
-      "score": 4,
-      "by": "NaOH",
-      "comments": 0,
-      "time": "2026-10-21 18:49"
-    },
-    {
-      "id": 50211746,
-      "title": "UUIDv7: Timestamps aren\u2019t time-ordered and other oddities",
-      "url": "https://alexsci.com/blog/uuidv7-is-weird/",
-      "score": 143,
-      "by": "ibobev",
-      "comments": 117,
-      "time": "2026-10-23 16:39"
-    },
-    {
-      "id": 50182510,
-      "title": "The past, present, and future share a show floor at Pinball Expo 2026",
-      "url": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
-      "score": 30,
-      "by": "civicpivot",
-      "comments": 6,
-      "time": "2026-10-21 15:19"
-    },
-    {
-      "id": 50168075,
-      "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
-      "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
-      "score": 40,
-      "by": "gmays",
-      "comments": 1,
-      "time": "2026-10-20 15:41"
-    },
-    {
-      "id": 50211719,
-      "title": "How is music possible",
-      "url": "https://www.henrikkarlsson.xyz/p/music",
-      "score": 129,
-      "by": "rafaelc",
-      "comments": 79,
-      "time": "2026-10-23 16:38"
-    },
-    {
-      "id": 50207115,
-      "title": "Is this the new cyber normal?",
-      "url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
-      "score": 168,
-      "by": "drewsberry",
-      "comments": 203,
-      "time": "2026-10-23 11:04"
+      "id": 50212065,
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "score": 1066,
+      "by": "Jowsey",
+      "comments": 656,
+      "time": "2026-10-23 16:59"
     }
   ]
 }
