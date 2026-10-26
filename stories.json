@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-10-25T09:01:23.737151",
+  "fetched_at": "2026-10-26T09:55:01.850978",
   "count": 30,
   "stories": [
+    {
+      "id": 50240922,
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "url": "https://blocks.manifold3d.ch/",
+      "score": 67,
+      "by": "theanonymousone",
+      "comments": 15,
+      "time": "2026-10-26 08:46"
+    },
+    {
+      "id": 50238708,
+      "title": "Show HN: TitleArt \u2013 Make text like it's 1997",
+      "url": "https://titleart.dvy.io/",
+      "score": 230,
+      "by": "davidbarker",
+      "comments": 36,
+      "time": "2026-10-26 03:23"
+    },
+    {
+      "id": 50238739,
+      "title": "PaperPilot \u2013 Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "score": 134,
+      "by": "vardhan1237",
+      "comments": 30,
+      "time": "2026-10-26 03:29"
+    },
+    {
+      "id": 50238763,
+      "title": "Behind the scenes at the NeXT Computer office",
+      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "score": 111,
+      "by": "Austin_Conlon",
+      "comments": 52,
+      "time": "2026-10-26 03:31"
+    },
+    {
+      "id": 50234474,
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "score": 540,
+      "by": "jumploops",
+      "comments": 93,
+      "time": "2026-10-25 18:23"
+    },
+    {
+      "id": 50228115,
+      "title": "Show HN: A Truly Modular Keyboard",
+      "url": "https://github.com/notaroomba/keybytes",
+      "score": 157,
+      "by": "NotARoomba",
+      "comments": 46,
+      "time": "2026-10-25 03:47"
+    },
+    {
+      "id": 50209278,
+      "title": "Growing Trees",
+      "url": "https://brashandplucky.com/2026/10/15/growing-trees.html",
+      "score": 53,
+      "by": "ibobev",
+      "comments": 5,
+      "time": "2026-10-23 14:07"
+    },
+    {
+      "id": 50197108,
+      "title": "Overgrown, when plants invade your abandoned tabs",
+      "url": "https://charliegerard.dev/blog/overgrown-extension/",
+      "score": 273,
+      "by": "speckx",
+      "comments": 96,
+      "time": "2026-10-22 15:52"
+    },
+    {
+      "id": 50237224,
+      "title": "Attention Is Not What You Need (2025)",
+      "url": "https://arxiv.org/abs/2512.19428",
+      "score": 108,
+      "by": "westurner",
+      "comments": 38,
+      "time": "2026-10-25 23:52"
+    },
+    {
+      "id": 50200957,
+      "title": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
+      "url": "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
+      "score": 74,
+      "by": "janandonly",
+      "comments": 18,
+      "time": "2026-10-22 21:00"
+    },
+    {
+      "id": 50238620,
+      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+      "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+      "score": 59,
+      "by": "gmays",
+      "comments": 22,
+      "time": "2026-10-26 03:12"
+    },
+    {
+      "id": 50238088,
+      "title": "IBM CEO says open weight models are now good and cheap on-prem",
+      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "score": 247,
+      "by": "Betelbuddy",
+      "comments": 140,
+      "time": "2026-10-26 01:47"
+    },
+    {
+      "id": 50215997,
+      "title": "Birdwatching rewires the brain and slows cognitive decline",
+      "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+      "score": 16,
+      "by": "cisc",
+      "comments": 4,
+      "time": "2026-10-23 22:04"
+    },
+    {
+      "id": 50235017,
+      "title": "Why I Am a Programmer",
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "score": 225,
+      "by": "jruohonen",
+      "comments": 69,
+      "time": "2026-10-25 19:11"
+    },
+    {
+      "id": 50237078,
+      "title": "F-Zero X on Nintendo 3DS",
+      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "score": 117,
+      "by": "bpierre",
+      "comments": 58,
+      "time": "2026-10-25 23:27"
+    },
+    {
+      "id": 50237379,
+      "title": "Steal My Bitcoin CTF PoC",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "score": 113,
+      "by": "davikr",
+      "comments": 23,
+      "time": "2026-10-26 00:15"
+    },
+    {
+      "id": 50210181,
+      "title": "Superhuman Hardware Design Is the Easy Part",
+      "url": "https://www.a16z.news/p/superhuman-hardware-design-is-the",
+      "score": 17,
+      "by": "gmays",
+      "comments": 2,
+      "time": "2026-10-23 14:59"
+    },
+    {
+      "id": 50239748,
+      "title": "The result of the C++26 DIS ballot",
+      "url": "https://train-it.eu/blog/cpp26-contracts-the-ballot-result/",
+      "score": 46,
+      "by": "uasi",
+      "comments": 44,
+      "time": "2026-10-26 06:11"
+    },
+    {
+      "id": 50235780,
+      "title": "The State of Context Engineering",
+      "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "score": 184,
+      "by": "pchristensen",
+      "comments": 42,
+      "time": "2026-10-25 20:32"
+    },
     {
       "id": 50225695,
       "title": "We should be more ambitious with the software we build",
       "url": "https://danluu.com/ambitious/",
-      "score": 392,
+      "score": 803,
       "by": "ltratt",
-      "comments": 341,
+      "comments": 713,
       "time": "2026-10-24 21:47"
     },
     {
-      "id": 50227356,
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "score": 144,
-      "by": "gmays",
-      "comments": 51,
-      "time": "2026-10-25 01:33"
-    },
-    {
-      "id": 50193936,
-      "title": "How Japanese Dried Bonito Is Made",
-      "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
-      "score": 32,
-      "by": "bookofjoe",
-      "comments": 7,
-      "time": "2026-10-22 11:31"
-    },
-    {
-      "id": 50224100,
-      "title": "The Goose Programming Language",
-      "url": "https://aardappel.github.io/goose/",
-      "score": 374,
-      "by": "bobbydigitales",
-      "comments": 243,
-      "time": "2026-10-24 19:06"
-    },
-    {
-      "id": 50224210,
-      "title": "SpeedCrunch 1.1",
-      "url": "https://www.speedcrunch.org/",
-      "score": 142,
-      "by": "LordNibbler",
+      "id": 50227041,
+      "title": "Show HN: ADRs for AI \u2013 Deliberation records for human\u2013AI work, versioned in Git",
+      "url": "https://adrs.systems",
+      "score": 44,
+      "by": "lumbroso",
       "comments": 24,
-      "time": "2026-10-24 19:19"
+      "time": "2026-10-25 00:43"
     },
     {
-      "id": 50225674,
-      "title": "Small Programs and Languages",
-      "url": "https://ratfactor.com/cards/pl-small",
-      "score": 105,
-      "by": "andsoitis",
-      "comments": 7,
-      "time": "2026-10-24 21:44"
+      "id": 50185534,
+      "title": "Amazon\u2019s \u201cdigital pacifier\u201d for toddlers",
+      "url": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
+      "score": 192,
+      "by": "jumploops",
+      "comments": 269,
+      "time": "2026-10-21 18:37"
     },
     {
-      "id": 50226577,
-      "title": "Why Gopher in 2026?",
-      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-      "score": 74,
-      "by": "andsoitis",
-      "comments": 23,
-      "time": "2026-10-24 23:33"
+      "id": 50233779,
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "score": 556,
+      "by": "sungam",
+      "comments": 237,
+      "time": "2026-10-25 17:15"
     },
     {
-      "id": 50226419,
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "score": 347,
-      "by": "gnabgib",
-      "comments": 341,
-      "time": "2026-10-24 23:11"
+      "id": 50237712,
+      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+      "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+      "score": 137,
+      "by": "textlanes33",
+      "comments": 76,
+      "time": "2026-10-26 01:03"
     },
     {
-      "id": 50172432,
-      "title": "I Built a Stereo Vision Board for Hardware Hackers",
-      "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
-      "score": 73,
-      "by": "machinehum",
-      "comments": 12,
-      "time": "2026-10-20 20:45"
-    },
-    {
-      "id": 50219666,
-      "title": "I don't understand quantum physics (2018)",
-      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "score": 314,
-      "by": "rramadass",
-      "comments": 250,
-      "time": "2026-10-24 09:53"
-    },
-    {
-      "id": 50222133,
-      "title": "FreeDNS",
-      "url": "https://freedns.afraid.org/",
-      "score": 290,
-      "by": "esher",
-      "comments": 74,
-      "time": "2026-10-24 15:20"
-    },
-    {
-      "id": 50202285,
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "url": "https://edjefferson.com/localwiki/",
-      "score": 1585,
-      "by": "sohkamyung",
-      "comments": 246,
-      "time": "2026-10-22 23:01"
-    },
-    {
-      "id": 50219177,
-      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-      "score": 308,
-      "by": "theanonymousone",
-      "comments": 152,
-      "time": "2026-10-24 08:06"
-    },
-    {
-      "id": 50169450,
-      "title": "Social dynamics of toxic metal industry in medieval Europe",
-      "url": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
-      "score": 45,
-      "by": "XzetaU8",
-      "comments": 16,
-      "time": "2026-10-20 17:06"
-    },
-    {
-      "id": 50225663,
-      "title": "The Importance of Limitations for Creativity and Learning (2023)",
-      "url": "https://ratfactor.com/cards/limitations",
-      "score": 65,
-      "by": "andsoitis",
-      "comments": 17,
-      "time": "2026-10-24 21:42"
-    },
-    {
-      "id": 50176674,
-      "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
-      "url": "https://pragtical.dev/blog/pragtical-v3140-release",
-      "score": 14,
-      "by": "rd07",
-      "comments": 1,
-      "time": "2026-10-21 06:09"
-    },
-    {
-      "id": 50194935,
-      "title": "In Rainbows",
-      "url": "https://hitogata.neocities.org/Rainbows",
-      "score": 27,
-      "by": "surprisetalk",
-      "comments": 8,
-      "time": "2026-10-22 13:20"
-    },
-    {
-      "id": 50186289,
-      "title": "A story of a Figma bug that wasn't a bug at all (2021)",
-      "url": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
-      "score": 27,
-      "by": "jllyhill",
-      "comments": 1,
-      "time": "2026-10-21 19:30"
-    },
-    {
-      "id": 50222927,
-      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-      "url": "https://de.numista.com/9866",
-      "score": 115,
-      "by": "schleck8",
-      "comments": 36,
-      "time": "2026-10-24 16:41"
-    },
-    {
-      "id": 50219700,
-      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 244,
-      "by": "fragebogen",
-      "comments": 71,
-      "time": "2026-10-24 09:58"
-    },
-    {
-      "id": 50222525,
-      "title": "Neural chip decodes interactions between brain regions",
-      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-      "score": 105,
-      "by": "giuliomagnifico",
+      "id": 50234879,
+      "title": "Where the Romans Fought (interactive map)",
+      "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+      "score": 97,
+      "by": "endorphine",
       "comments": 37,
-      "time": "2026-10-24 15:57"
+      "time": "2026-10-25 18:58"
     },
     {
-      "id": 50224916,
-      "title": "Show HN: Steal My Bitcoin",
-      "url": "https://stealmybitcoin.com/",
-      "score": 471,
-      "by": "cloudlandsdev",
-      "comments": 295,
-      "time": "2026-10-24 20:30"
+      "id": 50236102,
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "score": 310,
+      "by": "minimaxir",
+      "comments": 309,
+      "time": "2026-10-25 21:11"
     },
     {
-      "id": 50222622,
-      "title": "Roku developer repositories moved from GitHub to GitLab",
-      "url": "https://blog.roku.com/developer/gitlab-move",
-      "score": 286,
-      "by": "cxr",
-      "comments": 198,
-      "time": "2026-10-24 16:06"
+      "id": 50213610,
+      "title": "Making the Buddha Head from Merv Whole Again",
+      "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+      "score": 46,
+      "by": "laybak",
+      "comments": 0,
+      "time": "2026-10-23 18:46"
     },
     {
-      "id": 50223777,
-      "title": "Bbtree: Fastest Ordered Map",
-      "url": "https://bbtree.xiangpeng.systems/post/",
-      "score": 108,
-      "by": "aoli-al",
-      "comments": 11,
-      "time": "2026-10-24 18:22"
+      "id": 50231166,
+      "title": "Active incident at Dreamhost forcing password reset",
+      "url": "https://www.dreamhoststatus.com/",
+      "score": 152,
+      "by": "greenchair",
+      "comments": 59,
+      "time": "2026-10-25 13:09"
     },
     {
-      "id": 50186450,
-      "title": "Physicists trap a single antimatter particle for a month",
-      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
-      "score": 304,
-      "by": "mooreds",
-      "comments": 86,
-      "time": "2026-10-21 19:40"
+      "id": 50235738,
+      "title": "What goes into making an animated film?",
+      "url": "https://www.disneyanimation.com/process/",
+      "score": 140,
+      "by": "embedding-shape",
+      "comments": 62,
+      "time": "2026-10-25 20:27"
     },
     {
-      "id": 50194645,
-      "title": "Rewriting a Commercial Engine in Jai",
-      "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
-      "score": 9,
-      "by": "frading",
-      "comments": 2,
-      "time": "2026-10-22 12:50"
-    },
-    {
-      "id": 50228167,
-      "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
-      "url": "https://github.com/slee-persis/GVS5H",
-      "score": 158,
-      "by": "rzk",
-      "comments": 55,
-      "time": "2026-10-25 03:56"
-    },
-    {
-      "id": 50218195,
-      "title": "How close can pure functional programming get to C?",
-      "url": "https://rtfeldman.com/fp-vs-c",
-      "score": 268,
-      "by": "stmonty",
-      "comments": 93,
-      "time": "2026-10-24 03:43"
-    },
-    {
-      "id": 50171379,
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "url": "https://danielball.com/notes/ai_image_generation.html",
-      "score": 267,
-      "by": "westsmith",
-      "comments": 86,
-      "time": "2026-10-20 19:22"
-    },
-    {
-      "id": 50212065,
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "score": 1066,
-      "by": "Jowsey",
-      "comments": 656,
-      "time": "2026-10-23 16:59"
+      "id": 50239041,
+      "title": "Show HN: Proc-CLI \u2013 An agent-friendly CLI tool for process and port management",
+      "url": "https://proc-cli.com/",
+      "score": 11,
+      "by": "yazeedaloyoun",
+      "comments": 1,
+      "time": "2026-10-26 04:14"
     }
   ]
 }
