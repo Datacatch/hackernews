@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-10-26T09:55:01.850978",
+  "fetched_at": "2026-10-27T09:41:07.906373",
   "count": 30,
   "stories": [
     {
-      "id": 50240922,
-      "title": "Switzerland. Block by block. At 1:1 scale",
-      "url": "https://blocks.manifold3d.ch/",
-      "score": 67,
-      "by": "theanonymousone",
-      "comments": 15,
-      "time": "2026-10-26 08:46"
+      "id": 50251344,
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "score": 883,
+      "by": "jonluca",
+      "comments": 411,
+      "time": "2026-10-26 21:35"
     },
     {
-      "id": 50238708,
-      "title": "Show HN: TitleArt \u2013 Make text like it's 1997",
-      "url": "https://titleart.dvy.io/",
-      "score": 230,
-      "by": "davidbarker",
-      "comments": 36,
-      "time": "2026-10-26 03:23"
+      "id": 50255298,
+      "title": "The Mythical Man-Month in the Age of AI",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "score": 114,
+      "by": "ilreb",
+      "comments": 92,
+      "time": "2026-10-27 06:25"
     },
     {
-      "id": 50238739,
-      "title": "PaperPilot \u2013 Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-      "score": 134,
-      "by": "vardhan1237",
-      "comments": 30,
-      "time": "2026-10-26 03:29"
+      "id": 50251661,
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "score": 620,
+      "by": "vok",
+      "comments": 223,
+      "time": "2026-10-26 21:59"
     },
     {
-      "id": 50238763,
-      "title": "Behind the scenes at the NeXT Computer office",
-      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
-      "score": 111,
-      "by": "Austin_Conlon",
-      "comments": 52,
-      "time": "2026-10-26 03:31"
-    },
-    {
-      "id": 50234474,
-      "title": "Dolly Parton's Imagination Library",
-      "url": "https://imaginationlibrary.com/",
-      "score": 540,
-      "by": "jumploops",
-      "comments": 93,
-      "time": "2026-10-25 18:23"
-    },
-    {
-      "id": 50228115,
-      "title": "Show HN: A Truly Modular Keyboard",
-      "url": "https://github.com/notaroomba/keybytes",
-      "score": 157,
-      "by": "NotARoomba",
-      "comments": 46,
-      "time": "2026-10-25 03:47"
-    },
-    {
-      "id": 50209278,
-      "title": "Growing Trees",
-      "url": "https://brashandplucky.com/2026/10/15/growing-trees.html",
-      "score": 53,
-      "by": "ibobev",
-      "comments": 5,
-      "time": "2026-10-23 14:07"
-    },
-    {
-      "id": 50197108,
-      "title": "Overgrown, when plants invade your abandoned tabs",
-      "url": "https://charliegerard.dev/blog/overgrown-extension/",
-      "score": 273,
-      "by": "speckx",
-      "comments": 96,
-      "time": "2026-10-22 15:52"
-    },
-    {
-      "id": 50237224,
-      "title": "Attention Is Not What You Need (2025)",
-      "url": "https://arxiv.org/abs/2512.19428",
-      "score": 108,
-      "by": "westurner",
-      "comments": 38,
-      "time": "2026-10-25 23:52"
-    },
-    {
-      "id": 50200957,
-      "title": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
-      "url": "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
-      "score": 74,
-      "by": "janandonly",
-      "comments": 18,
-      "time": "2026-10-22 21:00"
-    },
-    {
-      "id": 50238620,
-      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
-      "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
-      "score": 59,
-      "by": "gmays",
-      "comments": 22,
-      "time": "2026-10-26 03:12"
-    },
-    {
-      "id": 50238088,
-      "title": "IBM CEO says open weight models are now good and cheap on-prem",
-      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-      "score": 247,
-      "by": "Betelbuddy",
-      "comments": 140,
-      "time": "2026-10-26 01:47"
-    },
-    {
-      "id": 50215997,
-      "title": "Birdwatching rewires the brain and slows cognitive decline",
-      "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-      "score": 16,
-      "by": "cisc",
-      "comments": 4,
-      "time": "2026-10-23 22:04"
-    },
-    {
-      "id": 50235017,
-      "title": "Why I Am a Programmer",
-      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-      "score": 225,
-      "by": "jruohonen",
-      "comments": 69,
-      "time": "2026-10-25 19:11"
-    },
-    {
-      "id": 50237078,
-      "title": "F-Zero X on Nintendo 3DS",
-      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
-      "score": 117,
-      "by": "bpierre",
-      "comments": 58,
-      "time": "2026-10-25 23:27"
-    },
-    {
-      "id": 50237379,
-      "title": "Steal My Bitcoin CTF PoC",
-      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-      "score": 113,
-      "by": "davikr",
-      "comments": 23,
-      "time": "2026-10-26 00:15"
-    },
-    {
-      "id": 50210181,
-      "title": "Superhuman Hardware Design Is the Easy Part",
-      "url": "https://www.a16z.news/p/superhuman-hardware-design-is-the",
-      "score": 17,
-      "by": "gmays",
-      "comments": 2,
-      "time": "2026-10-23 14:59"
-    },
-    {
-      "id": 50239748,
-      "title": "The result of the C++26 DIS ballot",
-      "url": "https://train-it.eu/blog/cpp26-contracts-the-ballot-result/",
+      "id": 50196212,
+      "title": "New 'Circadian' Subtype of Depression Affecting 1 in 4 Patients",
+      "url": "https://www.sciencealert.com/researchers-identify-new-circadian-subtype-of-depression-affecting-1-in-4-patients",
       "score": 46,
-      "by": "uasi",
-      "comments": 44,
-      "time": "2026-10-26 06:11"
+      "by": "gmays",
+      "comments": 17,
+      "time": "2026-10-22 14:50"
     },
     {
-      "id": 50235780,
-      "title": "The State of Context Engineering",
-      "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
-      "score": 184,
-      "by": "pchristensen",
-      "comments": 42,
-      "time": "2026-10-25 20:32"
+      "id": 50245138,
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "score": 703,
+      "by": "sgiannopoulos",
+      "comments": 97,
+      "time": "2026-10-26 15:11"
     },
     {
-      "id": 50225695,
-      "title": "We should be more ambitious with the software we build",
-      "url": "https://danluu.com/ambitious/",
-      "score": 803,
-      "by": "ltratt",
-      "comments": 713,
-      "time": "2026-10-24 21:47"
+      "id": 50248055,
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "score": 420,
+      "by": "enlyth",
+      "comments": 238,
+      "time": "2026-10-26 17:56"
     },
     {
-      "id": 50227041,
-      "title": "Show HN: ADRs for AI \u2013 Deliberation records for human\u2013AI work, versioned in Git",
-      "url": "https://adrs.systems",
-      "score": 44,
-      "by": "lumbroso",
-      "comments": 24,
-      "time": "2026-10-25 00:43"
-    },
-    {
-      "id": 50185534,
-      "title": "Amazon\u2019s \u201cdigital pacifier\u201d for toddlers",
-      "url": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
-      "score": 192,
-      "by": "jumploops",
-      "comments": 269,
-      "time": "2026-10-21 18:37"
-    },
-    {
-      "id": 50233779,
-      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-      "url": "https://lynchlab.net/llm-skin-cancer",
-      "score": 556,
-      "by": "sungam",
-      "comments": 237,
-      "time": "2026-10-25 17:15"
-    },
-    {
-      "id": 50237712,
-      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
-      "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
-      "score": 137,
-      "by": "textlanes33",
-      "comments": 76,
-      "time": "2026-10-26 01:03"
-    },
-    {
-      "id": 50234879,
-      "title": "Where the Romans Fought (interactive map)",
-      "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
-      "score": 97,
-      "by": "endorphine",
-      "comments": 37,
-      "time": "2026-10-25 18:58"
-    },
-    {
-      "id": 50236102,
-      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "url": "https://minimaxir.com/2026/10/cheap-llms/",
-      "score": 310,
-      "by": "minimaxir",
-      "comments": 309,
-      "time": "2026-10-25 21:11"
-    },
-    {
-      "id": 50213610,
-      "title": "Making the Buddha Head from Merv Whole Again",
-      "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
-      "score": 46,
-      "by": "laybak",
-      "comments": 0,
-      "time": "2026-10-23 18:46"
-    },
-    {
-      "id": 50231166,
-      "title": "Active incident at Dreamhost forcing password reset",
-      "url": "https://www.dreamhoststatus.com/",
-      "score": 152,
-      "by": "greenchair",
-      "comments": 59,
-      "time": "2026-10-25 13:09"
-    },
-    {
-      "id": 50235738,
-      "title": "What goes into making an animated film?",
-      "url": "https://www.disneyanimation.com/process/",
-      "score": 140,
-      "by": "embedding-shape",
-      "comments": 62,
-      "time": "2026-10-25 20:27"
-    },
-    {
-      "id": 50239041,
-      "title": "Show HN: Proc-CLI \u2013 An agent-friendly CLI tool for process and port management",
-      "url": "https://proc-cli.com/",
-      "score": 11,
-      "by": "yazeedaloyoun",
+      "id": 50255177,
+      "title": "Writing about pratt parsing so I remember it",
+      "url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+      "score": 27,
+      "by": "dverlaeckt80",
       "comments": 1,
-      "time": "2026-10-26 04:14"
+      "time": "2026-10-27 06:02"
+    },
+    {
+      "id": 50253939,
+      "title": "I still teach OpenGL ES 3.0",
+      "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+      "score": 57,
+      "by": "majorchord",
+      "comments": 35,
+      "time": "2026-10-27 02:15"
+    },
+    {
+      "id": 50248371,
+      "title": "Type Server Protocol",
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "score": 242,
+      "by": "adamnemecek",
+      "comments": 158,
+      "time": "2026-10-26 18:14"
+    },
+    {
+      "id": 50245831,
+      "title": "CSS-Tricks has a new owner",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "score": 474,
+      "by": "edent",
+      "comments": 105,
+      "time": "2026-10-26 15:51"
+    },
+    {
+      "id": 50245385,
+      "title": "Solar power is becoming bigger than nuclear",
+      "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+      "score": 310,
+      "by": "geox",
+      "comments": 456,
+      "time": "2026-10-26 15:26"
+    },
+    {
+      "id": 50253529,
+      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+      "url": "https://github.com/otya128/winevdm",
+      "score": 88,
+      "by": "doener",
+      "comments": 20,
+      "time": "2026-10-27 01:15"
+    },
+    {
+      "id": 50252159,
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "score": 135,
+      "by": "wondersky",
+      "comments": 43,
+      "time": "2026-10-26 22:41"
+    },
+    {
+      "id": 50204697,
+      "title": "A Printer Printing onto Paper",
+      "url": "https://twitter.com/macrofying/status/2112904628509528219",
+      "score": 127,
+      "by": "MrBuddyCasino",
+      "comments": 26,
+      "time": "2026-10-23 05:01"
+    },
+    {
+      "id": 50240465,
+      "title": "How to grow a cacao tree at home (2024)",
+      "url": "https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/",
+      "score": 70,
+      "by": "felipevb",
+      "comments": 24,
+      "time": "2026-10-26 07:50"
+    },
+    {
+      "id": 50243061,
+      "title": "New iPad mini",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+      "score": 208,
+      "by": "soheilpro",
+      "comments": 504,
+      "time": "2026-10-26 13:13"
+    },
+    {
+      "id": 50212625,
+      "title": "Txoko: Basques' traditional feast a gastronomic peek into a culture (2024)",
+      "url": "https://johnhendersontravel.com/txoko/",
+      "score": 21,
+      "by": "jxub",
+      "comments": 8,
+      "time": "2026-10-23 17:37"
+    },
+    {
+      "id": 50234707,
+      "title": "APC says let there be light, with standards to speed up photonics manufacturing",
+      "url": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
+      "score": 35,
+      "by": "rbanffy",
+      "comments": 5,
+      "time": "2026-10-25 18:43"
+    },
+    {
+      "id": 50247928,
+      "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+      "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
+      "score": 174,
+      "by": "aray07",
+      "comments": 80,
+      "time": "2026-10-26 17:49"
+    },
+    {
+      "id": 50196839,
+      "title": "Chemists, Chemical Engineers, and Plant Managers",
+      "url": "https://www.seeingthesystem.com/p/chemists-chemical-engineers-and-plant",
+      "score": 11,
+      "by": "TinyBig",
+      "comments": 0,
+      "time": "2026-10-22 15:32"
+    },
+    {
+      "id": 50241664,
+      "title": "Websites Should Be Printable",
+      "url": "https://brennenputh.me/blog/printable-websites/",
+      "score": 336,
+      "by": "bagatelle",
+      "comments": 195,
+      "time": "2026-10-26 10:32"
+    },
+    {
+      "id": 50242939,
+      "title": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "score": 1609,
+      "by": "SiNTEx",
+      "comments": 1545,
+      "time": "2026-10-26 13:04"
+    },
+    {
+      "id": 50200152,
+      "title": "Blaise Pascal invented fixed route public transport (2024)",
+      "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+      "score": 289,
+      "by": "skadamat",
+      "comments": 147,
+      "time": "2026-10-22 19:52"
+    },
+    {
+      "id": 50231041,
+      "title": "LISPy things you can do in 64K bytes of core (2019)",
+      "url": "https://t3x.org/lisp64k/index.html",
+      "score": 60,
+      "by": "andsoitis",
+      "comments": 12,
+      "time": "2026-10-25 12:53"
+    },
+    {
+      "id": 50247493,
+      "title": "Nietzschian Debugger",
+      "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+      "score": 176,
+      "by": "dilawargopang",
+      "comments": 53,
+      "time": "2026-10-26 17:25"
+    },
+    {
+      "id": 50236681,
+      "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+      "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+      "score": 203,
+      "by": "zdw",
+      "comments": 61,
+      "time": "2026-10-25 22:29"
+    },
+    {
+      "id": 50245524,
+      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+      "score": 937,
+      "by": "doctorzook",
+      "comments": 905,
+      "time": "2026-10-26 15:35"
+    },
+    {
+      "id": 50226808,
+      "title": "Virtual and Real World Combine at LAN Party (1998)",
+      "url": "https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html",
+      "score": 45,
+      "by": "npunt",
+      "comments": 6,
+      "time": "2026-10-25 00:07"
+    },
+    {
+      "id": 50248124,
+      "title": "GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "score": 588,
+      "by": "meetpateltech",
+      "comments": 374,
+      "time": "2026-10-26 18:01"
+    },
+    {
+      "id": 50241925,
+      "title": "Pharo 14",
+      "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+      "score": 263,
+      "by": "xkriva11",
+      "comments": 73,
+      "time": "2026-10-26 11:15"
     }
   ]
 }
