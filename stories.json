@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-10-29T10:46:10.545249",
+  "fetched_at": "2026-10-30T10:45:38.123401",
   "count": 30,
   "stories": [
     {
-      "id": 50282838,
-      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "url": "https://divagr.com/blog/qwenputer",
-      "score": 486,
-      "by": "csmantle",
-      "comments": 103,
-      "time": "2026-10-29 00:25"
+      "id": 50296470,
+      "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "score": 1398,
+      "by": "Tiberium",
+      "comments": 892,
+      "time": "2026-10-29 21:38"
     },
     {
-      "id": 50285452,
-      "title": "Zero click, silent, remote Android DoS",
-      "url": "https://smsofdeath.com/",
-      "score": 91,
-      "by": "MarkBlah",
-      "comments": 47,
-      "time": "2026-10-29 07:08"
+      "id": 50289418,
+      "title": "We're releasing the weights of Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "score": 1500,
+      "by": "kuberwastaken",
+      "comments": 399,
+      "time": "2026-10-29 14:13"
     },
     {
-      "id": 50276998,
-      "title": "Why is this fingerprinting script creating bioweapons?",
-      "url": "https://nullpt.rs/fingerprinting-bioweapons",
-      "score": 1261,
-      "by": "hazebooth",
-      "comments": 241,
-      "time": "2026-10-28 17:13"
-    },
-    {
-      "id": 50243757,
-      "title": "Getting debug access on a Brother printer over Telnet",
-      "url": "https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/",
-      "score": 58,
-      "by": "inventor7777",
-      "comments": 14,
-      "time": "2026-10-26 13:54"
-    },
-    {
-      "id": 50285319,
-      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-      "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
-      "score": 68,
-      "by": "austinallegro",
-      "comments": 16,
-      "time": "2026-10-29 06:47"
-    },
-    {
-      "id": 50251200,
-      "title": "OpenAI's agents talked to each other through the CPU Cache",
-      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-      "score": 171,
-      "by": "limbicsystem",
-      "comments": 83,
-      "time": "2026-10-26 21:24"
-    },
-    {
-      "id": 50259697,
-      "title": "MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark",
-      "url": "https://dmux.github.io/minilake/",
-      "score": 21,
-      "by": "kermatt",
-      "comments": 2,
-      "time": "2026-10-27 14:12"
-    },
-    {
-      "id": 50282454,
-      "title": "StackOverflow now gets fewer than 1000 questions a month",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
-      "score": 478,
-      "by": "babelfish",
-      "comments": 400,
-      "time": "2026-10-28 23:35"
-    },
-    {
-      "id": 50280974,
-      "title": "A Health Update",
-      "url": "https://furbo.org/2026/10/28/a-health-update/",
-      "score": 266,
-      "by": "frizlab",
-      "comments": 42,
-      "time": "2026-10-28 21:13"
-    },
-    {
-      "id": 50256409,
-      "title": "A new faster algorithm to compute 64-bit signed floor division",
-      "url": "https://www.benjoffe.com/fast-floordiv",
-      "score": 70,
-      "by": "benjoffe",
-      "comments": 5,
-      "time": "2026-10-27 09:13"
-    },
-    {
-      "id": 50274409,
-      "title": "CNC Stone Carving",
-      "url": "https://carmelitegothic.com/cnc-stone-carving/",
-      "score": 476,
-      "by": "bschne",
-      "comments": 131,
-      "time": "2026-10-28 14:38"
-    },
-    {
-      "id": 50282544,
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "score": 183,
-      "by": "sashk",
-      "comments": 89,
-      "time": "2026-10-28 23:45"
-    },
-    {
-      "id": 50284255,
-      "title": "Claude Code regularly sends each background agent\u2019s transcript to its model",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "score": 396,
-      "by": "NikZaal",
-      "comments": 137,
-      "time": "2026-10-29 03:33"
-    },
-    {
-      "id": 50243060,
-      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-      "url": "https://www.circuithub.com/post/unveiling-the-grid",
-      "score": 507,
-      "by": "seddona",
-      "comments": 229,
-      "time": "2026-10-26 13:13"
-    },
-    {
-      "id": 50241949,
-      "title": "Treap (Cartesian Tree)",
-      "url": "https://cp-algorithms.com/data_structures/treap.html",
-      "score": 31,
-      "by": "vismit2000",
+      "id": 50301717,
+      "title": "How Do You Take a Picture of a Black Hole?",
+      "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+      "score": 8,
+      "by": "dverlaeckt80",
       "comments": 3,
-      "time": "2026-10-26 11:19"
+      "time": "2026-10-30 09:49"
     },
     {
-      "id": 50281044,
-      "title": "Formlabs Studio 1 $699 Resin Printer",
-      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
-      "score": 190,
-      "by": "mhb",
-      "comments": 125,
-      "time": "2026-10-28 21:19"
+      "id": 50263127,
+      "title": "Gilgamesh by Simon Armitage review \u2013 an ancient epic is brilliantly translated",
+      "url": "https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times",
+      "score": 42,
+      "by": "benbreen",
+      "comments": 14,
+      "time": "2026-10-27 17:54"
     },
     {
-      "id": 50276792,
-      "title": "Gemini 4 Carbon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "score": 941,
-      "by": "acossta",
-      "comments": 759,
-      "time": "2026-10-28 17:01"
+      "id": 50255343,
+      "title": "Cuis: The Modern Smalltalk-80",
+      "url": "https://cuis.st/",
+      "score": 125,
+      "by": "theanonymousone",
+      "comments": 16,
+      "time": "2026-10-27 06:33"
+    },
+    {
+      "id": 50298436,
+      "title": "Herdr has released native app",
+      "url": "https://github.com/herdrdev/herdr-app",
+      "score": 218,
+      "by": "cherioo",
+      "comments": 141,
+      "time": "2026-10-30 00:42"
+    },
+    {
+      "id": 50273104,
+      "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+      "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
+      "score": 142,
+      "by": "surprisetalk",
+      "comments": 18,
+      "time": "2026-10-28 13:20"
+    },
+    {
+      "id": 50270651,
+      "title": "Astroterm: A Planetarium for Your Terminal",
+      "url": "https://github.com/da-luce/astroterm",
+      "score": 145,
+      "by": "nvmdbljstm",
+      "comments": 12,
+      "time": "2026-10-28 08:29"
+    },
+    {
+      "id": 50296486,
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "score": 295,
+      "by": "sandslash",
+      "comments": 106,
+      "time": "2026-10-29 21:40"
+    },
+    {
+      "id": 50273340,
+      "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+      "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+      "score": 22,
+      "by": "6thbit",
+      "comments": 4,
+      "time": "2026-10-28 13:38"
+    },
+    {
+      "id": 50291054,
+      "title": "H.264 Is Magic (2016)",
+      "url": "https://sidbala.com/h-264-is-magic/",
+      "score": 440,
+      "by": "ea016",
+      "comments": 150,
+      "time": "2026-10-29 15:53"
+    },
+    {
+      "id": 50295450,
+      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "url": "https://github.com/SheepSeb/tinyworldformer",
+      "score": 216,
+      "by": "airinei",
+      "comments": 15,
+      "time": "2026-10-29 20:32"
+    },
+    {
+      "id": 50300643,
+      "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+      "url": "https://www.workatastartup.com/jobs/98722",
+      "score": 1,
+      "by": "syrusakbary",
+      "comments": 0,
+      "time": "2026-10-30 07:00"
+    },
+    {
+      "id": 50297697,
+      "title": "Show HN: I Turned DOOM into a Transformer",
+      "url": "https://github.com/mottopanikeiku/doomformer",
+      "score": 94,
+      "by": "falperc",
+      "comments": 30,
+      "time": "2026-10-29 23:25"
+    },
+    {
+      "id": 50290177,
+      "title": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "score": 487,
+      "by": "ibobev",
+      "comments": 255,
+      "time": "2026-10-29 14:57"
+    },
+    {
+      "id": 50251070,
+      "title": "Why a program doesn't work when run from a batch file, but works when clicked",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/",
+      "score": 25,
+      "by": "ibobev",
+      "comments": 2,
+      "time": "2026-10-26 21:14"
+    },
+    {
+      "id": 50300853,
+      "title": "'Elite North Korean hackers' blamed for $6.3B Binance hack",
+      "url": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
+      "score": 58,
+      "by": "tosh",
+      "comments": 53,
+      "time": "2026-10-30 07:41"
+    },
+    {
+      "id": 50255573,
+      "title": "Python on My Wrist",
+      "url": "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
+      "score": 50,
+      "by": "roywashere",
+      "comments": 6,
+      "time": "2026-10-27 07:10"
+    },
+    {
+      "id": 50291116,
+      "title": "Launch HN: Simantic (YC F26) \u2013 Firmware Simulation for AI Agents",
+      "url": "#",
+      "score": 70,
+      "by": "shong0504",
+      "comments": 24,
+      "time": "2026-10-29 15:56"
+    },
+    {
+      "id": 50298964,
+      "title": "Pico CSS is no longer maintained",
+      "url": "https://github.com/picocss/pico/discussions/754",
+      "score": 147,
+      "by": "henrid",
+      "comments": 66,
+      "time": "2026-10-30 01:58"
+    },
+    {
+      "id": 50297089,
+      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+      "url": "https://journal.animationstudies.org/article/id/66/",
+      "score": 122,
+      "by": "simonebrunozzi",
+      "comments": 29,
+      "time": "2026-10-29 22:26"
+    },
+    {
+      "id": 50294702,
+      "title": "Patrick Stewart has died",
+      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "score": 3012,
+      "by": "j4mie",
+      "comments": 642,
+      "time": "2026-10-29 19:41"
+    },
+    {
+      "id": 50266956,
+      "title": "An illustrated online book on Hewlett-Packard equipment",
+      "url": "https://blog.adafruit.com/2026/10/27/an-illustrated-online-book-on-hewlett-packard-equipment/",
+      "score": 21,
+      "by": "sohkamyung",
+      "comments": 4,
+      "time": "2026-10-27 22:47"
+    },
+    {
+      "id": 50287775,
+      "title": "If IPv4 were land",
+      "url": "https://iptrust.co/blog/if-ipv4-were-land",
+      "score": 290,
+      "by": "rokostik",
+      "comments": 407,
+      "time": "2026-10-29 12:19"
     },
     {
       "id": 50286197,
-      "title": "Spain train crash: What we know after two trains crashed with dozens feared dead",
+      "title": "What we know so far about Spain train crash",
       "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
-      "score": 19,
+      "score": 210,
       "by": "ZeljkoS",
-      "comments": 7,
+      "comments": 375,
       "time": "2026-10-29 08:55"
     },
     {
-      "id": 50220975,
-      "title": "Why birds can fly over Mount Everest (2020)",
-      "url": "https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864",
-      "score": 167,
-      "by": "andsoitis",
-      "comments": 34,
-      "time": "2026-10-24 13:17"
+      "id": 50296920,
+      "title": "Should a medical diagnosis reshape the past? (2025)",
+      "url": "https://chengela.substack.com/p/should-a-medical-diagnosis-reshape",
+      "score": 45,
+      "by": "wyndham",
+      "comments": 9,
+      "time": "2026-10-29 22:12"
     },
     {
-      "id": 50285714,
-      "title": "Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027",
-      "url": "https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html",
-      "score": 65,
-      "by": "n_plus_1_acc",
-      "comments": 122,
-      "time": "2026-10-29 07:52"
+      "id": 50294506,
+      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+      "url": "https://github.com/johncassil/dontallow",
+      "score": 138,
+      "by": "johncassil",
+      "comments": 104,
+      "time": "2026-10-29 19:27"
     },
     {
-      "id": 50242873,
-      "title": "Human-enhanced tsunami hazard in large lakes",
-      "url": "https://www.nature.com/articles/s41467-026-78272-8",
-      "score": 39,
-      "by": "gumby",
-      "comments": 3,
-      "time": "2026-10-26 13:00"
+      "id": 50295821,
+      "title": "ElementaryUI \u2013 Swift, in the Browser",
+      "url": "https://elementary.codes",
+      "score": 106,
+      "by": "frizlab",
+      "comments": 31,
+      "time": "2026-10-29 20:56"
     },
     {
-      "id": 50276940,
-      "title": "MacBook Pro with PROLED XDR Display and Touch",
-      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-      "score": 579,
-      "by": "etothet",
-      "comments": 984,
-      "time": "2026-10-28 17:10"
+      "id": 50291421,
+      "title": "16colo.rs \u2013 ANSI/ASCII art archive",
+      "url": "https://16colo.rs/",
+      "score": 123,
+      "by": "memalign",
+      "comments": 9,
+      "time": "2026-10-29 16:14"
     },
     {
-      "id": 50244929,
-      "title": "Nixpkgs for the Front End Impaired",
-      "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
-      "score": 68,
-      "by": "surprisetalk",
-      "comments": 13,
-      "time": "2026-10-26 15:00"
-    },
-    {
-      "id": 50274251,
-      "title": "AlpineBSD",
-      "url": "https://wiki.alpinebsd.org",
-      "score": 220,
-      "by": "bradley_taunt",
-      "comments": 211,
-      "time": "2026-10-28 14:30"
-    },
-    {
-      "id": 50271640,
-      "title": "Apple's git still trusts the compromised eMudhra certificates",
-      "url": "https://emudhra.we-have-a-problem.com/apple.html",
-      "score": 1137,
-      "by": "galadran",
-      "comments": 397,
-      "time": "2026-10-28 11:03"
-    },
-    {
-      "id": 50278253,
-      "title": "Scaling Hierarchical Networks",
-      "url": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
-      "score": 73,
-      "by": "guybedo",
-      "comments": 4,
-      "time": "2026-10-28 18:07"
-    },
-    {
-      "id": 50280824,
-      "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
-      "url": "https://nango.dev/careers",
-      "score": 1,
-      "by": "bastienbeurier",
-      "comments": 0,
-      "time": "2026-10-28 21:00"
-    },
-    {
-      "id": 50275626,
-      "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
-      "url": "https://surgehq.ai/blog/dayjob-tax",
-      "score": 238,
-      "by": "landonxi",
-      "comments": 153,
-      "time": "2026-10-28 15:46"
-    },
-    {
-      "id": 50277755,
-      "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
-      "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
-      "score": 68,
-      "by": "ibobev",
-      "comments": 7,
-      "time": "2026-10-28 17:45"
-    },
-    {
-      "id": 50273731,
-      "title": "The Agent SDK",
-      "url": "https://cursor.com/blog/agent-sdk",
-      "score": 131,
-      "by": "torutofu",
-      "comments": 125,
-      "time": "2026-10-28 14:02"
+      "id": 50287599,
+      "title": "NetBSD adds a new text editor called atto",
+      "url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+      "score": 181,
+      "by": "luke8086",
+      "comments": 142,
+      "time": "2026-10-29 11:59"
     }
   ]
 }
