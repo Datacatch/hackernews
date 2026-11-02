@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-11-01T11:07:15.753818",
+  "fetched_at": "2026-11-02T12:07:22.633680",
   "count": 30,
   "stories": [
+    {
+      "id": 50326821,
+      "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
+      "score": 1479,
+      "by": "roansh",
+      "comments": 246,
+      "time": "2026-11-01 15:58"
+    },
+    {
+      "id": 50312408,
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "score": 540,
+      "by": "soheilpro",
+      "comments": 331,
+      "time": "2026-10-31 01:38"
+    },
+    {
+      "id": 50333339,
+      "title": "Show HN: Wikihack \u2013 HackerTube, but for Wikipedia articles mentioned on HN",
+      "url": "https://wikihack.netlify.app",
+      "score": 242,
+      "by": "aizk",
+      "comments": 72,
+      "time": "2026-11-02 05:06"
+    },
     {
       "id": 50319510,
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "score": 1400,
+      "score": 2633,
       "by": "karpathy",
-      "comments": 379,
+      "comments": 578,
       "time": "2026-10-31 19:56"
     },
     {
-      "id": 50290480,
-      "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
-      "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
-      "score": 37,
-      "by": "surprisetalk",
-      "comments": 20,
-      "time": "2026-10-29 15:20"
+      "id": 50334704,
+      "title": "Show HN: I've updated my Linux System Call website and API",
+      "url": "https://syscall.sh/",
+      "score": 35,
+      "by": "guitmz",
+      "comments": 15,
+      "time": "2026-11-02 09:29"
     },
     {
-      "id": 50320963,
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "score": 471,
-      "by": "ecares",
-      "comments": 140,
-      "time": "2026-10-31 22:41"
+      "id": 50332163,
+      "title": "F/OSS Comics #13: BSD Unix, Part 3 \u2013 The Beginning of BSD Unix",
+      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+      "score": 146,
+      "by": "joonehur",
+      "comments": 15,
+      "time": "2026-11-02 01:59"
     },
     {
-      "id": 50324118,
-      "title": "A tiny Pacific country rolls out universal basic income",
-      "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
+      "id": 50331957,
+      "title": "Bones may release proteins that slow aging and extend life span",
+      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+      "score": 133,
+      "by": "EA-3167",
+      "comments": 30,
+      "time": "2026-11-02 01:31"
+    },
+    {
+      "id": 50328896,
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "url": "#",
+      "score": 447,
+      "by": "LecroJS",
+      "comments": 578,
+      "time": "2026-11-01 19:35"
+    },
+    {
+      "id": 50315217,
+      "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+      "score": 154,
+      "by": "_Microft",
+      "comments": 69,
+      "time": "2026-10-31 11:53"
+    },
+    {
+      "id": 50333877,
+      "title": "Show HN: HackerHack \u2013 HackerBooks but for Posts Posted on HN",
+      "url": "https://news.ycombinator.com/",
+      "score": 45,
+      "by": "mw888",
+      "comments": 9,
+      "time": "2026-11-02 06:59"
+    },
+    {
+      "id": 50335341,
+      "title": "The future in old computer magazines (1984\u20132004)",
+      "url": "https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in",
+      "score": 18,
+      "by": "tudell",
+      "comments": 5,
+      "time": "2026-11-02 11:09"
+    },
+    {
+      "id": 50335602,
+      "title": "Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack",
+      "url": "https://www.bbc.com/news/articles/cq1kd1nee80eo",
       "score": 8,
-      "by": "motionlessveloc",
-      "comments": 1,
-      "time": "2026-11-01 10:05"
+      "by": "xqcgrek2",
+      "comments": 3,
+      "time": "2026-11-02 11:48"
     },
     {
-      "id": 50322173,
-      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-      "score": 138,
-      "by": "doodlesdev",
-      "comments": 54,
-      "time": "2026-11-01 02:19"
-    },
-    {
-      "id": 50303984,
-      "title": "Running a bootstrapped SaaS for 20 years with my brother",
-      "url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
-      "score": 102,
-      "by": "whyleyc",
-      "comments": 26,
-      "time": "2026-10-30 13:58"
-    },
-    {
-      "id": 50319143,
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "score": 521,
-      "by": "oger",
-      "comments": 240,
-      "time": "2026-10-31 19:16"
-    },
-    {
-      "id": 50320995,
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "score": 253,
-      "by": "guregodevo",
-      "comments": 117,
-      "time": "2026-10-31 22:46"
-    },
-    {
-      "id": 50322022,
-      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-      "url": "https://arxiv.org/abs/2409.02292",
-      "score": 93,
-      "by": "hapax_legomena",
+      "id": 50331784,
+      "title": "Trigger.dev customer environment variables exposed",
+      "url": "https://trigger.dev/blog/security-incident-nov-2026",
+      "score": 103,
+      "by": "anurag",
       "comments": 46,
-      "time": "2026-11-01 01:46"
+      "time": "2026-11-02 01:09"
+    },
+    {
+      "id": 50333774,
+      "title": "From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus",
+      "url": "https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/",
+      "score": 43,
+      "by": "mertbio",
+      "comments": 5,
+      "time": "2026-11-02 06:39"
+    },
+    {
+      "id": 50299811,
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "url": "https://github.com/raphlinus/nibnib",
+      "score": 154,
+      "by": "raphlinus",
+      "comments": 28,
+      "time": "2026-10-30 04:17"
+    },
+    {
+      "id": 50271106,
+      "title": "Tips for more effective fuzz testing with AFL++",
+      "url": "https://nullprogram.com/blog/2025/02/05/",
+      "score": 127,
+      "by": "luu",
+      "comments": 24,
+      "time": "2026-10-28 09:46"
+    },
+    {
+      "id": 50334038,
+      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+      "score": 61,
+      "by": "jonnybgood",
+      "comments": 38,
+      "time": "2026-11-02 07:27"
+    },
+    {
+      "id": 50331402,
+      "title": "OccupySaaS",
+      "url": "https://occupysaas.com/",
+      "score": 326,
+      "by": "misswaterfairy",
+      "comments": 186,
+      "time": "2026-11-02 00:17"
+    },
+    {
+      "id": 50308754,
+      "title": "Copper \u2013 A minimal low-level programming language with OOP and generics",
+      "url": "https://tibleiz.net/copper/",
+      "score": 177,
+      "by": "bogdanoff_2",
+      "comments": 96,
+      "time": "2026-10-30 19:09"
+    },
+    {
+      "id": 50325253,
+      "title": "Show HN: OmniDiff \u2013 Opensource, super fast, content aware Git difftool, in Rust",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "score": 265,
+      "by": "FabCH",
+      "comments": 75,
+      "time": "2026-11-01 13:02"
     },
     {
       "id": 50323088,
       "title": "The AI cost of JavaScript frameworks",
       "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "score": 82,
+      "score": 391,
       "by": "luu",
-      "comments": 50,
+      "comments": 299,
       "time": "2026-11-01 06:06"
+    },
+    {
+      "id": 50299427,
+      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+      "score": 89,
+      "by": "stevenalowe",
+      "comments": 38,
+      "time": "2026-10-30 03:06"
+    },
+    {
+      "id": 50325454,
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "url": "https://arxiv.org/abs/2610.39302",
+      "score": 146,
+      "by": "Anon84",
+      "comments": 71,
+      "time": "2026-11-01 13:24"
+    },
+    {
+      "id": 50314617,
+      "title": "One-minute frequency disturbances from synchronization in power systems",
+      "url": "https://www.nature.com/articles/s41560-026-02144-0",
+      "score": 164,
+      "by": "croes",
+      "comments": 52,
+      "time": "2026-10-31 10:14"
     },
     {
       "id": 50290533,
       "title": "Show HN: Point your camera at a landscape to learn about its geology",
       "url": "https://outcrop.rocks/",
-      "score": 8,
+      "score": 216,
       "by": "headsupernova",
-      "comments": 3,
+      "comments": 47,
       "time": "2026-10-29 15:22"
     },
     {
-      "id": 50311045,
-      "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
-      "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
-      "score": 121,
-      "by": "ohjeez",
-      "comments": 30,
-      "time": "2026-10-30 22:41"
+      "id": 50328251,
+      "title": "Mathematics has changed. Let's act like it",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "score": 324,
+      "by": "smilelamp",
+      "comments": 382,
+      "time": "2026-11-01 18:28"
     },
     {
-      "id": 50309279,
-      "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
-      "url": "http://thales.mit.edu/bush/index.php/4801-2/",
-      "score": 46,
-      "by": "peter_d_sherman",
-      "comments": 8,
-      "time": "2026-10-30 19:52"
+      "id": 50280131,
+      "title": "Radiation Map of the World",
+      "url": "https://radiaverse.com/",
+      "score": 186,
+      "by": "slater",
+      "comments": 52,
+      "time": "2026-10-28 20:06"
     },
     {
-      "id": 50321048,
-      "title": "Altoids Project",
-      "url": "https://uvdn7.github.io/altoids-project/",
-      "score": 115,
-      "by": "uvdn7",
+      "id": 50326099,
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "score": 511,
+      "by": "entryleveljobsc",
+      "comments": 166,
+      "time": "2026-11-01 14:34"
+    },
+    {
+      "id": 50318129,
+      "title": "The She-Wolves of J\u00fclich",
+      "url": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
+      "score": 34,
+      "by": "Thevet",
       "comments": 6,
-      "time": "2026-10-31 22:54"
+      "time": "2026-10-31 17:29"
     },
     {
-      "id": 50318720,
-      "title": "It's the memory latency, stupid",
-      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-      "score": 203,
-      "by": "ntur1337",
-      "comments": 63,
-      "time": "2026-10-31 18:38"
-    },
-    {
-      "id": 50304718,
-      "title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
-      "url": "https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/",
-      "score": 48,
-      "by": "the-mitr",
-      "comments": 3,
-      "time": "2026-10-30 14:46"
-    },
-    {
-      "id": 50289711,
-      "title": "A brief history of just-in-time: forty years of JIT work, from 1960\u20132000",
-      "url": "https://dl.acm.org/doi/10.1145/857076.857077",
-      "score": 30,
-      "by": "gjvc",
-      "comments": 0,
-      "time": "2026-10-29 14:30"
-    },
-    {
-      "id": 50310038,
-      "title": "Understanding Email Encryption",
-      "url": "https://www.fastmail.com/blog/email-encryption/",
-      "score": 19,
-      "by": "nmjenkins",
-      "comments": 4,
-      "time": "2026-10-30 20:55"
-    },
-    {
-      "id": 50316100,
-      "title": "Jepsen: ParticleDB 1.1.4",
-      "url": "https://jepsen.io/analyses/particledb-1.1.4",
-      "score": 269,
-      "by": "aphyr",
-      "comments": 155,
-      "time": "2026-10-31 13:39"
-    },
-    {
-      "id": 50320588,
-      "title": "ChatGPT and Codex usage limits merging",
-      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-      "score": 143,
-      "by": "Zariel",
-      "comments": 89,
-      "time": "2026-10-31 21:49"
-    },
-    {
-      "id": 50319110,
-      "title": "Electrification Could Cut Global Energy Use in Half",
-      "url": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
-      "score": 120,
-      "by": "toomuchtodo",
-      "comments": 53,
-      "time": "2026-10-31 19:13"
-    },
-    {
-      "id": 50319563,
-      "title": "Surviving \"The Graduate\"",
-      "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
-      "score": 120,
-      "by": "samizdis",
-      "comments": 37,
-      "time": "2026-10-31 20:02"
-    },
-    {
-      "id": 50314699,
-      "title": "Do the math: How we took over ChatGPT accounts",
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "score": 337,
-      "by": "armcat",
-      "comments": 165,
-      "time": "2026-10-31 10:30"
-    },
-    {
-      "id": 50284789,
-      "title": "Edgar Allan Poe, Quintessential American Writer",
-      "url": "https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html",
-      "score": 38,
-      "by": "samclemens",
-      "comments": 2,
-      "time": "2026-10-29 05:10"
-    },
-    {
-      "id": 50261253,
-      "title": "Simple circuits can create complex behaviors",
-      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
-      "score": 257,
-      "by": "aatish",
-      "comments": 79,
-      "time": "2026-10-27 16:01"
-    },
-    {
-      "id": 50319061,
-      "title": "The Duty of a Scholar",
-      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
-      "score": 119,
-      "by": "gslin",
-      "comments": 33,
-      "time": "2026-10-31 19:07"
-    },
-    {
-      "id": 50323848,
-      "title": "OpenIDEA: The IDE you know, rebuilt in Rust",
-      "url": "https://github.com/l0ng-ai/openidea",
-      "score": 32,
-      "by": "theanonymousone",
-      "comments": 35,
-      "time": "2026-11-01 09:15"
-    },
-    {
-      "id": 50321522,
-      "title": "Show HN: BBRouter \u2013 Ben Eater's 8-bit computer, simulated on 3D breadboards",
-      "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
-      "score": 35,
-      "by": "creack",
-      "comments": 8,
-      "time": "2026-11-01 00:10"
-    },
-    {
-      "id": 50323187,
-      "title": "Pac-Man's Siren Call",
-      "url": "https://unsung.aresluna.org/pac-mans-siren-call/",
-      "score": 22,
-      "by": "tobr",
-      "comments": 6,
-      "time": "2026-11-01 06:29"
-    },
-    {
-      "id": 50319358,
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "score": 370,
-      "by": "pretext",
-      "comments": 211,
-      "time": "2026-10-31 19:39"
+      "id": 50314508,
+      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library \u2013 phoria2",
+      "url": "https://kevs3d.co.uk/phoria2/",
+      "score": 95,
+      "by": "kevs3d",
+      "comments": 18,
+      "time": "2026-10-31 09:49"
     }
   ]
 }
