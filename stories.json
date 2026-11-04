@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-11-03T11:43:47.728090",
+  "fetched_at": "2026-11-04T11:56:15.705659",
   "count": 30,
   "stories": [
     {
-      "id": 50341174,
-      "title": "Astra can read and write weights to improve Qwen",
-      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-      "score": 2729,
-      "by": "dbreunig",
-      "comments": 825,
-      "time": "2026-11-02 18:21"
-    },
-    {
-      "id": 50348962,
-      "title": "Nvidia \u2013 open-source auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "score": 93,
-      "by": "campervans",
-      "comments": 30,
-      "time": "2026-11-03 07:04"
-    },
-    {
-      "id": 50321605,
-      "title": "Toit v2.0.0",
-      "url": "https://toit.io/blog/toit-v2-0-0/",
-      "score": 103,
-      "by": "floitsch",
-      "comments": 34,
-      "time": "2026-11-01 00:25"
-    },
-    {
-      "id": 50346849,
-      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
-      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-      "score": 246,
-      "by": "bpierre",
-      "comments": 50,
-      "time": "2026-11-03 01:33"
-    },
-    {
-      "id": 50346981,
-      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-      "url": "https://hackertimes.ca/",
-      "score": 307,
-      "by": "polpenn",
-      "comments": 91,
-      "time": "2026-11-03 01:53"
-    },
-    {
-      "id": 50350004,
-      "title": "Revolut moves to self-hosted GLM",
-      "url": "https://twitter.com/guilleflorvs/status/2117379073785696395",
-      "score": 92,
-      "by": "pretext",
-      "comments": 48,
-      "time": "2026-11-03 09:53"
-    },
-    {
-      "id": 50340088,
-      "title": "Show HN: Subvocal \u2013 Talk to your computer without making noise",
-      "url": "#",
-      "score": 716,
-      "by": "aarushyadav",
-      "comments": 345,
-      "time": "2026-11-02 17:16"
-    },
-    {
-      "id": 50334523,
-      "title": "European RISC-V Industrial Computing Initiative",
-      "url": "https://erici.eu",
+      "id": 50362905,
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
       "score": 129,
-      "by": "ymz5",
-      "comments": 70,
-      "time": "2026-11-02 08:58"
+      "by": "novaRom",
+      "comments": 66,
+      "time": "2026-11-04 08:46"
     },
     {
-      "id": 50332342,
-      "title": "Katamari Damacy but it's The Met collection",
-      "url": "https://katamari.vaguespac.es/",
-      "score": 14,
-      "by": "thebigship",
-      "comments": 4,
-      "time": "2026-11-02 02:21"
-    },
-    {
-      "id": 50336518,
-      "title": "If you love a website, back it up",
-      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-      "score": 572,
-      "by": "ingve",
-      "comments": 129,
-      "time": "2026-11-02 13:25"
-    },
-    {
-      "id": 50339397,
-      "title": "US boy names that became girl names and vice versa",
-      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
-      "score": 413,
-      "by": "xoobdev",
-      "comments": 397,
-      "time": "2026-11-02 16:34"
-    },
-    {
-      "id": 50331800,
-      "title": "Vathographs: Photographic depth maps as creative expression",
-      "url": "https://vathography.com/",
-      "score": 23,
-      "by": "hankbond",
-      "comments": 5,
-      "time": "2026-11-02 01:11"
-    },
-    {
-      "id": 50320904,
-      "title": "Efficient algorithms, the Exponential Time Hypothesis, and losing the plot",
-      "url": "https://www.argmin.net/p/galactus-the-devourer",
-      "score": 64,
-      "by": "sebg",
-      "comments": 45,
-      "time": "2026-10-31 22:31"
-    },
-    {
-      "id": 50323123,
-      "title": "Resisting Cognitive Surrender",
-      "url": "https://knlb.dev/essays/surrender",
-      "score": 195,
-      "by": "knlb",
+      "id": 50362980,
+      "title": "Kitty 0.50",
+      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+      "score": 174,
+      "by": "porridgeraisin",
       "comments": 95,
-      "time": "2026-11-01 06:13"
+      "time": "2026-11-04 08:57"
     },
     {
-      "id": 50340619,
-      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
-      "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
-      "score": 240,
-      "by": "tomrod",
-      "comments": 67,
-      "time": "2026-11-02 17:47"
+      "id": 50363019,
+      "title": "Verification Is Not Knowledge: Science needs more than answers",
+      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+      "score": 64,
+      "by": "ersinesen",
+      "comments": 33,
+      "time": "2026-11-04 09:01"
     },
     {
-      "id": 50331988,
-      "title": "Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform",
-      "url": "https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform",
-      "score": 14,
-      "by": "gmays",
-      "comments": 1,
-      "time": "2026-11-02 01:34"
+      "id": 50363378,
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "score": 89,
+      "by": "kevcampb",
+      "comments": 47,
+      "time": "2026-11-04 10:00"
     },
     {
-      "id": 50339913,
-      "title": "Launch HN: Momentic (YC W24) \u2013 Agents that catch bugs by using your app",
-      "url": "https://momentic.ai/",
-      "score": 146,
-      "by": "wuweiweiwu",
-      "comments": 97,
-      "time": "2026-11-02 17:05"
+      "id": 50361268,
+      "title": "Jelly Sheet",
+      "url": "https://mrdoob.github.io/codevember-2026/01/",
+      "score": 282,
+      "by": "memalign",
+      "comments": 72,
+      "time": "2026-11-04 03:40"
     },
     {
-      "id": 50339221,
-      "title": "Show HN: Warsaw in voxels \u2013 An interactive 3D map of the city centre",
-      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
-      "score": 284,
-      "by": "stared",
-      "comments": 45,
-      "time": "2026-11-02 16:25"
-    },
-    {
-      "id": 50336557,
-      "title": "433MHz TUI scanner: using a FT232H connected to a CC1101",
-      "url": "https://blog.jacq.cc/guides/cc1101-433mhz-scanner-ft232h/",
-      "score": 4,
-      "by": "xx__yy",
-      "comments": 0,
-      "time": "2026-11-02 13:28"
-    },
-    {
-      "id": 50347464,
-      "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
-      "url": "https://arxiv.org/abs/2608.25820",
-      "score": 39,
-      "by": "teleforce",
-      "comments": 4,
-      "time": "2026-11-03 02:58"
-    },
-    {
-      "id": 50326246,
-      "title": "Shrinking NixOS RAM footprint and resource requirements to the bare minimum",
-      "url": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
-      "score": 75,
-      "by": "birdculture",
-      "comments": 10,
-      "time": "2026-11-01 14:52"
-    },
-    {
-      "id": 50338728,
-      "title": "Ask HN: Who is hiring? (November 2026)",
+      "id": 50363461,
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
       "url": "#",
-      "score": 221,
-      "by": "whoishiring",
-      "comments": 183,
-      "time": "2026-11-02 16:01"
+      "score": 65,
+      "by": "jameslk",
+      "comments": 25,
+      "time": "2026-11-04 10:10"
     },
     {
-      "id": 50347552,
-      "title": "Show HN: I built a little browser game to practice Vim commands",
-      "url": "https://hjkl.duy.run",
-      "score": 41,
-      "by": "dh1011",
-      "comments": 31,
-      "time": "2026-11-03 03:10"
+      "id": 50339288,
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "score": 853,
+      "by": "xx_ns",
+      "comments": 324,
+      "time": "2026-11-02 16:29"
     },
     {
-      "id": 50349155,
-      "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
-      "url": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
-      "score": 93,
-      "by": "cornfieldlabs",
-      "comments": 30,
-      "time": "2026-11-03 07:36"
+      "id": 50354358,
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "score": 629,
+      "by": "nharada",
+      "comments": 207,
+      "time": "2026-11-03 16:47"
     },
     {
-      "id": 50341736,
-      "title": "Egoless Mathematics in the AI Era",
-      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-      "score": 166,
-      "by": "smilelamp",
-      "comments": 124,
-      "time": "2026-11-02 18:54"
+      "id": 50362466,
+      "title": "The lost malloc()",
+      "url": "https://napcakes.nekoweb.org/posts/malloc/",
+      "score": 62,
+      "by": "matt_d",
+      "comments": 20,
+      "time": "2026-11-04 07:37"
     },
     {
-      "id": 50345924,
-      "title": "Scaling Git at OpenAI",
-      "url": "https://openai.com/index/scaling-git-at-openai/",
-      "score": 236,
-      "by": "makeramen",
-      "comments": 157,
-      "time": "2026-11-02 23:47"
+      "id": 50358702,
+      "title": "The Internals of PostgreSQL",
+      "url": "https://www.interdb.jp/pg/index.html",
+      "score": 298,
+      "by": "ibobev",
+      "comments": 23,
+      "time": "2026-11-03 21:51"
     },
     {
-      "id": 50344224,
-      "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
-      "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
-      "score": 80,
+      "id": 50363554,
+      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "score": 51,
+      "by": "alkyon",
+      "comments": 25,
+      "time": "2026-11-04 10:23"
+    },
+    {
+      "id": 50360164,
+      "title": "C++26 Disapproved",
+      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "score": 328,
+      "by": "thatxliner",
+      "comments": 220,
+      "time": "2026-11-04 00:33"
+    },
+    {
+      "id": 50358352,
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "url": "https://uncracked.city",
+      "score": 78,
+      "by": "passkey1510",
+      "comments": 33,
+      "time": "2026-11-03 21:20"
+    },
+    {
+      "id": 50361154,
+      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+      "score": 78,
       "by": "gmays",
-      "comments": 9,
-      "time": "2026-11-02 21:42"
+      "comments": 25,
+      "time": "2026-11-04 03:20"
     },
     {
-      "id": 50340159,
-      "title": "Polyend releases the Tracker firmware source code",
-      "url": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
-      "score": 141,
-      "by": "austinallegro",
+      "id": 50346755,
+      "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
+      "url": "https://hackertv.org",
+      "score": 352,
+      "by": "dsalzman",
+      "comments": 69,
+      "time": "2026-11-03 01:18"
+    },
+    {
+      "id": 50360573,
+      "title": "Giant canyon on Mars is still tectonically active",
+      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+      "score": 99,
+      "by": "gmays",
+      "comments": 17,
+      "time": "2026-11-04 01:40"
+    },
+    {
+      "id": 50336918,
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "score": 488,
+      "by": "bookofjoe",
+      "comments": 206,
+      "time": "2026-11-02 14:02"
+    },
+    {
+      "id": 50333131,
+      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
+      "score": 200,
+      "by": "zdw",
+      "comments": 32,
+      "time": "2026-11-02 04:31"
+    },
+    {
+      "id": 50361107,
+      "title": "Arrows to arrows, categories to queries (2025)",
+      "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
+      "score": 59,
+      "by": "firstbase",
+      "comments": 2,
+      "time": "2026-11-04 03:11"
+    },
+    {
+      "id": 50355251,
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "score": 648,
+      "by": "theanonymousone",
+      "comments": 188,
+      "time": "2026-11-03 17:40"
+    },
+    {
+      "id": 50355767,
+      "title": "How I use AI (Oct 2026)",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "score": 186,
+      "by": "citelao",
+      "comments": 217,
+      "time": "2026-11-03 18:11"
+    },
+    {
+      "id": 50354960,
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "score": 1330,
+      "by": "sidgarimella",
+      "comments": 447,
+      "time": "2026-11-03 17:22"
+    },
+    {
+      "id": 50358562,
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "score": 453,
+      "by": "paddingtone",
+      "comments": 234,
+      "time": "2026-11-03 21:39"
+    },
+    {
+      "id": 50362993,
+      "title": "Milkman \u2013 The Better Alternative to Postman",
+      "url": "https://milkman.dev/",
+      "score": 46,
+      "by": "jplunien",
       "comments": 46,
-      "time": "2026-11-02 17:20"
+      "time": "2026-11-04 08:58"
     },
     {
-      "id": 50349276,
-      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
-      "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
-      "score": 5,
-      "by": "markusw",
-      "comments": 0,
-      "time": "2026-11-03 07:56"
+      "id": 50322603,
+      "title": "We're training a Figma-fluent editing model",
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+      "score": 125,
+      "by": "gmays",
+      "comments": 55,
+      "time": "2026-11-01 04:05"
     },
     {
-      "id": 50341462,
-      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-      "score": 540,
-      "by": "majorchord",
-      "comments": 156,
-      "time": "2026-11-02 18:39"
+      "id": 50352641,
+      "title": "There is no posttraining data commons",
+      "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+      "score": 83,
+      "by": "lukasschwab",
+      "comments": 22,
+      "time": "2026-11-03 14:45"
+    },
+    {
+      "id": 50351298,
+      "title": "Why Clip Art Was Everywhere Until It Wasn't [video]",
+      "url": "https://www.youtube.com/watch?v=XfLlpxE6AYM",
+      "score": 43,
+      "by": "surprisetalk",
+      "comments": 18,
+      "time": "2026-11-03 12:40"
+    },
+    {
+      "id": 50358582,
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "score": 351,
+      "by": "ibobev",
+      "comments": 55,
+      "time": "2026-11-03 21:40"
+    },
+    {
+      "id": 50351111,
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "score": 994,
+      "by": "syllogism",
+      "comments": 203,
+      "time": "2026-11-03 12:21"
+    },
+    {
+      "id": 50338334,
+      "title": "Curiosity Traps",
+      "url": "https://www.autodidacts.io/curiosity-traps/",
+      "score": 83,
+      "by": "surprisetalk",
+      "comments": 13,
+      "time": "2026-11-02 15:40"
     }
   ]
 }
