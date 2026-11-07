@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-11-06T11:55:46.544688",
+  "fetched_at": "2026-11-07T10:56:08.587530",
   "count": 30,
   "stories": [
     {
-      "id": 50390124,
-      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
-      "score": 142,
-      "by": "microtonal",
-      "comments": 89,
-      "time": "2026-11-06 09:27"
+      "id": 50399933,
+      "title": "Libghostty 1.0",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "score": 674,
+      "by": "mfiguiere",
+      "comments": 110,
+      "time": "2026-11-06 23:30"
     },
     {
-      "id": 50389333,
-      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-      "url": "https://github.com/ppmpreetham/BUI",
-      "score": 268,
-      "by": "ppmpreetham",
-      "comments": 106,
-      "time": "2026-11-06 07:40"
+      "id": 50403214,
+      "title": "Upload Your RAM",
+      "url": "https://uploadyourram.org",
+      "score": 15,
+      "by": "susanthenerd",
+      "comments": 4,
+      "time": "2026-11-07 10:15"
     },
     {
-      "id": 50385272,
-      "title": "Claude Code sends your email address to websites",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "score": 1222,
-      "by": "motoroco",
-      "comments": 387,
-      "time": "2026-11-05 22:17"
+      "id": 50401740,
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "score": 111,
+      "by": "benbreen",
+      "comments": 73,
+      "time": "2026-11-07 04:54"
     },
     {
-      "id": 50390525,
-      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
-      "url": "https://jhr.pensoft.net/articles.php?id=9096",
-      "score": 39,
-      "by": "hitekker",
-      "comments": 13,
-      "time": "2026-11-06 10:21"
+      "id": 50397429,
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "score": 487,
+      "by": "theanomaly",
+      "comments": 112,
+      "time": "2026-11-06 19:48"
     },
     {
-      "id": 50389370,
-      "title": "Kugelblitz \u2013 Mac-Native Google Earth Alternative",
-      "url": "https://apps.metaebene.me/en/kugelblitz",
-      "score": 105,
-      "by": "luoc",
-      "comments": 27,
-      "time": "2026-11-06 07:47"
+      "id": 50391456,
+      "title": "Tesla to wind down Cybertruck production",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "score": 1021,
+      "by": "PLenz",
+      "comments": 1875,
+      "time": "2026-11-06 12:13"
     },
     {
-      "id": 50378228,
-      "title": "sshole",
-      "url": "https://sshhole.com",
-      "score": 2746,
-      "by": "josemrb",
-      "comments": 664,
-      "time": "2026-11-05 12:19"
-    },
-    {
-      "id": 50384233,
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-      "score": 570,
-      "by": "kuberwastaken",
-      "comments": 206,
-      "time": "2026-11-05 20:43"
-    },
-    {
-      "id": 50387796,
-      "title": "Pwn.college",
-      "url": "https://pwn.college/",
-      "score": 176,
-      "by": "tripdout",
-      "comments": 22,
-      "time": "2026-11-06 03:27"
-    },
-    {
-      "id": 50389260,
-      "title": "Hardcoded credentials and other issues in Tata Motors App",
-      "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537",
-      "score": 39,
-      "by": "qtqtqt",
-      "comments": 6,
-      "time": "2026-11-06 07:28"
-    },
-    {
-      "id": 50388122,
-      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
-      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
-      "score": 118,
-      "by": "jonbaer",
-      "comments": 40,
-      "time": "2026-11-06 04:17"
-    },
-    {
-      "id": 50387738,
-      "title": "Nvidia Kubernetes Engine (NVKE)",
-      "url": "https://github.com/dsx-ai-factory/nvke",
-      "score": 86,
-      "by": "gkapur",
-      "comments": 22,
-      "time": "2026-11-06 03:16"
-    },
-    {
-      "id": 50389420,
-      "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
-      "url": "https://worldstrike.fun/",
-      "score": 67,
-      "by": "n4ze3m",
-      "comments": 45,
-      "time": "2026-11-06 07:55"
-    },
-    {
-      "id": 50383057,
-      "title": "The Hackintosh Reborn",
-      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-      "score": 327,
-      "by": "rubatuga",
-      "comments": 184,
-      "time": "2026-11-05 19:08"
-    },
-    {
-      "id": 50386338,
-      "title": "Inkling 2 Small",
-      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
-      "score": 215,
-      "by": "Philpax",
-      "comments": 71,
-      "time": "2026-11-06 00:00"
-    },
-    {
-      "id": 50381383,
-      "title": "Window Sweaters",
-      "url": "https://github.com/saragordic/window-sweaters",
-      "score": 366,
-      "by": "nickswalker",
-      "comments": 111,
-      "time": "2026-11-05 16:50"
-    },
-    {
-      "id": 50389222,
-      "title": "Britain to make salary disclosure in job ads mandatory",
-      "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
-      "score": 246,
-      "by": "1659447091",
-      "comments": 234,
-      "time": "2026-11-06 07:22"
-    },
-    {
-      "id": 50378643,
-      "title": "Show HN: Firenook \u2013 Firebase emulators in Rust: 40\u00d7 faster writes, 10\u00d7 less RAM",
-      "url": "https://firenook.dev/",
-      "score": 126,
-      "by": "sanjevirau",
-      "comments": 17,
-      "time": "2026-11-05 13:07"
-    },
-    {
-      "id": 50380810,
-      "title": "Motorola Signature 27 with GrapheneOS support",
-      "url": "https://motorolanews.com/motorola-signature-27-2/",
-      "score": 498,
-      "by": "monneyboi",
-      "comments": 350,
-      "time": "2026-11-05 16:01"
-    },
-    {
-      "id": 50381687,
-      "title": "Launch HN: Rivet (YC W23) \u2013 Scale and Orchestrate Agents on S3",
-      "url": "https://github.com/rivet-dev/rivet",
-      "score": 102,
-      "by": "NathanFlurry",
-      "comments": 53,
-      "time": "2026-11-05 17:17"
-    },
-    {
-      "id": 50388513,
-      "title": "I struggle to believe that AI R&D is ingenious",
-      "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-      "score": 123,
-      "by": "porridgeraisin",
-      "comments": 103,
-      "time": "2026-11-06 05:19"
-    },
-    {
-      "id": 50378942,
-      "title": "I wish tech companies knew more about me",
-      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
-      "score": 447,
-      "by": "freetonik",
-      "comments": 373,
-      "time": "2026-11-05 13:40"
-    },
-    {
-      "id": 50368208,
-      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-      "url": "https://www.linum.ai/field-notes/pjit-21k",
-      "score": 242,
-      "by": "schopra909",
-      "comments": 22,
-      "time": "2026-11-04 16:45"
-    },
-    {
-      "id": 50379576,
-      "title": "September in Servo: <progress>, rounded rectangles, and more",
-      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
-      "score": 247,
-      "by": "iamnothere",
-      "comments": 62,
-      "time": "2026-11-05 14:34"
-    },
-    {
-      "id": 50385870,
-      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-      "score": 369,
-      "by": "randycupertino",
-      "comments": 180,
-      "time": "2026-11-05 23:09"
-    },
-    {
-      "id": 50386789,
-      "title": "MoofTCP \u2013 A modern replacement for MacTCP on 68k Macs",
-      "url": "https://github.com/matthewmrichter/mooftcp",
+      "id": 50402212,
+      "title": "The Components of Agent Memory",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
       "score": 52,
-      "by": "marcusbasant",
+      "by": "geoffbp",
+      "comments": 27,
+      "time": "2026-11-07 06:39"
+    },
+    {
+      "id": 50403097,
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "score": 10,
+      "by": "infwhispers",
+      "comments": 1,
+      "time": "2026-11-07 09:46"
+    },
+    {
+      "id": 50399991,
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+      "score": 131,
+      "by": "raybb",
+      "comments": 64,
+      "time": "2026-11-06 23:37"
+    },
+    {
+      "id": 50361765,
+      "title": "PostgreSQL Internals [pdf]",
+      "url": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
+      "score": 27,
+      "by": "Foe",
+      "comments": 2,
+      "time": "2026-11-04 05:22"
+    },
+    {
+      "id": 50403052,
+      "title": "Need for Speed Underground 2 online in the browser",
+      "url": "https://nfsu2.xyz/",
+      "score": 6,
+      "by": "fluxusars",
+      "comments": 0,
+      "time": "2026-11-07 09:36"
+    },
+    {
+      "id": 50388001,
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "score": 341,
+      "by": "ChrisArchitect",
+      "comments": 276,
+      "time": "2026-11-06 04:00"
+    },
+    {
+      "id": 50360810,
+      "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+      "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+      "score": 112,
+      "by": "derbOac",
+      "comments": 9,
+      "time": "2026-11-04 02:19"
+    },
+    {
+      "id": 50397219,
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "score": 241,
+      "by": "SerCe",
+      "comments": 107,
+      "time": "2026-11-06 19:33"
+    },
+    {
+      "id": 50357767,
+      "title": "Enterprise Brain \u2013 Memory that learns from work",
+      "url": "https://www.ampup.ai/companybrain",
+      "score": 4,
+      "by": "irodov_rg",
+      "comments": 0,
+      "time": "2026-11-03 20:31"
+    },
+    {
+      "id": 50352701,
+      "title": "The Flash C Compiler",
+      "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
+      "score": 55,
+      "by": "AlexeyBrin",
+      "comments": 9,
+      "time": "2026-11-03 14:49"
+    },
+    {
+      "id": 50403063,
+      "title": "Port 0: The Port That Does Not Exist",
+      "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+      "score": 5,
+      "by": "NewCzech",
+      "comments": 1,
+      "time": "2026-11-07 09:38"
+    },
+    {
+      "id": 50395183,
+      "title": "Notes on San Marino",
+      "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
+      "score": 73,
+      "by": "yorwba",
+      "comments": 25,
+      "time": "2026-11-06 17:12"
+    },
+    {
+      "id": 50373513,
+      "title": "The great butter and cheese fire of 1991",
+      "url": "https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/",
+      "score": 32,
+      "by": "subroutine",
+      "comments": 12,
+      "time": "2026-11-05 00:44"
+    },
+    {
+      "id": 50369283,
+      "title": "8088 Domination Post-Mortem",
+      "url": "https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/",
+      "score": 19,
+      "by": "cosmojg",
+      "comments": 4,
+      "time": "2026-11-04 18:06"
+    },
+    {
+      "id": 50401867,
+      "title": "Asahi Linux Progress Linux 7.3",
+      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+      "score": 187,
+      "by": "ackyshake",
+      "comments": 145,
+      "time": "2026-11-07 05:20"
+    },
+    {
+      "id": 50354097,
+      "title": "Can GROUP BY still be optimized after all these years?",
+      "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
+      "score": 86,
+      "by": "ntur1337",
+      "comments": 15,
+      "time": "2026-11-03 16:30"
+    },
+    {
+      "id": 50394855,
+      "title": "First steps in bare-metal programming using UEFI",
+      "url": "https://kevinboone.me/efitest_index.html",
+      "score": 223,
+      "by": "LaSombra",
+      "comments": 42,
+      "time": "2026-11-06 16:50"
+    },
+    {
+      "id": 50397099,
+      "title": "GitHub's new Git storage architecture",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "score": 148,
+      "by": "DAlperin",
+      "comments": 32,
+      "time": "2026-11-06 19:24"
+    },
+    {
+      "id": 50397994,
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "score": 312,
+      "by": "yurivish",
+      "comments": 265,
+      "time": "2026-11-06 20:27"
+    },
+    {
+      "id": 50392118,
+      "title": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "score": 339,
+      "by": "thisisauserid",
+      "comments": 231,
+      "time": "2026-11-06 13:35"
+    },
+    {
+      "id": 50395450,
+      "title": "Devvm.dev: One VM for every project",
+      "url": "https://devvm.dev/",
+      "score": 159,
+      "by": "luispa",
+      "comments": 61,
+      "time": "2026-11-06 17:30"
+    },
+    {
+      "id": 50397017,
+      "title": "Restaurant Delivery Payment-Skimming Campaign",
+      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+      "score": 128,
+      "by": "fiej",
+      "comments": 63,
+      "time": "2026-11-06 19:19"
+    },
+    {
+      "id": 50397711,
+      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+      "score": 76,
+      "by": "rexbee",
       "comments": 20,
-      "time": "2026-11-06 00:54"
+      "time": "2026-11-06 20:09"
     },
     {
-      "id": 50378571,
-      "title": "Download your favourite YouTube videos",
-      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
-      "score": 359,
-      "by": "surprisetalk",
-      "comments": 170,
-      "time": "2026-11-05 13:00"
+      "id": 50389570,
+      "title": "Chomsky and the two cultures of statistical learning (2011)",
+      "url": "https://www.norvig.com/chomsky.html",
+      "score": 130,
+      "by": "andsoitis",
+      "comments": 102,
+      "time": "2026-11-06 08:18"
     },
     {
-      "id": 50389448,
-      "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
-      "url": "https://obelisk.club/research/app-store-2026",
-      "score": 49,
-      "by": "Peter216",
-      "comments": 45,
-      "time": "2026-11-06 07:59"
-    },
-    {
-      "id": 50383294,
-      "title": "Pangram Image 1.0",
-      "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
-      "score": 116,
-      "by": "gmays",
-      "comments": 54,
-      "time": "2026-11-05 19:27"
-    },
-    {
-      "id": 50379249,
-      "title": "MCP Explained",
-      "url": "https://mcp-explained.com/",
-      "score": 308,
-      "by": "rwilinski",
-      "comments": 130,
-      "time": "2026-11-05 14:08"
-    },
-    {
-      "id": 50378508,
-      "title": "Obscure audio codec is a perfect fit for the N64",
-      "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
-      "score": 243,
-      "by": "frostbyte7",
-      "comments": 29,
-      "time": "2026-11-05 12:51"
+      "id": 50372439,
+      "title": "Bug Finding Considered Harmful?",
+      "url": "https://alperenkeles.com/posts/bug-finding-considered-harmful/",
+      "score": 12,
+      "by": "alpaylan",
+      "comments": 2,
+      "time": "2026-11-04 22:35"
     }
   ]
 }
