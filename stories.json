@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-11-10T12:18:37.537553",
+  "fetched_at": "2026-11-11T11:44:10.068979",
   "count": 30,
   "stories": [
     {
-      "id": 50436640,
-      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-      "score": 378,
-      "by": "aloukissas",
-      "comments": 130,
-      "time": "2026-11-10 06:01"
+      "id": 50449748,
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "score": 225,
+      "by": "js2",
+      "comments": 85,
+      "time": "2026-11-11 04:28"
     },
     {
-      "id": 50429068,
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "score": 666,
-      "by": "lairv",
-      "comments": 846,
-      "time": "2026-11-09 18:01"
-    },
-    {
-      "id": 50437752,
-      "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
-      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+      "id": 50424188,
+      "title": "Plane lifted into back garden as bunker takes shape",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgjv4pj023o",
       "score": 37,
-      "by": "giuliomagnifico",
-      "comments": 26,
-      "time": "2026-11-10 08:59"
+      "by": "edward",
+      "comments": 25,
+      "time": "2026-11-09 11:35"
     },
     {
-      "id": 50437790,
-      "title": "Queens Public library under ransomware attack e-borrowing suspended",
-      "url": "https://connect.queenslibrary.org/",
-      "score": 60,
-      "by": "rustyhancock",
-      "comments": 44,
-      "time": "2026-11-10 09:04"
+      "id": 50441707,
+      "title": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "score": 996,
+      "by": "skittleson",
+      "comments": 357,
+      "time": "2026-11-10 15:25"
     },
     {
-      "id": 50431058,
-      "title": "USPS now offers official ZIP Code boundary polygons",
-      "url": "https://postalpro.usps.com/zcb",
-      "score": 639,
-      "by": "munro",
-      "comments": 322,
-      "time": "2026-11-09 19:58"
+      "id": 50442736,
+      "title": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "score": 864,
+      "by": "p4bl0",
+      "comments": 188,
+      "time": "2026-11-10 16:37"
     },
     {
-      "id": 50436410,
-      "title": "Your TV can see through walls",
-      "url": "https://maurycyz.com/projects/fading/",
-      "score": 157,
-      "by": "Curiositry",
-      "comments": 58,
-      "time": "2026-11-10 05:24"
+      "id": 50445401,
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "score": 488,
+      "by": "NaOH",
+      "comments": 316,
+      "time": "2026-11-10 19:50"
     },
     {
-      "id": 50437106,
-      "title": "Fireworks AI security breach impacts Notion and their customers",
-      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-      "score": 71,
-      "by": "werrett",
-      "comments": 20,
-      "time": "2026-11-10 07:19"
+      "id": 50450007,
+      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+      "url": "https://github.com/gmkurtzer/ginux",
+      "score": 81,
+      "by": "d3Xt3r",
+      "comments": 38,
+      "time": "2026-11-11 05:25"
     },
     {
-      "id": 50414117,
-      "title": "Show HN: Ghanaian street games you can play in the browser",
-      "url": "https://www.ghanastreetgames.com/",
-      "score": 12,
-      "by": "samuelaidoo45",
-      "comments": 2,
-      "time": "2026-11-08 15:31"
+      "id": 50448921,
+      "title": "A great old-timey game-programming hack (2013)",
+      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "score": 185,
+      "by": "palsecam",
+      "comments": 36,
+      "time": "2026-11-11 01:56"
     },
     {
-      "id": 50438377,
-      "title": "'C:\\> FORMAT C:' \u2013 relax, it's just a screen saver",
-      "url": "https://fakedos.com/",
-      "score": 8,
-      "by": "TheIncredibleCh",
-      "comments": 1,
-      "time": "2026-11-10 10:32"
+      "id": 50446520,
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "score": 288,
+      "by": "linolevan",
+      "comments": 251,
+      "time": "2026-11-10 21:25"
     },
     {
-      "id": 50434310,
-      "title": "Locating the source of a mysterious beep",
-      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-      "score": 220,
-      "by": "bigwheels",
-      "comments": 102,
-      "time": "2026-11-10 00:10"
+      "id": 50449275,
+      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+      "score": 112,
+      "by": "Metacelsus",
+      "comments": 76,
+      "time": "2026-11-11 02:57"
     },
     {
-      "id": 50408336,
-      "title": "Billion Watts in the Speaker [video]",
-      "url": "https://www.youtube.com/watch?v=PHOcTXYaMfg",
-      "score": 27,
-      "by": "Element_",
-      "comments": 11,
-      "time": "2026-11-07 21:45"
+      "id": 50446246,
+      "title": "Six Math Essentials",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "score": 261,
+      "by": "digital55",
+      "comments": 51,
+      "time": "2026-11-10 20:58"
     },
     {
-      "id": 50392733,
-      "title": "How hard is it to check for whitespace?",
-      "url": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
-      "score": 51,
-      "by": "theanonymousone",
-      "comments": 12,
-      "time": "2026-11-06 14:31"
+      "id": 50443824,
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "score": 417,
+      "by": "speckx",
+      "comments": 236,
+      "time": "2026-11-10 18:02"
     },
     {
-      "id": 50427362,
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "score": 539,
-      "by": "ocd",
-      "comments": 303,
-      "time": "2026-11-09 16:00"
+      "id": 50444129,
+      "title": "Starlink Mini 2",
+      "url": "https://starlink.com/mini-2",
+      "score": 435,
+      "by": "robertjfclarke",
+      "comments": 462,
+      "time": "2026-11-10 18:22"
     },
     {
-      "id": 50424581,
-      "title": "Foldable Flight: The Best Paper Airplanes",
-      "url": "https://www.foldableflight.com",
-      "score": 1065,
-      "by": "vismit2000",
-      "comments": 151,
-      "time": "2026-11-09 12:19"
+      "id": 50439193,
+      "title": "AlphaProof Code",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "score": 644,
+      "by": "ilreb",
+      "comments": 186,
+      "time": "2026-11-10 12:11"
     },
     {
-      "id": 50429734,
-      "title": "E-means: Outperforming k-means in one-tenth the epochs",
-      "url": "https://e-means.github.io/",
-      "score": 420,
-      "by": "porridgeraisin",
-      "comments": 50,
-      "time": "2026-11-09 18:45"
+      "id": 50427107,
+      "title": "Why I wrote the BEAM book (2025)",
+      "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
+      "score": 107,
+      "by": "zenincognito",
+      "comments": 17,
+      "time": "2026-11-09 15:41"
     },
     {
-      "id": 50434264,
-      "title": "Horible public key tricks",
-      "url": "https://maurycyz.com/projects/badcert/",
-      "score": 183,
-      "by": "Curiositry",
-      "comments": 60,
-      "time": "2026-11-10 00:07"
+      "id": 50393070,
+      "title": "Why Amstrad chose the 3\" drives",
+      "url": "https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/",
+      "score": 52,
+      "by": "Skyfall106",
+      "comments": 14,
+      "time": "2026-11-06 14:56"
     },
     {
-      "id": 50435898,
-      "title": "Ultorg: The User Interface for Relational Databases",
-      "url": "https://www.ultorg.com/",
-      "score": 89,
-      "by": "Ivoah",
-      "comments": 27,
-      "time": "2026-11-10 03:59"
+      "id": 50443427,
+      "title": "Val Town is winding down",
+      "url": "https://blog.val.town/winding-down",
+      "score": 391,
+      "by": "tosh",
+      "comments": 97,
+      "time": "2026-11-10 17:31"
     },
     {
-      "id": 50436706,
-      "title": "ClickHouse Acquires Xata",
-      "url": "https://xata.io/blog/xata-is-joining-clickhouse",
+      "id": 50414657,
+      "title": "A Compendium of Abandoned Greenhouses",
+      "url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
       "score": 50,
-      "by": "mebcitto",
-      "comments": 7,
-      "time": "2026-11-10 06:14"
+      "by": "ohjeez",
+      "comments": 3,
+      "time": "2026-11-08 16:30"
+    },
+    {
+      "id": 50443812,
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "score": 382,
+      "by": "paulirish",
+      "comments": 122,
+      "time": "2026-11-10 18:01"
+    },
+    {
+      "id": 50447074,
+      "title": "Tracking Anthropic-discovered vulnerabilities",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "score": 410,
+      "by": "panic",
+      "comments": 195,
+      "time": "2026-11-10 22:17"
+    },
+    {
+      "id": 50414004,
+      "title": "\"Jumping genes\" helped ants evolve after the extinction of the dinosaurs",
+      "url": "https://www.uni-muenster.de/news/view.php?cmdid=15659&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08",
+      "score": 17,
+      "by": "gmays",
+      "comments": 0,
+      "time": "2026-11-08 15:16"
+    },
+    {
+      "id": 50443716,
+      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "score": 240,
+      "by": "Yorothegoat",
+      "comments": 172,
+      "time": "2026-11-10 17:55"
+    },
+    {
+      "id": 50406224,
+      "title": "Hacking the Meta Ray-Ban smartglasses",
+      "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
+      "score": 124,
+      "by": "moooooky",
+      "comments": 41,
+      "time": "2026-11-07 17:19"
+    },
+    {
+      "id": 50449891,
+      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+      "url": "https://github.com/adrbn/bo2-mac",
+      "score": 35,
+      "by": "adrbn",
+      "comments": 3,
+      "time": "2026-11-11 04:56"
     },
     {
       "id": 50438318,
       "title": "AI usage generates a fragile codebase",
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "score": 80,
+      "score": 577,
       "by": "plun9",
-      "comments": 78,
+      "comments": 539,
       "time": "2026-11-10 10:25"
     },
     {
-      "id": 50426175,
-      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
-      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-      "score": 323,
-      "by": "speckx",
-      "comments": 220,
-      "time": "2026-11-09 14:31"
+      "id": 50429210,
+      "title": "A ZIP-style Prolog VM for trilog",
+      "url": "https://github.com/no382001/zipc",
+      "score": 16,
+      "by": "triska",
+      "comments": 6,
+      "time": "2026-11-09 18:10"
     },
     {
-      "id": 50438480,
-      "title": "What Constant Surveillance Is Doing to Children",
-      "url": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
-      "score": 27,
-      "by": "FinnLobsien",
-      "comments": 11,
-      "time": "2026-11-10 10:47"
+      "id": 50448340,
+      "title": "LLMs Play Zachtronics' TIS-100",
+      "url": "https://tis-100.wincon.dev/",
+      "score": 74,
+      "by": "fairestvalue",
+      "comments": 15,
+      "time": "2026-11-11 00:37"
     },
     {
-      "id": 50435105,
-      "title": "Formalizing CPython",
-      "url": "https://broyojo.com/python-formalization/",
-      "score": 87,
-      "by": "carnevalem",
-      "comments": 33,
-      "time": "2026-11-10 01:56"
+      "id": 50433216,
+      "title": "Process Explorer for macOS",
+      "url": "https://github.com/microsoft/Procexp-Mac",
+      "score": 215,
+      "by": "ingve",
+      "comments": 69,
+      "time": "2026-11-09 22:30"
     },
     {
-      "id": 50428907,
-      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
-      "url": "https://www.watched.earth",
-      "score": 380,
-      "by": "a585gupt",
-      "comments": 66,
-      "time": "2026-11-09 17:51"
+      "id": 50443090,
+      "title": "AMD's Zen 6 Family: Feeding the Beast",
+      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+      "score": 245,
+      "by": "pixelpoet",
+      "comments": 99,
+      "time": "2026-11-10 17:02"
     },
     {
-      "id": 50386246,
-      "title": "A primer on GPUs and kernel optimization",
-      "url": "https://www.nabo.dev/blogs/kernel-primer",
-      "score": 164,
-      "by": "nomi_uw",
-      "comments": 14,
-      "time": "2026-11-05 23:48"
+      "id": 50447036,
+      "title": "$30M Raised to Redo the CPU",
+      "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+      "score": 113,
+      "by": "shioyama",
+      "comments": 115,
+      "time": "2026-11-10 22:14"
     },
     {
-      "id": 50429430,
-      "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
-      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
-      "score": 141,
-      "by": "sshah03",
-      "comments": 81,
-      "time": "2026-11-09 18:25"
-    },
-    {
-      "id": 50429426,
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "url": "https://github.com/thisisme6598/gemini_files/",
-      "score": 635,
-      "by": "gf74918",
-      "comments": 134,
-      "time": "2026-11-09 18:24"
-    },
-    {
-      "id": 50429024,
-      "title": "Muse Ember: Our smallest, most efficient model",
-      "url": "https://research.meta.ai/blog/muse-ember",
-      "score": 310,
-      "by": "dvaplima",
-      "comments": 132,
-      "time": "2026-11-09 17:58"
-    },
-    {
-      "id": 50438833,
-      "title": "Merz: Google Cloud is sovereign enough for intelligence agencies",
-      "url": "https://www.heise.de/en/news/Merz-Google-Cloud-is-sovereign-enough-for-intelligence-agencies-11508564.html",
-      "score": 8,
-      "by": "kakoni",
-      "comments": 1,
-      "time": "2026-11-10 11:29"
-    },
-    {
-      "id": 50426681,
-      "title": "On Being an Engineer in 2026",
-      "url": "https://twitter.com/shaharglazner/status/2119796029256032278",
-      "score": 130,
-      "by": "talboren",
-      "comments": 209,
-      "time": "2026-11-09 15:07"
-    },
-    {
-      "id": 50406348,
-      "title": "Time for AVIF everywhere?",
-      "url": "https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html",
-      "score": 88,
-      "by": "speckx",
-      "comments": 61,
-      "time": "2026-11-07 17:34"
+      "id": 50439695,
+      "title": "Ableton Live 13",
+      "url": "https://www.ableton.com/en/live/",
+      "score": 315,
+      "by": "phaser",
+      "comments": 339,
+      "time": "2026-11-10 12:58"
     }
   ]
 }
