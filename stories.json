@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-11-13T11:58:32.599110",
+  "fetched_at": "2026-11-14T11:17:06.636700",
   "count": 30,
   "stories": [
     {
-      "id": 50481187,
-      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "url": "https://status.claude.com/incidents/nn11wk485zfn",
-      "score": 226,
-      "by": "__vivek",
-      "comments": 163,
-      "time": "2026-11-13 10:18"
+      "id": 50440709,
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "score": 89,
+      "by": "casi",
+      "comments": 51,
+      "time": "2026-11-10 14:16"
     },
     {
-      "id": 50467087,
-      "title": "Jensen Huang resigns",
-      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-      "score": 3639,
-      "by": "lldb",
-      "comments": 3187,
-      "time": "2026-11-12 13:52"
-    },
-    {
-      "id": 50478515,
-      "title": "IceWM",
-      "url": "https://ice-wm.org/",
-      "score": 214,
-      "by": "inatreecrown2",
-      "comments": 104,
-      "time": "2026-11-13 04:54"
-    },
-    {
-      "id": 50480480,
-      "title": "The Dawn of the Data Intelligence Engineer",
-      "url": "https://motherduck.com/blog/the-data-intelligence-engineer/",
-      "score": 49,
-      "by": "jonbaer",
-      "comments": 39,
-      "time": "2026-11-13 09:08"
-    },
-    {
-      "id": 50472038,
-      "title": "Rust 1.100",
-      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-      "score": 720,
-      "by": "mbStavola",
-      "comments": 263,
-      "time": "2026-11-12 18:39"
-    },
-    {
-      "id": 50477649,
-      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
-      "url": "https://brave.com/blog/search-api-agentic-payments/",
-      "score": 128,
-      "by": "sjdh76",
-      "comments": 76,
-      "time": "2026-11-13 03:08"
-    },
-    {
-      "id": 50482045,
-      "title": "Europe's electric car sales jump 49% as global EV sales grow",
-      "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/",
-      "score": 21,
-      "by": "cisc",
-      "comments": 6,
-      "time": "2026-11-13 11:34"
-    },
-    {
-      "id": 50470488,
-      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-      "url": "https://github.com/simpsoka/zigzag",
-      "score": 557,
-      "by": "simpsoka",
-      "comments": 192,
-      "time": "2026-11-12 17:02"
-    },
-    {
-      "id": 50472260,
-      "title": "Gemini 4 Hydrogen and Orchestrator",
-      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-      "score": 426,
-      "by": "jonbaer",
-      "comments": 124,
-      "time": "2026-11-12 18:52"
-    },
-    {
-      "id": 50481220,
-      "title": "Claude Is Down",
-      "url": "https://status.claude.com/history",
-      "score": 115,
-      "by": "cornfieldlabs",
-      "comments": 90,
-      "time": "2026-11-13 10:20"
-    },
-    {
-      "id": 50472490,
-      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-      "score": 326,
-      "by": "cybermango",
-      "comments": 135,
-      "time": "2026-11-12 19:05"
-    },
-    {
-      "id": 50475713,
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-      "score": 273,
-      "by": "sroussey",
-      "comments": 77,
-      "time": "2026-11-12 23:06"
-    },
-    {
-      "id": 50473190,
-      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-      "score": 301,
-      "by": "jbredeche",
-      "comments": 332,
-      "time": "2026-11-12 19:51"
-    },
-    {
-      "id": 50468888,
-      "title": "I'm making LLMs work on small and old devices",
-      "url": "https://github.com/hyperionaidev/smolmaxxing/",
-      "score": 390,
-      "by": "mrashad74",
-      "comments": 141,
-      "time": "2026-11-12 15:23"
-    },
-    {
-      "id": 50471731,
-      "title": "Service degradation on Microsoft 365",
-      "url": "https://status.cloud.microsoft/",
-      "score": 960,
-      "by": "dkpk",
-      "comments": 822,
-      "time": "2026-11-12 18:20"
-    },
-    {
-      "id": 50474361,
-      "title": "Foundation Models framework",
-      "url": "https://developer.apple.com/foundation-models-framework/",
-      "score": 218,
-      "by": "kermatt",
-      "comments": 31,
-      "time": "2026-11-12 21:13"
-    },
-    {
-      "id": 50477714,
-      "title": "Switcher (2004)",
-      "url": "https://folklore.org/Switcher.html",
-      "score": 103,
-      "by": "sammatilda",
-      "comments": 32,
-      "time": "2026-11-13 03:14"
-    },
-    {
-      "id": 50479098,
-      "title": "Global Microsoft Outage",
-      "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
-      "score": 156,
-      "by": "TechTechTech",
-      "comments": 84,
-      "time": "2026-11-13 06:18"
-    },
-    {
-      "id": 50467618,
-      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "id": 50493062,
+      "title": "Ggml v1.0.0",
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
       "score": 278,
-      "by": "klaussilveira",
-      "comments": 104,
-      "time": "2026-11-12 14:18"
+      "by": "cobychapple",
+      "comments": 46,
+      "time": "2026-11-14 02:28"
     },
     {
-      "id": 50471761,
-      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
-      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
-      "score": 205,
-      "by": "ozirus",
-      "comments": 39,
-      "time": "2026-11-12 18:22"
+      "id": 50493904,
+      "title": "Monkey Island: all 13 versions side by side",
+      "url": "https://monkeyisland.pages.dev/",
+      "score": 151,
+      "by": "maximilianburke",
+      "comments": 40,
+      "time": "2026-11-14 04:23"
     },
     {
-      "id": 50479721,
-      "title": "TSMC Hacked",
-      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm",
-      "score": 101,
+      "id": 50493251,
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "score": 617,
+      "by": "speckx",
+      "comments": 354,
+      "time": "2026-11-14 02:52"
+    },
+    {
+      "id": 50489641,
+      "title": "FAA issues national ground stop \u2013\u00a0lifted 4.5 hours later",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "score": 1554,
+      "by": "zulln",
+      "comments": 1176,
+      "time": "2026-11-13 21:05"
+    },
+    {
+      "id": 50491980,
+      "title": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update",
+      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "score": 153,
+      "by": "Retro_Dev",
+      "comments": 47,
+      "time": "2026-11-14 00:06"
+    },
+    {
+      "id": 50491423,
+      "title": "Terminal borders that don't cost a cell",
+      "url": "https://www.joshka.net/cell-borders/",
+      "score": 272,
+      "by": "vinhnx",
+      "comments": 119,
+      "time": "2026-11-13 23:06"
+    },
+    {
+      "id": 50491545,
+      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "url": "https://grounds.top/",
+      "score": 153,
+      "by": "gvsi",
+      "comments": 21,
+      "time": "2026-11-13 23:17"
+    },
+    {
+      "id": 50491830,
+      "title": "What happened to 3Com?",
+      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+      "score": 150,
+      "by": "gvieri",
+      "comments": 78,
+      "time": "2026-11-13 23:48"
+    },
+    {
+      "id": 50484658,
+      "title": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "score": 308,
+      "by": "helloplanets",
+      "comments": 389,
+      "time": "2026-11-13 15:08"
+    },
+    {
+      "id": 50488470,
+      "title": "Found: A protein that drives ageing without unleashing inflammation",
+      "url": "https://www.nature.com/articles/d41586-026-03638-3",
+      "score": 206,
+      "by": "gumby",
+      "comments": 40,
+      "time": "2026-11-13 19:25"
+    },
+    {
+      "id": 50488325,
+      "title": "FM-1 Workbench",
+      "url": "https://open.m-vave.com/fm1-workbench",
+      "score": 239,
+      "by": "simonebrunozzi",
+      "comments": 159,
+      "time": "2026-11-13 19:14"
+    },
+    {
+      "id": 50448432,
+      "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+      "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+      "score": 18,
+      "by": "JDevlieghere",
+      "comments": 3,
+      "time": "2026-11-11 00:48"
+    },
+    {
+      "id": 50490593,
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "url": "https://orcasairband.com/",
+      "score": 268,
+      "by": "mmaunder",
+      "comments": 61,
+      "time": "2026-11-13 22:04"
+    },
+    {
+      "id": 50487185,
+      "title": "After 600 experiments, here's what I discovered about JEPA world models",
+      "url": "https://haddyalchaer.com/jepa",
+      "score": 264,
+      "by": "halcdev",
+      "comments": 43,
+      "time": "2026-11-13 17:55"
+    },
+    {
+      "id": 50491400,
+      "title": "How Not to Build a Music Player",
+      "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
+      "score": 119,
+      "by": "vinhnx",
+      "comments": 48,
+      "time": "2026-11-13 23:04"
+    },
+    {
+      "id": 50488464,
+      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "score": 131,
       "by": "gmays",
-      "comments": 15,
-      "time": "2026-11-13 07:39"
+      "comments": 23,
+      "time": "2026-11-13 19:24"
     },
     {
-      "id": 50478609,
-      "title": "Microsoft Outlook/365 still down after 12 hours",
-      "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
-      "score": 352,
-      "by": "player85",
-      "comments": 247,
-      "time": "2026-11-13 05:08"
+      "id": 50487228,
+      "title": "Show HN: Isometric SF \u2013 A pixel-art map of the SF Bay Area",
+      "url": "https://isometricsf.com/",
+      "score": 216,
+      "by": "juscha1",
+      "comments": 70,
+      "time": "2026-11-13 17:58"
     },
     {
-      "id": 50465829,
-      "title": "Anthropic IPO",
-      "url": "https://ipo.anthropic.com/us/",
-      "score": 953,
-      "by": "josephljohnston",
-      "comments": 872,
-      "time": "2026-11-12 11:46"
+      "id": 50444761,
+      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+      "url": "https://github.com/0xdeadf1sh/T1DMAI",
+      "score": 36,
+      "by": "0xdeadf1sh",
+      "comments": 14,
+      "time": "2026-11-10 19:07"
     },
     {
-      "id": 50458849,
-      "title": "Relax: JIT compiler for Rust to reduce build times",
-      "url": "https://makepad.github.io/relax/",
-      "score": 164,
-      "by": "adamnemecek",
-      "comments": 83,
-      "time": "2026-11-11 21:20"
+      "id": 50488835,
+      "title": "Live-migration support in FreeBSD and bhyve coming",
+      "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+      "score": 109,
+      "by": "JohnDohnBohn",
+      "comments": 25,
+      "time": "2026-11-13 19:58"
     },
     {
-      "id": 50471650,
-      "title": "Show HN: AgentRun \u2013 open-source, Self-improving Managed Agents",
-      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-      "score": 110,
-      "by": "miguelrios",
-      "comments": 29,
-      "time": "2026-11-12 18:15"
+      "id": 50492860,
+      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
+      "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+      "score": 140,
+      "by": "gmays",
+      "comments": 30,
+      "time": "2026-11-14 02:02"
     },
     {
-      "id": 50480659,
-      "title": "Is there a 'right amount' of AI?",
-      "url": "https://coyotetracks.org/blog/right-amount-of-ai/",
-      "score": 3,
-      "by": "milali",
-      "comments": 0,
-      "time": "2026-11-13 09:27"
+      "id": 50454791,
+      "title": "Service Crew Discovers Rare Yellow Burbot in Oswego Harbor",
+      "url": "https://www.fws.gov/story/2026-11/service-crew-discovers-rare-yellow-burbot-oswego-harbor",
+      "score": 5,
+      "by": "tart-lemonade",
+      "comments": 1,
+      "time": "2026-11-11 15:47"
     },
     {
-      "id": 50477231,
-      "title": "Nvidia employees petition to bring back Jensen Huang",
-      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-      "score": 637,
-      "by": "lavendermon",
-      "comments": 480,
-      "time": "2026-11-13 02:16"
+      "id": 50484650,
+      "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
+      "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
+      "score": 175,
+      "by": "bookofjoe",
+      "comments": 101,
+      "time": "2026-11-13 15:08"
     },
     {
-      "id": 50460263,
-      "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
-      "url": "https://github.com/jjba23/sift",
-      "score": 60,
-      "by": "jjba23",
-      "comments": 8,
-      "time": "2026-11-11 23:09"
+      "id": 50474959,
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "score": 759,
+      "by": "scottjg",
+      "comments": 214,
+      "time": "2026-11-12 22:03"
     },
     {
-      "id": 50467460,
-      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-      "score": 222,
-      "by": "dverlaeckt80",
-      "comments": 6,
-      "time": "2026-11-12 14:12"
+      "id": 50494696,
+      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+      "url": "#",
+      "score": 34,
+      "by": "shnock",
+      "comments": 35,
+      "time": "2026-11-14 06:56"
     },
     {
-      "id": 50481870,
-      "title": "AI Is Destroying the Trust Between Writers and Readers",
-      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
-      "score": 8,
-      "by": "FinnLobsien",
-      "comments": 0,
-      "time": "2026-11-13 11:13"
+      "id": 50484235,
+      "title": "A technical vision for the Haskell ecosystem",
+      "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+      "score": 208,
+      "by": "cosmic_quanta",
+      "comments": 125,
+      "time": "2026-11-13 14:43"
+    },
+    {
+      "id": 50492315,
+      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+      "score": 168,
+      "by": "snow_mac",
+      "comments": 60,
+      "time": "2026-11-14 00:52"
+    },
+    {
+      "id": 50462975,
+      "title": "The Other Nefertiti (2015)",
+      "url": "https://alloversky.com/puzzlepieces/the-other-nefertiti",
+      "score": 21,
+      "by": "dmbche",
+      "comments": 4,
+      "time": "2026-11-12 04:08"
+    },
+    {
+      "id": 50487605,
+      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+      "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+      "score": 88,
+      "by": "dethmasque",
+      "comments": 43,
+      "time": "2026-11-13 18:23"
+    },
+    {
+      "id": 50492950,
+      "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
+      "url": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
+      "score": 112,
+      "by": "billybuckwheat",
+      "comments": 11,
+      "time": "2026-11-14 02:15"
     }
   ]
 }
