@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-11-14T11:17:06.636700",
+  "fetched_at": "2026-11-15T11:49:48.661753",
   "count": 30,
   "stories": [
+    {
+      "id": 50500963,
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "score": 1288,
+      "by": "ls612",
+      "comments": 868,
+      "time": "2026-11-14 21:22"
+    },
+    {
+      "id": 50505271,
+      "title": "Why did some Apollo missions carry a grenade launcher?",
+      "url": "https://space.stackexchange.com/questions/37775",
+      "score": 52,
+      "by": "Skyfall106",
+      "comments": 21,
+      "time": "2026-11-15 09:06"
+    },
+    {
+      "id": 50499017,
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "score": 849,
+      "by": "armcat",
+      "comments": 322,
+      "time": "2026-11-14 17:43"
+    },
+    {
+      "id": 50502988,
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "score": 206,
+      "by": "ybathaee",
+      "comments": 71,
+      "time": "2026-11-15 01:18"
+    },
+    {
+      "id": 50474529,
+      "title": "Handwritten 200-year-old dismissal notice found on roof tile",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
+      "score": 27,
+      "by": "nephihaha",
+      "comments": 15,
+      "time": "2026-11-12 21:27"
+    },
+    {
+      "id": 50481056,
+      "title": "Strictly monotonic timestamps and gapless sequences in Rust",
+      "url": "https://tsoracle.rs/",
+      "score": 11,
+      "by": "znano",
+      "comments": 1,
+      "time": "2026-11-13 10:04"
+    },
+    {
+      "id": 50504277,
+      "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
+      "url": "https://netbsd.org/~nia/disk-encrypt/",
+      "score": 45,
+      "by": "jaypatelani",
+      "comments": 4,
+      "time": "2026-11-15 05:29"
+    },
+    {
+      "id": 50501594,
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "score": 230,
+      "by": "Skyfall106",
+      "comments": 114,
+      "time": "2026-11-14 22:22"
+    },
+    {
+      "id": 50503465,
+      "title": "My favourite modern NES games",
+      "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+      "score": 105,
+      "by": "jordigh",
+      "comments": 10,
+      "time": "2026-11-15 02:41"
+    },
+    {
+      "id": 50484234,
+      "title": "Semicircle Packing",
+      "url": "https://rorz.io/writing/semicircle-packing",
+      "score": 37,
+      "by": "sarreph",
+      "comments": 4,
+      "time": "2026-11-13 14:42"
+    },
+    {
+      "id": 50482222,
+      "title": "The Evolving Story of How Chemistry Became Biology",
+      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+      "score": 60,
+      "by": "pseudolus",
+      "comments": 14,
+      "time": "2026-11-13 11:55"
+    },
+    {
+      "id": 50496976,
+      "title": "KDE: The documentary [video]",
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "score": 498,
+      "by": "mrkn1",
+      "comments": 109,
+      "time": "2026-11-14 13:43"
+    },
+    {
+      "id": 50482279,
+      "title": "Show HN: Carton Clock \u2013 A working pendulum clock made from empty drink cartons",
+      "url": "https://www.niklasroy.com/carton-clock/",
+      "score": 4,
+      "by": "r0r0",
+      "comments": 0,
+      "time": "2026-11-13 12:00"
+    },
+    {
+      "id": 50499038,
+      "title": "A family tree of software job titles",
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "score": 333,
+      "by": "umerf",
+      "comments": 167,
+      "time": "2026-11-14 17:45"
+    },
     {
       "id": 50440709,
       "title": "Why get an expensive Pi when I have an old phone?",
       "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-      "score": 89,
+      "score": 566,
       "by": "casi",
-      "comments": 51,
+      "comments": 306,
       "time": "2026-11-10 14:16"
     },
     {
-      "id": 50493062,
-      "title": "Ggml v1.0.0",
-      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-      "score": 278,
-      "by": "cobychapple",
-      "comments": 46,
-      "time": "2026-11-14 02:28"
-    },
-    {
-      "id": 50493904,
-      "title": "Monkey Island: all 13 versions side by side",
-      "url": "https://monkeyisland.pages.dev/",
-      "score": 151,
-      "by": "maximilianburke",
-      "comments": 40,
-      "time": "2026-11-14 04:23"
-    },
-    {
-      "id": 50493251,
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "score": 617,
-      "by": "speckx",
-      "comments": 354,
-      "time": "2026-11-14 02:52"
-    },
-    {
-      "id": 50489641,
-      "title": "FAA issues national ground stop \u2013\u00a0lifted 4.5 hours later",
-      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-      "score": 1554,
-      "by": "zulln",
-      "comments": 1176,
-      "time": "2026-11-13 21:05"
-    },
-    {
-      "id": 50491980,
-      "title": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update",
-      "url": "https://unsloth.ai/docs/models/qwen3.8",
-      "score": 153,
-      "by": "Retro_Dev",
-      "comments": 47,
-      "time": "2026-11-14 00:06"
-    },
-    {
-      "id": 50491423,
-      "title": "Terminal borders that don't cost a cell",
-      "url": "https://www.joshka.net/cell-borders/",
-      "score": 272,
-      "by": "vinhnx",
-      "comments": 119,
-      "time": "2026-11-13 23:06"
-    },
-    {
-      "id": 50491545,
-      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-      "url": "https://grounds.top/",
-      "score": 153,
-      "by": "gvsi",
-      "comments": 21,
-      "time": "2026-11-13 23:17"
-    },
-    {
-      "id": 50491830,
-      "title": "What happened to 3Com?",
-      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
-      "score": 150,
-      "by": "gvieri",
-      "comments": 78,
-      "time": "2026-11-13 23:48"
-    },
-    {
-      "id": 50484658,
-      "title": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
-      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "score": 308,
-      "by": "helloplanets",
-      "comments": 389,
-      "time": "2026-11-13 15:08"
-    },
-    {
-      "id": 50488470,
-      "title": "Found: A protein that drives ageing without unleashing inflammation",
-      "url": "https://www.nature.com/articles/d41586-026-03638-3",
-      "score": 206,
-      "by": "gumby",
-      "comments": 40,
-      "time": "2026-11-13 19:25"
-    },
-    {
-      "id": 50488325,
-      "title": "FM-1 Workbench",
-      "url": "https://open.m-vave.com/fm1-workbench",
-      "score": 239,
-      "by": "simonebrunozzi",
-      "comments": 159,
-      "time": "2026-11-13 19:14"
-    },
-    {
-      "id": 50448432,
-      "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
-      "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
-      "score": 18,
-      "by": "JDevlieghere",
-      "comments": 3,
-      "time": "2026-11-11 00:48"
-    },
-    {
-      "id": 50490593,
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "url": "https://orcasairband.com/",
-      "score": 268,
-      "by": "mmaunder",
-      "comments": 61,
-      "time": "2026-11-13 22:04"
-    },
-    {
-      "id": 50487185,
-      "title": "After 600 experiments, here's what I discovered about JEPA world models",
-      "url": "https://haddyalchaer.com/jepa",
-      "score": 264,
-      "by": "halcdev",
-      "comments": 43,
-      "time": "2026-11-13 17:55"
-    },
-    {
-      "id": 50491400,
-      "title": "How Not to Build a Music Player",
-      "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
-      "score": 119,
-      "by": "vinhnx",
-      "comments": 48,
-      "time": "2026-11-13 23:04"
-    },
-    {
-      "id": 50488464,
-      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-      "score": 131,
-      "by": "gmays",
-      "comments": 23,
-      "time": "2026-11-13 19:24"
-    },
-    {
-      "id": 50487228,
-      "title": "Show HN: Isometric SF \u2013 A pixel-art map of the SF Bay Area",
-      "url": "https://isometricsf.com/",
-      "score": 216,
-      "by": "juscha1",
-      "comments": 70,
-      "time": "2026-11-13 17:58"
-    },
-    {
-      "id": 50444761,
-      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
-      "url": "https://github.com/0xdeadf1sh/T1DMAI",
-      "score": 36,
-      "by": "0xdeadf1sh",
-      "comments": 14,
-      "time": "2026-11-10 19:07"
-    },
-    {
-      "id": 50488835,
-      "title": "Live-migration support in FreeBSD and bhyve coming",
-      "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
-      "score": 109,
-      "by": "JohnDohnBohn",
-      "comments": 25,
-      "time": "2026-11-13 19:58"
-    },
-    {
-      "id": 50492860,
-      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
-      "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
-      "score": 140,
-      "by": "gmays",
-      "comments": 30,
-      "time": "2026-11-14 02:02"
-    },
-    {
-      "id": 50454791,
-      "title": "Service Crew Discovers Rare Yellow Burbot in Oswego Harbor",
-      "url": "https://www.fws.gov/story/2026-11/service-crew-discovers-rare-yellow-burbot-oswego-harbor",
-      "score": 5,
-      "by": "tart-lemonade",
-      "comments": 1,
-      "time": "2026-11-11 15:47"
-    },
-    {
-      "id": 50484650,
-      "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
-      "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
-      "score": 175,
-      "by": "bookofjoe",
-      "comments": 101,
-      "time": "2026-11-13 15:08"
-    },
-    {
-      "id": 50474959,
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-      "score": 759,
-      "by": "scottjg",
-      "comments": 214,
-      "time": "2026-11-12 22:03"
-    },
-    {
-      "id": 50494696,
-      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
-      "url": "#",
-      "score": 34,
-      "by": "shnock",
-      "comments": 35,
-      "time": "2026-11-14 06:56"
-    },
-    {
-      "id": 50484235,
-      "title": "A technical vision for the Haskell ecosystem",
-      "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
-      "score": 208,
-      "by": "cosmic_quanta",
-      "comments": 125,
-      "time": "2026-11-13 14:43"
-    },
-    {
-      "id": 50492315,
-      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
-      "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
-      "score": 168,
-      "by": "snow_mac",
-      "comments": 60,
-      "time": "2026-11-14 00:52"
-    },
-    {
-      "id": 50462975,
-      "title": "The Other Nefertiti (2015)",
-      "url": "https://alloversky.com/puzzlepieces/the-other-nefertiti",
-      "score": 21,
-      "by": "dmbche",
-      "comments": 4,
-      "time": "2026-11-12 04:08"
-    },
-    {
-      "id": 50487605,
-      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
-      "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
-      "score": 88,
-      "by": "dethmasque",
-      "comments": 43,
-      "time": "2026-11-13 18:23"
-    },
-    {
-      "id": 50492950,
-      "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
-      "url": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
-      "score": 112,
-      "by": "billybuckwheat",
+      "id": 50483431,
+      "title": "500 Lines or Less A 3D Modeller",
+      "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
+      "score": 67,
+      "by": "myth_drannon",
       "comments": 11,
-      "time": "2026-11-14 02:15"
+      "time": "2026-11-13 13:47"
+    },
+    {
+      "id": 50497892,
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "score": 249,
+      "by": "rbanffy",
+      "comments": 106,
+      "time": "2026-11-14 15:40"
+    },
+    {
+      "id": 50452037,
+      "title": "Open-Source HF Communications for Remote Communities and Experimenters",
+      "url": "https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/",
+      "score": 19,
+      "by": "tejtm",
+      "comments": 2,
+      "time": "2026-11-11 11:11"
+    },
+    {
+      "id": 50504077,
+      "title": "Kiri \u2013 The Modern Container Runtime",
+      "url": "https://runkiri.com/",
+      "score": 59,
+      "by": "nikolay",
+      "comments": 30,
+      "time": "2026-11-15 04:40"
+    },
+    {
+      "id": 50504072,
+      "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
+      "url": "https://github.com/matheuzgomes/gawain",
+      "score": 56,
+      "by": "MarinhoD",
+      "comments": 33,
+      "time": "2026-11-15 04:39"
+    },
+    {
+      "id": 50503255,
+      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+      "score": 246,
+      "by": "nobody9999",
+      "comments": 68,
+      "time": "2026-11-15 02:00"
+    },
+    {
+      "id": 50443331,
+      "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
+      "url": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
+      "score": 79,
+      "by": "everybodyknows",
+      "comments": 70,
+      "time": "2026-11-10 17:21"
+    },
+    {
+      "id": 50504718,
+      "title": "Book list for streetfighting computer scientists",
+      "url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
+      "score": 19,
+      "by": "num42",
+      "comments": 3,
+      "time": "2026-11-15 07:08"
+    },
+    {
+      "id": 50478701,
+      "title": "Memory Safety Bugs in Rust Standard Library",
+      "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+      "score": 160,
+      "by": "pjmlp",
+      "comments": 131,
+      "time": "2026-11-13 05:22"
+    },
+    {
+      "id": 50497589,
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "score": 240,
+      "by": "VaibhaavTiwari",
+      "comments": 23,
+      "time": "2026-11-14 15:04"
+    },
+    {
+      "id": 50496051,
+      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+      "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+      "score": 265,
+      "by": "hacb",
+      "comments": 141,
+      "time": "2026-11-14 11:13"
+    },
+    {
+      "id": 50503930,
+      "title": "Show HN: Turbo-Browser-MCP \u2013 Batch forms, DOM deltas and submit guards for MCP",
+      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "score": 38,
+      "by": "tthanh2k6",
+      "comments": 7,
+      "time": "2026-11-15 04:09"
+    },
+    {
+      "id": 50486880,
+      "title": "One Man's Quest to Create the Perfect Whiskey Glass",
+      "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+      "score": 41,
+      "by": "Kaibeezy",
+      "comments": 34,
+      "time": "2026-11-13 17:37"
+    },
+    {
+      "id": 50441444,
+      "title": "Generative AI uses more energy on non-English text",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "score": 214,
+      "by": "DeepLogin",
+      "comments": 112,
+      "time": "2026-11-10 15:07"
+    },
+    {
+      "id": 50496811,
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "score": 203,
+      "by": "acossta",
+      "comments": 47,
+      "time": "2026-11-14 13:20"
     }
   ]
 }
