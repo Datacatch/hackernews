@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-11-15T11:49:48.661753",
+  "fetched_at": "2026-11-16T12:31:27.359897",
   "count": 30,
   "stories": [
     {
-      "id": 50500963,
-      "title": "SpaceX catches the Starship to end Flight 15",
-      "url": "https://www.spacex.com/launches/starship-flight-15",
-      "score": 1288,
-      "by": "ls612",
-      "comments": 868,
-      "time": "2026-11-14 21:22"
+      "id": 50516245,
+      "title": "Coffeehouses and the Rise of Science [pdf]",
+      "url": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
+      "score": 54,
+      "by": "Michelangelo11",
+      "comments": 27,
+      "time": "2026-11-16 11:03"
     },
     {
-      "id": 50505271,
-      "title": "Why did some Apollo missions carry a grenade launcher?",
-      "url": "https://space.stackexchange.com/questions/37775",
-      "score": 52,
-      "by": "Skyfall106",
-      "comments": 21,
-      "time": "2026-11-15 09:06"
+      "id": 50516232,
+      "title": "Doing Show HN generates a ton of automated email pitches",
+      "url": "https://petervandijck.com/post/pbrgs-ev0bc",
+      "score": 46,
+      "by": "petervandijck",
+      "comments": 39,
+      "time": "2026-11-16 11:00"
     },
     {
-      "id": 50499017,
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "url": "https://www.crissyfield.de/research/lovable-en/",
-      "score": 849,
-      "by": "armcat",
-      "comments": 322,
-      "time": "2026-11-14 17:43"
+      "id": 50514470,
+      "title": "How to make almost anything",
+      "url": "https://pub.cba.mit.edu/863.26/site/",
+      "score": 397,
+      "by": "o4c",
+      "comments": 74,
+      "time": "2026-11-16 05:50"
     },
     {
-      "id": 50502988,
-      "title": "Court denies motion to dismiss DRAM price fixing case",
-      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-      "score": 206,
-      "by": "ybathaee",
-      "comments": 71,
-      "time": "2026-11-15 01:18"
-    },
-    {
-      "id": 50474529,
-      "title": "Handwritten 200-year-old dismissal notice found on roof tile",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
-      "score": 27,
-      "by": "nephihaha",
-      "comments": 15,
-      "time": "2026-11-12 21:27"
-    },
-    {
-      "id": 50481056,
-      "title": "Strictly monotonic timestamps and gapless sequences in Rust",
-      "url": "https://tsoracle.rs/",
-      "score": 11,
-      "by": "znano",
-      "comments": 1,
-      "time": "2026-11-13 10:04"
-    },
-    {
-      "id": 50504277,
-      "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
-      "url": "https://netbsd.org/~nia/disk-encrypt/",
-      "score": 45,
-      "by": "jaypatelani",
-      "comments": 4,
-      "time": "2026-11-15 05:29"
-    },
-    {
-      "id": 50501594,
-      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-      "url": "https://retrocomputing.stackexchange.com/questions/17957",
-      "score": 230,
-      "by": "Skyfall106",
-      "comments": 114,
-      "time": "2026-11-14 22:22"
-    },
-    {
-      "id": 50503465,
-      "title": "My favourite modern NES games",
-      "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
-      "score": 105,
-      "by": "jordigh",
-      "comments": 10,
-      "time": "2026-11-15 02:41"
-    },
-    {
-      "id": 50484234,
-      "title": "Semicircle Packing",
-      "url": "https://rorz.io/writing/semicircle-packing",
-      "score": 37,
-      "by": "sarreph",
-      "comments": 4,
-      "time": "2026-11-13 14:42"
-    },
-    {
-      "id": 50482222,
-      "title": "The Evolving Story of How Chemistry Became Biology",
-      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
-      "score": 60,
-      "by": "pseudolus",
-      "comments": 14,
-      "time": "2026-11-13 11:55"
-    },
-    {
-      "id": 50496976,
-      "title": "KDE: The documentary [video]",
-      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-      "score": 498,
-      "by": "mrkn1",
-      "comments": 109,
-      "time": "2026-11-14 13:43"
-    },
-    {
-      "id": 50482279,
-      "title": "Show HN: Carton Clock \u2013 A working pendulum clock made from empty drink cartons",
-      "url": "https://www.niklasroy.com/carton-clock/",
-      "score": 4,
-      "by": "r0r0",
-      "comments": 0,
-      "time": "2026-11-13 12:00"
-    },
-    {
-      "id": 50499038,
-      "title": "A family tree of software job titles",
-      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-      "score": 333,
-      "by": "umerf",
-      "comments": 167,
-      "time": "2026-11-14 17:45"
-    },
-    {
-      "id": 50440709,
-      "title": "Why get an expensive Pi when I have an old phone?",
-      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-      "score": 566,
-      "by": "casi",
-      "comments": 306,
-      "time": "2026-11-10 14:16"
-    },
-    {
-      "id": 50483431,
-      "title": "500 Lines or Less A 3D Modeller",
-      "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
-      "score": 67,
-      "by": "myth_drannon",
-      "comments": 11,
-      "time": "2026-11-13 13:47"
-    },
-    {
-      "id": 50497892,
-      "title": "PyPI's redesigned project pages with clearer security signals are now live",
-      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-      "score": 249,
-      "by": "rbanffy",
-      "comments": 106,
-      "time": "2026-11-14 15:40"
-    },
-    {
-      "id": 50452037,
-      "title": "Open-Source HF Communications for Remote Communities and Experimenters",
-      "url": "https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/",
-      "score": 19,
-      "by": "tejtm",
-      "comments": 2,
-      "time": "2026-11-11 11:11"
-    },
-    {
-      "id": 50504077,
-      "title": "Kiri \u2013 The Modern Container Runtime",
-      "url": "https://runkiri.com/",
-      "score": 59,
-      "by": "nikolay",
-      "comments": 30,
-      "time": "2026-11-15 04:40"
-    },
-    {
-      "id": 50504072,
-      "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
-      "url": "https://github.com/matheuzgomes/gawain",
-      "score": 56,
-      "by": "MarinhoD",
-      "comments": 33,
-      "time": "2026-11-15 04:39"
-    },
-    {
-      "id": 50503255,
-      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-      "score": 246,
-      "by": "nobody9999",
-      "comments": 68,
-      "time": "2026-11-15 02:00"
-    },
-    {
-      "id": 50443331,
-      "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
-      "url": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
-      "score": 79,
-      "by": "everybodyknows",
-      "comments": 70,
-      "time": "2026-11-10 17:21"
-    },
-    {
-      "id": 50504718,
-      "title": "Book list for streetfighting computer scientists",
-      "url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
-      "score": 19,
-      "by": "num42",
+      "id": 50516473,
+      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+      "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+      "score": 14,
+      "by": "sammatilda",
       "comments": 3,
-      "time": "2026-11-15 07:08"
+      "time": "2026-11-16 11:39"
     },
     {
-      "id": 50478701,
-      "title": "Memory Safety Bugs in Rust Standard Library",
-      "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
-      "score": 160,
-      "by": "pjmlp",
-      "comments": 131,
-      "time": "2026-11-13 05:22"
+      "id": 50513160,
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "url": "https://iter.ca/post/ubo-uxss/",
+      "score": 426,
+      "by": "zaik",
+      "comments": 122,
+      "time": "2026-11-16 02:04"
     },
     {
-      "id": 50497589,
-      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-      "score": 240,
-      "by": "VaibhaavTiwari",
-      "comments": 23,
-      "time": "2026-11-14 15:04"
+      "id": 50486745,
+      "title": "Researchers track whole body movement with just a smartwatch",
+      "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
+      "score": 80,
+      "by": "PaulHoule",
+      "comments": 20,
+      "time": "2026-11-13 17:29"
     },
     {
-      "id": 50496051,
-      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
-      "url": "https://projectzero.google/2026/11/disclosure-policy.html",
-      "score": 265,
-      "by": "hacb",
-      "comments": 141,
-      "time": "2026-11-14 11:13"
+      "id": 50513215,
+      "title": "Qwen4-Max",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "score": 611,
+      "by": "ilreb",
+      "comments": 265,
+      "time": "2026-11-16 02:14"
     },
     {
-      "id": 50503930,
-      "title": "Show HN: Turbo-Browser-MCP \u2013 Batch forms, DOM deltas and submit guards for MCP",
-      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-      "score": 38,
-      "by": "tthanh2k6",
+      "id": 50511395,
+      "title": "Old Bitly links are being hijacked",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "score": 317,
+      "by": "hspeiser",
+      "comments": 159,
+      "time": "2026-11-15 22:11"
+    },
+    {
+      "id": 50512235,
+      "title": "What's Next for Nvidia?",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "score": 302,
+      "by": "zdw",
+      "comments": 379,
+      "time": "2026-11-15 23:55"
+    },
+    {
+      "id": 50490159,
+      "title": "OOS \u2013 an open operating system for the Rigol Scopes",
+      "url": "https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/",
+      "score": 12,
+      "by": "qwezxcrty",
+      "comments": 2,
+      "time": "2026-11-13 21:36"
+    },
+    {
+      "id": 50487628,
+      "title": "Exact Gradients Through a BRep Kernel",
+      "url": "https://muni.works/research/vcad",
+      "score": 16,
+      "by": "ecto",
+      "comments": 3,
+      "time": "2026-11-13 18:24"
+    },
+    {
+      "id": 50512441,
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "score": 171,
+      "by": "aillia",
+      "comments": 50,
+      "time": "2026-11-16 00:21"
+    },
+    {
+      "id": 50515616,
+      "title": "It's always DNS, so why are we running our own?",
+      "url": "https://s2.dev/blog/dns-server",
+      "score": 14,
+      "by": "misker1",
       "comments": 7,
-      "time": "2026-11-15 04:09"
+      "time": "2026-11-16 09:19"
+    },
+    {
+      "id": 50515058,
+      "title": "\u201c\u2026and the proof is checked in Lean\u201d",
+      "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+      "score": 53,
+      "by": "matt_d",
+      "comments": 19,
+      "time": "2026-11-16 07:38"
+    },
+    {
+      "id": 50509837,
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "score": 366,
+      "by": "bcye",
+      "comments": 62,
+      "time": "2026-11-15 19:26"
+    },
+    {
+      "id": 50511806,
+      "title": "Preserving 30 years of Salon journalism",
+      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "score": 167,
+      "by": "CharlesW",
+      "comments": 40,
+      "time": "2026-11-15 23:00"
+    },
+    {
+      "id": 50509308,
+      "title": "A short explainer on how El Ni\u00f1o works [video]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "score": 252,
+      "by": "nharada",
+      "comments": 129,
+      "time": "2026-11-15 18:23"
+    },
+    {
+      "id": 50462816,
+      "title": "The Lasting Influence of John Berger",
+      "url": "https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review",
+      "score": 33,
+      "by": "prismatic",
+      "comments": 0,
+      "time": "2026-11-12 03:44"
+    },
+    {
+      "id": 50509972,
+      "title": "Handwriting, as a Font",
+      "url": "https://ductus.sorenblank.com",
+      "score": 327,
+      "by": "coinfused",
+      "comments": 61,
+      "time": "2026-11-15 19:42"
+    },
+    {
+      "id": 50509023,
+      "title": "Crows make decisions faster than we can",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "score": 253,
+      "by": "gumby",
+      "comments": 174,
+      "time": "2026-11-15 17:53"
+    },
+    {
+      "id": 50484998,
+      "title": "Do we still have to denormalize? Have your schema and search it too",
+      "url": "https://www.paradedb.com/blog/joins",
+      "score": 86,
+      "by": "philippemnoel",
+      "comments": 24,
+      "time": "2026-11-13 15:31"
+    },
+    {
+      "id": 50515182,
+      "title": "Winudf \u2013 DVD / BluRay driver for DOS, Windows 1.x \u2013 3x / 95 / 98 / ME",
+      "url": "https://github.com/ages2001/WINUDF",
+      "score": 12,
+      "by": "Oxodao",
+      "comments": 0,
+      "time": "2026-11-16 08:00"
+    },
+    {
+      "id": 50510296,
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "url": "https://baron.by.dai.studio/",
+      "score": 168,
+      "by": "ranger_danger",
+      "comments": 36,
+      "time": "2026-11-15 20:20"
+    },
+    {
+      "id": 50456548,
+      "title": "Making Atuin sync 32x faster with packfiles",
+      "url": "https://blog.atuin.sh/making-atuin-sync-32x-faster-with-packfiles/",
+      "score": 23,
+      "by": "ossusermivami",
+      "comments": 10,
+      "time": "2026-11-11 18:14"
+    },
+    {
+      "id": 50467599,
+      "title": "Simple 8085 Computer",
+      "url": "https://www.hackster.io/mit41301/simple-8085-computer-9fe156",
+      "score": 52,
+      "by": "AlexeyBrin",
+      "comments": 5,
+      "time": "2026-11-12 14:18"
+    },
+    {
+      "id": 50485275,
+      "title": "Artificial Intelligence for the Z80",
+      "url": "https://www.dfsantos.com/en/libro-ia-z80",
+      "score": 56,
+      "by": "AlexeyBrin",
+      "comments": 8,
+      "time": "2026-11-13 15:50"
     },
     {
       "id": 50486880,
-      "title": "One Man's Quest to Create the Perfect Whiskey Glass",
+      "title": "A quest to create the perfect whiskey glass",
       "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
-      "score": 41,
+      "score": 70,
       "by": "Kaibeezy",
-      "comments": 34,
+      "comments": 73,
       "time": "2026-11-13 17:37"
     },
     {
-      "id": 50441444,
-      "title": "Generative AI uses more energy on non-English text",
-      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-      "score": 214,
-      "by": "DeepLogin",
-      "comments": 112,
-      "time": "2026-11-10 15:07"
+      "id": 50512231,
+      "title": "Mini.nvim Is Now on Tangled",
+      "url": "https://tangled.org/nvim-mini.org/mini.nvim",
+      "score": 75,
+      "by": "nerdypepper",
+      "comments": 23,
+      "time": "2026-11-15 23:55"
     },
     {
-      "id": 50496811,
-      "title": "Advancing science and engineering with Antigravity's /teamwork",
-      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-      "score": 203,
-      "by": "acossta",
+      "id": 50515169,
+      "title": "How Should Armies Fight?",
+      "url": "https://worksinprogress.co/issue/the-future-of-war/",
+      "score": 6,
+      "by": "ersinesen",
+      "comments": 1,
+      "time": "2026-11-16 07:57"
+    },
+    {
+      "id": 50514180,
+      "title": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
+      "url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101",
+      "score": 125,
+      "by": "artooro",
       "comments": 47,
-      "time": "2026-11-14 13:20"
+      "time": "2026-11-16 04:53"
     }
   ]
 }
