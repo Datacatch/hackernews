@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-11-20T12:38:20.455665",
+  "fetched_at": "2026-11-21T12:17:44.180624",
   "count": 30,
   "stories": [
     {
-      "id": 50572503,
-      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "url": "https://architectlabs.com/blog/frostbite",
-      "score": 179,
-      "by": "shioyama",
-      "comments": 114,
-      "time": "2026-11-20 10:01"
+      "id": 50579568,
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "score": 2169,
+      "by": "jasondavies",
+      "comments": 1013,
+      "time": "2026-11-20 18:33"
     },
     {
-      "id": 50572116,
-      "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
-      "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
-      "score": 187,
+      "id": 50532613,
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "score": 25,
+      "by": "dvaplima",
+      "comments": 1,
+      "time": "2026-11-17 15:22"
+    },
+    {
+      "id": 50574968,
+      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "score": 2689,
+      "by": "iamronaldo",
+      "comments": 1880,
+      "time": "2026-11-20 14:16"
+    },
+    {
+      "id": 50581260,
+      "title": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "score": 1070,
+      "by": "jasondavies",
+      "comments": 201,
+      "time": "2026-11-20 20:12"
+    },
+    {
+      "id": 50587208,
+      "title": "RCE in Gnupg",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "score": 51,
+      "by": "gdgghhhhh",
+      "comments": 4,
+      "time": "2026-11-21 08:32"
+    },
+    {
+      "id": 50586292,
+      "title": "ClawDOS \u2013 An AI coding agent for DOS",
+      "url": "http://ricapar.net/ClawDOS/",
+      "score": 86,
+      "by": "Ricapar",
+      "comments": 23,
+      "time": "2026-11-21 05:38"
+    },
+    {
+      "id": 50579331,
+      "title": "We promoted developers into architects without informing them",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "score": 465,
+      "by": "QueensGambit",
+      "comments": 254,
+      "time": "2026-11-20 18:17"
+    },
+    {
+      "id": 50578358,
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "score": 467,
+      "by": "archon1410",
+      "comments": 191,
+      "time": "2026-11-20 17:21"
+    },
+    {
+      "id": 50583274,
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "url": "https://ninlive.com/",
+      "score": 280,
+      "by": "CharlesW",
+      "comments": 73,
+      "time": "2026-11-20 22:30"
+    },
+    {
+      "id": 50585376,
+      "title": "Clojure will affect the way you think about programming (2017)",
+      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+      "score": 118,
       "by": "sammatilda",
-      "comments": 91,
-      "time": "2026-11-20 09:13"
+      "comments": 37,
+      "time": "2026-11-21 02:40"
     },
     {
-      "id": 50572355,
-      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-      "score": 81,
-      "by": "sammatilda",
-      "comments": 47,
-      "time": "2026-11-20 09:43"
+      "id": 50586648,
+      "title": "Surprisingly Adorable Insect Portraits",
+      "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
+      "score": 63,
+      "by": "NordStreamYacht",
+      "comments": 13,
+      "time": "2026-11-21 06:44"
     },
     {
-      "id": 50572822,
-      "title": "The Making of Oxygene",
-      "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
-      "score": 37,
-      "by": "hggh",
-      "comments": 12,
-      "time": "2026-11-20 10:41"
+      "id": 50587859,
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
+      "score": 43,
+      "by": "theanonymousone",
+      "comments": 13,
+      "time": "2026-11-21 10:33"
     },
     {
-      "id": 50569226,
-      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-      "url": "https://github.com/openssl/openssl/pull/33652",
-      "score": 290,
-      "by": "JacobHenner",
-      "comments": 226,
-      "time": "2026-11-20 02:01"
+      "id": 50583761,
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "url": "#",
+      "score": 252,
+      "by": "LetThingsBeDiff",
+      "comments": 215,
+      "time": "2026-11-20 23:18"
+    },
+    {
+      "id": 50577265,
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "score": 426,
+      "by": "lwhsiao",
+      "comments": 124,
+      "time": "2026-11-20 16:29"
+    },
+    {
+      "id": 50583768,
+      "title": "Sir Brian May adds new dimension to Hera asteroid",
+      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+      "score": 125,
+      "by": "mooreds",
+      "comments": 27,
+      "time": "2026-11-20 23:19"
+    },
+    {
+      "id": 50534387,
+      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+      "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
+      "score": 149,
+      "by": "reconditerose",
+      "comments": 51,
+      "time": "2026-11-17 16:58"
+    },
+    {
+      "id": 50556482,
+      "title": "Fewer slides, more dragons",
+      "url": "https://www.breakingchange.blog/p/fewer-slides-more-dragons",
+      "score": 40,
+      "by": "firloop",
+      "comments": 17,
+      "time": "2026-11-19 05:46"
+    },
+    {
+      "id": 50581110,
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+      "score": 230,
+      "by": "facundo_olano",
+      "comments": 79,
+      "time": "2026-11-20 20:03"
+    },
+    {
+      "id": 50574383,
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic\u2019s second day",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "score": 344,
+      "by": "cdrnsf",
+      "comments": 630,
+      "time": "2026-11-20 13:29"
+    },
+    {
+      "id": 50576232,
+      "title": "Finite-time blow-up for the Navier\u2013Stokes equations",
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "score": 299,
+      "by": "trotro",
+      "comments": 92,
+      "time": "2026-11-20 15:34"
+    },
+    {
+      "id": 50587875,
+      "title": "My Monitor Was Cutting My Download Speed by 75%",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "score": 5,
+      "by": "soheilpro",
+      "comments": 0,
+      "time": "2026-11-21 10:36"
+    },
+    {
+      "id": 50576012,
+      "title": "Slopstrap \u2013 Make your site look hastily vibecoded",
+      "url": "https://slopstrap.mikelacher.com/",
+      "score": 318,
+      "by": "mlacher",
+      "comments": 61,
+      "time": "2026-11-20 15:24"
+    },
+    {
+      "id": 50543887,
+      "title": "Microsoft's SideWinder Strategic Commander was a failed attempt",
+      "url": "https://www.rockpapershotgun.com/microsofts-sidewinder-strategic-commander-was-a-failed-attempt-to-reimagine-rts-controls-23-years-later-why-are-some-players-still-using-it",
+      "score": 17,
+      "by": "Tomte",
+      "comments": 5,
+      "time": "2026-11-18 09:18"
     },
     {
       "id": 50541568,
       "title": "Show HN: Tinnitus frequency finder and audio notch tool",
       "url": "https://trynotched.com/find",
-      "score": 32,
+      "score": 185,
       "by": "brianrhea",
-      "comments": 17,
+      "comments": 118,
       "time": "2026-11-18 03:40"
     },
     {
-      "id": 50523241,
-      "title": "The Strongest Sokoban Solver",
-      "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
-      "score": 83,
-      "by": "ibobev",
-      "comments": 16,
-      "time": "2026-11-16 21:04"
+      "id": 50579297,
+      "title": "Vibecoding an inference chip",
+      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+      "score": 155,
+      "by": "ankitvgupta",
+      "comments": 63,
+      "time": "2026-11-20 18:15"
     },
     {
-      "id": 50572448,
-      "title": "What people are building, discovered through new domains",
-      "url": "https://startups.novumsignals.com/",
-      "score": 24,
-      "by": "walterschnitzel",
-      "comments": 11,
-      "time": "2026-11-20 09:54"
-    },
-    {
-      "id": 50569998,
-      "title": "FFmpeg 9.1 'Gauss'",
-      "url": "https://ffmpeg.org/download.html#release_9.1",
-      "score": 182,
-      "by": "gyan",
-      "comments": 26,
-      "time": "2026-11-20 04:02"
-    },
-    {
-      "id": 50545818,
-      "title": "\u00b5-Wire \u2013 USB on an ATtiny 10",
-      "url": "https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/",
-      "score": 58,
-      "by": "mofosyne",
-      "comments": 3,
-      "time": "2026-11-18 13:02"
-    },
-    {
-      "id": 50569516,
-      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
-      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
-      "score": 126,
-      "by": "craigkerstiens",
-      "comments": 17,
-      "time": "2026-11-20 02:43"
-    },
-    {
-      "id": 50571189,
-      "title": "\"I can tell you wrote this yourself\"",
-      "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
-      "score": 247,
-      "by": "BrunoBernardino",
-      "comments": 245,
-      "time": "2026-11-20 07:13"
-    },
-    {
-      "id": 50563148,
-      "title": "Claude solves two open problems in the physics of black holes",
-      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "score": 515,
-      "by": "cybermango",
-      "comments": 242,
-      "time": "2026-11-19 17:30"
-    },
-    {
-      "id": 50570628,
-      "title": "Jujutsu Primer",
-      "url": "https://ethanlowman.com/posts/jj-primer/",
-      "score": 147,
-      "by": "renehsz",
-      "comments": 98,
-      "time": "2026-11-20 05:46"
-    },
-    {
-      "id": 50528119,
-      "title": "How to CAD Almost Anything",
-      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
-      "score": 293,
-      "by": "o4c",
-      "comments": 96,
-      "time": "2026-11-17 06:29"
-    },
-    {
-      "id": 50569890,
-      "title": "PostgreSQL 19",
-      "url": "https://www.postgresql.org/docs/release/19.0/",
-      "score": 250,
-      "by": "linzhangrun",
-      "comments": 13,
-      "time": "2026-11-20 03:45"
-    },
-    {
-      "id": 50500000,
-      "title": "Show HN: Radiotherapy Delivery Demo",
-      "url": "https://tps.neuralrad.com",
-      "score": 6,
-      "by": "coolwulf",
-      "comments": 3,
-      "time": "2026-11-14 19:30"
-    },
-    {
-      "id": 50573087,
-      "title": "Why do tech leaders sound so illogical and off-putting?",
-      "url": "https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505/",
-      "score": 65,
-      "by": "pseudolus",
-      "comments": 57,
-      "time": "2026-11-20 11:13"
-    },
-    {
-      "id": 50569519,
-      "title": "What Comes After AGI?",
-      "url": "https://institute.deepmind.com/essays/what-comes-after-agi/",
-      "score": 85,
-      "by": "jdkee",
-      "comments": 165,
-      "time": "2026-11-20 02:44"
-    },
-    {
-      "id": 50568861,
-      "title": "Vint Cerf on why TCP/IP was never patented",
-      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
-      "score": 120,
-      "by": "emot",
-      "comments": 57,
-      "time": "2026-11-20 01:06"
-    },
-    {
-      "id": 50573288,
-      "title": "The Market Is Down",
-      "url": "https://anihil.com/the-market-is-down",
-      "score": 13,
-      "by": "anihil",
+      "id": 50587205,
+      "title": "Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize",
+      "url": "https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize",
+      "score": 5,
+      "by": "rbanffy",
       "comments": 0,
-      "time": "2026-11-20 11:37"
+      "time": "2026-11-21 08:32"
     },
     {
-      "id": 50521512,
-      "title": "Bit Shifting in Basic",
-      "url": "https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/",
-      "score": 49,
-      "by": "efren6",
-      "comments": 3,
-      "time": "2026-11-16 19:04"
+      "id": 50495392,
+      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
+      "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
+      "score": 124,
+      "by": "edward",
+      "comments": 92,
+      "time": "2026-11-14 09:13"
     },
     {
-      "id": 50563066,
-      "title": "Pancreatic cancer halted by virus injection in three patients",
-      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-      "score": 802,
-      "by": "cybermango",
-      "comments": 139,
-      "time": "2026-11-19 17:25"
+      "id": 50580536,
+      "title": "Winedroid \u2013 run Android apps without Android (WASM demo)",
+      "url": "https://winedroid.soham.sh/demo/",
+      "score": 159,
+      "by": "sohzm",
+      "comments": 42,
+      "time": "2026-11-20 19:30"
     },
     {
-      "id": 50567209,
-      "title": "Synology Security Advisory",
-      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-      "score": 162,
-      "by": "choult",
-      "comments": 119,
-      "time": "2026-11-19 22:13"
+      "id": 50583856,
+      "title": "Serious cyberattack thought backed by wealthy operators",
+      "url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
+      "score": 95,
+      "by": "Bender",
+      "comments": 50,
+      "time": "2026-11-20 23:29"
     },
     {
-      "id": 50537492,
-      "title": "Automatic Checking of Compiler Correctness with E-Graphs",
-      "url": "https://stng.substack.com/p/automatic-checking-of-compiler-correctness",
-      "score": 48,
-      "by": "g0xA52A2A",
-      "comments": 0,
-      "time": "2026-11-17 20:12"
-    },
-    {
-      "id": 50561508,
-      "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-      "url": "https://thedataexchange.media/pete-warden-moonshine/",
-      "score": 259,
-      "by": "datascientist",
-      "comments": 226,
-      "time": "2026-11-19 15:38"
-    },
-    {
-      "id": 50564159,
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "score": 314,
-      "by": "dev1one1",
-      "comments": 159,
-      "time": "2026-11-19 18:35"
-    },
-    {
-      "id": 50558906,
-      "title": "Someone reported java4shell bug in September 2026",
-      "url": "https://github.com/openjdk/jdk/pull/32781",
-      "score": 438,
-      "by": "notmine1337",
-      "comments": 123,
-      "time": "2026-11-19 11:47"
-    },
-    {
-      "id": 50541018,
-      "title": "Can I borrow a lunar rover? (2013)",
-      "url": "https://space.stackexchange.com/questions/2095",
-      "score": 11,
-      "by": "Skyfall106",
-      "comments": 8,
-      "time": "2026-11-18 02:13"
-    },
-    {
-      "id": 50538977,
-      "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
-      "url": "https://notesbylex.com/weight-space-programming-1990s",
-      "score": 108,
-      "by": "lexandstuff",
-      "comments": 9,
-      "time": "2026-11-17 22:11"
+      "id": 50540342,
+      "title": "3-legged Persian leopard's 150-mile journey highlights Caucasus border hazards",
+      "url": "https://news.mongabay.com/short-article/2026/11/three-legged-persian-leopards-150-mile-journey-highlights-caucasus-border-hazards/",
+      "score": 26,
+      "by": "rguiscard",
+      "comments": 6,
+      "time": "2026-11-18 00:39"
     }
   ]
 }
