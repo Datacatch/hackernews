@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-11-21T12:17:44.180624",
+  "fetched_at": "2026-11-22T12:21:51.238402",
   "count": 30,
   "stories": [
+    {
+      "id": 50596133,
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "score": 614,
+      "by": "zdw",
+      "comments": 368,
+      "time": "2026-11-22 04:04"
+    },
+    {
+      "id": 50582069,
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "score": 1081,
+      "by": "rafaelc",
+      "comments": 229,
+      "time": "2026-11-20 21:03"
+    },
+    {
+      "id": 50533945,
+      "title": "A real Linux kernel, compiled to WebAssembly",
+      "url": "https://github.com/pithings/unkernel",
+      "score": 60,
+      "by": "DonAtimator",
+      "comments": 15,
+      "time": "2026-11-17 16:35"
+    },
+    {
+      "id": 50589618,
+      "title": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "score": 1071,
+      "by": "g-b-r",
+      "comments": 888,
+      "time": "2026-11-21 14:36"
+    },
+    {
+      "id": 50597743,
+      "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+      "url": "https://arxiv.org/abs/2606.14068",
+      "score": 52,
+      "by": "rzk",
+      "comments": 24,
+      "time": "2026-11-22 09:18"
+    },
+    {
+      "id": 50594911,
+      "title": "Sandwich Simulator",
+      "url": "https://stulle.app/",
+      "score": 310,
+      "by": "subdomain",
+      "comments": 105,
+      "time": "2026-11-22 00:07"
+    },
+    {
+      "id": 50566495,
+      "title": "Self-hosted library branch over public web OPDS",
+      "url": "https://joinmayberry.com/",
+      "score": 17,
+      "by": "philips",
+      "comments": 2,
+      "time": "2026-11-19 21:15"
+    },
+    {
+      "id": 50591853,
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "score": 481,
+      "by": "k__",
+      "comments": 121,
+      "time": "2026-11-21 18:02"
+    },
+    {
+      "id": 50596664,
+      "title": "Show HN: The Riemann Proof Handbook",
+      "url": "https://github.com/tamnd/riemann-handbook",
+      "score": 63,
+      "by": "tamnd",
+      "comments": 28,
+      "time": "2026-11-22 05:46"
+    },
+    {
+      "id": 50588982,
+      "title": "Detonating a pile of lead azide",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "score": 626,
+      "by": "beginning_end",
+      "comments": 394,
+      "time": "2026-11-21 13:23"
+    },
+    {
+      "id": 50595554,
+      "title": "Data Processing Incidents on Inference Providers",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "score": 174,
+      "by": "sdko",
+      "comments": 66,
+      "time": "2026-11-22 02:14"
+    },
+    {
+      "id": 50583028,
+      "title": "Getting the mind to steer the body to steer you",
+      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+      "score": 302,
+      "by": "jger15",
+      "comments": 101,
+      "time": "2026-11-20 22:11"
+    },
+    {
+      "id": 50569846,
+      "title": "If tiny 'primordial' black holes exist",
+      "url": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
+      "score": 43,
+      "by": "wglb",
+      "comments": 21,
+      "time": "2026-11-20 03:37"
+    },
+    {
+      "id": 50596960,
+      "title": "Notes on the discrete Fourier transform (DFT)",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+      "score": 36,
+      "by": "kouosi",
+      "comments": 5,
+      "time": "2026-11-22 06:52"
+    },
+    {
+      "id": 50596155,
+      "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "score": 52,
+      "by": "BaselAshraf81",
+      "comments": 32,
+      "time": "2026-11-22 04:10"
+    },
+    {
+      "id": 50587875,
+      "title": "My monitor was cutting my download speed by 75%",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "score": 603,
+      "by": "soheilpro",
+      "comments": 279,
+      "time": "2026-11-21 10:36"
+    },
+    {
+      "id": 50594132,
+      "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
+      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+      "score": 126,
+      "by": "sebaandrada",
+      "comments": 18,
+      "time": "2026-11-21 22:09"
+    },
+    {
+      "id": 50559820,
+      "title": "Is 'fork' missing operation in sandboxes?",
+      "url": "https://avrea.com/blog/avrea-sandboxes-computers-should-be-forkable",
+      "score": 9,
+      "by": "damezumari",
+      "comments": 6,
+      "time": "2026-11-19 13:28"
+    },
+    {
+      "id": 50595537,
+      "title": "The Mythology of Conscious AI",
+      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "score": 81,
+      "by": "Anon84",
+      "comments": 171,
+      "time": "2026-11-22 02:10"
+    },
+    {
+      "id": 50593737,
+      "title": "Advice for the next 100 Rust GUIs",
+      "url": "https://linebender.org/blog/next-100-guis/",
+      "score": 187,
+      "by": "raphlinus",
+      "comments": 78,
+      "time": "2026-11-21 21:17"
+    },
+    {
+      "id": 50597612,
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "score": 193,
+      "by": "happosai",
+      "comments": 276,
+      "time": "2026-11-22 08:57"
+    },
+    {
+      "id": 50593481,
+      "title": "Pandex \u2013 Official European Law for AI Agents, over MCP",
+      "url": "https://www.pandex.io",
+      "score": 103,
+      "by": "vasie",
+      "comments": 26,
+      "time": "2026-11-21 20:47"
+    },
+    {
+      "id": 50560314,
+      "title": "Split Radiance Cascades",
+      "url": "https://www.jacktollenaar.top/articles/split-rc.html",
+      "score": 41,
+      "by": "ibobev",
+      "comments": 0,
+      "time": "2026-11-19 14:08"
+    },
+    {
+      "id": 50554572,
+      "title": "Reversing the Next-Page Prefetcher in Skylake-X",
+      "url": "https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html",
+      "score": 13,
+      "by": "todsacerdoti",
+      "comments": 0,
+      "time": "2026-11-19 00:50"
+    },
+    {
+      "id": 50592097,
+      "title": "Upload2Shell (CVE-2026-125396)",
+      "url": "https://pwn.ai/upload2shell",
+      "score": 127,
+      "by": "f311a",
+      "comments": 63,
+      "time": "2026-11-21 18:29"
+    },
+    {
+      "id": 50546587,
+      "title": "LLMs can read and write executables byte by byte from a hex dump",
+      "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+      "score": 263,
+      "by": "fortran77",
+      "comments": 160,
+      "time": "2026-11-18 14:15"
+    },
+    {
+      "id": 50587208,
+      "title": "GnuPG Security Advisory for GPGME",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "score": 259,
+      "by": "gdgghhhhh",
+      "comments": 106,
+      "time": "2026-11-21 08:32"
+    },
     {
       "id": 50579568,
       "title": "Hurried Announcement: Alessandro Masullo GRH",
       "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "score": 2169,
+      "score": 2426,
       "by": "jasondavies",
-      "comments": 1013,
+      "comments": 1179,
       "time": "2026-11-20 18:33"
     },
     {
-      "id": 50532613,
-      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-      "score": 25,
-      "by": "dvaplima",
-      "comments": 1,
-      "time": "2026-11-17 15:22"
+      "id": 50591260,
+      "title": "PostgreSQL Extensions in Go",
+      "url": "https://jespino.github.io/gopgext/",
+      "score": 157,
+      "by": "valyala",
+      "comments": 25,
+      "time": "2026-11-21 17:08"
     },
     {
-      "id": 50574968,
-      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
-      "url": "https://alpo.ge/remark.pdf",
-      "score": 2689,
-      "by": "iamronaldo",
-      "comments": 1880,
-      "time": "2026-11-20 14:16"
-    },
-    {
-      "id": 50581260,
-      "title": "Inkling 2 Mini",
-      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "score": 1070,
-      "by": "jasondavies",
-      "comments": 201,
-      "time": "2026-11-20 20:12"
-    },
-    {
-      "id": 50587208,
-      "title": "RCE in Gnupg",
-      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-      "score": 51,
-      "by": "gdgghhhhh",
-      "comments": 4,
-      "time": "2026-11-21 08:32"
-    },
-    {
-      "id": 50586292,
-      "title": "ClawDOS \u2013 An AI coding agent for DOS",
-      "url": "http://ricapar.net/ClawDOS/",
-      "score": 86,
-      "by": "Ricapar",
-      "comments": 23,
-      "time": "2026-11-21 05:38"
-    },
-    {
-      "id": 50579331,
-      "title": "We promoted developers into architects without informing them",
-      "url": "https://manidoraisamy.com/developer-to-architect.html",
-      "score": 465,
-      "by": "QueensGambit",
-      "comments": 254,
-      "time": "2026-11-20 18:17"
-    },
-    {
-      "id": 50578358,
-      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-      "score": 467,
-      "by": "archon1410",
-      "comments": 191,
-      "time": "2026-11-20 17:21"
-    },
-    {
-      "id": 50583274,
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "url": "https://ninlive.com/",
-      "score": 280,
-      "by": "CharlesW",
-      "comments": 73,
-      "time": "2026-11-20 22:30"
-    },
-    {
-      "id": 50585376,
-      "title": "Clojure will affect the way you think about programming (2017)",
-      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-      "score": 118,
-      "by": "sammatilda",
-      "comments": 37,
-      "time": "2026-11-21 02:40"
-    },
-    {
-      "id": 50586648,
-      "title": "Surprisingly Adorable Insect Portraits",
-      "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
-      "score": 63,
-      "by": "NordStreamYacht",
-      "comments": 13,
-      "time": "2026-11-21 06:44"
-    },
-    {
-      "id": 50587859,
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
-      "score": 43,
-      "by": "theanonymousone",
-      "comments": 13,
-      "time": "2026-11-21 10:33"
-    },
-    {
-      "id": 50583761,
-      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-      "url": "#",
-      "score": 252,
-      "by": "LetThingsBeDiff",
-      "comments": 215,
-      "time": "2026-11-20 23:18"
-    },
-    {
-      "id": 50577265,
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "url": "https://arxiv.org/abs/2611.21885",
-      "score": 426,
-      "by": "lwhsiao",
-      "comments": 124,
-      "time": "2026-11-20 16:29"
-    },
-    {
-      "id": 50583768,
-      "title": "Sir Brian May adds new dimension to Hera asteroid",
-      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
-      "score": 125,
-      "by": "mooreds",
-      "comments": 27,
-      "time": "2026-11-20 23:19"
-    },
-    {
-      "id": 50534387,
-      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
-      "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
-      "score": 149,
-      "by": "reconditerose",
-      "comments": 51,
-      "time": "2026-11-17 16:58"
-    },
-    {
-      "id": 50556482,
-      "title": "Fewer slides, more dragons",
-      "url": "https://www.breakingchange.blog/p/fewer-slides-more-dragons",
-      "score": 40,
-      "by": "firloop",
-      "comments": 17,
-      "time": "2026-11-19 05:46"
-    },
-    {
-      "id": 50581110,
-      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-      "score": 230,
-      "by": "facundo_olano",
-      "comments": 79,
-      "time": "2026-11-20 20:03"
-    },
-    {
-      "id": 50574383,
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic\u2019s second day",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "score": 344,
-      "by": "cdrnsf",
-      "comments": 630,
-      "time": "2026-11-20 13:29"
-    },
-    {
-      "id": 50576232,
-      "title": "Finite-time blow-up for the Navier\u2013Stokes equations",
-      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
-      "score": 299,
-      "by": "trotro",
-      "comments": 92,
-      "time": "2026-11-20 15:34"
-    },
-    {
-      "id": 50587875,
-      "title": "My Monitor Was Cutting My Download Speed by 75%",
-      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-      "score": 5,
-      "by": "soheilpro",
-      "comments": 0,
-      "time": "2026-11-21 10:36"
-    },
-    {
-      "id": 50576012,
-      "title": "Slopstrap \u2013 Make your site look hastily vibecoded",
-      "url": "https://slopstrap.mikelacher.com/",
-      "score": 318,
-      "by": "mlacher",
-      "comments": 61,
-      "time": "2026-11-20 15:24"
-    },
-    {
-      "id": 50543887,
-      "title": "Microsoft's SideWinder Strategic Commander was a failed attempt",
-      "url": "https://www.rockpapershotgun.com/microsofts-sidewinder-strategic-commander-was-a-failed-attempt-to-reimagine-rts-controls-23-years-later-why-are-some-players-still-using-it",
-      "score": 17,
-      "by": "Tomte",
-      "comments": 5,
-      "time": "2026-11-18 09:18"
-    },
-    {
-      "id": 50541568,
-      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
-      "url": "https://trynotched.com/find",
-      "score": 185,
-      "by": "brianrhea",
-      "comments": 118,
-      "time": "2026-11-18 03:40"
-    },
-    {
-      "id": 50579297,
-      "title": "Vibecoding an inference chip",
-      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
-      "score": 155,
-      "by": "ankitvgupta",
-      "comments": 63,
-      "time": "2026-11-20 18:15"
-    },
-    {
-      "id": 50587205,
-      "title": "Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize",
-      "url": "https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize",
-      "score": 5,
-      "by": "rbanffy",
-      "comments": 0,
-      "time": "2026-11-21 08:32"
-    },
-    {
-      "id": 50495392,
-      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
-      "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
-      "score": 124,
-      "by": "edward",
-      "comments": 92,
-      "time": "2026-11-14 09:13"
-    },
-    {
-      "id": 50580536,
-      "title": "Winedroid \u2013 run Android apps without Android (WASM demo)",
-      "url": "https://winedroid.soham.sh/demo/",
-      "score": 159,
-      "by": "sohzm",
-      "comments": 42,
-      "time": "2026-11-20 19:30"
-    },
-    {
-      "id": 50583856,
-      "title": "Serious cyberattack thought backed by wealthy operators",
-      "url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
-      "score": 95,
-      "by": "Bender",
-      "comments": 50,
-      "time": "2026-11-20 23:29"
-    },
-    {
-      "id": 50540342,
-      "title": "3-legged Persian leopard's 150-mile journey highlights Caucasus border hazards",
-      "url": "https://news.mongabay.com/short-article/2026/11/three-legged-persian-leopards-150-mile-journey-highlights-caucasus-border-hazards/",
-      "score": 26,
-      "by": "rguiscard",
-      "comments": 6,
-      "time": "2026-11-18 00:39"
+      "id": 50487155,
+      "title": "Show HN: Compile the same source for GPUs and CPUs",
+      "url": "https://github.com/ThrudTheBarbarian/xc",
+      "score": 20,
+      "by": "spacedcowboy",
+      "comments": 2,
+      "time": "2026-11-13 17:53"
     }
   ]
 }
