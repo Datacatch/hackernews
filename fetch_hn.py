@@ -7,7 +7,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 BASE_URL = "https://hacker-news.firebaseio.com/v0"
-TO_EMAIL = "24pradeep@gmail.com"
+TO_EMAILS = ["24pradeep@gmail.com", "manika21agarwal@gmail.com"]
 
 
 def get_top_stories(limit=30):
@@ -129,17 +129,17 @@ def send_email(stories):
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
     msg["From"] = sender_email
-    msg["To"] = TO_EMAIL
+    msg["To"] = ", ".join(TO_EMAILS)
 
     html_body = build_html_email(stories)
     msg.attach(MIMEText(html_body, "html"))
 
-    print(f"📧 Sending email to {TO_EMAIL}...")
+    print(f"📧 Sending email to {', '.join(TO_EMAILS)}...")
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
         server.login(sender_email, app_password)
-        server.sendmail(sender_email, TO_EMAIL, msg.as_string())
+        server.sendmail(sender_email, TO_EMAILS, msg.as_string())
 
-    print(f"✅ Email sent successfully to {TO_EMAIL}!")
+    print(f"✅ Email sent successfully to {', '.join(TO_EMAILS)}!")
 
 
 def print_stories(stories):
