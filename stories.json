@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-11-27T05:57:56.192230",
+  "fetched_at": "2026-11-27T05:59:35.981002",
   "count": 30,
   "stories": [
-    {
-      "id": 50660180,
-      "title": "AI made self-hosting fun again",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "score": 484,
-      "by": "jlelse",
-      "comments": 251,
-      "time": "2026-11-26 21:47"
-    },
     {
       "id": 50662933,
       "title": "\"What's Claude's Fursona?\" and Other Questions",
       "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
-      "score": 39,
+      "score": 42,
       "by": "Mond_",
       "comments": 3,
       "time": "2026-11-27 04:56"
     },
     {
+      "id": 50660180,
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "score": 485,
+      "by": "jlelse",
+      "comments": 251,
+      "time": "2026-11-26 21:47"
+    },
+    {
       "id": 50661646,
       "title": "Hard Drive pricing has gotten bad",
       "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-      "score": 223,
+      "score": 224,
       "by": "zdw",
-      "comments": 141,
+      "comments": 143,
       "time": "2026-11-27 01:13"
     },
     {
@@ -62,7 +62,7 @@
       "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
       "score": 244,
       "by": "Bender",
-      "comments": 110,
+      "comments": 111,
       "time": "2026-11-26 17:47"
     },
     {
@@ -177,7 +177,7 @@
       "id": 50649040,
       "title": "The USAID Files",
       "url": "https://reclaimthenet.org/usaid-files",
-      "score": 205,
+      "score": 206,
       "by": "MassPikeMike",
       "comments": 257,
       "time": "2026-11-25 23:15"
@@ -251,7 +251,7 @@
       "url": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
       "score": 82,
       "by": "nreece",
-      "comments": 42,
+      "comments": 43,
       "time": "2026-11-27 03:11"
     },
     {
