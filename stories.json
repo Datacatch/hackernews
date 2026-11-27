@@ -1,276 +1,276 @@
 {
-  "fetched_at": "2026-11-27T05:59:35.981002",
+  "fetched_at": "2026-11-27T13:36:22.927733",
   "count": 30,
   "stories": [
     {
-      "id": 50662933,
-      "title": "\"What's Claude's Fursona?\" and Other Questions",
-      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
-      "score": 42,
-      "by": "Mond_",
-      "comments": 3,
-      "time": "2026-11-27 04:56"
+      "id": 50665968,
+      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "url": "https://eprint.iacr.org/2026/3020.pdf",
+      "score": 76,
+      "by": "yuvadam",
+      "comments": 32,
+      "time": "2026-11-27 12:08"
+    },
+    {
+      "id": 50666436,
+      "title": "Counseling for mental health decreases likelihood of protesting by 34%\u201339%",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
+      "score": 36,
+      "by": "bko",
+      "comments": 13,
+      "time": "2026-11-27 13:01"
+    },
+    {
+      "id": 50665920,
+      "title": "Kimi for Science More scientific ideas, made possible",
+      "url": "https://www.kimi.ai/news/kimi-for-science-program",
+      "score": 25,
+      "by": "theanonymousone",
+      "comments": 6,
+      "time": "2026-11-27 12:03"
+    },
+    {
+      "id": 50663595,
+      "title": "The group chat where your AI talks behind your back",
+      "url": "https://construct22.com/",
+      "score": 406,
+      "by": "utiiiD",
+      "comments": 180,
+      "time": "2026-11-27 06:44"
     },
     {
       "id": 50660180,
       "title": "AI made self-hosting fun again",
       "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "score": 485,
+      "score": 837,
       "by": "jlelse",
-      "comments": 251,
+      "comments": 410,
       "time": "2026-11-26 21:47"
     },
     {
-      "id": 50661646,
-      "title": "Hard Drive pricing has gotten bad",
-      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-      "score": 224,
-      "by": "zdw",
-      "comments": 143,
-      "time": "2026-11-27 01:13"
+      "id": 50666279,
+      "title": "New York and California Age Gating Rules Go into Effect in the New Year",
+      "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+      "score": 15,
+      "by": "frutiger",
+      "comments": 1,
+      "time": "2026-11-27 12:43"
     },
     {
       "id": 50659841,
       "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
       "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "score": 319,
+      "score": 422,
       "by": "dverlaeckt80",
-      "comments": 74,
+      "comments": 109,
       "time": "2026-11-26 21:08"
     },
     {
       "id": 50657530,
       "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
       "url": "https://github.com/antonpictures/youtube-punisher",
-      "score": 334,
+      "score": 447,
       "by": "iantongeorge",
-      "comments": 400,
+      "comments": 528,
       "time": "2026-11-26 17:36"
     },
     {
       "id": 50657265,
       "title": "AMD-specific fork of llama.cpp",
       "url": "https://devnull.land/amd-specific-llama-cpp",
-      "score": 322,
+      "score": 393,
       "by": "julianlam",
-      "comments": 77,
+      "comments": 96,
       "time": "2026-11-26 17:11"
+    },
+    {
+      "id": 50661646,
+      "title": "Hard Drive pricing has gotten bad",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "score": 422,
+      "by": "zdw",
+      "comments": 359,
+      "time": "2026-11-27 01:13"
     },
     {
       "id": 50657645,
       "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
       "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "score": 244,
+      "score": 292,
       "by": "Bender",
-      "comments": 111,
+      "comments": 141,
       "time": "2026-11-26 17:47"
-    },
-    {
-      "id": 50659640,
-      "title": "Company Culture = Slack Emoji \u00f7 \u221aHeadcount",
-      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-      "score": 220,
-      "by": "liamg",
-      "comments": 91,
-      "time": "2026-11-26 20:49"
     },
     {
       "id": 50653667,
       "title": "Intel One Mono font (2023)",
       "url": "https://github.com/intel/intel-one-mono",
-      "score": 493,
+      "score": 540,
       "by": "saikatsg",
-      "comments": 247,
+      "comments": 261,
       "time": "2026-11-26 10:11"
     },
     {
-      "id": 50660273,
-      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
-      "url": "https://kendell.dev/blog/arkwrapper/",
-      "score": 77,
-      "by": "leafingensemble",
-      "comments": 12,
-      "time": "2026-11-26 21:59"
+      "id": 50659640,
+      "title": "Company Culture = Slack Emoji \u00f7 \u221aHeadcount",
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "score": 432,
+      "by": "liamg",
+      "comments": 213,
+      "time": "2026-11-26 20:49"
     },
     {
-      "id": 50658498,
-      "title": "An introduction to uncertainty in machine learning",
-      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-      "score": 45,
-      "by": "chrhenning",
-      "comments": 1,
-      "time": "2026-11-26 19:04"
+      "id": 50663261,
+      "title": "Buy Nothing Day \u2013 Friday November 27th 2026",
+      "url": "https://www.buynothingday.co.uk/",
+      "score": 177,
+      "by": "f_allwein",
+      "comments": 42,
+      "time": "2026-11-27 05:52"
     },
     {
       "id": 50653477,
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
       "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "score": 302,
+      "score": 360,
       "by": "ritzaco",
-      "comments": 256,
+      "comments": 308,
       "time": "2026-11-26 09:44"
     },
     {
-      "id": 50661224,
-      "title": "ESO statement on approval of launch of one million space data centres",
-      "url": "https://www.eso.org/public/news/eso2614/",
-      "score": 25,
-      "by": "espeed",
-      "comments": 32,
-      "time": "2026-11-27 00:03"
+      "id": 50664191,
+      "title": "European Commission Declares Browser Competition a Digital Markets Act Priority",
+      "url": "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
+      "score": 128,
+      "by": "anilgulecha",
+      "comments": 85,
+      "time": "2026-11-27 08:11"
     },
     {
-      "id": 50658632,
-      "title": "Rvoip: VoIP stack in Rust",
-      "url": "https://github.com/eisenzopf/rvoip",
-      "score": 109,
-      "by": "zerosegfaults",
-      "comments": 22,
-      "time": "2026-11-26 19:18"
+      "id": 50663089,
+      "title": "The need for a formally verifiable mainstream programming language",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "score": 200,
+      "by": "todsacerdoti",
+      "comments": 186,
+      "time": "2026-11-27 05:22"
     },
     {
-      "id": 50658193,
-      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
-      "url": "https://bui.preetham.top/charts/",
-      "score": 86,
-      "by": "ppmpreetham",
-      "comments": 19,
-      "time": "2026-11-26 18:37"
+      "id": 50658498,
+      "title": "An introduction to uncertainty in machine learning",
+      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+      "score": 103,
+      "by": "chrhenning",
+      "comments": 8,
+      "time": "2026-11-26 19:04"
     },
     {
-      "id": 50651099,
-      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
-      "url": "https://olumino.app",
-      "score": 94,
-      "by": "Wiyseful",
-      "comments": 42,
-      "time": "2026-11-26 03:33"
+      "id": 50665732,
+      "title": "Pizza history: AI agent's cardless purchase is a first for UK",
+      "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+      "score": 11,
+      "by": "6LLvveMx2koXfwn",
+      "comments": 16,
+      "time": "2026-11-27 11:41"
     },
     {
-      "id": 50657936,
-      "title": "George Whitesides, 1939-2026",
-      "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-      "score": 73,
-      "by": "dverlaeckt80",
-      "comments": 7,
-      "time": "2026-11-26 18:13"
+      "id": 50664104,
+      "title": "Indie web browser Ladybird enters alpha testing",
+      "url": "https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914",
+      "score": 53,
+      "by": "01-_-",
+      "comments": 8,
+      "time": "2026-11-27 07:58"
     },
     {
       "id": 50655868,
       "title": "Show HN: I wrote an entire Vim manual over 4 years",
       "url": "http://themouseless.dev/vim/",
-      "score": 113,
+      "score": 229,
       "by": "thanato0s",
-      "comments": 34,
+      "comments": 70,
       "time": "2026-11-26 14:44"
     },
     {
-      "id": 50636931,
-      "title": "Curiosity Is No Solo Act",
-      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
+      "id": 50658632,
+      "title": "Rvoip: VoIP stack in Rust",
+      "url": "https://github.com/eisenzopf/rvoip",
       "score": 143,
-      "by": "Petiver",
-      "comments": 36,
-      "time": "2026-11-25 00:37"
-    },
-    {
-      "id": 50649040,
-      "title": "The USAID Files",
-      "url": "https://reclaimthenet.org/usaid-files",
-      "score": 206,
-      "by": "MassPikeMike",
-      "comments": 257,
-      "time": "2026-11-25 23:15"
-    },
-    {
-      "id": 50651863,
-      "title": "An algebraic quantization of gravity from the null cone",
-      "url": "https://arxiv.org/abs/2611.34924",
-      "score": 227,
-      "by": "hecmmm",
-      "comments": 88,
-      "time": "2026-11-26 05:37"
+      "by": "zerosegfaults",
+      "comments": 34,
+      "time": "2026-11-26 19:18"
     },
     {
       "id": 50661705,
       "title": "The Cutthroat Business of Shipwrecks",
       "url": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
-      "score": 9,
+      "score": 38,
       "by": "herbertl",
-      "comments": 1,
+      "comments": 11,
       "time": "2026-11-27 01:21"
+    },
+    {
+      "id": 50660273,
+      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+      "url": "https://kendell.dev/blog/arkwrapper/",
+      "score": 111,
+      "by": "leafingensemble",
+      "comments": 19,
+      "time": "2026-11-26 21:59"
+    },
+    {
+      "id": 50651863,
+      "title": "An algebraic quantization of gravity from the null cone",
+      "url": "https://arxiv.org/abs/2611.34924",
+      "score": 252,
+      "by": "hecmmm",
+      "comments": 99,
+      "time": "2026-11-26 05:37"
+    },
+    {
+      "id": 50658193,
+      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+      "url": "https://bui.preetham.top/charts/",
+      "score": 121,
+      "by": "ppmpreetham",
+      "comments": 34,
+      "time": "2026-11-26 18:37"
+    },
+    {
+      "id": 50666375,
+      "title": "US Air Force's cloud computing platform hacked",
+      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "score": 4,
+      "by": "freakynit",
+      "comments": 0,
+      "time": "2026-11-27 12:54"
+    },
+    {
+      "id": 50649040,
+      "title": "The USAID Files",
+      "url": "https://reclaimthenet.org/usaid-files",
+      "score": 293,
+      "by": "MassPikeMike",
+      "comments": 359,
+      "time": "2026-11-25 23:15"
+    },
+    {
+      "id": 50636931,
+      "title": "Curiosity Is No Solo Act",
+      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
+      "score": 167,
+      "by": "Petiver",
+      "comments": 43,
+      "time": "2026-11-25 00:37"
     },
     {
       "id": 50652184,
       "title": "Moat: OpenRouter replacement",
       "url": "https://commandcode.ai/moat",
-      "score": 269,
+      "score": 301,
       "by": "amanverasia",
-      "comments": 150,
+      "comments": 157,
       "time": "2026-11-26 06:32"
-    },
-    {
-      "id": 50655664,
-      "title": "Tell HN: Happy Thanksgiving",
-      "url": "#",
-      "score": 666,
-      "by": "ericmay",
-      "comments": 141,
-      "time": "2026-11-26 14:26"
-    },
-    {
-      "id": 50654289,
-      "title": "Nextcloud Office Desktop app",
-      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-      "score": 415,
-      "by": "e12e",
-      "comments": 213,
-      "time": "2026-11-26 11:50"
-    },
-    {
-      "id": 50651430,
-      "title": "NormalScript: A perfectly normal scripting language",
-      "url": "https://psychoscript.com/",
-      "score": 92,
-      "by": "hn-aarvin",
-      "comments": 24,
-      "time": "2026-11-26 04:32"
-    },
-    {
-      "id": 50644817,
-      "title": "1Password Security Incident",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "score": 1647,
-      "by": "lxhrstn",
-      "comments": 708,
-      "time": "2026-11-25 17:18"
-    },
-    {
-      "id": 50662322,
-      "title": "Google will show solo Android developers' phone numbers and addresses",
-      "url": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
-      "score": 82,
-      "by": "nreece",
-      "comments": 43,
-      "time": "2026-11-27 03:11"
-    },
-    {
-      "id": 50656036,
-      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-      "url": "https://michidk.github.io/sidebyside/",
-      "score": 128,
-      "by": "michidk",
-      "comments": 29,
-      "time": "2026-11-26 15:00"
-    },
-    {
-      "id": 50619466,
-      "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
-      "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
-      "score": 103,
-      "by": "PaulHoule",
-      "comments": 58,
-      "time": "2026-11-23 21:18"
     }
   ]
 }
